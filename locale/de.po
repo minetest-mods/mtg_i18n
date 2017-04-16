@@ -151,7 +151,7 @@ msgstr "Bücherregal"
 
 #: init.lua
 msgid "Brick Block"
-msgstr "Backsteinziegelblock"
+msgstr "Backsteinblock"
 
 #: init.lua
 msgid "Bronze Ingot"
@@ -187,7 +187,7 @@ msgstr "Lehm"
 
 #: init.lua
 msgid "Clay Brick"
-msgstr "Backsteinziegel"
+msgstr "Backstein"
 
 #: init.lua
 msgid "Clay Lump"
@@ -927,7 +927,7 @@ msgstr "Espenholzstufe"
 
 #: init.lua
 msgid "Brick Slab"
-msgstr "Backsteinziegelstufe"
+msgstr "Backsteinstufe"
 
 #: init.lua
 msgid "Bronze Block Slab"
@@ -1055,7 +1055,7 @@ msgstr "Espenholztreppe"
 
 #: init.lua
 msgid "Brick Stair"
-msgstr "Backsteinziegeltreppe"
+msgstr "Backsteintreppe"
 
 #: init.lua
 msgid "Bronze Block Stair"
