@@ -14,3 +14,7 @@ settings), but of course only as long your language is supported.
 ## (Translation) bug reports and suggestions
 You can report bugs and suggest ideas on [GitHub](https://github.com/lnj2/mtg_i18n/), alternatively
 you can also [email me](mailto:git@lnj.li).
+
+## Links
+* [GitHub](https://github.com/minetest-mods/mtg_i18n)
+* [Minetest Forums](https://forum.minetest.net/viewtopic.php?f=9&t=17388)
