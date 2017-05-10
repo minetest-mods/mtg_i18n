@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mtg_i18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-16 10:47+0200\n"
+"POT-Creation-Date: 2017-05-10 13:44+0200\n"
 "PO-Revision-Date: 2017-04-16 10:47+0200\n"
 "Last-Translator: LNJ <git@lnj.li>\n"
 "Language-Team: German\n"
@@ -72,6 +72,11 @@ msgstr "Schiene"
 #: init.lua
 msgid "Acacia Bush Leaves"
 msgstr "Akazienbuschblätter"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Bush Sapling"
+msgstr "Akazienbaumsetzling"
 
 #: init.lua
 msgid "Acacia Bush Stem"
@@ -142,28 +147,33 @@ msgid "Book"
 msgstr "Buch"
 
 #: init.lua
-msgid "Book With Text"
-msgstr "Buch mit Text"
-
-#: init.lua
 msgid "Bookshelf"
 msgstr "Bücherregal"
+
+#: init.lua
+msgid "Book With Text"
+msgstr "Buch mit Text"
 
 #: init.lua
 msgid "Brick Block"
 msgstr "Backsteinblock"
 
 #: init.lua
-msgid "Bronze Ingot"
-msgstr "Bronzebarren"
-
-#: init.lua
 msgid "Bronze Block"
 msgstr "Bronzeblock"
 
 #: init.lua
+msgid "Bronze Ingot"
+msgstr "Bronzebarren"
+
+#: init.lua
 msgid "Bush Leaves"
 msgstr "Buschblätter"
+
+#: init.lua
+#, fuzzy
+msgid "Bush Sapling"
+msgstr "Setzling"
 
 #: init.lua
 msgid "Bush Stem"
@@ -174,16 +184,12 @@ msgid "Cactus"
 msgstr "Kaktus"
 
 #: init.lua
-msgid "Chest"
-msgstr "Kiste"
-
-#: init.lua
 msgid "Locked Chest"
 msgstr "Gesicherte Kiste"
 
 #: init.lua
-msgid "Clay"
-msgstr "Lehm"
+msgid "Chest"
+msgstr "Kiste"
 
 #: init.lua
 msgid "Clay Brick"
@@ -194,20 +200,28 @@ msgid "Clay Lump"
 msgstr "Lehmklumpen"
 
 #: init.lua
-msgid "Cloud"
-msgstr "Wolke"
+msgid "Clay"
+msgstr "Lehm"
 
 #: init.lua
-msgid "Coal Lump"
-msgstr "Kohleklumpen"
+msgid "Cloud"
+msgstr "Wolke"
 
 #: init.lua
 msgid "Coal Block"
 msgstr "Kohleblock"
 
 #: init.lua
+msgid "Coal Lump"
+msgstr "Kohleklumpen"
+
+#: init.lua
 msgid "Cobblestone"
 msgstr "Pflasterstein"
+
+#: init.lua
+msgid "Copper Block"
+msgstr "Kupferblock"
 
 #: init.lua
 msgid "Copper Ingot"
@@ -216,10 +230,6 @@ msgstr "Kupferbarren"
 #: init.lua
 msgid "Copper Lump"
 msgstr "Kupferklumpen"
-
-#: init.lua
-msgid "Copper Block"
-msgstr "Kupferblock"
 
 #: init.lua
 msgid "Brown Coral"
@@ -242,10 +252,6 @@ msgid "Desert Sand"
 msgstr "Wüstensand"
 
 #: init.lua
-msgid "Desert Sandstone"
-msgstr "Wüstensandstein"
-
-#: init.lua
 msgid "Desert Sandstone Block"
 msgstr "Wüstensandsteinblock"
 
@@ -254,8 +260,8 @@ msgid "Desert Sandstone Brick"
 msgstr "Wüstensandsteinziegel"
 
 #: init.lua
-msgid "Desert Stone"
-msgstr "Wüstengestein"
+msgid "Desert Sandstone"
+msgstr "Wüstensandstein"
 
 #: init.lua
 msgid "Desert Stone Block"
@@ -266,12 +272,16 @@ msgid "Desert Stone Brick"
 msgstr "Wüstengesteinziegel"
 
 #: init.lua
-msgid "Diamond"
-msgstr "Diamant"
+msgid "Desert Stone"
+msgstr "Wüstengestein"
 
 #: init.lua
 msgid "Diamond Block"
 msgstr "Diamantblock"
+
+#: init.lua
+msgid "Diamond"
+msgstr "Diamant"
 
 #: init.lua
 msgid "Dirt"
@@ -282,12 +292,12 @@ msgid "Dirt with Dry Grass"
 msgstr "Erde mit Trockenem Gras"
 
 #: init.lua
-msgid "Dirt with Grass"
-msgstr "Erde mit Gras"
-
-#: init.lua
 msgid "Dirt with Grass and Footsteps"
 msgstr "Erde mit Gras und Fußschritten"
+
+#: init.lua
+msgid "Dirt with Grass"
+msgstr "Erde mit Gras"
 
 #: init.lua
 msgid "Dirt with Rainforest Litter"
@@ -338,16 +348,16 @@ msgid "Glass"
 msgstr "Glas"
 
 #: init.lua
+msgid "Gold Block"
+msgstr "Goldblock"
+
+#: init.lua
 msgid "Gold Ingot"
 msgstr "Goldbarren"
 
 #: init.lua
 msgid "Gold Lump"
 msgstr "Goldklumpen"
-
-#: init.lua
-msgid "Gold Block"
-msgstr "Goldblock"
 
 #: init.lua
 msgid "Grass"
@@ -410,36 +420,36 @@ msgid "Leaves"
 msgstr "Blätter"
 
 #: init.lua
-msgid "Mese Block"
-msgstr "Meseblock"
+msgid "Mese Crystal Fragment"
+msgstr "Mesekristallfragment"
 
 #: init.lua
 msgid "Mese Crystal"
 msgstr "Mesekristall"
 
 #: init.lua
-msgid "Mese Crystal Fragment"
-msgstr "Mesekristallfragment"
+msgid "Mese Lamp"
+msgstr "Meselampe"
 
 #: init.lua
 msgid "Mese Post Light"
 msgstr "Mesepfostenlampe"
 
 #: init.lua
-msgid "Mese Lamp"
-msgstr "Meselampe"
+msgid "Mese Block"
+msgstr "Meseblock"
 
 #: init.lua
 msgid "Mossy Cobblestone"
 msgstr "Mosiger Pflasterstein"
 
 #: init.lua
-msgid "Obsidian"
-msgstr "Obsidian"
-
-#: init.lua
 msgid "Obsidian Block"
 msgstr "Obsidianblock"
+
+#: init.lua
+msgid "Obsidian Brick"
+msgstr "Obsidianziegel"
 
 #: init.lua
 msgid "Obsidian Glass"
@@ -450,8 +460,8 @@ msgid "Obsidian Shard"
 msgstr "Obsidianscherbe"
 
 #: init.lua
-msgid "Obsidian Brick"
-msgstr "Obsidianziegel"
+msgid "Obsidian"
+msgstr "Obsidian"
 
 #: init.lua
 msgid "Paper"
@@ -514,16 +524,16 @@ msgid "Sand"
 msgstr "Sand"
 
 #: init.lua
-msgid "Sandstone"
-msgstr "Sandstein"
-
-#: init.lua
 msgid "Sandstone Block"
 msgstr "Sandsteinblock"
 
 #: init.lua
 msgid "Sandstone Brick"
 msgstr "Sandsteinziegel"
+
+#: init.lua
+msgid "Sandstone"
+msgstr "Sandstein"
 
 #: init.lua
 msgid "Sapling"
@@ -566,10 +576,6 @@ msgid "Silver Sand"
 msgstr "Silberner Sand"
 
 #: init.lua
-msgid "Silver Sandstone"
-msgstr "Silberner Sandstein"
-
-#: init.lua
 msgid "Silver Sandstone Block"
 msgstr "Silberner Sandsteinblock"
 
@@ -578,36 +584,44 @@ msgid "Silver Sandstone Brick"
 msgstr "Silberne Sandsteinziegel"
 
 #: init.lua
-msgid "Skeleton Key"
-msgstr "Skelettschlüssel"
+msgid "Silver Sandstone"
+msgstr "Silberner Sandstein"
 
 #: init.lua
-msgid "Snow"
-msgstr "Schnee"
+msgid "Skeleton Key"
+msgstr "Skelettschlüssel"
 
 #: init.lua
 msgid "Snow Block"
 msgstr "Schneeblock"
 
 #: init.lua
-msgid "Steel Ingot"
-msgstr "Stahlbarren"
+msgid "Snow"
+msgstr "Schnee"
 
 #: init.lua
 msgid "Steel Block"
 msgstr "Stahlblock"
 
 #: init.lua
+msgid "Steel Ingot"
+msgstr "Stahlbarren"
+
+#: init.lua
 msgid "Stick"
 msgstr "Stock"
 
 #: init.lua
-msgid "Stone"
-msgstr "Stein"
-
-#: init.lua
 msgid "Stone Block"
 msgstr "Steinblock"
+
+#: init.lua
+msgid "Stone Brick"
+msgstr "Steinziegel"
+
+#: init.lua
+msgid "Stone"
+msgstr "Stein"
 
 #: init.lua
 msgid "Coal Ore"
@@ -634,8 +648,9 @@ msgid "Mese Ore"
 msgstr "Meseerz"
 
 #: init.lua
-msgid "Stone Brick"
-msgstr "Steinziegel"
+#, fuzzy
+msgid "Tin Ore"
+msgstr "Eisenerz"
 
 #: init.lua
 msgid "Bronze Sword"
@@ -660,6 +675,21 @@ msgstr "Steinschwert"
 #: init.lua
 msgid "Wooden Sword"
 msgstr "Holzschwert"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block"
+msgstr "Schneeblock"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Ingot"
+msgstr "Bronzebarren"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Lump"
+msgstr "Eisenklumpen"
 
 #: init.lua
 msgid "Torch"
@@ -906,16 +936,17 @@ msgid "Ignore (you hacker you!)"
 msgstr "Ignore (du hacker du!)"
 
 #: init.lua
-msgid "PB&J Pup"
+msgid "Nyan Cat Rainbow"
 msgstr ""
 
 #: init.lua
-msgid "PB&J Pup Candies"
+msgid "Nyan Cat"
 msgstr ""
 
 #: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
-msgstr "Schraubenzieher (Links-klick dreht Ausrichtung, Rechts-klick dreht Axe)"
+msgstr ""
+"Schraubenzieher (Links-klick dreht Ausrichtung, Rechts-klick dreht Axe)"
 
 #: init.lua
 msgid "Acacia Wood Slab"
@@ -946,10 +977,6 @@ msgid "Desert Cobblestone Slab"
 msgstr "Wüstenpflastersteinstufe"
 
 #: init.lua
-msgid "Desert Sandstone Slab"
-msgstr "Wüstensandsteinstufe"
-
-#: init.lua
 msgid "Desert Sandstone Block Slab"
 msgstr "Wüstensandsteinblockstufe"
 
@@ -958,8 +985,8 @@ msgid "Desert Sandstone Brick Slab"
 msgstr "Wüstensandsteinziegelstufe"
 
 #: init.lua
-msgid "Desert Stone Slab"
-msgstr "Wüstensteinstufe"
+msgid "Desert Sandstone Slab"
+msgstr "Wüstensandsteinstufe"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
@@ -970,8 +997,17 @@ msgid "Desert Stone Brick Slab"
 msgstr "Wüstensteinziegelstufe"
 
 #: init.lua
+msgid "Desert Stone Slab"
+msgstr "Wüstensteinstufe"
+
+#: init.lua
 msgid "Gold Block Slab"
 msgstr "Goldblockstufe"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Slab"
+msgstr "Steinstufe"
 
 #: init.lua
 msgid "Jungle Wood Slab"
@@ -982,10 +1018,6 @@ msgid "Mossy Cobblestone Slab"
 msgstr "Mosige Pflastersteinstufe"
 
 #: init.lua
-msgid "Obsidian Slab"
-msgstr "Obsidianstufe"
-
-#: init.lua
 msgid "Obsidian Block Slab"
 msgstr "Obsidianblockstufe"
 
@@ -994,12 +1026,12 @@ msgid "Obsidian Brick Slab"
 msgstr "Obsidianziegelstufe"
 
 #: init.lua
-msgid "Pine Wood Slab"
-msgstr "Kiefernholzstufe"
+msgid "Obsidian Slab"
+msgstr "Obsidianstufe"
 
 #: init.lua
-msgid "Sandstone Slab"
-msgstr "Sandsteinstufe"
+msgid "Pine Wood Slab"
+msgstr "Kiefernholzstufe"
 
 #: init.lua
 msgid "Sandstone Block Slab"
@@ -1010,8 +1042,8 @@ msgid "Sandstone Brick Slab"
 msgstr "Sandsteinziegelstufe"
 
 #: init.lua
-msgid "Silver Sandstone Slab"
-msgstr "Silberne Sandsteinstufe"
+msgid "Sandstone Slab"
+msgstr "Sandsteinstufe"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
@@ -1022,12 +1054,17 @@ msgid "Silver Sandstone Brick Slab"
 msgstr "Silberne Sandsteinziegelstufe"
 
 #: init.lua
-msgid "Steel Block Slab"
-msgstr "Stahlblockstufe"
+msgid "Silver Sandstone Slab"
+msgstr "Silberne Sandsteinstufe"
 
 #: init.lua
-msgid "Stone Slab"
-msgstr "Steinstufe"
+#, fuzzy
+msgid "Snow Block Slab"
+msgstr "Steinblockstufe"
+
+#: init.lua
+msgid "Steel Block Slab"
+msgstr "Stahlblockstufe"
 
 #: init.lua
 msgid "Stone Block Slab"
@@ -1036,6 +1073,10 @@ msgstr "Steinblockstufe"
 #: init.lua
 msgid "Stone Brick Slab"
 msgstr "Steinziegelstufe"
+
+#: init.lua
+msgid "Stone Slab"
+msgstr "Steinstufe"
 
 #: init.lua
 msgid "Straw Slab"
@@ -1074,10 +1115,6 @@ msgid "Desert Cobblestone Stair"
 msgstr "Wüstenpflastersteintreppe"
 
 #: init.lua
-msgid "Desert Sandstone Stair"
-msgstr "Wüstensandsteintreppe"
-
-#: init.lua
 msgid "Desert Sandstone Block Stair"
 msgstr "Wüstensandsteinblocktreppe"
 
@@ -1086,8 +1123,8 @@ msgid "Desert Sandstone Brick Stair"
 msgstr "Wüstensandsteinziegeltreppe"
 
 #: init.lua
-msgid "Desert Stone Stair"
-msgstr "Wüstensteintreppe"
+msgid "Desert Sandstone Stair"
+msgstr "Wüstensandsteintreppe"
 
 #: init.lua
 msgid "Desert Stone Block Stair"
@@ -1098,8 +1135,17 @@ msgid "Desert Stone Brick Stair"
 msgstr "Wüstensteinziegeltreppe"
 
 #: init.lua
+msgid "Desert Stone Stair"
+msgstr "Wüstensteintreppe"
+
+#: init.lua
 msgid "Gold Block Stair"
 msgstr "Goldblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair"
+msgstr "Steintreppe"
 
 #: init.lua
 msgid "Jungle Wood Stair"
@@ -1110,10 +1156,6 @@ msgid "Mossy Cobblestone Stair"
 msgstr "Mosige Pflastersteintreppe"
 
 #: init.lua
-msgid "Obsidian Stair"
-msgstr "Obsidiantreppe"
-
-#: init.lua
 msgid "Obsidian Block Stair"
 msgstr "Obsidianblocktreppe"
 
@@ -1122,12 +1164,12 @@ msgid "Obsidian Brick Stair"
 msgstr "Obsidianziegeltreppe"
 
 #: init.lua
-msgid "Pine Wood Stair"
-msgstr "Kiefernholztreppe"
+msgid "Obsidian Stair"
+msgstr "Obsidiantreppe"
 
 #: init.lua
-msgid "Sandstone Stair"
-msgstr "Sandsteintreppe"
+msgid "Pine Wood Stair"
+msgstr "Kiefernholztreppe"
 
 #: init.lua
 msgid "Sandstone Block Stair"
@@ -1138,8 +1180,8 @@ msgid "Sandstone Brick Stair"
 msgstr "Sandsteinziegeltreppe"
 
 #: init.lua
-msgid "Silver Sandstone Stair"
-msgstr "Silberne Sandsteintreppe"
+msgid "Sandstone Stair"
+msgstr "Sandsteintreppe"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair"
@@ -1150,12 +1192,17 @@ msgid "Silver Sandstone Brick Stair"
 msgstr "Silberne Sandsteinziegeltreppe"
 
 #: init.lua
-msgid "Steel Block Stair"
-msgstr "Stahlblocktreppe"
+msgid "Silver Sandstone Stair"
+msgstr "Silberne Sandsteintreppe"
 
 #: init.lua
-msgid "Stone Stair"
-msgstr "Steintreppe"
+#, fuzzy
+msgid "Snow Block Stair"
+msgstr "Steinblocktreppe"
+
+#: init.lua
+msgid "Steel Block Stair"
+msgstr "Stahlblocktreppe"
 
 #: init.lua
 msgid "Stone Block Stair"
@@ -1164,6 +1211,10 @@ msgstr "Steinblocktreppe"
 #: init.lua
 msgid "Stone Brick Stair"
 msgstr "Steinziegeltreppe"
+
+#: init.lua
+msgid "Stone Stair"
+msgstr "Steintreppe"
 
 #: init.lua
 msgid "Straw Stair"
@@ -1176,10 +1227,6 @@ msgstr "Holztreppe"
 #: init.lua
 msgid "Gun Powder"
 msgstr "Schwarzpulver"
-
-#: init.lua
-msgid "TNT"
-msgstr "TNT"
 
 #: init.lua
 msgid "Unknown Item"
@@ -1284,3 +1331,6 @@ msgstr "Eisengitter"
 #: init.lua
 msgid "Glass Pane"
 msgstr "Glasscheibe"
+
+#~ msgid "TNT"
+#~ msgstr "TNT"
