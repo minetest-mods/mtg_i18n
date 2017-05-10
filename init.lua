@@ -4,7 +4,9 @@ local S, NS = dofile(MP.."/intllib.lua")
 
 
 local function desc(name, description)
-	minetest.override_item(name, {description = description})
+	if minetest.registered_items[name] then
+		minetest.override_item(name, {description = description})
+	end
 end
 
 
