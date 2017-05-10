@@ -74,9 +74,8 @@ msgid "Acacia Bush Leaves"
 msgstr "Akazienbuschblätter"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Sapling"
-msgstr "Akazienbaumsetzling"
+msgstr "Akazienbuschsetzling"
 
 #: init.lua
 msgid "Acacia Bush Stem"
@@ -171,9 +170,8 @@ msgid "Bush Leaves"
 msgstr "Buschblätter"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Sapling"
-msgstr "Setzling"
+msgstr "Buschsetzling"
 
 #: init.lua
 msgid "Bush Stem"
@@ -648,9 +646,8 @@ msgid "Mese Ore"
 msgstr "Meseerz"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Ore"
-msgstr "Eisenerz"
+msgstr "Zinnerz"
 
 #: init.lua
 msgid "Bronze Sword"
@@ -677,19 +674,16 @@ msgid "Wooden Sword"
 msgstr "Holzschwert"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block"
-msgstr "Schneeblock"
+msgstr "Zinnblock"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Ingot"
-msgstr "Bronzebarren"
+msgstr "Zinnbarren"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Lump"
-msgstr "Eisenklumpen"
+msgstr "Zinnklumpen"
 
 #: init.lua
 msgid "Torch"
@@ -937,11 +931,11 @@ msgstr "Ignore (du hacker du!)"
 
 #: init.lua
 msgid "Nyan Cat Rainbow"
-msgstr ""
+msgstr "Nyan Cat Regenbogen"
 
 #: init.lua
 msgid "Nyan Cat"
-msgstr ""
+msgstr "Nyan Cat"
 
 #: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
@@ -1005,9 +999,8 @@ msgid "Gold Block Slab"
 msgstr "Goldblockstufe"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Slab"
-msgstr "Steinstufe"
+msgstr "Eisstufe"
 
 #: init.lua
 msgid "Jungle Wood Slab"
@@ -1058,9 +1051,8 @@ msgid "Silver Sandstone Slab"
 msgstr "Silberne Sandsteinstufe"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Slab"
-msgstr "Steinblockstufe"
+msgstr "Schneeblockstufe"
 
 #: init.lua
 msgid "Steel Block Slab"
@@ -1143,9 +1135,8 @@ msgid "Gold Block Stair"
 msgstr "Goldblocktreppe"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair"
-msgstr "Steintreppe"
+msgstr "Eistreppe"
 
 #: init.lua
 msgid "Jungle Wood Stair"
@@ -1196,9 +1187,8 @@ msgid "Silver Sandstone Stair"
 msgstr "Silberne Sandsteintreppe"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair"
-msgstr "Steinblocktreppe"
+msgstr "Schneeblocktreppe"
 
 #: init.lua
 msgid "Steel Block Stair"
