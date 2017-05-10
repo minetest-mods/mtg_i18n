@@ -12,6 +12,7 @@ fire?
 flowers?
 give_initial_stuff?
 killme?
+pbj_pub?
 screwdriver?
 sethome?
 sfinv?
