@@ -1,5 +1,5 @@
 # Minetest Game Internationalization Mod
-Version: 2017.04.16, License: MIT (code), CC0 (translations)
+Version: 2017.05.10, License: MIT (code), CC0 (translations)
 
 ## Description
 A Minetest mod adding translations to the default game of Minetest. You just have to install the
