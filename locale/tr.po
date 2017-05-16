@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-05-16 22:38+0000\n"
+"PO-Revision-Date: 2017-05-31 14:35+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/minetest/"
-"mtg_i18n/tr/>\n"
+"Language-Team: Turkish "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14-dev\n"
+"X-Generator: Weblate 2.14.1\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -1213,7 +1213,7 @@ msgstr "Barut"
 
 #: init.lua
 msgid "TNT"
-msgstr ""
+msgstr "TNT"
 
 #: init.lua
 msgid "Unknown Item"
