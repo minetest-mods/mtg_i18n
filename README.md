@@ -9,6 +9,7 @@ settings), but of course only as long your language is supported.
 
 ### Currently supported languages
  * English (native)
+ * Belarusian
  * German
 
 ## (Translation) bug reports and suggestions
@@ -18,3 +19,4 @@ you can also [email me](mailto:git@lnj.li).
 ## Links
 * [GitHub](https://github.com/minetest-mods/mtg_i18n)
 * [Minetest Forums](https://forum.minetest.net/viewtopic.php?f=9&t=17388)
+* [Weblate](https://hosted.weblate.org/projects/minetest/mtg_i18n)
