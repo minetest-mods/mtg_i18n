@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-15 16:28+0200\n"
-"PO-Revision-Date: 2017-05-16 17:46+0000\n"
+"PO-Revision-Date: 2017-05-16 17:54+0000\n"
 "Last-Translator: Michael Higuera <mineyoshist@protonmail.ch>\n"
 "Language-Team: Spanish "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/es/>\n"
@@ -1225,100 +1225,100 @@ msgstr "Item Desconocido"
 
 #: init.lua
 msgid "Drinking Glass (empty)"
-msgstr ""
+msgstr "Vaso para Beber (vacio)"
 
 #: init.lua
 msgid "Glass Bottle (empty)"
-msgstr ""
+msgstr "Botella de Vidrio (vacia)"
 
 #: init.lua
 msgid "Pile of Glass Fragments"
-msgstr ""
+msgstr "Monton de Fragmentos de Vidrio"
 
 #: init.lua
 msgid "Vessels Shelf"
-msgstr ""
+msgstr "Estante de Vasijas"
 
 #: init.lua
 msgid "Heavy Steel Bottle (empty)"
-msgstr ""
+msgstr "Botella de Acero Pesada (vacia)"
 
 #: init.lua
 msgid "Cobblestone Wall"
-msgstr ""
+msgstr "Muro de Adoquin"
 
 #: init.lua
 msgid "Desert Cobblestone Wall"
-msgstr ""
+msgstr "Muro de Adoquin del Desierto"
 
 #: init.lua
 msgid "Mossy Cobblestone Wall"
-msgstr ""
+msgstr "Muro de Adoquin Musgoso"
 
 #: init.lua
 msgid "Black Wool"
-msgstr ""
+msgstr "Lana Negra"
 
 #: init.lua
 msgid "Blue Wool"
-msgstr ""
+msgstr "Lana Azul"
 
 #: init.lua
 msgid "Brown Wool"
-msgstr ""
+msgstr "Lana Cafe"
 
 #: init.lua
 msgid "Cyan Wool"
-msgstr ""
+msgstr "Lana Cian"
 
 #: init.lua
 msgid "Dark Green Wool"
-msgstr ""
+msgstr "Lana Verde Oscura"
 
 #: init.lua
 msgid "Dark Grey Wool"
-msgstr ""
+msgstr "Lana Gris Oscura"
 
 #: init.lua
 msgid "Green Wool"
-msgstr ""
+msgstr "Lana Verde"
 
 #: init.lua
 msgid "Grey Wool"
-msgstr ""
+msgstr "Lana Gris"
 
 #: init.lua
 msgid "Magenta Wool"
-msgstr ""
+msgstr "Lana Magenta"
 
 #: init.lua
 msgid "Orange Wool"
-msgstr ""
+msgstr "Lana Naranja"
 
 #: init.lua
 msgid "Pink Wool"
-msgstr ""
+msgstr "Lana Rosa"
 
 #: init.lua
 msgid "Red Wool"
-msgstr ""
+msgstr "Lana Roja"
 
 #: init.lua
 msgid "Violet Wool"
-msgstr ""
+msgstr "Lana Violeta"
 
 #: init.lua
 msgid "White Wool"
-msgstr ""
+msgstr "Lana Blanca"
 
 #: init.lua
 msgid "Yellow Wool"
-msgstr ""
+msgstr "Lana Amarilla"
 
 #: init.lua
 msgid "Iron bar"
-msgstr ""
+msgstr "Reja de Hierro"
 
 #: init.lua
 msgid "Glass Pane"
-msgstr ""
+msgstr "Panel de Vidrio"
