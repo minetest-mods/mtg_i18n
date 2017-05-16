@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-15 16:28+0200\n"
-"PO-Revision-Date: 2017-05-16 17:31+0000\n"
+"PO-Revision-Date: 2017-05-16 17:46+0000\n"
 "Last-Translator: Michael Higuera <mineyoshist@protonmail.ch>\n"
 "Language-Team: Spanish "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/es/>\n"
@@ -937,291 +937,291 @@ msgstr "Arcoiris de Nyan Cat"
 
 #: init.lua
 msgid "Nyan Cat"
-msgstr ""
+msgstr "Nyan Cat"
 
 #: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
-msgstr ""
+msgstr "Destornillador (click-izquierdo rota cara, click-derecho rota el eje)"
 
 #: init.lua
 msgid "Acacia Wood Slab"
-msgstr ""
+msgstr "Losa de Madera de Acacia"
 
 #: init.lua
 msgid "Aspen Wood Slab"
-msgstr ""
+msgstr "Losa de Madera de Alamo"
 
 #: init.lua
 msgid "Brick Slab"
-msgstr ""
+msgstr "Losa de Ladrillo"
 
 #: init.lua
 msgid "Bronze Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Bronce"
 
 #: init.lua
 msgid "Cobblestone Slab"
-msgstr ""
+msgstr "Losa de Adoquin"
 
 #: init.lua
 msgid "Copper Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Cobre"
 
 #: init.lua
 msgid "Desert Cobblestone Slab"
-msgstr ""
+msgstr "Losa de Adoquin del Desierto"
 
 #: init.lua
 msgid "Desert Sandstone Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Piedra Arenosa del Desierto"
 
 #: init.lua
 msgid "Desert Sandstone Brick Slab"
-msgstr ""
+msgstr "Losa de Ladrillo de Piedra Arenosa del Desierto"
 
 #: init.lua
 msgid "Desert Sandstone Slab"
-msgstr ""
+msgstr "Losa de Piedra Arenosa del Desierto"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Piedra del Desierto"
 
 #: init.lua
 msgid "Desert Stone Brick Slab"
-msgstr ""
+msgstr "Losa de Ladrillo de Piedra del Desierto"
 
 #: init.lua
 msgid "Desert Stone Slab"
-msgstr ""
+msgstr "Losa de Piedra del Desierto"
 
 #: init.lua
 msgid "Gold Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Oro"
 
 #: init.lua
 msgid "Ice Slab"
-msgstr ""
+msgstr "Losa de Hielo"
 
 #: init.lua
 msgid "Jungle Wood Slab"
-msgstr ""
+msgstr "Losa de Madera de Jungla"
 
 #: init.lua
 msgid "Mossy Cobblestone Slab"
-msgstr ""
+msgstr "Losa de Adoquin Musgoso"
 
 #: init.lua
 msgid "Obsidian Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Obsidiana"
 
 #: init.lua
 msgid "Obsidian Brick Slab"
-msgstr ""
+msgstr "Losa de Ladrillo de Obsidiana"
 
 #: init.lua
 msgid "Obsidian Slab"
-msgstr ""
+msgstr "Losa de Obsidiana"
 
 #: init.lua
 msgid "Pine Wood Slab"
-msgstr ""
+msgstr "Losa de Madera de Pino"
 
 #: init.lua
 msgid "Sandstone Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Piedra Arenosa"
 
 #: init.lua
 msgid "Sandstone Brick Slab"
-msgstr ""
+msgstr "Losa de Ladrillo de Piedra Arenosa"
 
 #: init.lua
 msgid "Sandstone Slab"
-msgstr ""
+msgstr "Losa de Piedra Arenosa"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Piedra Arenosa Plateada"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
-msgstr ""
+msgstr "Losa de Ladrillo de Piedra Arenosa Plateada"
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr ""
+msgstr "Losa de Piedra Arenosa Plateada"
 
 #: init.lua
 msgid "Snow Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Nieve"
 
 #: init.lua
 msgid "Steel Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Acero"
 
 #: init.lua
 msgid "Stone Block Slab"
-msgstr ""
+msgstr "Losa de Bloque de Piedra"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr ""
+msgstr "Losa de Ladrillo de Piedra"
 
 #: init.lua
 msgid "Stone Slab"
-msgstr ""
+msgstr "Losa de Piedra"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr ""
+msgstr "Losa de Paja"
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr ""
+msgstr "Losa de Madera"
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr ""
+msgstr "Escaleras de Madera de Acacia"
 
 #: init.lua
 msgid "Aspen Wood Stair"
-msgstr ""
+msgstr "Escalera de Madera de Alamo"
 
 #: init.lua
 msgid "Brick Stair"
-msgstr ""
+msgstr "Escalera de Ladrillo"
 
 #: init.lua
 msgid "Bronze Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Bronce"
 
 #: init.lua
 msgid "Cobblestone Stair"
-msgstr ""
+msgstr "Escalera de Adoquin"
 
 #: init.lua
 msgid "Copper Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Cobre"
 
 #: init.lua
 msgid "Desert Cobblestone Stair"
-msgstr ""
+msgstr "Escalera de Adoquin del Desierto"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Piedra Arenosa del Desierto"
 
 #: init.lua
 msgid "Desert Sandstone Brick Stair"
-msgstr ""
+msgstr "Escalera de Ladrillo de Piedra Arenosa del Desierto"
 
 #: init.lua
 msgid "Desert Sandstone Stair"
-msgstr ""
+msgstr "Escalera de Piedra Arenosa del Desierto"
 
 #: init.lua
 msgid "Desert Stone Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Piedra del Desierto"
 
 #: init.lua
 msgid "Desert Stone Brick Stair"
-msgstr ""
+msgstr "Escalera de Ladrillo de Piedra del Desierto"
 
 #: init.lua
 msgid "Desert Stone Stair"
-msgstr ""
+msgstr "Escalera de Piedra del Desierto"
 
 #: init.lua
 msgid "Gold Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Oro"
 
 #: init.lua
 msgid "Ice Stair"
-msgstr ""
+msgstr "Escalera de Hielo"
 
 #: init.lua
 msgid "Jungle Wood Stair"
-msgstr ""
+msgstr "Escalera de Madera de Jungla"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair"
-msgstr ""
+msgstr "Escalera de Adoquin Musgoso"
 
 #: init.lua
 msgid "Obsidian Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Obsidiana"
 
 #: init.lua
 msgid "Obsidian Brick Stair"
-msgstr ""
+msgstr "Escalera de Ladrillo de Obsidiana"
 
 #: init.lua
 msgid "Obsidian Stair"
-msgstr ""
+msgstr "Escalera de Obsidiana"
 
 #: init.lua
 msgid "Pine Wood Stair"
-msgstr ""
+msgstr "Escalera de Madera de Pino"
 
 #: init.lua
 msgid "Sandstone Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Piedra Arenosa"
 
 #: init.lua
 msgid "Sandstone Brick Stair"
-msgstr ""
+msgstr "Escalera de Ladrillo de Piedra Arenosa"
 
 #: init.lua
 msgid "Sandstone Stair"
-msgstr ""
+msgstr "Escalera de Piedra Arenosa"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Piedra Arenosa Plateada"
 
 #: init.lua
 msgid "Silver Sandstone Brick Stair"
-msgstr ""
+msgstr "Escalera de Ladrillo de Piedra Arenosa Plateada"
 
 #: init.lua
 msgid "Silver Sandstone Stair"
-msgstr ""
+msgstr "Escalera de Piedra Arenosa Plateada"
 
 #: init.lua
 msgid "Snow Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Nieve"
 
 #: init.lua
 msgid "Steel Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Acero"
 
 #: init.lua
 msgid "Stone Block Stair"
-msgstr ""
+msgstr "Escalera de Bloque de Piedra"
 
 #: init.lua
 msgid "Stone Brick Stair"
-msgstr ""
+msgstr "Escalera de Ladrillo de Piedra"
 
 #: init.lua
 msgid "Stone Stair"
-msgstr ""
+msgstr "Escalera de Piedra"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr ""
+msgstr "Escalera de Paja"
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr ""
+msgstr "Escalera de Madera"
 
 #: init.lua
 msgid "Gun Powder"
-msgstr ""
+msgstr "Polvora"
 
 #: init.lua
 msgid "Unknown Item"
-msgstr ""
+msgstr "Item Desconocido"
 
 #: init.lua
 msgid "Drinking Glass (empty)"
