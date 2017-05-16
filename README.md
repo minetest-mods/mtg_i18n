@@ -11,6 +11,7 @@ settings), but of course only as long your language is supported.
  * English (native)
  * Belarusian
  * German
+ * Spanish
 
 ## (Translation) bug reports and suggestions
 You can report bugs and suggest ideas on [GitHub](https://github.com/lnj2/mtg_i18n/), alternatively
