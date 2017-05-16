@@ -8,1314 +8,1317 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-15 16:28+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-05-16 22:38+0000\n"
+"Last-Translator: monolifed <monolifed@gmail.com>\n"
+"Language-Team: Turkish "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.14-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
-msgstr ""
+msgstr "Hava (seni hacker seni!)"
 
 #: init.lua
 msgid "Simple Bed"
-msgstr ""
+msgstr "Basit Yatak"
 
 #: init.lua
 msgid "Fancy Bed"
-msgstr ""
+msgstr "Süslü Yatak"
 
 #: init.lua
 msgid "Boat"
-msgstr ""
+msgstr "Tekne"
 
 #: init.lua
 msgid "Bones"
-msgstr ""
+msgstr "Kemikler"
 
 #: init.lua
 msgid "Empty Bucket"
-msgstr ""
+msgstr "Boş Kova"
 
 #: init.lua
 msgid "Lava Bucket"
-msgstr ""
+msgstr "Lav Kovası"
 
 #: init.lua
 msgid "River Water Bucket"
-msgstr ""
+msgstr "Nehir Suyu Kovası"
 
 #: init.lua
 msgid "Water Bucket"
-msgstr ""
+msgstr "Su Kovası"
 
 #: init.lua
 msgid "Brake rail"
-msgstr ""
+msgstr "Fren rayı"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr ""
+msgstr "Sepet (Almak için Sız+Tıkla)"
 
 #: init.lua
 msgid "Powered rail"
-msgstr ""
+msgstr "Çalışan ray"
 
 #: init.lua
 msgid "Rail"
-msgstr ""
+msgstr "Ray"
 
 #: init.lua
 msgid "Acacia Bush Leaves"
-msgstr ""
+msgstr "Akasya Çalı Yaprakları"
 
 #: init.lua
 msgid "Acacia Bush Sapling"
-msgstr ""
+msgstr "Akasya Çalı Fidanı"
 
 #: init.lua
 msgid "Acacia Bush Stem"
-msgstr ""
+msgstr "Akasya Çalı Kökü"
 
 #: init.lua
 msgid "Acacia Leaves"
-msgstr ""
+msgstr "Akasya Yaprakları"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
-msgstr ""
+msgstr "Akasya Ağacı Fidanı"
 
 #: init.lua
 msgid "Acacia Tree"
-msgstr ""
+msgstr "Akasya Ağacı"
 
 #: init.lua
 msgid "Acacia Wood Planks"
-msgstr ""
+msgstr "Akasya Ahşap Plakalar"
 
 #: init.lua
 msgid "Apple"
-msgstr ""
+msgstr "Elma"
 
 #: init.lua
 msgid "Aspen Leaves"
-msgstr ""
+msgstr "Kavak Yaprakları"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
-msgstr ""
+msgstr "Kavak Ağacı Fidanı"
 
 #: init.lua
 msgid "Aspen Tree"
-msgstr ""
+msgstr "Kavak Ağacı"
 
 #: init.lua
 msgid "Aspen Wood Planks"
-msgstr ""
+msgstr "Kavak Ahşap Plakalar"
 
 #: init.lua
 msgid "Bronze Axe"
-msgstr ""
+msgstr "Bronz Balta"
 
 #: init.lua
 msgid "Diamond Axe"
-msgstr ""
+msgstr "Elmas Balta"
 
 #: init.lua
 msgid "Mese Axe"
-msgstr ""
+msgstr "Mese Balta"
 
 #: init.lua
 msgid "Steel Axe"
-msgstr ""
+msgstr "Çelik Balta"
 
 #: init.lua
 msgid "Stone Axe"
-msgstr ""
+msgstr "Taş Balta"
 
 #: init.lua
 msgid "Wooden Axe"
-msgstr ""
+msgstr "Ahşap Balta"
 
 #: init.lua
 msgid "Book"
-msgstr ""
+msgstr "Kitap"
 
 #: init.lua
 msgid "Bookshelf"
-msgstr ""
+msgstr "Kitaplık"
 
 #: init.lua
 msgid "Book With Text"
-msgstr ""
+msgstr "Yazılı Kitap"
 
 #: init.lua
 msgid "Brick Block"
-msgstr ""
+msgstr "Tuğla Blok"
 
 #: init.lua
 msgid "Bronze Block"
-msgstr ""
+msgstr "Bronz Blok"
 
 #: init.lua
 msgid "Bronze Ingot"
-msgstr ""
+msgstr "Bronz Külçe"
 
 #: init.lua
 msgid "Bush Leaves"
-msgstr ""
+msgstr "Çalı Yaprakları"
 
 #: init.lua
 msgid "Bush Sapling"
-msgstr ""
+msgstr "Çalı Fidanı"
 
 #: init.lua
 msgid "Bush Stem"
-msgstr ""
+msgstr "Çalı Kökü"
 
 #: init.lua
 msgid "Cactus"
-msgstr ""
+msgstr "Kaktüs"
 
 #: init.lua
 msgid "Locked Chest"
-msgstr ""
+msgstr "Kilitli Sandık"
 
 #: init.lua
 msgid "Chest"
-msgstr ""
+msgstr "Sandık"
 
 #: init.lua
 msgid "Clay Brick"
-msgstr ""
+msgstr "Kil Tuğla"
 
 #: init.lua
 msgid "Clay Lump"
-msgstr ""
+msgstr "Kil Yumru"
 
 #: init.lua
 msgid "Clay"
-msgstr ""
+msgstr "Kil"
 
 #: init.lua
 msgid "Cloud"
-msgstr ""
+msgstr "Bulut"
 
 #: init.lua
 msgid "Coal Block"
-msgstr ""
+msgstr "Kömür Blok"
 
 #: init.lua
 msgid "Coal Lump"
-msgstr ""
+msgstr "Kömür Yumru"
 
 #: init.lua
 msgid "Cobblestone"
-msgstr ""
+msgstr "Parketaş"
 
 #: init.lua
 msgid "Copper Block"
-msgstr ""
+msgstr "Bakır Blok"
 
 #: init.lua
 msgid "Copper Ingot"
-msgstr ""
+msgstr "Bakır Külçe"
 
 #: init.lua
 msgid "Copper Lump"
-msgstr ""
+msgstr "Bakır Yumru"
 
 #: init.lua
 msgid "Brown Coral"
-msgstr ""
+msgstr "Kahverengi Mercan"
 
 #: init.lua
 msgid "Orange Coral"
-msgstr ""
+msgstr "Turuncu Mercan"
 
 #: init.lua
 msgid "Coral Skeleton"
-msgstr ""
+msgstr "Mercan İskelet"
 
 #: init.lua
 msgid "Desert Cobblestone"
-msgstr ""
+msgstr "Çöl Parketaşı"
 
 #: init.lua
 msgid "Desert Sand"
-msgstr ""
+msgstr "Çöl Kumu"
 
 #: init.lua
 msgid "Desert Sandstone Block"
-msgstr ""
+msgstr "Çöl Kumtaşı Blok"
 
 #: init.lua
 msgid "Desert Sandstone Brick"
-msgstr ""
+msgstr "Çöl Kumtaşı Tuğla"
 
 #: init.lua
 msgid "Desert Sandstone"
-msgstr ""
+msgstr "Çöl Kumtaşı"
 
 #: init.lua
 msgid "Desert Stone Block"
-msgstr ""
+msgstr "Çöl Taşı Blok"
 
 #: init.lua
 msgid "Desert Stone Brick"
-msgstr ""
+msgstr "Çöl Taşı Tuğla"
 
 #: init.lua
 msgid "Desert Stone"
-msgstr ""
+msgstr "Çöl Taşı"
 
 #: init.lua
 msgid "Diamond Block"
-msgstr ""
+msgstr "Elmas Blok"
 
 #: init.lua
 msgid "Diamond"
-msgstr ""
+msgstr "Elmas"
 
 #: init.lua
 msgid "Dirt"
-msgstr ""
+msgstr "Kir"
 
 #: init.lua
 msgid "Dirt with Dry Grass"
-msgstr ""
+msgstr "Kuru Çimli Kir"
 
 #: init.lua
 msgid "Dirt with Grass and Footsteps"
-msgstr ""
+msgstr "Çim ve Ayakizli Kir"
 
 #: init.lua
 msgid "Dirt with Grass"
-msgstr ""
+msgstr "Çimli Kir"
 
 #: init.lua
 msgid "Dirt with Rainforest Litter"
-msgstr ""
+msgstr "Yağmur Ormanı Çöplü Kir"
 
 #: init.lua
 msgid "Dirt with Snow"
-msgstr ""
+msgstr "Karlı Kir"
 
 #: init.lua
 msgid "Dry Grass"
-msgstr ""
+msgstr "Kuru Çim"
 
 #: init.lua
 msgid "Dry Shrub"
-msgstr ""
+msgstr "Kuru Çalı"
 
 #: init.lua
 msgid "Acacia Fence"
-msgstr ""
+msgstr "Akasya Çit"
 
 #: init.lua
 msgid "Aspen Fence"
-msgstr ""
+msgstr "Kavak Çit"
 
 #: init.lua
 msgid "Junglewood Fence"
-msgstr ""
+msgstr "Cangıl Ahşap Çit"
 
 #: init.lua
 msgid "Pine Fence"
-msgstr ""
+msgstr "Çam Çit"
 
 #: init.lua
 msgid "Wooden Fence"
-msgstr ""
+msgstr "Ahşap Çit"
 
 #: init.lua
 msgid "Flint"
-msgstr ""
+msgstr "Çakmaktaşı"
 
 #: init.lua
 msgid "Furnace"
-msgstr ""
+msgstr "Fırın"
 
 #: init.lua
 msgid "Glass"
-msgstr ""
+msgstr "Cam"
 
 #: init.lua
 msgid "Gold Block"
-msgstr ""
+msgstr "Altın Blok"
 
 #: init.lua
 msgid "Gold Ingot"
-msgstr ""
+msgstr "Altın Külçe"
 
 #: init.lua
 msgid "Gold Lump"
-msgstr ""
+msgstr "Altın Yumru"
 
 #: init.lua
 msgid "Grass"
-msgstr ""
+msgstr "Çim"
 
 #: init.lua
 msgid "Gravel"
-msgstr ""
+msgstr "Çakıl"
 
 #: init.lua
 msgid "Ice"
-msgstr ""
+msgstr "Buz"
 
 #: init.lua
 msgid "Iron Lump"
-msgstr ""
+msgstr "Demir Yumru"
 
 #: init.lua
 msgid "Jungle Grass"
-msgstr ""
+msgstr "Cangıl Çim"
 
 #: init.lua
 msgid "Jungle Leaves"
-msgstr ""
+msgstr "Cangıl Yaprakları"
 
 #: init.lua
 msgid "Jungle Sapling"
-msgstr ""
+msgstr "Cangıl Fidanı"
 
 #: init.lua
 msgid "Jungle Tree"
-msgstr ""
+msgstr "Cangıl Ağacı"
 
 #: init.lua
 msgid "Junglewood Planks"
-msgstr ""
+msgstr "Cangıl Ahşap Plakalar"
 
 #: init.lua
 msgid "Key"
-msgstr ""
+msgstr "Anahtar"
 
 #: init.lua
 msgid "Steel Ladder"
-msgstr ""
+msgstr "Çelik Merdiven"
 
 #: init.lua
 msgid "Wooden Ladder"
-msgstr ""
+msgstr "Ahşap Merdiven"
 
 #: init.lua
 msgid "Flowing Lava"
-msgstr ""
+msgstr "Akan Lav"
 
 #: init.lua
 msgid "Lava Source"
-msgstr ""
+msgstr "Lav Kaynağı"
 
 #: init.lua
 msgid "Leaves"
-msgstr ""
+msgstr "Yapraklar"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr ""
+msgstr "Mese Kristal Parça"
 
 #: init.lua
 msgid "Mese Crystal"
-msgstr ""
+msgstr "Mese Kristal"
 
 #: init.lua
 msgid "Mese Lamp"
-msgstr ""
+msgstr "Mese Lamba"
 
 #: init.lua
 msgid "Mese Post Light"
-msgstr ""
+msgstr "Mese Işık Direği"
 
 #: init.lua
 msgid "Mese Block"
-msgstr ""
+msgstr "Mese Blok"
 
 #: init.lua
 msgid "Mossy Cobblestone"
-msgstr ""
+msgstr "Yosunlu Parketaş"
 
 #: init.lua
 msgid "Obsidian Block"
-msgstr ""
+msgstr "Obsidyen Blok"
 
 #: init.lua
 msgid "Obsidian Brick"
-msgstr ""
+msgstr "Obsidyen Tuğla"
 
 #: init.lua
 msgid "Obsidian Glass"
-msgstr ""
+msgstr "Obsidyen Cam"
 
 #: init.lua
 msgid "Obsidian Shard"
-msgstr ""
+msgstr "Obsidyen Kırığı"
 
 #: init.lua
 msgid "Obsidian"
-msgstr ""
+msgstr "Obsidyen"
 
 #: init.lua
 msgid "Paper"
-msgstr ""
+msgstr "Kağıt"
 
 #: init.lua
 msgid "Papyrus"
-msgstr ""
+msgstr "Papirüs"
 
 #: init.lua
 msgid "Bronze Pickaxe"
-msgstr ""
+msgstr "Bronz Kazma"
 
 #: init.lua
 msgid "Diamond Pickaxe"
-msgstr ""
+msgstr "Elmas Kazma"
 
 #: init.lua
 msgid "Mese Pickaxe"
-msgstr ""
+msgstr "Mese Kazma"
 
 #: init.lua
 msgid "Steel Pickaxe"
-msgstr ""
+msgstr "Çelik Kazma"
 
 #: init.lua
 msgid "Stone Pickaxe"
-msgstr ""
+msgstr "Taş Kazma"
 
 #: init.lua
 msgid "Wooden Pickaxe"
-msgstr ""
+msgstr "Ahşap Kazma"
 
 #: init.lua
 msgid "Pine Needles"
-msgstr ""
+msgstr "Çam İğneleri"
 
 #: init.lua
 msgid "Pine Sapling"
-msgstr ""
+msgstr "Çam Fidanı"
 
 #: init.lua
 msgid "Pine Tree"
-msgstr ""
+msgstr "Çam Ağacı"
 
 #: init.lua
 msgid "Pine Wood Planks"
-msgstr ""
+msgstr "Çam Ahşap Plakalar"
 
 #: init.lua
 msgid "Flowing River Water"
-msgstr ""
+msgstr "Akan Nehir Suyu"
 
 #: init.lua
 msgid "River Water Source"
-msgstr ""
+msgstr "Nehir Suyu Kaynağı"
 
 #: init.lua
 msgid "Sand"
-msgstr ""
+msgstr "Kum"
 
 #: init.lua
 msgid "Sandstone Block"
-msgstr ""
+msgstr "Kumtaşı Blok"
 
 #: init.lua
 msgid "Sandstone Brick"
-msgstr ""
+msgstr "Kumtaşı Tuğla"
 
 #: init.lua
 msgid "Sandstone"
-msgstr ""
+msgstr "Kumtaşı"
 
 #: init.lua
 msgid "Sapling"
-msgstr ""
+msgstr "Fidan"
 
 #: init.lua
 msgid "Bronze Shovel"
-msgstr ""
+msgstr "Bronz Kürek"
 
 #: init.lua
 msgid "Diamond Shovel"
-msgstr ""
+msgstr "Elmas Kürek"
 
 #: init.lua
 msgid "Mese Shovel"
-msgstr ""
+msgstr "Mese Kürek"
 
 #: init.lua
 msgid "Steel Shovel"
-msgstr ""
+msgstr "Çelik Kürek"
 
 #: init.lua
 msgid "Stone Shovel"
-msgstr ""
+msgstr "Taş Kürek"
 
 #: init.lua
 msgid "Wooden Shovel"
-msgstr ""
+msgstr "Ahşap Kürek"
 
 #: init.lua
 msgid "Steel Sign"
-msgstr ""
+msgstr "Çelik Tabela"
 
 #: init.lua
 msgid "Wooden Sign"
-msgstr ""
+msgstr "Ahşap Tabela"
 
 #: init.lua
 msgid "Silver Sand"
-msgstr ""
+msgstr "Gümüş Kum"
 
 #: init.lua
 msgid "Silver Sandstone Block"
-msgstr ""
+msgstr "Gümüş Kumtaşı Blok"
 
 #: init.lua
 msgid "Silver Sandstone Brick"
-msgstr ""
+msgstr "Gümüş Kumtaşı Tuğla"
 
 #: init.lua
 msgid "Silver Sandstone"
-msgstr ""
+msgstr "Gümüş Kumtaşı"
 
 #: init.lua
 msgid "Skeleton Key"
-msgstr ""
+msgstr "İskelet Anahtar"
 
 #: init.lua
 msgid "Snow Block"
-msgstr ""
+msgstr "Kar Blok"
 
 #: init.lua
 msgid "Snow"
-msgstr ""
+msgstr "Kar"
 
 #: init.lua
 msgid "Steel Block"
-msgstr ""
+msgstr "Çelik Blok"
 
 #: init.lua
 msgid "Steel Ingot"
-msgstr ""
+msgstr "Çelik Külçe"
 
 #: init.lua
 msgid "Stick"
-msgstr ""
+msgstr "Sopa"
 
 #: init.lua
 msgid "Stone Block"
-msgstr ""
+msgstr "Taş Blok"
 
 #: init.lua
 msgid "Stone Brick"
-msgstr ""
+msgstr "Taş Tuğla"
 
 #: init.lua
 msgid "Stone"
-msgstr ""
+msgstr "Taş"
 
 #: init.lua
 msgid "Coal Ore"
-msgstr ""
+msgstr "Kömür Cevheri"
 
 #: init.lua
 msgid "Copper Ore"
-msgstr ""
+msgstr "Bakır Cevheri"
 
 #: init.lua
 msgid "Diamond Ore"
-msgstr ""
+msgstr "Elmas Cevheri"
 
 #: init.lua
 msgid "Gold Ore"
-msgstr ""
+msgstr "Altın Cevheri"
 
 #: init.lua
 msgid "Iron Ore"
-msgstr ""
+msgstr "Demir Cevheri"
 
 #: init.lua
 msgid "Mese Ore"
-msgstr ""
+msgstr "Mese Cevheri"
 
 #: init.lua
 msgid "Tin Ore"
-msgstr ""
+msgstr "Kalay Cevheri"
 
 #: init.lua
 msgid "Bronze Sword"
-msgstr ""
+msgstr "Bronz Kılıç"
 
 #: init.lua
 msgid "Diamond Sword"
-msgstr ""
+msgstr "Elmas Kılıç"
 
 #: init.lua
 msgid "Mese Sword"
-msgstr ""
+msgstr "Mese Kılıç"
 
 #: init.lua
 msgid "Steel Sword"
-msgstr ""
+msgstr "Çelik Kılıç"
 
 #: init.lua
 msgid "Stone Sword"
-msgstr ""
+msgstr "Taş Kılıç"
 
 #: init.lua
 msgid "Wooden Sword"
-msgstr ""
+msgstr "Tahta Kılıç"
 
 #: init.lua
 msgid "Tin Block"
-msgstr ""
+msgstr "Kalay Blok"
 
 #: init.lua
 msgid "Tin Ingot"
-msgstr ""
+msgstr "Kalay Külçe"
 
 #: init.lua
 msgid "Tin Lump"
-msgstr ""
+msgstr "Kalay Yumru"
 
 #: init.lua
 msgid "Torch"
-msgstr ""
+msgstr "Meşale"
 
 #: init.lua
 msgid "Tree"
-msgstr ""
+msgstr "Ağaç"
 
 #: init.lua
 msgid "Flowing Water"
-msgstr ""
+msgstr "Akan Su"
 
 #: init.lua
 msgid "Water Source"
-msgstr ""
+msgstr "Su Kaynağı"
 
 #: init.lua
 msgid "Wooden Planks"
-msgstr ""
+msgstr "Ahşap Plakalar"
 
 #: init.lua
 msgid "Glass Door"
-msgstr ""
+msgstr "Cam Kapı"
 
 #: init.lua
 msgid "Obsidian Glass Door"
-msgstr ""
+msgstr "Obsidyen Cam Kapı"
 
 #: init.lua
 msgid "Steel Door"
-msgstr ""
+msgstr "Çelik Kapı"
 
 #: init.lua
 msgid "Wooden Door"
-msgstr ""
+msgstr "Ahşap Kapı"
 
 #: init.lua
 msgid "Acacia Fence Gate"
-msgstr ""
+msgstr "Akasya Çit Kapısı"
 
 #: init.lua
 msgid "Aspen Fence Gate"
-msgstr ""
+msgstr "Aspen Çit Kapısı"
 
 #: init.lua
 msgid "Junglewood Fence Gate"
-msgstr ""
+msgstr "Cangıl Ahşap Çit Kapısı"
 
 #: init.lua
 msgid "Pine Fence Gate"
-msgstr ""
+msgstr "Çam Çit Kapısı"
 
 #: init.lua
 msgid "Wooden Fence Gate"
-msgstr ""
+msgstr "Ahşap Çit Kapısı"
 
 #: init.lua
 msgid "Hidden Door Segment"
-msgstr ""
+msgstr "Gizli Kapı Kesimi"
 
 #: init.lua
 msgid "Trapdoor"
-msgstr ""
+msgstr "Kapak"
 
 #: init.lua
 msgid "Steel Trapdoor"
-msgstr ""
+msgstr "Çelik Kapak"
 
 #: init.lua
 msgid "Black dye"
-msgstr ""
+msgstr "Siyah boya"
 
 #: init.lua
 msgid "Blue dye"
-msgstr ""
+msgstr "Mavi boya"
 
 #: init.lua
 msgid "Brown dye"
-msgstr ""
+msgstr "Kahverengi boya"
 
 #: init.lua
 msgid "Cyan dye"
-msgstr ""
+msgstr "Camgöbeği boya"
 
 #: init.lua
 msgid "Dark green dye"
-msgstr ""
+msgstr "Koyu yeşil boya"
 
 #: init.lua
 msgid "Dark grey dye"
-msgstr ""
+msgstr "Koyu gri boya"
 
 #: init.lua
 msgid "Green dye"
-msgstr ""
+msgstr "Yeşil boya"
 
 #: init.lua
 msgid "Grey dye"
-msgstr ""
+msgstr "Gri boya"
 
 #: init.lua
 msgid "Magenta dye"
-msgstr ""
+msgstr "Macenta boya"
 
 #: init.lua
 msgid "Orange dye"
-msgstr ""
+msgstr "Turuncu boya"
 
 #: init.lua
 msgid "Pink dye"
-msgstr ""
+msgstr "Pembe boya"
 
 #: init.lua
 msgid "Red dye"
-msgstr ""
+msgstr "Kırmızı boya"
 
 #: init.lua
 msgid "Violet dye"
-msgstr ""
+msgstr "Mor boya"
 
 #: init.lua
 msgid "White dye"
-msgstr ""
+msgstr "Beyaz boya"
 
 #: init.lua
 msgid "Yellow dye"
-msgstr ""
+msgstr "Sarı boya"
 
 #: init.lua
 msgid "Bread"
-msgstr ""
+msgstr "Ekmek"
 
 #: init.lua
 msgid "Cotton"
-msgstr ""
+msgstr "Pamuk"
 
 #: init.lua
 msgid "Desert Sand Soil"
-msgstr ""
+msgstr "Çöl Kumu Toprak"
 
 #: init.lua
 msgid "Wet Desert Sand Soil"
-msgstr ""
+msgstr "Islak Çöl Kumu Toprak"
 
 #: init.lua
 msgid "Flour"
-msgstr ""
+msgstr "Un"
 
 #: init.lua
 msgid "Bronze Hoe"
-msgstr ""
+msgstr "Bronz Çapa"
 
 #: init.lua
 msgid "Diamond Hoe"
-msgstr ""
+msgstr "Elmas Çapa"
 
 #: init.lua
 msgid "Mese Hoe"
-msgstr ""
+msgstr "Mese Çapa"
 
 #: init.lua
 msgid "Steel Hoe"
-msgstr ""
+msgstr "Çelik Çapa"
 
 #: init.lua
 msgid "Stone Hoe"
-msgstr ""
+msgstr "Taş Çapa"
 
 #: init.lua
 msgid "Wooden Hoe"
-msgstr ""
+msgstr "Ahşap Çapa"
 
 #: init.lua
 msgid "Cotton seed"
-msgstr ""
+msgstr "Pamuk tohumu"
 
 #: init.lua
 msgid "Wheat seed"
-msgstr ""
+msgstr "Buğday tohumu"
 
 #: init.lua
 msgid "Soil"
-msgstr ""
+msgstr "Toprak"
 
 #: init.lua
 msgid "Wet Soil"
-msgstr ""
+msgstr "Islak Toprak"
 
 #: init.lua
 msgid "Straw"
-msgstr ""
+msgstr "Saman"
 
 #: init.lua
 msgid "Wheat"
-msgstr ""
+msgstr "Buğday"
 
 #: init.lua
 msgid "Flint and Steel"
-msgstr ""
+msgstr "Çakmaktaşı ve Çelik"
 
 #: init.lua
 msgid "Permanent Flame"
-msgstr ""
+msgstr "Kalıcı Alev"
 
 #: init.lua
 msgid "White dandelion"
-msgstr ""
+msgstr "Beyaz hindiba"
 
 #: init.lua
 msgid "Yellow Dandelion"
-msgstr ""
+msgstr "Sarı Hindiba"
 
 #: init.lua
 msgid "Blue Geranium"
-msgstr ""
+msgstr "Mavi Sardunya"
 
 #: init.lua
 msgid "Brown Mushroom"
-msgstr ""
+msgstr "Kahverengi Mantar"
 
 #: init.lua
 msgid "Red Mushroom"
-msgstr ""
+msgstr "Kırmızı Mantar"
 
 #: init.lua
 msgid "Rose"
-msgstr ""
+msgstr "Gül"
 
 #: init.lua
 msgid "Orange Tulip"
-msgstr ""
+msgstr "Turuncu Lale"
 
 #: init.lua
 msgid "Viola"
-msgstr ""
+msgstr "Menekşe"
 
 #: init.lua
 msgid "Waterlily"
-msgstr ""
+msgstr "Nilüfer"
 
 #: init.lua
 msgid "Ignore (you hacker you!)"
-msgstr ""
+msgstr "Yoksay (seni hacker seni!)"
 
 #: init.lua
 msgid "Nyan Cat Rainbow"
-msgstr ""
+msgstr "Nyan Kedi Gökkuşağı"
 
 #: init.lua
 msgid "Nyan Cat"
-msgstr ""
+msgstr "Nyan Kedi"
 
 #: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
-msgstr ""
+msgstr "Tornavida (sol-tık yüz döndürür, sağ-tık ekseni döndürür)"
 
 #: init.lua
 msgid "Acacia Wood Slab"
-msgstr ""
+msgstr "Akasya Ahşap Dilim"
 
 #: init.lua
 msgid "Aspen Wood Slab"
-msgstr ""
+msgstr "Kavak Ahşap Dilim"
 
 #: init.lua
 msgid "Brick Slab"
-msgstr ""
+msgstr "Tuğla Dilim"
 
 #: init.lua
 msgid "Bronze Block Slab"
-msgstr ""
+msgstr "Bronz Blok Dilim"
 
 #: init.lua
 msgid "Cobblestone Slab"
-msgstr ""
+msgstr "Parketaş Dilim"
 
 #: init.lua
 msgid "Copper Block Slab"
-msgstr ""
+msgstr "Bakır Blok Dilim"
 
 #: init.lua
 msgid "Desert Cobblestone Slab"
-msgstr ""
+msgstr "Çöl parketaşı dilim"
 
 #: init.lua
 msgid "Desert Sandstone Block Slab"
-msgstr ""
+msgstr "Çöl Kumtaşı Blok Dilim"
 
 #: init.lua
 msgid "Desert Sandstone Brick Slab"
-msgstr ""
+msgstr "Çöl Kumtaşı Tuğla Dilim"
 
 #: init.lua
 msgid "Desert Sandstone Slab"
-msgstr ""
+msgstr "Çöl Kumtaşı Dilim"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
-msgstr ""
+msgstr "Çöl Taşı Blok Dilim"
 
 #: init.lua
 msgid "Desert Stone Brick Slab"
-msgstr ""
+msgstr "Çöl Taşı Tuğla Dilim"
 
 #: init.lua
 msgid "Desert Stone Slab"
-msgstr ""
+msgstr "Çöl Taşı Dilim"
 
 #: init.lua
 msgid "Gold Block Slab"
-msgstr ""
+msgstr "Altın Blok Dilim"
 
 #: init.lua
 msgid "Ice Slab"
-msgstr ""
+msgstr "Buz Dilim"
 
 #: init.lua
 msgid "Jungle Wood Slab"
-msgstr ""
+msgstr "Cangıl Ahşap Dilim"
 
 #: init.lua
 msgid "Mossy Cobblestone Slab"
-msgstr ""
+msgstr "Yosunlu Parketaş Dilim"
 
 #: init.lua
 msgid "Obsidian Block Slab"
-msgstr ""
+msgstr "Obsidyen Blok Dilim"
 
 #: init.lua
 msgid "Obsidian Brick Slab"
-msgstr ""
+msgstr "Obsidyen Tuğla Dilim"
 
 #: init.lua
 msgid "Obsidian Slab"
-msgstr ""
+msgstr "Obsidyen Dilim"
 
 #: init.lua
 msgid "Pine Wood Slab"
-msgstr ""
+msgstr "Çam Ahşap Dilim"
 
 #: init.lua
 msgid "Sandstone Block Slab"
-msgstr ""
+msgstr "Kumtaşı Blok Dilim"
 
 #: init.lua
 msgid "Sandstone Brick Slab"
-msgstr ""
+msgstr "Kumtaşı Tuğla Dilim"
 
 #: init.lua
 msgid "Sandstone Slab"
-msgstr ""
+msgstr "Kumtaşı Dilim"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
-msgstr ""
+msgstr "Gümüş Kumtaşı Blok Dilim"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
-msgstr ""
+msgstr "Gümüş Kumtaşı Tuğla Dilim"
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr ""
+msgstr "Gümüş Kumtaşı Dilim"
 
 #: init.lua
 msgid "Snow Block Slab"
-msgstr ""
+msgstr "Kar Blok Dilim"
 
 #: init.lua
 msgid "Steel Block Slab"
-msgstr ""
+msgstr "Çelik Blok Dilim"
 
 #: init.lua
 msgid "Stone Block Slab"
-msgstr ""
+msgstr "Taş Blok Dilim"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr ""
+msgstr "Taş Tuğla Dilim"
 
 #: init.lua
 msgid "Stone Slab"
-msgstr ""
+msgstr "Taş Dilim"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr ""
+msgstr "Saman Dilim"
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr ""
+msgstr "Ahşap Dilim"
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr ""
+msgstr "Akasya Ahşap Merdiven"
 
 #: init.lua
 msgid "Aspen Wood Stair"
-msgstr ""
+msgstr "Kavak Ahşap Merdiven"
 
 #: init.lua
 msgid "Brick Stair"
-msgstr ""
+msgstr "Tuğla Merdiven"
 
 #: init.lua
 msgid "Bronze Block Stair"
-msgstr ""
+msgstr "Bronz Blok Merdiven"
 
 #: init.lua
 msgid "Cobblestone Stair"
-msgstr ""
+msgstr "Parketaş Merdiven"
 
 #: init.lua
 msgid "Copper Block Stair"
-msgstr ""
+msgstr "Bakır Blok Merdiven"
 
 #: init.lua
 msgid "Desert Cobblestone Stair"
-msgstr ""
+msgstr "Çöl Parketaşı Merdiven"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair"
-msgstr ""
+msgstr "Çöl Kumtaşı Blok Merdiven"
 
 #: init.lua
 msgid "Desert Sandstone Brick Stair"
-msgstr ""
+msgstr "Çöl Kumtaşı Tuğla Merdiven"
 
 #: init.lua
 msgid "Desert Sandstone Stair"
-msgstr ""
+msgstr "Çöl Kumtaşı Merdiven"
 
 #: init.lua
 msgid "Desert Stone Block Stair"
-msgstr ""
+msgstr "Çöl Taşı Blok Merdiven"
 
 #: init.lua
 msgid "Desert Stone Brick Stair"
-msgstr ""
+msgstr "Çöl Taşı Tuğla Merdiven"
 
 #: init.lua
 msgid "Desert Stone Stair"
-msgstr ""
+msgstr "Çöl Taşı Merdiven"
 
 #: init.lua
 msgid "Gold Block Stair"
-msgstr ""
+msgstr "Altın Blok Merdiven"
 
 #: init.lua
 msgid "Ice Stair"
-msgstr ""
+msgstr "Buz Merdiven"
 
 #: init.lua
 msgid "Jungle Wood Stair"
-msgstr ""
+msgstr "Cangıl Ahşap Merdiven"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair"
-msgstr ""
+msgstr "Yosunlu Parketaş Merdiven"
 
 #: init.lua
 msgid "Obsidian Block Stair"
-msgstr ""
+msgstr "Obsidyen Blok Merdiven"
 
 #: init.lua
 msgid "Obsidian Brick Stair"
-msgstr ""
+msgstr "Obsidyen Tuğla Merdiven"
 
 #: init.lua
 msgid "Obsidian Stair"
-msgstr ""
+msgstr "Obsidyen Merdiven"
 
 #: init.lua
 msgid "Pine Wood Stair"
-msgstr ""
+msgstr "Çam Ahşap Merdiven"
 
 #: init.lua
 msgid "Sandstone Block Stair"
-msgstr ""
+msgstr "Kumtaşı Blok Merdiven"
 
 #: init.lua
 msgid "Sandstone Brick Stair"
-msgstr ""
+msgstr "Kumtaşı Tuğla Merdiven"
 
 #: init.lua
 msgid "Sandstone Stair"
-msgstr ""
+msgstr "Kumtaşı Merdiven"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair"
-msgstr ""
+msgstr "Gümüş Kumtaşı Blok Merdiven"
 
 #: init.lua
 msgid "Silver Sandstone Brick Stair"
-msgstr ""
+msgstr "Gümüş Kumtaşı Tuğla Merdiven"
 
 #: init.lua
 msgid "Silver Sandstone Stair"
-msgstr ""
+msgstr "Gümüş Kumtaşı Merdiven"
 
 #: init.lua
 msgid "Snow Block Stair"
-msgstr ""
+msgstr "Kar Blok Merdiven"
 
 #: init.lua
 msgid "Steel Block Stair"
-msgstr ""
+msgstr "Çelik Blok Merdiven"
 
 #: init.lua
 msgid "Stone Block Stair"
-msgstr ""
+msgstr "Taş Blok Merdiven"
 
 #: init.lua
 msgid "Stone Brick Stair"
-msgstr ""
+msgstr "Taş Tuğla Merdiven"
 
 #: init.lua
 msgid "Stone Stair"
-msgstr ""
+msgstr "Taş Merdiven"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr ""
+msgstr "Saman Merdiven"
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr ""
+msgstr "Ahşap Merdiven"
 
 #: init.lua
 msgid "Gun Powder"
-msgstr ""
+msgstr "Barut"
 
 #: init.lua
 msgid "Unknown Item"
-msgstr ""
+msgstr "Bilinmeyen Öğe"
 
 #: init.lua
 msgid "Drinking Glass (empty)"
-msgstr ""
+msgstr "Bardak (boş)"
 
 #: init.lua
 msgid "Glass Bottle (empty)"
-msgstr ""
+msgstr "Cam Şişe (boş)"
 
 #: init.lua
 msgid "Pile of Glass Fragments"
-msgstr ""
+msgstr "Cam Parçaları Yığını"
 
 #: init.lua
 msgid "Vessels Shelf"
-msgstr ""
+msgstr "Şişelik"
 
 #: init.lua
 msgid "Heavy Steel Bottle (empty)"
-msgstr ""
+msgstr "Ağır Çelik Şişe (boş)"
 
 #: init.lua
 msgid "Cobblestone Wall"
-msgstr ""
+msgstr "Parketaş Duvar"
 
 #: init.lua
 msgid "Desert Cobblestone Wall"
-msgstr ""
+msgstr "Çöl Parketaşı Duvar"
 
 #: init.lua
 msgid "Mossy Cobblestone Wall"
-msgstr ""
+msgstr "Yosunlu Parketaş Duvar"
 
 #: init.lua
 msgid "Black Wool"
-msgstr ""
+msgstr "Siyah Yün"
 
 #: init.lua
 msgid "Blue Wool"
-msgstr ""
+msgstr "Mavi Yün"
 
 #: init.lua
 msgid "Brown Wool"
-msgstr ""
+msgstr "Kahverengi Yün"
 
 #: init.lua
 msgid "Cyan Wool"
-msgstr ""
+msgstr "Camgöbeği Yün"
 
 #: init.lua
 msgid "Dark Green Wool"
-msgstr ""
+msgstr "Koyu Yeşil Yün"
 
 #: init.lua
 msgid "Dark Grey Wool"
-msgstr ""
+msgstr "Koyu Gri Yün"
 
 #: init.lua
 msgid "Green Wool"
-msgstr ""
+msgstr "Yeşil Yün"
 
 #: init.lua
 msgid "Grey Wool"
-msgstr ""
+msgstr "Gri Yün"
 
 #: init.lua
 msgid "Magenta Wool"
-msgstr ""
+msgstr "Macenta Yün"
 
 #: init.lua
 msgid "Orange Wool"
-msgstr ""
+msgstr "Turuncu Yün"
 
 #: init.lua
 msgid "Pink Wool"
-msgstr ""
+msgstr "Pembe Yün"
 
 #: init.lua
 msgid "Red Wool"
-msgstr ""
+msgstr "Kırmızı Yün"
 
 #: init.lua
 msgid "Violet Wool"
-msgstr ""
+msgstr "Mor Yün"
 
 #: init.lua
 msgid "White Wool"
-msgstr ""
+msgstr "Beyaz Yün"
 
 #: init.lua
 msgid "Yellow Wool"
-msgstr ""
+msgstr "Sarı Yün"
 
 #: init.lua
 msgid "Iron bar"
-msgstr ""
+msgstr "Demir parmaklık"
 
 #: init.lua
 msgid "Glass Pane"
-msgstr ""
+msgstr "Cam Levha"
