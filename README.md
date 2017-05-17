@@ -1,5 +1,5 @@
 # Minetest Game Internationalization Mod
-Version: 2017.05.16, License: MIT (code), CC0 (translations)
+Version: 2017.05.17, License: MIT (code), CC0 (translations)
 
 ## Description
 A Minetest mod adding translations to the default game of Minetest. You just have to install the
@@ -12,6 +12,7 @@ settings), but of course only as long your language is supported.
  * Belarusian
  * German
  * Spanish
+ * Turkish
 
 ## (Translation) bug reports and suggestions
 You can report bugs and suggest ideas on [GitHub](https://github.com/lnj2/mtg_i18n/), alternatively
