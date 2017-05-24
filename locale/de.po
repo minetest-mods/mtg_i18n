@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: mtg_i18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-10 13:44+0200\n"
-"PO-Revision-Date: 2017-05-20 16:18+0000\n"
+"PO-Revision-Date: 2017-05-24 01:54+0000\n"
 "Last-Translator: Wuzzy <almikes@aol.com>\n"
 "Language-Team: German "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/de/>\n"
@@ -25,7 +25,7 @@ msgstr "Luft (Sie Hacker, Sie!)"
 
 #: init.lua
 msgid "Simple Bed"
-msgstr "Einfaches Bett"
+msgstr "Schlichtes Bett"
 
 #: init.lua
 msgid "Fancy Bed"
@@ -61,7 +61,7 @@ msgstr "Bremsschiene"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr "Lore (Schleichen+Klick zum Aufnehmen)"
+msgstr "Lore (Schleichen+Klicken zum Aufnehmen)"
 
 #: init.lua
 msgid "Powered rail"
@@ -125,7 +125,7 @@ msgstr "Bronzeaxt"
 
 #: init.lua
 msgid "Diamond Axe"
-msgstr "Diamantenaxt"
+msgstr "Diamantaxt"
 
 #: init.lua
 msgid "Mese Axe"
@@ -157,7 +157,7 @@ msgstr "Buch mit Text"
 
 #: init.lua
 msgid "Brick Block"
-msgstr "Backsteinblock"
+msgstr "Ziegelsteinblock"
 
 #: init.lua
 msgid "Bronze Block"
@@ -193,7 +193,7 @@ msgstr "Truhe"
 
 #: init.lua
 msgid "Clay Brick"
-msgstr "Backstein"
+msgstr "Lehmziegel"
 
 #: init.lua
 msgid "Clay Lump"
@@ -265,15 +265,15 @@ msgstr "Wüstensandstein"
 
 #: init.lua
 msgid "Desert Stone Block"
-msgstr "Wüstengesteinblock"
+msgstr "Wüstensteinblock"
 
 #: init.lua
 msgid "Desert Stone Brick"
-msgstr "Wüstengesteinziegel"
+msgstr "Wüstensteinziegel"
 
 #: init.lua
 msgid "Desert Stone"
-msgstr "Wüstengestein"
+msgstr "Wüstenstein"
 
 #: init.lua
 msgid "Diamond Block"
@@ -289,7 +289,7 @@ msgstr "Erde"
 
 #: init.lua
 msgid "Dirt with Dry Grass"
-msgstr "Erde mit Trockenem Gras"
+msgstr "Erde mit trockenem Gras"
 
 #: init.lua
 msgid "Dirt with Grass and Footsteps"
@@ -769,7 +769,7 @@ msgstr "Brauner Farbstoff"
 
 #: init.lua
 msgid "Cyan dye"
-msgstr "Cyanfarbener Farbstoff"
+msgstr "Türkiser Farbstoff"
 
 #: init.lua
 msgid "Dark green dye"
@@ -789,7 +789,7 @@ msgstr "Grauer Farbstoff"
 
 #: init.lua
 msgid "Magenta dye"
-msgstr "Magentafarbener Farbstoff"
+msgstr "Magenta Farbstoff"
 
 #: init.lua
 msgid "Orange dye"
@@ -925,7 +925,7 @@ msgstr "Veilchen"
 
 #: init.lua
 msgid "Waterlily"
-msgstr "Seerose"
+msgstr "Wasserlilie"
 
 #: init.lua
 msgid "Ignore (you hacker you!)"
@@ -945,139 +945,139 @@ msgstr "Schraubenzieher (Linksklick dreht Ausrichtung, Rechtsklick dreht Achse)"
 
 #: init.lua
 msgid "Acacia Wood Slab"
-msgstr "Akazienholzstufe"
+msgstr "Akazienholzplatte"
 
 #: init.lua
 msgid "Aspen Wood Slab"
-msgstr "Espenholzstufe"
+msgstr "Espenholzplatte"
 
 #: init.lua
 msgid "Brick Slab"
-msgstr "Backsteinstufe"
+msgstr "Ziegelsteinplatte"
 
 #: init.lua
 msgid "Bronze Block Slab"
-msgstr "Bronzeblockstufe"
+msgstr "Bronzeblockplatte"
 
 #: init.lua
 msgid "Cobblestone Slab"
-msgstr "Pflastersteinstufe"
+msgstr "Pflastersteinplatte"
 
 #: init.lua
 msgid "Copper Block Slab"
-msgstr "Kupferblockstufe"
+msgstr "Kupferblockplatte"
 
 #: init.lua
 msgid "Desert Cobblestone Slab"
-msgstr "Wüstenpflastersteinstufe"
+msgstr "Wüstenpflastersteinplatte"
 
 #: init.lua
 msgid "Desert Sandstone Block Slab"
-msgstr "Wüstensandsteinblockstufe"
+msgstr "Wüstensandsteinblockplatte"
 
 #: init.lua
 msgid "Desert Sandstone Brick Slab"
-msgstr "Wüstensandsteinziegelstufe"
+msgstr "Wüstensandsteinziegelplatte"
 
 #: init.lua
 msgid "Desert Sandstone Slab"
-msgstr "Wüstensandsteinstufe"
+msgstr "Wüstensandsteinplatte"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
-msgstr "Wüstesteinblockstufe"
+msgstr "Wüstensteinblockplatte"
 
 #: init.lua
 msgid "Desert Stone Brick Slab"
-msgstr "Wüstensteinziegelstufe"
+msgstr "Wüstensteinziegelplatte"
 
 #: init.lua
 msgid "Desert Stone Slab"
-msgstr "Wüstensteinstufe"
+msgstr "Wüstensteinplatte"
 
 #: init.lua
 msgid "Gold Block Slab"
-msgstr "Goldblockstufe"
+msgstr "Goldblockplatte"
 
 #: init.lua
 msgid "Ice Slab"
-msgstr "Eisstufe"
+msgstr "Eisplatte"
 
 #: init.lua
 msgid "Jungle Wood Slab"
-msgstr "Tropenholzstufe"
+msgstr "Tropenholzplatte"
 
 #: init.lua
 msgid "Mossy Cobblestone Slab"
-msgstr "Bemooste Pflastersteinstufe"
+msgstr "Bemooste Pflastersteinplatte"
 
 #: init.lua
 msgid "Obsidian Block Slab"
-msgstr "Obsidianblockstufe"
+msgstr "Obsidianblockplatte"
 
 #: init.lua
 msgid "Obsidian Brick Slab"
-msgstr "Obsidianziegelstufe"
+msgstr "Obsidianziegelplatte"
 
 #: init.lua
 msgid "Obsidian Slab"
-msgstr "Obsidianstufe"
+msgstr "Obsidianplatte"
 
 #: init.lua
 msgid "Pine Wood Slab"
-msgstr "Kiefernholzstufe"
+msgstr "Kiefernholzplatte"
 
 #: init.lua
 msgid "Sandstone Block Slab"
-msgstr "Sandsteinblockstufe"
+msgstr "Sandsteinblockplatte"
 
 #: init.lua
 msgid "Sandstone Brick Slab"
-msgstr "Sandsteinziegelstufe"
+msgstr "Sandsteinziegelplatte"
 
 #: init.lua
 msgid "Sandstone Slab"
-msgstr "Sandsteinstufe"
+msgstr "Sandsteinplatte"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
-msgstr "Silbersandsteinblockstufe"
+msgstr "Silbersandsteinblockplatte"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
-msgstr "Silbersandsteinziegelstufe"
+msgstr "Silbersandsteinziegelplatte"
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr "Silbersandsteinstufe"
+msgstr "Silbersandsteinplatte"
 
 #: init.lua
 msgid "Snow Block Slab"
-msgstr "Schneeblockstufe"
+msgstr "Schneeblockplatte"
 
 #: init.lua
 msgid "Steel Block Slab"
-msgstr "Stahlblockstufe"
+msgstr "Stahlblockplatte"
 
 #: init.lua
 msgid "Stone Block Slab"
-msgstr "Steinblockstufe"
+msgstr "Steinblockplatte"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr "Steinziegelstufe"
+msgstr "Steinziegelplatte"
 
 #: init.lua
 msgid "Stone Slab"
-msgstr "Steinstufe"
+msgstr "Steinplatte"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr "Strohstufe"
+msgstr "Strohplatte"
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr "Holzstufe"
+msgstr "Holzplatte"
 
 #: init.lua
 msgid "Acacia Wood Stair"
@@ -1089,7 +1089,7 @@ msgstr "Espenholztreppe"
 
 #: init.lua
 msgid "Brick Stair"
-msgstr "Backsteintreppe"
+msgstr "Ziegelsteintreppe"
 
 #: init.lua
 msgid "Bronze Block Stair"
@@ -1269,7 +1269,7 @@ msgstr "Braune Wolle"
 
 #: init.lua
 msgid "Cyan Wool"
-msgstr "Cyanfarbene Wolle"
+msgstr "Türkise Wolle"
 
 #: init.lua
 msgid "Dark Green Wool"
@@ -1289,7 +1289,7 @@ msgstr "Graue Wolle"
 
 #: init.lua
 msgid "Magenta Wool"
-msgstr "Magentafarbende Wolle"
+msgstr "Magenta Wolle"
 
 #: init.lua
 msgid "Orange Wool"
