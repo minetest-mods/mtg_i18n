@@ -10,7 +10,11 @@ settings), but of course only as long your language is supported.
 ### Currently supported languages
  * English (native)
  * Belarusian
+ * French (~40%)
  * German
+ * Indonesian (~45%)
+ * Italian (~45%)
+ * Japanese (~50%)
  * Malay
  * Russian (~60%)
  * Spanish
