@@ -7,17 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-15 16:28+0200\n"
+"POT-Creation-Date: 2017-05-30 15:08+0200\n"
 "PO-Revision-Date: 2017-05-16 05:55+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
-"Language-Team: Belarusian "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/be/>\n"
+"Language-Team: Belarusian <https://hosted.weblate.org/projects/minetest/"
+"mtg_i18n/be/>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.14-dev\n"
 
 #: init.lua
@@ -933,14 +933,6 @@ msgid "Ignore (you hacker you!)"
 msgstr "Ігнараваць (вы хакер!)"
 
 #: init.lua
-msgid "Nyan Cat Rainbow"
-msgstr "Вясёлка Nyan Cat"
-
-#: init.lua
-msgid "Nyan Cat"
-msgstr "Nyan Cat"
-
-#: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
 msgstr "Адвёртка (левы націск круціць напрамак, правы — вось)"
 
@@ -1221,6 +1213,10 @@ msgid "Gun Powder"
 msgstr "Порах"
 
 #: init.lua
+msgid "TNT"
+msgstr ""
+
+#: init.lua
 msgid "Unknown Item"
 msgstr "Невядомы элемент"
 
@@ -1323,3 +1319,11 @@ msgstr "Жалезны прут"
 #: init.lua
 msgid "Glass Pane"
 msgstr "Шкляная панэль"
+
+#: init.lua
+msgid "Nyan Cat Rainbow"
+msgstr "Вясёлка Nyan Cat"
+
+#: init.lua
+msgid "Nyan Cat"
+msgstr "Nyan Cat"

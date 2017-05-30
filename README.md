@@ -1,5 +1,5 @@
 # Minetest Game Internationalization Mod
-Version: 2017.05.17, License: MIT (code), CC0 (translations)
+MTG 0.4.16, License: MIT (code), CC 0 (translations)
 
 ## Description
 A Minetest mod adding translations to the default game of Minetest. You just have to install the
@@ -11,6 +11,8 @@ settings), but of course only as long your language is supported.
  * English (native)
  * Belarusian
  * German
+ * Malay
+ * Russian (~60%)
  * Spanish
  * Turkish
 

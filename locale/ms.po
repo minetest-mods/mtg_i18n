@@ -7,12 +7,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-15 16:28+0200\n"
+"POT-Creation-Date: 2017-05-30 15:08+0200\n"
 "PO-Revision-Date: 2017-05-21 12:52+0000\n"
-"Last-Translator: Muhammad Nur Hidayat Yasuyoshi <muhdnurhidayat96@yahoo.com>"
-"\n"
-"Language-Team: Malay "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/ms/>\n"
+"Last-Translator: Muhammad Nur Hidayat Yasuyoshi <muhdnurhidayat96@yahoo."
+"com>\n"
+"Language-Team: Malay <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+"ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -933,14 +933,6 @@ msgid "Ignore (you hacker you!)"
 msgstr "Abai (engkau penggodam!)"
 
 #: init.lua
-msgid "Nyan Cat Rainbow"
-msgstr "Pelangi Nyan Cat"
-
-#: init.lua
-msgid "Nyan Cat"
-msgstr "Nyan Cat"
-
-#: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
 msgstr "Pemutar Skru (klik-kiri putar muka, klik-kanan putar paksi)"
 
@@ -1221,6 +1213,10 @@ msgid "Gun Powder"
 msgstr "Serbuk Senjata Api"
 
 #: init.lua
+msgid "TNT"
+msgstr ""
+
+#: init.lua
 msgid "Unknown Item"
 msgstr "Item Tidak Diketahui"
 
@@ -1323,3 +1319,11 @@ msgstr "Jeriji Besi"
 #: init.lua
 msgid "Glass Pane"
 msgstr "Kaca Tingkap"
+
+#: init.lua
+msgid "Nyan Cat Rainbow"
+msgstr "Pelangi Nyan Cat"
+
+#: init.lua
+msgid "Nyan Cat"
+msgstr "Nyan Cat"

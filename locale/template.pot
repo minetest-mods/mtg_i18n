@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-15 16:28+0200\n"
+"POT-Creation-Date: 2017-05-30 15:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -930,14 +930,6 @@ msgid "Ignore (you hacker you!)"
 msgstr ""
 
 #: init.lua
-msgid "Nyan Cat Rainbow"
-msgstr ""
-
-#: init.lua
-msgid "Nyan Cat"
-msgstr ""
-
-#: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
 msgstr ""
 
@@ -1218,6 +1210,10 @@ msgid "Gun Powder"
 msgstr ""
 
 #: init.lua
+msgid "TNT"
+msgstr ""
+
+#: init.lua
 msgid "Unknown Item"
 msgstr ""
 
@@ -1319,4 +1315,12 @@ msgstr ""
 
 #: init.lua
 msgid "Glass Pane"
+msgstr ""
+
+#: init.lua
+msgid "Nyan Cat Rainbow"
+msgstr ""
+
+#: init.lua
+msgid "Nyan Cat"
 msgstr ""

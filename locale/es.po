@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-15 16:28+0200\n"
+"POT-Creation-Date: 2017-05-30 15:08+0200\n"
 "PO-Revision-Date: 2017-05-16 17:54+0000\n"
 "Last-Translator: Michael Higuera <mineyoshist@protonmail.ch>\n"
-"Language-Team: Spanish "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/es/>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/minetest/"
+"mtg_i18n/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -932,14 +932,6 @@ msgid "Ignore (you hacker you!)"
 msgstr "Ignore (tu hacker tu!)"
 
 #: init.lua
-msgid "Nyan Cat Rainbow"
-msgstr "Arcoiris de Nyan Cat"
-
-#: init.lua
-msgid "Nyan Cat"
-msgstr "Nyan Cat"
-
-#: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
 msgstr "Destornillador (click-izquierdo rota cara, click-derecho rota el eje)"
 
@@ -1220,6 +1212,10 @@ msgid "Gun Powder"
 msgstr "Polvora"
 
 #: init.lua
+msgid "TNT"
+msgstr ""
+
+#: init.lua
 msgid "Unknown Item"
 msgstr "Item Desconocido"
 
@@ -1322,3 +1318,11 @@ msgstr "Reja de Hierro"
 #: init.lua
 msgid "Glass Pane"
 msgstr "Panel de Vidrio"
+
+#: init.lua
+msgid "Nyan Cat Rainbow"
+msgstr "Arcoiris de Nyan Cat"
+
+#: init.lua
+msgid "Nyan Cat"
+msgstr "Nyan Cat"

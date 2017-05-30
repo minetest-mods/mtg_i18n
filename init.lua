@@ -281,8 +281,6 @@ desc("flowers:tulip", S("Orange Tulip"))
 desc("flowers:viola", S("Viola"))
 desc("flowers:waterlily", S("Waterlily"))
 desc("ignore", S("Ignore (you hacker you!)"))
-desc("nyancat:nyancat_rainbow", S("Nyan Cat Rainbow"))
-desc("nyancat:nyancat", S("Nyan Cat"))
 desc("screwdriver:screwdriver", S("Screwdriver (left-click rotates face, right-click rotates axis)"))
 desc("stairs:slab_acacia_wood", S("Acacia Wood Slab"))
 desc("stairs:slab_aspen_wood", S("Aspen Wood Slab"))
@@ -353,6 +351,7 @@ desc("stairs:stair_stone", S("Stone Stair"))
 desc("stairs:stair_straw", S("Straw Stair"))
 desc("stairs:stair_wood", S("Wooden Stair"))
 desc("tnt:gunpowder", S("Gun Powder"))
+desc("tnt:tnt", S("TNT"))
 desc("unknown", S("Unknown Item"))
 desc("vessels:drinking_glass", S("Drinking Glass (empty)"))
 desc("vessels:glass_bottle", S("Glass Bottle (empty)"))
@@ -382,3 +381,9 @@ desc("xpanes:bar", S("Iron bar"))
 desc("xpanes:pane_flat", S("Glass Pane"))
 desc("xpanes:pane", S("Glass Pane"))
 
+--
+-- Legacy
+--
+
+desc("nyancat:nyancat_rainbow", S("Nyan Cat Rainbow"))
+desc("nyancat:nyancat", S("Nyan Cat"))
