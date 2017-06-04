@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-05-31 14:35+0000\n"
+"PO-Revision-Date: 2017-06-04 15:00+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: Turkish "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/tr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 2.15-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -61,7 +61,7 @@ msgstr "Fren rayı"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr "Sepet (Almak için Sız+Tıkla)"
+msgstr "Vagon (Almak için Sız+Tıkla)"
 
 #: init.lua
 msgid "Powered rail"
@@ -73,15 +73,15 @@ msgstr "Ray"
 
 #: init.lua
 msgid "Acacia Bush Leaves"
-msgstr "Akasya Çalı Yaprakları"
+msgstr "Akasya Çalısı Yaprakları"
 
 #: init.lua
 msgid "Acacia Bush Sapling"
-msgstr "Akasya Çalı Fidanı"
+msgstr "Akasya Çalısı Fidanı"
 
 #: init.lua
 msgid "Acacia Bush Stem"
-msgstr "Akasya Çalı Kökü"
+msgstr "Akasya Çalısı Kökü"
 
 #: init.lua
 msgid "Acacia Leaves"
@@ -197,7 +197,7 @@ msgstr "Kil Tuğla"
 
 #: init.lua
 msgid "Clay Lump"
-msgstr "Kil Yumru"
+msgstr "Kil Yığını"
 
 #: init.lua
 msgid "Clay"
@@ -213,7 +213,7 @@ msgstr "Kömür Blok"
 
 #: init.lua
 msgid "Coal Lump"
-msgstr "Kömür Yumru"
+msgstr "Kömür Yığını"
 
 #: init.lua
 msgid "Cobblestone"
@@ -229,7 +229,7 @@ msgstr "Bakır Külçe"
 
 #: init.lua
 msgid "Copper Lump"
-msgstr "Bakır Yumru"
+msgstr "Bakır Yığını"
 
 #: init.lua
 msgid "Brown Coral"
@@ -293,7 +293,7 @@ msgstr "Kuru Çimli Kir"
 
 #: init.lua
 msgid "Dirt with Grass and Footsteps"
-msgstr "Çim ve Ayakizli Kir"
+msgstr "Çimli ve Ayakizli Kir"
 
 #: init.lua
 msgid "Dirt with Grass"
@@ -357,7 +357,7 @@ msgstr "Altın Külçe"
 
 #: init.lua
 msgid "Gold Lump"
-msgstr "Altın Yumru"
+msgstr "Altın Yığını"
 
 #: init.lua
 msgid "Grass"
@@ -373,7 +373,7 @@ msgstr "Buz"
 
 #: init.lua
 msgid "Iron Lump"
-msgstr "Demir Yumru"
+msgstr "Demir Yığını"
 
 #: init.lua
 msgid "Jungle Grass"
@@ -421,7 +421,7 @@ msgstr "Yapraklar"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr "Mese Kristal Parça"
+msgstr "Mese Kristal Parçası"
 
 #: init.lua
 msgid "Mese Crystal"
@@ -609,7 +609,7 @@ msgstr "Çelik Külçe"
 
 #: init.lua
 msgid "Stick"
-msgstr "Sopa"
+msgstr "Çubuk"
 
 #: init.lua
 msgid "Stone Block"
@@ -673,7 +673,7 @@ msgstr "Taş Kılıç"
 
 #: init.lua
 msgid "Wooden Sword"
-msgstr "Tahta Kılıç"
+msgstr "Ahşap Kılıç"
 
 #: init.lua
 msgid "Tin Block"
@@ -685,7 +685,7 @@ msgstr "Kalay Külçe"
 
 #: init.lua
 msgid "Tin Lump"
-msgstr "Kalay Yumru"
+msgstr "Kalay Yığını"
 
 #: init.lua
 msgid "Torch"
