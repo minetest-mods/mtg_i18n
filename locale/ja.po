@@ -8,24 +8,25 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 16:29+0200\n"
-"PO-Revision-Date: 2017-05-16 22:38+0000\n"
-"Last-Translator: Rui914 <mrrst0914@gmail.com>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/minetest/"
-"mtg_i18n/ja/>\n"
+"PO-Revision-Date: 2017-06-16 13:43+0000\n"
+"Last-Translator: Rui <rui.minetest@gmail.com>\n"
+"Language-Team: Japanese "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14-dev\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.15-dev\n"
 
 #: init.lua
+#, fuzzy
 msgid "Air (you hacker you!)"
-msgstr ""
+msgstr "空気"
 
 #: init.lua
 msgid "Simple Bed"
-msgstr "ベッド"
+msgstr "簡素なベッド"
 
 #: init.lua
 msgid "Fancy Bed"
@@ -33,7 +34,7 @@ msgstr "お洒落なベッド"
 
 #: init.lua
 msgid "Boat"
-msgstr ""
+msgstr "ボート"
 
 #: init.lua
 msgid "Bones"
@@ -41,20 +42,19 @@ msgstr "骨"
 
 #: init.lua
 msgid "Empty Bucket"
-msgstr "バケツ"
+msgstr "空のバケツ"
 
 #: init.lua
 msgid "Lava Bucket"
-msgstr "溶岩入りバケツ"
+msgstr "溶岩バケツ"
 
 #: init.lua
-#, fuzzy
 msgid "River Water Bucket"
-msgstr "水入りバケツ"
+msgstr "川の水バケツ"
 
 #: init.lua
 msgid "Water Bucket"
-msgstr "水入りバケツ"
+msgstr "水バケツ"
 
 #: init.lua
 msgid "Brake rail"
