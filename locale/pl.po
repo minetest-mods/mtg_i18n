@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-06-06 18:27+0000\n"
-"Last-Translator: Mateusz Mendel <mendelm9@gmail.com>\n"
+"PO-Revision-Date: 2017-06-18 16:29+0000\n"
+"Last-Translator: LNJ <git@lnj.li>\n"
 "Language-Team: Polish "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/pl/>\n"
 "Language: pl\n"
@@ -21,62 +21,50 @@ msgstr ""
 "X-Generator: Weblate 2.15-dev\n"
 
 #: init.lua
-#, fuzzy
 msgid "Air (you hacker you!)"
 msgstr "Powietrze (ty hakerze ty!)"
 
 #: init.lua
-#, fuzzy
 msgid "Simple Bed"
 msgstr "Proste łóżko"
 
 #: init.lua
-#, fuzzy
 msgid "Fancy Bed"
 msgstr "Łóżko ozdobne"
 
 #: init.lua
-#, fuzzy
 msgid "Boat"
 msgstr "Łódka"
 
 #: init.lua
-#, fuzzy
 msgid "Bones"
 msgstr "Kości"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Bucket"
 msgstr "Puste wiadro"
 
 #: init.lua
-#, fuzzy
 msgid "Lava Bucket"
 msgstr "Wiadro lawy"
 
 #: init.lua
-#, fuzzy
 msgid "River Water Bucket"
 msgstr "Wiadro wody z rzeki"
 
 #: init.lua
-#, fuzzy
 msgid "Water Bucket"
 msgstr "Wiadro wody"
 
 #: init.lua
-#, fuzzy
 msgid "Brake rail"
 msgstr "Hamujący tor"
 
 #: init.lua
-#, fuzzy
 msgid "Cart (Sneak+Click to pick up)"
 msgstr "Wózek (Skradanie+Click aby podnieś)"
 
 #: init.lua
-#, fuzzy
 msgid "Powered rail"
 msgstr "Zasilany tor"
 
@@ -86,287 +74,230 @@ msgid "Rail"
 msgstr "Tor"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Leaves"
 msgstr "Liście krzaku akacji"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Sapling"
 msgstr "Sadzonka krzaku akacji"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Stem"
 msgstr "Łodyga krzaku akacji"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Leaves"
 msgstr "Liście akacji"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree Sapling"
 msgstr "Sadzonka drzewa akacji"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree"
 msgstr "Drzewo akacji"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Planks"
 msgstr "Deski akacjowe"
 
 #: init.lua
-#, fuzzy
 msgid "Apple"
 msgstr "Jabłko"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Leaves"
 msgstr "Liście osiki"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree Sapling"
 msgstr "Sadzonka drzewa osikowego"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree"
 msgstr "Drzewo osiki"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Planks"
 msgstr "Deski osikowe"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Axe"
 msgstr "Brązowa siekiera"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Axe"
 msgstr "Diamentowa siekiera"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Axe"
 msgstr "Mese siekiera"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Axe"
 msgstr "Stalowa siekiera"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Axe"
 msgstr "Kamienna siekiera"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Axe"
 msgstr "Drewniana siekiera"
 
 #: init.lua
-#, fuzzy
 msgid "Book"
 msgstr "Książka"
 
 #: init.lua
-#, fuzzy
 msgid "Bookshelf"
 msgstr "Półka na książki"
 
 #: init.lua
-#, fuzzy
 msgid "Book With Text"
 msgstr "Książka z tekstem"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Block"
 msgstr "Blok ceglany"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block"
 msgstr "Blok brązu"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Ingot"
 msgstr "Sztabka brązu"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Leaves"
 msgstr "Liście krzaku"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Sapling"
 msgstr "Sadzonka krzaku"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Stem"
 msgstr "Łodyga krzaku"
 
 #: init.lua
-#, fuzzy
 msgid "Cactus"
 msgstr "Kaktus"
 
 #: init.lua
-#, fuzzy
 msgid "Locked Chest"
 msgstr "Zablokowana skrzynia"
 
 #: init.lua
-#, fuzzy
 msgid "Chest"
 msgstr "Skrzynia"
 
 #: init.lua
-#, fuzzy
 msgid "Clay Brick"
 msgstr "Gliniana cegła"
 
 #: init.lua
-#, fuzzy
 msgid "Clay Lump"
 msgstr "Bryłka gliny"
 
 #: init.lua
-#, fuzzy
 msgid "Clay"
 msgstr "Glina"
 
 #: init.lua
-#, fuzzy
 msgid "Cloud"
 msgstr "Chmura"
 
 #: init.lua
-#, fuzzy
 msgid "Coal Block"
 msgstr "Blok węgla"
 
 #: init.lua
-#, fuzzy
 msgid "Coal Lump"
 msgstr "Bryłka węgla"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone"
 msgstr "Bruk"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block"
 msgstr "Blok miedzi"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Ingot"
 msgstr "Sztabka miedzi"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Lump"
 msgstr "Bryłka miedzi"
 
 #: init.lua
-#, fuzzy
 msgid "Brown Coral"
 msgstr "Brązowy koral"
 
 #: init.lua
-#, fuzzy
 msgid "Orange Coral"
 msgstr "Pomarańczowy koral"
 
 #: init.lua
-#, fuzzy
 msgid "Coral Skeleton"
 msgstr "Szkielet koralu"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone"
 msgstr "Pustynny bruk"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sand"
 msgstr "Pustynny piasek"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block"
 msgstr "Pustynny blok piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick"
 msgstr "Pustynna cegła piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone"
 msgstr "Pustynny piaskowiec"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block"
 msgstr "Pustynny blok kamienia"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick"
 msgstr "Pustynna kamienna cegła"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone"
 msgstr "Pustynny kamień"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Block"
 msgstr "Blok diamentu"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond"
 msgstr "Diament"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt"
 msgstr "Ziemia"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Dry Grass"
 msgstr "Ziemia z wysuszoną trawą"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Grass and Footsteps"
 msgstr "Ziemia z trawą i śladami stóp"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Grass"
 msgstr "Ziemia z trawą"
 
@@ -376,17 +307,14 @@ msgid "Dirt with Rainforest Litter"
 msgstr "Ziemia ze ściółką lasu deszczowego"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Snow"
 msgstr "Ziemia ze śniegiem"
 
 #: init.lua
-#, fuzzy
 msgid "Dry Grass"
 msgstr "Wysuszona trawa"
 
 #: init.lua
-#, fuzzy
 msgid "Dry Shrub"
 msgstr "Wysuszony krzak"
 
