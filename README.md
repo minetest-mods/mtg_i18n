@@ -8,15 +8,17 @@ descriptions will be translated into your system's language (or language set in 
 settings), but of course only as long your language is supported.
 
 ### Currently supported languages
- * English (native)
  * Belarusian
+ * Esperanto
  * French (~40%)
  * German
- * Indonesian (~45%)
+ * Indonesian
  * Italian (~45%)
- * Japanese (~50%)
+ * Japanese (~55%)
  * Malay
+ * Polish
  * Russian (~60%)
+ * Serbian (~5%)
  * Spanish
  * Turkish
 
