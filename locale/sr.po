@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-06-16 20:01+0000\n"
+"PO-Revision-Date: 2017-06-19 23:07+0000\n"
 "Last-Translator: Stefan Vukanovic <lisacvukhome@gmail.com>\n"
 "Language-Team: Serbian "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/sr/>\n"
@@ -98,207 +98,207 @@ msgstr "Drvo akacije"
 
 #: init.lua
 msgid "Acacia Wood Planks"
-msgstr ""
+msgstr "Daske drveta akacije"
 
 #: init.lua
 msgid "Apple"
-msgstr ""
+msgstr "Jabuka"
 
 #: init.lua
 msgid "Aspen Leaves"
-msgstr ""
+msgstr "Lišće jasike"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
-msgstr ""
+msgstr "Sadnica drveta jasike"
 
 #: init.lua
 msgid "Aspen Tree"
-msgstr ""
+msgstr "Drvo jasike"
 
 #: init.lua
 msgid "Aspen Wood Planks"
-msgstr ""
+msgstr "Daske drveta jasike"
 
 #: init.lua
 msgid "Bronze Axe"
-msgstr ""
+msgstr "Bronzana sekira"
 
 #: init.lua
 msgid "Diamond Axe"
-msgstr ""
+msgstr "Dijamantska sekira"
 
 #: init.lua
 msgid "Mese Axe"
-msgstr ""
+msgstr "Mese sekira"
 
 #: init.lua
 msgid "Steel Axe"
-msgstr ""
+msgstr "Gvozdena sekira"
 
 #: init.lua
 msgid "Stone Axe"
-msgstr ""
+msgstr "Kamena sekira"
 
 #: init.lua
 msgid "Wooden Axe"
-msgstr ""
+msgstr "Drvena sekira"
 
 #: init.lua
 msgid "Book"
-msgstr ""
+msgstr "Knjiga"
 
 #: init.lua
 msgid "Bookshelf"
-msgstr ""
+msgstr "Polica sa knjigama"
 
 #: init.lua
 msgid "Book With Text"
-msgstr ""
+msgstr "Knjiga sa tekstom"
 
 #: init.lua
 msgid "Brick Block"
-msgstr ""
+msgstr "Blok cigli"
 
 #: init.lua
 msgid "Bronze Block"
-msgstr ""
+msgstr "Blok bronze"
 
 #: init.lua
 msgid "Bronze Ingot"
-msgstr ""
+msgstr "Ingot bronze"
 
 #: init.lua
 msgid "Bush Leaves"
-msgstr ""
+msgstr "Lišće žbuna"
 
 #: init.lua
 msgid "Bush Sapling"
-msgstr ""
+msgstr "Sadnica žbuna"
 
 #: init.lua
 msgid "Bush Stem"
-msgstr ""
+msgstr "Korenje žbuna"
 
 #: init.lua
 msgid "Cactus"
-msgstr ""
+msgstr "Kaktus"
 
 #: init.lua
 msgid "Locked Chest"
-msgstr ""
+msgstr "Zaključan sanduk"
 
 #: init.lua
 msgid "Chest"
-msgstr ""
+msgstr "Sanduk"
 
 #: init.lua
 msgid "Clay Brick"
-msgstr ""
+msgstr "Cigla"
 
 #: init.lua
 msgid "Clay Lump"
-msgstr ""
+msgstr "Glina"
 
 #: init.lua
 msgid "Clay"
-msgstr ""
+msgstr "Pečena glina"
 
 #: init.lua
 msgid "Cloud"
-msgstr ""
+msgstr "Oblak"
 
 #: init.lua
 msgid "Coal Block"
-msgstr ""
+msgstr "Blok uglja"
 
 #: init.lua
 msgid "Coal Lump"
-msgstr ""
+msgstr "Ruda uglja"
 
 #: init.lua
 msgid "Cobblestone"
-msgstr ""
+msgstr "Kaldrma"
 
 #: init.lua
 msgid "Copper Block"
-msgstr ""
+msgstr "Blok bakra"
 
 #: init.lua
 msgid "Copper Ingot"
-msgstr ""
+msgstr "Ingot bakra"
 
 #: init.lua
 msgid "Copper Lump"
-msgstr ""
+msgstr "Ruda bakra"
 
 #: init.lua
 msgid "Brown Coral"
-msgstr ""
+msgstr "Braon koral"
 
 #: init.lua
 msgid "Orange Coral"
-msgstr ""
+msgstr "Narandžasti koral"
 
 #: init.lua
 msgid "Coral Skeleton"
-msgstr ""
+msgstr "Koralni skeleton"
 
 #: init.lua
 msgid "Desert Cobblestone"
-msgstr ""
+msgstr "Pustinjska kaldrma"
 
 #: init.lua
 msgid "Desert Sand"
-msgstr ""
+msgstr "Pustinjski pesak"
 
 #: init.lua
 msgid "Desert Sandstone Block"
-msgstr ""
+msgstr "Blok kamena pustinjskog peska"
 
 #: init.lua
 msgid "Desert Sandstone Brick"
-msgstr ""
+msgstr "Cigla pustinjskog peska"
 
 #: init.lua
 msgid "Desert Sandstone"
-msgstr ""
+msgstr "Kamen pustinjskog peska"
 
 #: init.lua
 msgid "Desert Stone Block"
-msgstr ""
+msgstr "Blok pustinjskog kamena"
 
 #: init.lua
 msgid "Desert Stone Brick"
-msgstr ""
+msgstr "Cigla pustinjskog kamena"
 
 #: init.lua
 msgid "Desert Stone"
-msgstr ""
+msgstr "Pustinjski kamen"
 
 #: init.lua
 msgid "Diamond Block"
-msgstr ""
+msgstr "Dijamantski blok"
 
 #: init.lua
 msgid "Diamond"
-msgstr ""
+msgstr "Dijamant"
 
 #: init.lua
 msgid "Dirt"
-msgstr ""
+msgstr "Zemlja"
 
 #: init.lua
 msgid "Dirt with Dry Grass"
-msgstr ""
+msgstr "Zemlja sa suvom travom"
 
 #: init.lua
 msgid "Dirt with Grass and Footsteps"
-msgstr ""
+msgstr "Zemlja sa travom i tragovima"
 
 #: init.lua
 msgid "Dirt with Grass"
-msgstr ""
+msgstr "Zemlja sa travom"
 
 #: init.lua
 msgid "Dirt with Rainforest Litter"
