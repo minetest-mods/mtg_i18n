@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-06-18 16:29+0000\n"
-"Last-Translator: LNJ <git@lnj.li>\n"
+"PO-Revision-Date: 2017-06-20 20:35+0000\n"
+"Last-Translator: Jakub Mendel <jimikuba@o2.pl>\n"
 "Language-Team: Polish "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/pl/>\n"
 "Language: pl\n"
@@ -69,7 +69,6 @@ msgid "Powered rail"
 msgstr "Zasilany tor"
 
 #: init.lua
-#, fuzzy
 msgid "Rail"
 msgstr "Tor"
 
@@ -302,7 +301,6 @@ msgid "Dirt with Grass"
 msgstr "Ziemia z trawą"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Rainforest Litter"
 msgstr "Ziemia ze ściółką lasu deszczowego"
 
@@ -319,147 +317,118 @@ msgid "Dry Shrub"
 msgstr "Wysuszony krzak"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Fence"
 msgstr "Płot akacjowy"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Fence"
 msgstr "Płot osikowy"
 
 #: init.lua
-#, fuzzy
 msgid "Junglewood Fence"
 msgstr "Płot z drewna jungli"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Fence"
 msgstr "Płot sosnowy"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Fence"
 msgstr "Płot drewniany"
 
 #: init.lua
-#, fuzzy
 msgid "Flint"
 msgstr "Krzemień"
 
 #: init.lua
-#, fuzzy
 msgid "Furnace"
 msgstr "Piec"
 
 #: init.lua
-#, fuzzy
 msgid "Glass"
 msgstr "Szkło"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block"
 msgstr "Blok złota"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Ingot"
 msgstr "Sztabka złota"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Lump"
 msgstr "Bryłka złota"
 
 #: init.lua
-#, fuzzy
 msgid "Grass"
 msgstr "Trawa"
 
 #: init.lua
-#, fuzzy
 msgid "Gravel"
 msgstr "Żwir"
 
 #: init.lua
-#, fuzzy
 msgid "Ice"
 msgstr "Lód"
 
 #: init.lua
-#, fuzzy
 msgid "Iron Lump"
 msgstr "Bryłka żelaza"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Grass"
 msgstr "Trawa jungli"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Leaves"
 msgstr "Liście jungli"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Sapling"
 msgstr "Sadzonka jungli"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree"
 msgstr "Drzewo jungli"
 
 #: init.lua
-#, fuzzy
 msgid "Junglewood Planks"
 msgstr "Deski drzewa jungli"
 
 #: init.lua
-#, fuzzy
 msgid "Key"
 msgstr "Klucz"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Ladder"
 msgstr "Stalowa drabina"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Ladder"
 msgstr "Drewniana drabina"
 
 #: init.lua
-#, fuzzy
 msgid "Flowing Lava"
 msgstr "Płynąca lawa"
 
 #: init.lua
-#, fuzzy
 msgid "Lava Source"
 msgstr "Źródło lawy"
 
 #: init.lua
-#, fuzzy
 msgid "Leaves"
 msgstr "Liście"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Crystal Fragment"
 msgstr "Fragment kryształu Mese"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Crystal"
 msgstr "Kryształ Mese"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Lamp"
 msgstr "Lampa Mese"
 
@@ -468,47 +437,38 @@ msgid "Mese Post Light"
 msgstr "Lampa uliczna Mese"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Block"
 msgstr "Blok Mese"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone"
 msgstr "Omszały bruk"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block"
 msgstr "Blok obsydianu"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick"
 msgstr "Cegła obsydianowa"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Glass"
 msgstr "Szkło obsydianowe"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Shard"
 msgstr "Odłamek obsydianowy"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian"
 msgstr "Obsydian"
 
 #: init.lua
-#, fuzzy
 msgid "Paper"
 msgstr "Papier"
 
 #: init.lua
-#, fuzzy
 msgid "Papyrus"
 msgstr "Papirus"
 
@@ -517,27 +477,22 @@ msgid "Bronze Pickaxe"
 msgstr "Brązowy kilof"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Pickaxe"
 msgstr "Diamentowy kilof"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Pickaxe"
 msgstr "Mese kilof"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Pickaxe"
 msgstr "Stalowy kilof"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Pickaxe"
 msgstr "Kamienny kilof"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Pickaxe"
 msgstr "Drewniany kilof"
 
@@ -546,22 +501,18 @@ msgid "Pine Needles"
 msgstr "Igła sosnowa"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Sapling"
 msgstr "Sadzonka sosny"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Tree"
 msgstr "Drzewo sosnowe"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Planks"
 msgstr "Deski sosnowe"
 
 #: init.lua
-#, fuzzy
 msgid "Flowing River Water"
 msgstr "Płynąca woda rzeczna"
 
@@ -574,17 +525,14 @@ msgid "Sand"
 msgstr "Piasek"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block"
 msgstr "Blok piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick"
 msgstr "Cegła z piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone"
 msgstr "Piaskowiec"
 
@@ -597,12 +545,10 @@ msgid "Bronze Shovel"
 msgstr "Brązowa łopata"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Shovel"
 msgstr "Diamentowa łopata"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Shovel"
 msgstr "Mese łopata"
 
@@ -611,7 +557,6 @@ msgid "Steel Shovel"
 msgstr "Stalowa łopata"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Shovel"
 msgstr "Kamienna łopata"
 
@@ -620,42 +565,34 @@ msgid "Wooden Shovel"
 msgstr "Drewniana łopata"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Sign"
 msgstr "Stalowy znak"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Sign"
 msgstr "Drewniany znak"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sand"
 msgstr "Srebrny piasek"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block"
 msgstr "Blok srebrnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick"
 msgstr "Cegła srebrnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone"
 msgstr "Srebrny piaskowiec"
 
 #: init.lua
-#, fuzzy
 msgid "Skeleton Key"
 msgstr "Wytrych"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block"
 msgstr "Blok śniegu"
 
@@ -664,57 +601,46 @@ msgid "Snow"
 msgstr "Śnieg"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block"
 msgstr "Blok stali"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Ingot"
 msgstr "Sztabka stali"
 
 #: init.lua
-#, fuzzy
 msgid "Stick"
 msgstr "Patyk"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block"
 msgstr "Kamienny blok"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick"
 msgstr "Kamienna cegła"
 
 #: init.lua
-#, fuzzy
 msgid "Stone"
 msgstr "Kamień"
 
 #: init.lua
-#, fuzzy
 msgid "Coal Ore"
 msgstr "Ruda węgla"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Ore"
 msgstr "Ruda miedzi"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Ore"
 msgstr "Ruda diamentu"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Ore"
 msgstr "Ruda złota"
 
 #: init.lua
-#, fuzzy
 msgid "Iron Ore"
 msgstr "Ruda żelaza"
 
@@ -723,327 +649,262 @@ msgid "Mese Ore"
 msgstr "Ruda mese"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Ore"
 msgstr "Ruda cyny"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Sword"
 msgstr "Miecz z brązu"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Sword"
 msgstr "Diamentowy miecz"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Sword"
 msgstr "Miecz z mese"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Sword"
 msgstr "Stalowy miecz"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Sword"
 msgstr "Kamienny miecz"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Sword"
 msgstr "Drewniany miecz"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block"
 msgstr "Blok cyny"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Ingot"
-msgstr "Ruda cyny"
+msgstr "Sztabka cyny"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Lump"
-msgstr "Bryła cyny"
+msgstr "Bryłka cyny"
 
 #: init.lua
-#, fuzzy
 msgid "Torch"
 msgstr "Pochodnia"
 
 #: init.lua
-#, fuzzy
 msgid "Tree"
 msgstr "Drzewo"
 
 #: init.lua
-#, fuzzy
 msgid "Flowing Water"
-msgstr "Falująca woda"
+msgstr "Płynąca woda"
 
 #: init.lua
-#, fuzzy
 msgid "Water Source"
-msgstr "Zródełko"
+msgstr "Źródełko wody"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Planks"
 msgstr "Drewniane deski"
 
 #: init.lua
-#, fuzzy
 msgid "Glass Door"
 msgstr "Szklane drzwi"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Glass Door"
 msgstr "Drzwi ze szkła obsydianowego"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Door"
 msgstr "Stalowe drzwi"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Door"
 msgstr "Drewniane drzwi"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Fence Gate"
 msgstr "Akacjowa furtka ogrodzenia"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Fence Gate"
 msgstr "Osikowa furtka ogrodzenia"
 
 #: init.lua
-#, fuzzy
 msgid "Junglewood Fence Gate"
 msgstr "Dżunglowa furtka ogrodzenia"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Fence Gate"
 msgstr "Sosnowa furtka ogrodzenia"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Fence Gate"
 msgstr "Drewniana furtka ogrodzenia"
 
 #: init.lua
-#, fuzzy
 msgid "Hidden Door Segment"
 msgstr "Ukryta część drzwi"
 
 #: init.lua
-#, fuzzy
 msgid "Trapdoor"
 msgstr "Zapadnia"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Trapdoor"
 msgstr "Stalowa zapadnia"
 
 #: init.lua
-#, fuzzy
 msgid "Black dye"
 msgstr "Czarny barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Blue dye"
 msgstr "Niebieski barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Brown dye"
 msgstr "Brązowy barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Cyan dye"
 msgstr "Turkusowy barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Dark green dye"
 msgstr "Ciemnozielony barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Dark grey dye"
 msgstr "Ciemnoniebieski barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Green dye"
 msgstr "Zielony barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Grey dye"
 msgstr "Szary barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Magenta dye"
 msgstr "Purpurowy barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Orange dye"
 msgstr "Pomarańczowy barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Pink dye"
 msgstr "Różowy barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Red dye"
 msgstr "Czerwony barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Violet dye"
 msgstr "Fioletowy barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "White dye"
 msgstr "Biały barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Yellow dye"
 msgstr "Żółty barwnik"
 
 #: init.lua
-#, fuzzy
 msgid "Bread"
 msgstr "Chleb"
 
 #: init.lua
-#, fuzzy
 msgid "Cotton"
 msgstr "Bawełna"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sand Soil"
-msgstr "Ziemia pustynnego piasku"
+msgstr "Gleba pustynnego piasku"
 
 #: init.lua
-#, fuzzy
 msgid "Wet Desert Sand Soil"
-msgstr "Mokre podłoże pustynnego piasku"
+msgstr "Mokra gleba pustynnego piasku"
 
 #: init.lua
-#, fuzzy
 msgid "Flour"
 msgstr "Mąka"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Hoe"
 msgstr "Motyka z brązu"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Hoe"
 msgstr "Diamentowa motyka"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Hoe"
 msgstr "Motyka z mese"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Hoe"
 msgstr "Stalowa motyka"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Hoe"
 msgstr "Kamienna motyka"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Hoe"
 msgstr "Drewniana motyka"
 
 #: init.lua
-#, fuzzy
 msgid "Cotton seed"
 msgstr "Nasiono bawełny"
 
 #: init.lua
-#, fuzzy
 msgid "Wheat seed"
 msgstr "Ziarno pszenicy"
 
 #: init.lua
-#, fuzzy
 msgid "Soil"
 msgstr "Gleba"
 
 #: init.lua
-#, fuzzy
 msgid "Wet Soil"
 msgstr "Mokra gleba"
 
 #: init.lua
-#, fuzzy
 msgid "Straw"
 msgstr "Źdźbło"
 
 #: init.lua
-#, fuzzy
 msgid "Wheat"
 msgstr "Pszenica"
 
 #: init.lua
-#, fuzzy
 msgid "Flint and Steel"
 msgstr "Krzemień i stal"
 
 #: init.lua
-#, fuzzy
 msgid "Permanent Flame"
 msgstr "Stały płomień"
 
 #: init.lua
-#, fuzzy
 msgid "White dandelion"
 msgstr "Biały mlecz"
 
 #: init.lua
-#, fuzzy
 msgid "Yellow Dandelion"
 msgstr "Żółty mlecz"
 
 #: init.lua
-#, fuzzy
 msgid "Blue Geranium"
 msgstr "Niebieska pelargonia"
 
 #: init.lua
-#, fuzzy
 msgid "Brown Mushroom"
 msgstr "Brązowy grzyb"
 
@@ -1068,137 +929,110 @@ msgid "Viola"
 msgstr "Fiołek"
 
 #: init.lua
-#, fuzzy
 msgid "Waterlily"
 msgstr "Lilia wodna"
 
 #: init.lua
-#, fuzzy
 msgid "Ignore (you hacker you!)"
-msgstr "Zignoruj(ty hackerze ty !)"
+msgstr "Zignoruj (ty hackerze ty!)"
 
 #: init.lua
-#, fuzzy
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
-msgstr "Śrubokręt ( lewy przycisk obraca front, a prawy przycisk obraca oś)"
+msgstr "Śrubokręt (lewy przycisk obraca ściankę, a prawy przycisk obraca oś)"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Slab"
 msgstr "Akacjowa płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Slab"
 msgstr "Osikowa płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Slab"
 msgstr "Ceglana płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Slab"
 msgstr "Płyta bloku brązu"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Slab"
 msgstr "Brukowa płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Slab"
 msgstr "Płyta miedzianego bloku"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Slab"
 msgstr "Płyta pustynnego bruku"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Slab"
 msgstr "Płyta bloku pustynnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Slab"
 msgstr "Ceglana płyta pustynnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Slab"
 msgstr "Płyta pustynnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Slab"
 msgstr "Płyta bloku pustynnego kamienia"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Slab"
 msgstr "Ceglana płyta pustynnego kamienia"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Slab"
 msgstr "Płyta pustynnego kamienia"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Slab"
 msgstr "Płyta złotego bloku"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Slab"
 msgstr "Lodowa płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Slab"
 msgstr "Płyta drewna dżunglowego"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Slab"
 msgstr "Płyta omszałego bruku"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Slab"
 msgstr "Płyta bloku obsydianu"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Slab"
 msgstr "Ceglana obsydianowa płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Slab"
 msgstr "Obsydianowa płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Slab"
 msgstr "Płyta drewna sosnowego"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Slab"
 msgstr "Płyta bloku piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Slab"
 msgstr "Ceglana płyta piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Slab"
 msgstr "Płyta piaskowca"
 
@@ -1207,92 +1041,74 @@ msgid "Silver Sandstone Block Slab"
 msgstr "Płyta bloku srebrnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Slab"
 msgstr "Ceglana płyta srebrnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Slab"
 msgstr "Płyta srebrnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Slab"
 msgstr "Płyta śnieżnego bloku"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Slab"
 msgstr "Płyta stalowego bloku"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Slab"
 msgstr "Płyta kamiennego bloku"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Slab"
 msgstr "Płyta kamiennej cegły"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Slab"
 msgstr "Kamienna płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Slab"
 msgstr "Płyta źdźbła"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Slab"
 msgstr "Drewniana płyta"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair"
 msgstr "Akacjowe schody"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair"
 msgstr "Osikowe schody"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair"
 msgstr "Ceglane schody"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair"
 msgstr "Schody bloku z brązu"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair"
 msgstr "Brukowe schody"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair"
 msgstr "Schody z miedzianego bloku"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair"
 msgstr "Schody z pustynnego bruku"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair"
 msgstr "Schody z bloku pustynnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair"
 msgstr "Ceglane schody z pustynnego piaskowca"
 
@@ -1301,7 +1117,6 @@ msgid "Desert Sandstone Stair"
 msgstr "Schody z pustynnego piaskowca"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair"
 msgstr "Schody z bloku pustynnego kamienia"
 
@@ -1314,37 +1129,30 @@ msgid "Desert Stone Stair"
 msgstr "Schody z pustynnego kamienia"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair"
 msgstr "Schody z bloku złota"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair"
 msgstr "Lodowe schody"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair"
 msgstr "Schody z drewna dżunglowego"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair"
 msgstr "Schody z omszałego bruku"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair"
 msgstr "Schody z obsydianowego bloku"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair"
 msgstr "Schody z obsydianowej cegły"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair"
 msgstr "Obsydianowe schody"
 
