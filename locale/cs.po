@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-06-18 19:55+0000\n"
+"PO-Revision-Date: 2017-06-21 19:35+0000\n"
 "Last-Translator: Jakub Vaněk <vanek.jakub4@seznam.cz>\n"
 "Language-Team: Czech "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/cs/>\n"
@@ -20,1442 +20,1309 @@ msgstr ""
 "X-Generator: Weblate 2.15-dev\n"
 
 #: init.lua
-#, fuzzy
 msgid "Air (you hacker you!)"
 msgstr "Vzduch (ty jeden hackere!)"
 
 #: init.lua
-#, fuzzy
 msgid "Simple Bed"
-msgstr "Jednoduchá postel"
+msgstr "Prostá postel"
 
 #: init.lua
-#, fuzzy
 msgid "Fancy Bed"
 msgstr "Zdobená postel"
 
 #: init.lua
-#, fuzzy
 msgid "Boat"
 msgstr "Loďka"
 
 #: init.lua
-#, fuzzy
 msgid "Bones"
 msgstr "Kosti"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Bucket"
 msgstr "Prázdný kbelík"
 
 #: init.lua
-#, fuzzy
 msgid "Lava Bucket"
 msgstr "Kbelík s lávou"
 
 #: init.lua
-#, fuzzy
 msgid "River Water Bucket"
 msgstr "Kbelík s říční vodou"
 
 #: init.lua
-#, fuzzy
 msgid "Water Bucket"
 msgstr "Kbelík s vodou"
 
 #: init.lua
-#, fuzzy
 msgid "Brake rail"
 msgstr "Brzdící kolej"
 
 #: init.lua
-#, fuzzy
 msgid "Cart (Sneak+Click to pick up)"
 msgstr "Vagon (plížit+kliknout k sebrání)"
 
 #: init.lua
-#, fuzzy
 msgid "Powered rail"
 msgstr "Napájená kolej"
 
 #: init.lua
-#, fuzzy
 msgid "Rail"
 msgstr "Kolej"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Leaves"
-msgstr "Listy akácie (keře)"
+msgstr "Listí akácie (keře)"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Sapling"
 msgstr "Sazenice akácie (keře)"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Stem"
 msgstr "Stonek akácie (keře)"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Leaves"
-msgstr "Listy akácie"
+msgstr "Listí akácie"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree Sapling"
 msgstr "Sazenice akácie (stromu)"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree"
-msgstr "Akácie (strom)"
+msgstr "Kmen akácie"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Planks"
-msgstr "Akáciová dřevěná prkna"
+msgstr "Dřevěná akáciová prkna"
 
 #: init.lua
-#, fuzzy
 msgid "Apple"
 msgstr "Jablko"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Leaves"
-msgstr "Listy osiky"
+msgstr "Listí osiky"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree Sapling"
 msgstr "Sazenice osiky"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree"
-msgstr "Osika"
+msgstr "Kmen osiky"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Planks"
-msgstr "Osiková dřevěná prkna"
+msgstr "Dřevěná osiková prkna"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Axe"
 msgstr "Bronzová sekera"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Axe"
 msgstr "Diamantová sekera"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Axe"
 msgstr "Mese sekera"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Axe"
 msgstr "Ocelová sekera"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Axe"
 msgstr "Kamenná sekera"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Axe"
 msgstr "Dřevěná sekera"
 
 #: init.lua
-#, fuzzy
 msgid "Book"
 msgstr "Kniha"
 
 #: init.lua
-#, fuzzy
 msgid "Bookshelf"
 msgstr "Regál na knihy"
 
 #: init.lua
-#, fuzzy
 msgid "Book With Text"
 msgstr "Popsaná kniha"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Block"
-msgstr "Blok cihel"
+msgstr "Cihlový blok"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block"
-msgstr "Blok bronzu"
+msgstr "Bronzový blok"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Ingot"
 msgstr "Bronzový ingot"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Leaves"
 msgstr "Listí keře"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Sapling"
 msgstr "Sazenice keře"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Stem"
 msgstr "Stonek keře"
 
 #: init.lua
-#, fuzzy
 msgid "Cactus"
 msgstr "Kaktus"
 
 #: init.lua
-#, fuzzy
 msgid "Locked Chest"
 msgstr "Zamčená truhla"
 
 #: init.lua
-#, fuzzy
 msgid "Chest"
 msgstr "Truhla"
 
 #: init.lua
-#, fuzzy
 msgid "Clay Brick"
-msgstr "Blok jílu"
+msgstr "Pálené cihly"
 
 #: init.lua
-#, fuzzy
 msgid "Clay Lump"
-msgstr "Hromádka jílu"
+msgstr "Hrouda jílu"
 
 #: init.lua
-#, fuzzy
 msgid "Clay"
 msgstr "Jíl"
 
 #: init.lua
-#, fuzzy
 msgid "Cloud"
-msgstr "Mrak"
+msgstr "Oblak"
 
 #: init.lua
-#, fuzzy
 msgid "Coal Block"
 msgstr "Blok uhlí"
 
 #: init.lua
-#, fuzzy
 msgid "Coal Lump"
-msgstr "Hromádka uhlí"
+msgstr "Hrouda uhlí"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone"
-msgstr "Kamení"
+msgstr "Kamenná dlažba"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block"
-msgstr "Blok mědi"
+msgstr "Měděný blok"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Ingot"
 msgstr "Měděný ingot"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Lump"
-msgstr "Hromádka mědi"
+msgstr "Hrouda mědi"
 
 #: init.lua
-#, fuzzy
 msgid "Brown Coral"
 msgstr "Hnědé korály"
 
 #: init.lua
-#, fuzzy
 msgid "Orange Coral"
 msgstr "Oranžové korály"
 
 #: init.lua
-#, fuzzy
 msgid "Coral Skeleton"
 msgstr "Zkamenělý korál"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone"
-msgstr "Pouštní kamení"
+msgstr "Pouštní kamenná dlažba"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sand"
 msgstr "Pouštní písek"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block"
 msgstr "Dekorativní pouštní pískovec"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick"
 msgstr "Cihly z pouštního pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone"
 msgstr "Pouštní pískovec"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block"
 msgstr "Dekorativní pouštní kámen"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick"
 msgstr "Cihly z pouštního kamene"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone"
 msgstr "Pouštní kámen"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Block"
-msgstr "Blok diamantu"
+msgstr "Diamantový blok"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond"
 msgstr "Diamant"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt"
 msgstr "Hlína"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Dry Grass"
 msgstr "Hlína porostlá suchou trávou"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Grass and Footsteps"
 msgstr "Pošlapaná hlína porostlá trávou"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Grass"
 msgstr "Hlína porostlá trávou"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Rainforest Litter"
 msgstr "Hlína s humusem z pralesa"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Snow"
 msgstr "Hlína pokrytá sněhem"
 
 #: init.lua
-#, fuzzy
 msgid "Dry Grass"
 msgstr "Suchá tráva"
 
 #: init.lua
-#, fuzzy
 msgid "Dry Shrub"
 msgstr "Suché křoví"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Fence"
 msgstr "Akáciový plot"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Fence"
 msgstr "Osikový plot"
 
 #: init.lua
-#, fuzzy
 msgid "Junglewood Fence"
-msgstr "Džunglovníkový plot"
+msgstr "Plot z tropického dřeva"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Fence"
 msgstr "Borovicový plot"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Fence"
 msgstr "Dřevěný plot"
 
 #: init.lua
-#, fuzzy
 msgid "Flint"
 msgstr "Pazourek"
 
 #: init.lua
-#, fuzzy
 msgid "Furnace"
 msgstr "Pec"
 
 #: init.lua
-#, fuzzy
 msgid "Glass"
 msgstr "Sklo"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block"
-msgstr "Blok zlata"
+msgstr "Zlatý blok"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Ingot"
 msgstr "Zlatý ingot"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Lump"
-msgstr "Hromádka zlata"
+msgstr "Hrouda zlata"
 
 #: init.lua
-#, fuzzy
 msgid "Grass"
 msgstr "Tráva"
 
 #: init.lua
-#, fuzzy
 msgid "Gravel"
 msgstr "Štěrk"
 
 #: init.lua
-#, fuzzy
 msgid "Ice"
 msgstr "Led"
 
 #: init.lua
-#, fuzzy
 msgid "Iron Lump"
-msgstr "Hromádka železa"
+msgstr "Hrouda železa"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Grass"
-msgstr "Tráva z džungle"
+msgstr "Tropická tráva"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Leaves"
-msgstr "Listy džunglovníku"
+msgstr "Listí tropického stormu"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Sapling"
-msgstr "Sazenice džunglovníku"
+msgstr "Sazenice tropického stromu"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree"
-msgstr "Džunglovník"
+msgstr "Kmen tropického stormu"
 
 #: init.lua
-#, fuzzy
 msgid "Junglewood Planks"
-msgstr "Džunglovníková dřevěná prkna"
+msgstr "Prkna z tropického dřeva"
 
 #: init.lua
-#, fuzzy
 msgid "Key"
 msgstr "Klíč"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Ladder"
 msgstr "Ocelový žebřík"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Ladder"
 msgstr "Dřevěný žebřík"
 
 #: init.lua
-#, fuzzy
 msgid "Flowing Lava"
 msgstr "Tekoucí láva"
 
 #: init.lua
-#, fuzzy
 msgid "Lava Source"
 msgstr "Zdroj lávy"
 
 #: init.lua
-#, fuzzy
 msgid "Leaves"
-msgstr "Listy"
+msgstr "Listí"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Crystal Fragment"
 msgstr "Úlomek Mese krystalu"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Crystal"
 msgstr "Mese krystal"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Lamp"
 msgstr "Mese lampa"
 
 #: init.lua
 msgid "Mese Post Light"
-msgstr ""
+msgstr "Svítící Mese sloupek"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Block"
-msgstr "Blok Mese"
+msgstr "Mese blok"
 
 #: init.lua
 msgid "Mossy Cobblestone"
-msgstr ""
+msgstr "Dlažba porostlý mechem"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block"
 msgstr "Dekorativní obsidián"
 
 #: init.lua
 msgid "Obsidian Brick"
-msgstr ""
+msgstr "Obsidiánové cihly"
 
 #: init.lua
 msgid "Obsidian Glass"
-msgstr ""
+msgstr "Obsidiánové sklo"
 
 #: init.lua
 msgid "Obsidian Shard"
-msgstr ""
+msgstr "Úlomek obsidiánu"
 
 #: init.lua
 msgid "Obsidian"
-msgstr ""
+msgstr "Obsidián"
 
 #: init.lua
 msgid "Paper"
-msgstr ""
+msgstr "Papír"
 
 #: init.lua
 msgid "Papyrus"
-msgstr ""
+msgstr "Papyrus"
 
 #: init.lua
 msgid "Bronze Pickaxe"
-msgstr ""
+msgstr "Bronzový krumpáč"
 
 #: init.lua
 msgid "Diamond Pickaxe"
-msgstr ""
+msgstr "Diamantový krumpáč"
 
 #: init.lua
 msgid "Mese Pickaxe"
-msgstr ""
+msgstr "Mese krumpáč"
 
 #: init.lua
 msgid "Steel Pickaxe"
-msgstr ""
+msgstr "Ocelový krumpáč"
 
 #: init.lua
 msgid "Stone Pickaxe"
-msgstr ""
+msgstr "Kamenný krumpáč"
 
 #: init.lua
 msgid "Wooden Pickaxe"
-msgstr ""
+msgstr "Dřevěný krumpáč"
 
 #: init.lua
 msgid "Pine Needles"
-msgstr ""
+msgstr "Jehlice borovice"
 
 #: init.lua
 msgid "Pine Sapling"
-msgstr ""
+msgstr "Sazenice borovice"
 
 #: init.lua
 msgid "Pine Tree"
-msgstr ""
+msgstr "Kmen borovice"
 
 #: init.lua
 msgid "Pine Wood Planks"
-msgstr ""
+msgstr "Dřevěná borovicová prkna"
 
 #: init.lua
 msgid "Flowing River Water"
-msgstr ""
+msgstr "Tekoucí říční voda"
 
 #: init.lua
 msgid "River Water Source"
-msgstr ""
+msgstr "Zdroj říční vody"
 
 #: init.lua
 msgid "Sand"
-msgstr ""
+msgstr "Písek"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block"
 msgstr "Dekorativní pískovec"
 
 #: init.lua
 msgid "Sandstone Brick"
-msgstr ""
+msgstr "Pískovcové cihly"
 
 #: init.lua
 msgid "Sandstone"
-msgstr ""
+msgstr "Pískovec"
 
 #: init.lua
 msgid "Sapling"
-msgstr ""
+msgstr "Sazenice"
 
 #: init.lua
 msgid "Bronze Shovel"
-msgstr ""
+msgstr "Bronzová lopata"
 
 #: init.lua
 msgid "Diamond Shovel"
-msgstr ""
+msgstr "Diamantová lopata"
 
 #: init.lua
 msgid "Mese Shovel"
-msgstr ""
+msgstr "Mese lopata"
 
 #: init.lua
 msgid "Steel Shovel"
-msgstr ""
+msgstr "Ocelová lopata"
 
 #: init.lua
 msgid "Stone Shovel"
-msgstr ""
+msgstr "Kamenná lopata"
 
 #: init.lua
 msgid "Wooden Shovel"
-msgstr ""
+msgstr "Dřevěná lopata"
 
 #: init.lua
 msgid "Steel Sign"
-msgstr ""
+msgstr "Ocelová cedule"
 
 #: init.lua
 msgid "Wooden Sign"
-msgstr ""
+msgstr "Dřevěná cedule"
 
 #: init.lua
 msgid "Silver Sand"
-msgstr ""
+msgstr "Stříbrný písek"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block"
 msgstr "Dekorativní stříbrný pískovec"
 
 #: init.lua
 msgid "Silver Sandstone Brick"
-msgstr ""
+msgstr "Cihly ze stříbrného pískovce"
 
 #: init.lua
 msgid "Silver Sandstone"
-msgstr ""
+msgstr "Stříbrný pískovec"
 
 #: init.lua
 msgid "Skeleton Key"
-msgstr ""
+msgstr "Neurčený klíč"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block"
 msgstr "Blok sněhu"
 
 #: init.lua
 msgid "Snow"
-msgstr ""
+msgstr "Sníh"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block"
-msgstr "Blok oceli"
+msgstr "Ocelový blok"
 
 #: init.lua
 msgid "Steel Ingot"
-msgstr ""
+msgstr "Ocelový ingot"
 
 #: init.lua
 msgid "Stick"
-msgstr ""
+msgstr "Tyčky"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block"
 msgstr "Dekorativní kámen"
 
 #: init.lua
 msgid "Stone Brick"
-msgstr ""
+msgstr "Kamenné cihly"
 
 #: init.lua
 msgid "Stone"
-msgstr ""
+msgstr "Kámen"
 
 #: init.lua
 msgid "Coal Ore"
-msgstr ""
+msgstr "Uhelná ruda"
 
 #: init.lua
 msgid "Copper Ore"
-msgstr ""
+msgstr "Měděná ruda"
 
 #: init.lua
 msgid "Diamond Ore"
-msgstr ""
+msgstr "Diamantová ruda"
 
 #: init.lua
 msgid "Gold Ore"
-msgstr ""
+msgstr "Zlatá ruda"
 
 #: init.lua
 msgid "Iron Ore"
-msgstr ""
+msgstr "Železná ruda"
 
 #: init.lua
 msgid "Mese Ore"
-msgstr ""
+msgstr "Mese ruda"
 
 #: init.lua
 msgid "Tin Ore"
-msgstr ""
+msgstr "Cínová ruda"
 
 #: init.lua
 msgid "Bronze Sword"
-msgstr ""
+msgstr "Bronzový meč"
 
 #: init.lua
 msgid "Diamond Sword"
-msgstr ""
+msgstr "Diamantový meč"
 
 #: init.lua
 msgid "Mese Sword"
-msgstr ""
+msgstr "Mese meč"
 
 #: init.lua
 msgid "Steel Sword"
-msgstr ""
+msgstr "Ocelový meč"
 
 #: init.lua
 msgid "Stone Sword"
-msgstr ""
+msgstr "Kamenný meč"
 
 #: init.lua
 msgid "Wooden Sword"
-msgstr ""
+msgstr "Dřevěný meč"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block"
-msgstr "Blok cínu"
+msgstr "Cínový blok"
 
 #: init.lua
 msgid "Tin Ingot"
-msgstr ""
+msgstr "Cínový ingot"
 
 #: init.lua
 msgid "Tin Lump"
-msgstr ""
+msgstr "Hrouda cínu"
 
 #: init.lua
 msgid "Torch"
-msgstr ""
+msgstr "Pochodeň"
 
 #: init.lua
 msgid "Tree"
-msgstr ""
+msgstr "Kmen"
 
 #: init.lua
 msgid "Flowing Water"
-msgstr ""
+msgstr "Tekoucí voda"
 
 #: init.lua
 msgid "Water Source"
-msgstr ""
+msgstr "Zdroj vody"
 
 #: init.lua
 msgid "Wooden Planks"
-msgstr ""
+msgstr "Dřevěná prkna"
 
 #: init.lua
 msgid "Glass Door"
-msgstr ""
+msgstr "Skleněné dveře"
 
 #: init.lua
 msgid "Obsidian Glass Door"
-msgstr ""
+msgstr "Obsidiánově skleněné dveře"
 
 #: init.lua
 msgid "Steel Door"
-msgstr ""
+msgstr "Ocelové dveře"
 
 #: init.lua
 msgid "Wooden Door"
-msgstr ""
+msgstr "Dřevěné dveře"
 
 #: init.lua
 msgid "Acacia Fence Gate"
-msgstr ""
+msgstr "Akáciová branka"
 
 #: init.lua
 msgid "Aspen Fence Gate"
-msgstr ""
+msgstr "Osiková branka"
 
 #: init.lua
 msgid "Junglewood Fence Gate"
-msgstr ""
+msgstr "Branka z tropického dřeva"
 
 #: init.lua
 msgid "Pine Fence Gate"
-msgstr ""
+msgstr "Borovicová branka"
 
 #: init.lua
 msgid "Wooden Fence Gate"
-msgstr ""
+msgstr "Dřevěná branka"
 
 #: init.lua
 msgid "Hidden Door Segment"
-msgstr ""
+msgstr "Skrytá část dveří"
 
 #: init.lua
 msgid "Trapdoor"
-msgstr ""
+msgstr "Padací dveře"
 
 #: init.lua
 msgid "Steel Trapdoor"
-msgstr ""
+msgstr "Ocelové padací dveře"
 
 #: init.lua
 msgid "Black dye"
-msgstr ""
+msgstr "Černé barvivo"
 
 #: init.lua
 msgid "Blue dye"
-msgstr ""
+msgstr "Modré barvivo"
 
 #: init.lua
 msgid "Brown dye"
-msgstr ""
+msgstr "Hnědé barvivo"
 
 #: init.lua
 msgid "Cyan dye"
-msgstr ""
+msgstr "Tyrkysové barvivo"
 
 #: init.lua
 msgid "Dark green dye"
-msgstr ""
+msgstr "Tmavě zelené barvivo"
 
 #: init.lua
 msgid "Dark grey dye"
-msgstr ""
+msgstr "Tmavě šedé barvivo"
 
 #: init.lua
 msgid "Green dye"
-msgstr ""
+msgstr "Zelené barvivo"
 
 #: init.lua
 msgid "Grey dye"
-msgstr ""
+msgstr "Šedé barvivo"
 
 #: init.lua
 msgid "Magenta dye"
-msgstr ""
+msgstr "Purpurové barvivo"
 
 #: init.lua
 msgid "Orange dye"
-msgstr ""
+msgstr "Oranžové barvivo"
 
 #: init.lua
 msgid "Pink dye"
-msgstr ""
+msgstr "Růžové barvivo"
 
 #: init.lua
 msgid "Red dye"
-msgstr ""
+msgstr "Červené barvivo"
 
 #: init.lua
 msgid "Violet dye"
-msgstr ""
+msgstr "Fialové barvivo"
 
 #: init.lua
 msgid "White dye"
-msgstr ""
+msgstr "Bílé barvivo"
 
 #: init.lua
 msgid "Yellow dye"
-msgstr ""
+msgstr "Žluté barvivo"
 
 #: init.lua
 msgid "Bread"
-msgstr ""
+msgstr "Chléb"
 
 #: init.lua
 msgid "Cotton"
-msgstr ""
+msgstr "Bavlna"
 
 #: init.lua
 msgid "Desert Sand Soil"
-msgstr ""
+msgstr "Pouštní orná půda"
 
 #: init.lua
 msgid "Wet Desert Sand Soil"
-msgstr ""
+msgstr "Vlhká pouštní orná půda"
 
 #: init.lua
 msgid "Flour"
-msgstr ""
+msgstr "Mouka"
 
 #: init.lua
 msgid "Bronze Hoe"
-msgstr ""
+msgstr "Bronzová motyka"
 
 #: init.lua
 msgid "Diamond Hoe"
-msgstr ""
+msgstr "Diamantová motyka"
 
 #: init.lua
 msgid "Mese Hoe"
-msgstr ""
+msgstr "Mese motyka"
 
 #: init.lua
 msgid "Steel Hoe"
-msgstr ""
+msgstr "Ocelová motyka"
 
 #: init.lua
 msgid "Stone Hoe"
-msgstr ""
+msgstr "Kamenná motyka"
 
 #: init.lua
 msgid "Wooden Hoe"
-msgstr ""
+msgstr "Dřevěná motyka"
 
 #: init.lua
 msgid "Cotton seed"
-msgstr ""
+msgstr "Semena bavlníku"
 
 #: init.lua
 msgid "Wheat seed"
-msgstr ""
+msgstr "Semena pšenice"
 
 #: init.lua
 msgid "Soil"
-msgstr ""
+msgstr "Orná půda"
 
 #: init.lua
 msgid "Wet Soil"
-msgstr ""
+msgstr "Vlhká orná půda"
 
 #: init.lua
 msgid "Straw"
-msgstr ""
+msgstr "Sláma"
 
 #: init.lua
 msgid "Wheat"
-msgstr ""
+msgstr "Pšenice"
 
 #: init.lua
 msgid "Flint and Steel"
-msgstr ""
+msgstr "Křesadlo"
 
 #: init.lua
 msgid "Permanent Flame"
-msgstr ""
+msgstr "Stálý oheň"
 
 #: init.lua
 msgid "White dandelion"
-msgstr ""
+msgstr "Bílá pampeliška"
 
 #: init.lua
 msgid "Yellow Dandelion"
-msgstr ""
+msgstr "Žlutá pampeliška"
 
 #: init.lua
 msgid "Blue Geranium"
-msgstr ""
+msgstr "Modrá pelargónie"
 
 #: init.lua
 msgid "Brown Mushroom"
-msgstr ""
+msgstr "Hnědá houba"
 
 #: init.lua
 msgid "Red Mushroom"
-msgstr ""
+msgstr "Červená houba"
 
 #: init.lua
 msgid "Rose"
-msgstr ""
+msgstr "Růže"
 
 #: init.lua
 msgid "Orange Tulip"
-msgstr ""
+msgstr "Oranžový tulipán"
 
 #: init.lua
 msgid "Viola"
-msgstr ""
+msgstr "Fialka"
 
 #: init.lua
 msgid "Waterlily"
-msgstr ""
+msgstr "Leknín"
 
 #: init.lua
 msgid "Ignore (you hacker you!)"
-msgstr ""
+msgstr "Ignoruj (ty jeden hackere!)"
 
 #: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
-msgstr ""
+msgstr "Šroubovák (klik levým otáčí stěnu, klik pravým otáčí podle osy)"
 
 #: init.lua
 msgid "Acacia Wood Slab"
-msgstr ""
+msgstr "Dřevěný akáciový půlblok"
 
 #: init.lua
 msgid "Aspen Wood Slab"
-msgstr ""
+msgstr "Dřevěný osikový půlblok"
 
 #: init.lua
 msgid "Brick Slab"
-msgstr ""
+msgstr "Cihlový půlblok"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Slab"
-msgstr "Půlblok bronzu"
+msgstr "Bronzový půlblok"
 
 #: init.lua
 msgid "Cobblestone Slab"
-msgstr ""
+msgstr "Půlblok kamenné dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Slab"
-msgstr "Půlblok mědi"
+msgstr "Měděný půlblok"
 
 #: init.lua
 msgid "Desert Cobblestone Slab"
-msgstr ""
+msgstr "Půlblok pouštní kamenné dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Slab"
-msgstr "Půlblok dekorativního pouštního pískovce"
+msgstr "Dekorativní půlblok pouštního pískovce"
 
 #: init.lua
 msgid "Desert Sandstone Brick Slab"
-msgstr ""
+msgstr "Cihlový půlblok z pouštního pískovce"
 
 #: init.lua
 msgid "Desert Sandstone Slab"
-msgstr ""
+msgstr "Půlblok pouštního pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Slab"
-msgstr "Půlblok dekorativního pouštního kamene"
+msgstr "Dekorativní půlblok pouštního kamene"
 
 #: init.lua
 msgid "Desert Stone Brick Slab"
-msgstr ""
+msgstr "Cihlový půlblok z pouštního kamene"
 
 #: init.lua
 msgid "Desert Stone Slab"
-msgstr ""
+msgstr "Půlblok pouštního kamene"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Slab"
-msgstr "Půlblok zlata"
+msgstr "Zlatý půlblok"
 
 #: init.lua
 msgid "Ice Slab"
-msgstr ""
+msgstr "Ledový půlblok"
 
 #: init.lua
 msgid "Jungle Wood Slab"
-msgstr ""
+msgstr "Půlblok tropického dřeva"
 
 #: init.lua
 msgid "Mossy Cobblestone Slab"
-msgstr ""
+msgstr "Půlblok porostlé dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Slab"
-msgstr "Půlblok dekorativního obsidiánu"
+msgstr "Dekorativní půlblok obsidiánu"
 
 #: init.lua
 msgid "Obsidian Brick Slab"
-msgstr ""
+msgstr "Cihlový půlblok z obsidiánu"
 
 #: init.lua
 msgid "Obsidian Slab"
-msgstr ""
+msgstr "Půlblok obsidiánu"
 
 #: init.lua
 msgid "Pine Wood Slab"
-msgstr ""
+msgstr "Půlblok borovicového dřeva"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Slab"
-msgstr "Půlbok dekorativního pískovce"
+msgstr "Dekorativní půlblok pískovce"
 
 #: init.lua
 msgid "Sandstone Brick Slab"
-msgstr ""
+msgstr "Cihlový půlblok z pískovce"
 
 #: init.lua
 msgid "Sandstone Slab"
-msgstr ""
+msgstr "Půlblok pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Slab"
 msgstr "Půlbok dekorativního stříbrného pískovce"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
-msgstr ""
+msgstr "Cihlový půlblok ze stříbrného pískovce"
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr ""
+msgstr "Půlblok stříbrného pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Slab"
 msgstr "Půlblok sněhu"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Slab"
-msgstr "Půlblok oceli"
+msgstr "Ocelový půlblok"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Slab"
-msgstr "Půlblok dekorativního kamene"
+msgstr "Dekorativní půlblok kamene"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr ""
+msgstr "Cihlový půlblok kamene"
 
 #: init.lua
 msgid "Stone Slab"
-msgstr ""
+msgstr "Kamenný půlblok"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr ""
+msgstr "Slaměný půlblok"
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr ""
+msgstr "Dřevěný půlblok"
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr ""
+msgstr "Akáciové schody"
 
 #: init.lua
 msgid "Aspen Wood Stair"
-msgstr ""
+msgstr "Osikové schody"
 
 #: init.lua
 msgid "Brick Stair"
-msgstr ""
+msgstr "Cihlové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair"
-msgstr "Schody z bronzu"
+msgstr "Bronzové schody"
 
 #: init.lua
 msgid "Cobblestone Stair"
-msgstr ""
+msgstr "Schody z kamenné dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair"
-msgstr "Schody z mědi"
+msgstr "Měděné schody"
 
 #: init.lua
 msgid "Desert Cobblestone Stair"
-msgstr ""
+msgstr "Schody z pouštní kamenné dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair"
-msgstr "Schody z dekorativního pouštního pískovce"
+msgstr "Dekorativní schody z pouštního pískovce"
 
 #: init.lua
 msgid "Desert Sandstone Brick Stair"
-msgstr ""
+msgstr "Cihlové schody z pouštního pískovce"
 
 #: init.lua
 msgid "Desert Sandstone Stair"
-msgstr ""
+msgstr "Schody z pouštního pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair"
-msgstr "Schody z dekorativního pouštního kamene"
+msgstr "Dekorativní schody z pouštního kamene"
 
 #: init.lua
 msgid "Desert Stone Brick Stair"
-msgstr ""
+msgstr "Cihlové schody z pouštního kamene"
 
 #: init.lua
 msgid "Desert Stone Stair"
-msgstr ""
+msgstr "Schody z pouštního kamene"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair"
-msgstr "Schody ze zlata"
+msgstr "Zlaté schody"
 
 #: init.lua
 msgid "Ice Stair"
-msgstr ""
+msgstr "Ledové schody"
 
 #: init.lua
 msgid "Jungle Wood Stair"
-msgstr ""
+msgstr "Schody z tropického dřeva"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair"
-msgstr ""
+msgstr "Schody z porostlé dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair"
-msgstr "Schody z dekorativního obsidiánu"
+msgstr "Dekorativní schody z obsidiánu"
 
 #: init.lua
 msgid "Obsidian Brick Stair"
-msgstr ""
+msgstr "Cihlové schody z obsidiánu"
 
 #: init.lua
 msgid "Obsidian Stair"
-msgstr ""
+msgstr "Obsidiánové schody"
 
 #: init.lua
 msgid "Pine Wood Stair"
-msgstr ""
+msgstr "Borovicové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair"
-msgstr "Schody z dekorativního pískovce"
+msgstr "Dekorativní schody z pískovce"
 
 #: init.lua
 msgid "Sandstone Brick Stair"
-msgstr ""
+msgstr "Cihlové schody z pískovce"
 
 #: init.lua
 msgid "Sandstone Stair"
-msgstr ""
+msgstr "Pískovcové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair"
-msgstr "Schody z dekorativního stříbrného pískovce"
+msgstr "Dekorativní schody ze stříbrného pískovce"
 
 #: init.lua
 msgid "Silver Sandstone Brick Stair"
-msgstr ""
+msgstr "Cihlové schody ze stříbrného pískovce"
 
 #: init.lua
 msgid "Silver Sandstone Stair"
-msgstr ""
+msgstr "Stříbrnopískovcové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair"
 msgstr "Schody ze sněhu"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair"
-msgstr "Schody z oceli"
+msgstr "Ocelové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair"
-msgstr "Schody z dekorativního kamene"
+msgstr "Dekorativní schody z kamene"
 
 #: init.lua
 msgid "Stone Brick Stair"
-msgstr ""
+msgstr "Cihlové schody z kamene"
 
 #: init.lua
 msgid "Stone Stair"
-msgstr ""
+msgstr "Kamenné schody"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr ""
+msgstr "Slaměné schody"
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr ""
+msgstr "Dřevěné schody"
 
 #: init.lua
 msgid "Gun Powder"
-msgstr ""
+msgstr "Střelný prach"
 
 #: init.lua
 msgid "TNT"
-msgstr ""
+msgstr "TNT"
 
 #: init.lua
 msgid "Unknown Item"
-msgstr ""
+msgstr "Neznámý předmět"
 
 #: init.lua
 msgid "Drinking Glass (empty)"
-msgstr ""
+msgstr "Sklenice (prázdná)"
 
 #: init.lua
 msgid "Glass Bottle (empty)"
-msgstr ""
+msgstr "Skleněná lahev (prázdná)"
 
 #: init.lua
 msgid "Pile of Glass Fragments"
-msgstr ""
+msgstr "Hromádka skleněných střepů"
 
 #: init.lua
 msgid "Vessels Shelf"
-msgstr ""
+msgstr "Police na lahve"
 
 #: init.lua
 msgid "Heavy Steel Bottle (empty)"
-msgstr ""
+msgstr "Těžká ocelová lahev (prázdná)"
 
 #: init.lua
 msgid "Cobblestone Wall"
-msgstr ""
+msgstr "Zeď z kamenné dlažby"
 
 #: init.lua
 msgid "Desert Cobblestone Wall"
-msgstr ""
+msgstr "Zeď z pouštní kamenné dlažby"
 
 #: init.lua
 msgid "Mossy Cobblestone Wall"
-msgstr ""
+msgstr "Zeď z porostlé dlažby"
 
 #: init.lua
 msgid "Black Wool"
-msgstr ""
+msgstr "Černá vlna"
 
 #: init.lua
 msgid "Blue Wool"
-msgstr ""
+msgstr "Modrá vlna"
 
 #: init.lua
 msgid "Brown Wool"
-msgstr ""
+msgstr "Hnědá vlna"
 
 #: init.lua
 msgid "Cyan Wool"
-msgstr ""
+msgstr "Tyrkysová vlna"
 
 #: init.lua
 msgid "Dark Green Wool"
-msgstr ""
+msgstr "Tmavě zelená vlna"
 
 #: init.lua
 msgid "Dark Grey Wool"
-msgstr ""
+msgstr "Tmavě šedá vlna"
 
 #: init.lua
 msgid "Green Wool"
-msgstr ""
+msgstr "Zelená vlna"
 
 #: init.lua
 msgid "Grey Wool"
-msgstr ""
+msgstr "Šedá vlna"
 
 #: init.lua
 msgid "Magenta Wool"
-msgstr ""
+msgstr "Purpurová vlna"
 
 #: init.lua
 msgid "Orange Wool"
-msgstr ""
+msgstr "Oranžová vlna"
 
 #: init.lua
 msgid "Pink Wool"
-msgstr ""
+msgstr "Růžová vlna"
 
 #: init.lua
 msgid "Red Wool"
-msgstr ""
+msgstr "Červená vlna"
 
 #: init.lua
 msgid "Violet Wool"
-msgstr ""
+msgstr "Fialová vlna"
 
 #: init.lua
 msgid "White Wool"
-msgstr ""
+msgstr "Bílá vlna"
 
 #: init.lua
 msgid "Yellow Wool"
-msgstr ""
+msgstr "Žlutá vlna"
 
 #: init.lua
 msgid "Iron bar"
-msgstr ""
+msgstr "Železná mříž"
 
 #: init.lua
 msgid "Glass Pane"
-msgstr ""
+msgstr "Skleněná tabule"
 
 #: init.lua
 msgid "Nyan Cat Rainbow"
-msgstr ""
+msgstr "Nyan Cat duha"
 
 #: init.lua
 msgid "Nyan Cat"
-msgstr ""
+msgstr "Nyan Cat"
