@@ -8,173 +8,168 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-05-16 22:38+0000\n"
-"Last-Translator: Enki <Enki4@users.noreply.github.com>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/minetest/"
-"mtg_i18n/it/>\n"
+"PO-Revision-Date: 2017-07-01 13:47+0000\n"
+"Last-Translator: Davide Murtas <murtas.davide3@gmail.com>\n"
+"Language-Team: Italian "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14-dev\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: init.lua
+#, fuzzy
 msgid "Air (you hacker you!)"
-msgstr ""
+msgstr "Aria (hacker!)"
 
 #: init.lua
 msgid "Simple Bed"
-msgstr ""
+msgstr "Letto semplice"
 
 #: init.lua
 msgid "Fancy Bed"
-msgstr ""
+msgstr "Letto decorato"
 
 #: init.lua
 msgid "Boat"
-msgstr ""
+msgstr "Barca"
 
 #: init.lua
 msgid "Bones"
-msgstr "ossa"
+msgstr "Ossa"
 
 #: init.lua
 msgid "Empty Bucket"
-msgstr "secchio vuoto"
+msgstr "Secchio vuoto"
 
 #: init.lua
 msgid "Lava Bucket"
-msgstr "secchio con lava"
+msgstr "Secchio con lava"
 
 #: init.lua
-#, fuzzy
 msgid "River Water Bucket"
-msgstr "secchio con acqua"
+msgstr "Secchio con acqua di fiume"
 
 #: init.lua
 msgid "Water Bucket"
-msgstr "secchio con acqua"
+msgstr "Secchio con acqua"
 
 #: init.lua
 msgid "Brake rail"
-msgstr ""
+msgstr "Rotaia frenante"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr ""
+msgstr "Carrello (Abbassati+Click per raccogliere)"
 
 #: init.lua
 msgid "Powered rail"
-msgstr ""
+msgstr "Rotaia alimentante"
 
 #: init.lua
 msgid "Rail"
-msgstr "rotaia"
-
-#: init.lua
-msgid "Acacia Bush Leaves"
-msgstr ""
-
-#: init.lua
-msgid "Acacia Bush Sapling"
-msgstr ""
-
-#: init.lua
-msgid "Acacia Bush Stem"
-msgstr ""
+msgstr "Rotaia"
 
 #: init.lua
 #, fuzzy
+msgid "Acacia Bush Leaves"
+msgstr "Foglie di arbusto d'acacia"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Bush Sapling"
+msgstr "Alberello di arbusto d'acacia"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Bush Stem"
+msgstr "Tronco di arbusto d'acacia"
+
+#: init.lua
 msgid "Acacia Leaves"
-msgstr "foglie"
+msgstr "Foglie di acacia"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
-msgstr ""
+msgstr "Alberello di acacia"
 
 #: init.lua
 msgid "Acacia Tree"
-msgstr ""
+msgstr "Tronco di acacia"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Planks"
-msgstr "legno"
+msgstr "Tavole di legno d'acacia"
 
 #: init.lua
 msgid "Apple"
-msgstr "mela"
+msgstr "Mela"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Leaves"
-msgstr "foglie"
+msgstr "Foglie di pioppo"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree Sapling"
-msgstr "alberello della giungla"
+msgstr "Alberello di pioppo"
 
 #: init.lua
 msgid "Aspen Tree"
-msgstr ""
+msgstr "Tronco di pioppo"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Planks"
-msgstr "legno"
+msgstr "Tavole di legno di pioppo"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Axe"
-msgstr "zappa di bronzo"
+msgstr "Ascia di bronzo"
 
 #: init.lua
-#, fuzzy
 msgid "Diamond Axe"
-msgstr "pietra con diamante"
+msgstr "Ascia di diamante"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Axe"
-msgstr "pietra con mese"
+msgstr "Ascia di mese"
 
 #: init.lua
 msgid "Steel Axe"
-msgstr "ascia di acciaio"
+msgstr "Ascia di acciaio"
 
 #: init.lua
 msgid "Stone Axe"
-msgstr "ascia di pietra"
+msgstr "Ascia di pietra"
 
 #: init.lua
 msgid "Wooden Axe"
-msgstr "ascia di legno"
+msgstr "Ascia di legno"
 
 #: init.lua
 msgid "Book"
-msgstr "libro"
+msgstr "Libro"
 
 #: init.lua
 msgid "Bookshelf"
-msgstr "libreria"
+msgstr "Libreria"
 
 #: init.lua
 msgid "Book With Text"
-msgstr ""
+msgstr "Libro con testo"
 
 #: init.lua
 msgid "Brick Block"
-msgstr "mattone"
+msgstr "Blocco di mattoni"
 
 #: init.lua
 msgid "Bronze Block"
-msgstr "blocco di bronzo"
+msgstr "Blocco di bronzo"
 
 #: init.lua
 msgid "Bronze Ingot"
-msgstr "lingotto di bronzo"
+msgstr "Lingotto di bronzo"
 
 #: init.lua
 #, fuzzy
@@ -192,269 +187,255 @@ msgstr ""
 
 #: init.lua
 msgid "Cactus"
-msgstr "cactus"
+msgstr "Cactus"
 
 #: init.lua
 msgid "Locked Chest"
-msgstr "cassa chiusa a chiave"
+msgstr "Cassa chiusa a chiave"
 
 #: init.lua
 msgid "Chest"
-msgstr "cassa"
+msgstr "Cassa"
 
 #: init.lua
 msgid "Clay Brick"
-msgstr "mattone di argilla"
+msgstr "Mattone di argilla"
 
 #: init.lua
 msgid "Clay Lump"
-msgstr "pezzo di argilla"
+msgstr "Pezzo di argilla"
 
 #: init.lua
 msgid "Clay"
-msgstr "argilla"
+msgstr "Argilla"
 
 #: init.lua
 msgid "Cloud"
-msgstr "nuvola"
+msgstr "Nuvola"
 
 #: init.lua
 msgid "Coal Block"
-msgstr "blocco di carbone"
+msgstr "Blocco di carbone"
 
 #: init.lua
 msgid "Coal Lump"
-msgstr "pezzo di carbone"
+msgstr "Pezzo di carbone"
 
 #: init.lua
 msgid "Cobblestone"
-msgstr "ciottoli"
+msgstr "Ciottoli"
 
 #: init.lua
 msgid "Copper Block"
-msgstr "blocco di rame"
+msgstr "Blocco di rame"
 
 #: init.lua
 msgid "Copper Ingot"
-msgstr "lingotto di rame"
+msgstr "Lingotto di rame"
 
 #: init.lua
 msgid "Copper Lump"
-msgstr "pezzo di rame"
+msgstr "Pezzo di rame"
 
 #: init.lua
-#, fuzzy
 msgid "Brown Coral"
-msgstr "lana marrone"
+msgstr "Corallo marrone"
 
 #: init.lua
-#, fuzzy
 msgid "Orange Coral"
-msgstr "lana arancione"
+msgstr "Corallo arancione"
 
 #: init.lua
 msgid "Coral Skeleton"
-msgstr ""
+msgstr "Scheletro di corallo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone"
-msgstr "ciottoli"
+msgstr "Ciottoli di pietra del deserto"
 
 #: init.lua
 msgid "Desert Sand"
-msgstr "sabbia del deserto"
+msgstr "Sabbia del deserto"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block"
-msgstr "pietra del deserto"
+msgstr "Blocco di arenaria del deserto"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick"
-msgstr "mattone di arenaria"
+msgstr "Mattone di arenaria del deserto"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone"
-msgstr "pietra del deserto"
+msgstr "Arenaria del deserto"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block"
-msgstr "pietra del deserto"
+msgstr "Blocco di pietra del deserto"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick"
-msgstr "pietra del deserto"
+msgstr "Mattone di pietra del deserto"
 
 #: init.lua
 msgid "Desert Stone"
-msgstr "pietra del deserto"
+msgstr "Pietra del deserto"
 
 #: init.lua
 msgid "Diamond Block"
-msgstr "blocco di diamante"
+msgstr "Blocco di diamante"
 
 #: init.lua
 msgid "Diamond"
-msgstr "diamante"
+msgstr "Diamante"
 
 #: init.lua
 msgid "Dirt"
-msgstr "terra"
+msgstr "Terra"
 
 #: init.lua
-#, fuzzy
 msgid "Dirt with Dry Grass"
-msgstr "terra con erba"
+msgstr "Terra con erba secca"
 
 #: init.lua
 msgid "Dirt with Grass and Footsteps"
-msgstr "terra con orme sull'erba"
+msgstr "Terra con erba e orme"
 
 #: init.lua
 msgid "Dirt with Grass"
-msgstr "terra con erba"
+msgstr "Terra con erba"
 
 #: init.lua
 msgid "Dirt with Rainforest Litter"
-msgstr ""
+msgstr "Terra con humus della foresta pluviale"
 
 #: init.lua
 msgid "Dirt with Snow"
-msgstr "terra con neve"
+msgstr "Terra con neve"
 
 #: init.lua
-#, fuzzy
 msgid "Dry Grass"
-msgstr "erba"
+msgstr "Erba secca"
 
 #: init.lua
 msgid "Dry Shrub"
-msgstr "cespuglio secco"
+msgstr "Cespuglio secco"
 
 #: init.lua
 msgid "Acacia Fence"
-msgstr ""
+msgstr "Recinzione di acacia"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Fence"
-msgstr "recinto"
+msgstr "Recinzione di pioppo"
 
 #: init.lua
-#, fuzzy
 msgid "Junglewood Fence"
-msgstr "legno della giungla"
+msgstr "Recinzione di legno della giungla"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Fence"
-msgstr "recinto"
+msgstr "Recinzione di pino"
 
 #: init.lua
 msgid "Wooden Fence"
-msgstr "recinto"
+msgstr "Recinzione di legno"
 
 #: init.lua
 msgid "Flint"
-msgstr ""
+msgstr "Pietra focaia"
 
 #: init.lua
 msgid "Furnace"
-msgstr "fornace"
+msgstr "Fornace"
 
 #: init.lua
 msgid "Glass"
-msgstr "vetro"
+msgstr "Vetro"
 
 #: init.lua
 msgid "Gold Block"
-msgstr "blocco di oro"
+msgstr "Blocco di oro"
 
 #: init.lua
 msgid "Gold Ingot"
-msgstr "lingotto di oro"
+msgstr "Lingotto di oro"
 
 #: init.lua
 msgid "Gold Lump"
-msgstr "pezzo di oro"
+msgstr "Pezzo di oro"
 
 #: init.lua
 msgid "Grass"
-msgstr "erba"
+msgstr "Erba"
 
 #: init.lua
 msgid "Gravel"
-msgstr "ghiaia"
+msgstr "Ghiaia"
 
 #: init.lua
 msgid "Ice"
-msgstr "ghiaccio"
+msgstr "Ghiaccio"
 
 #: init.lua
 msgid "Iron Lump"
-msgstr "pezzo di ferro"
+msgstr "Pezzo di ferro"
 
 #: init.lua
 msgid "Jungle Grass"
-msgstr "erba della giungla"
+msgstr "Erba della giungla"
 
 #: init.lua
 msgid "Jungle Leaves"
-msgstr "foglie della giungla"
+msgstr "Foglie della giungla"
 
 #: init.lua
 msgid "Jungle Sapling"
-msgstr "alberello della giungla"
+msgstr "Alberello della giungla"
 
 #: init.lua
 msgid "Jungle Tree"
-msgstr "albero della giungla"
+msgstr "Albero della giungla"
 
 #: init.lua
 msgid "Junglewood Planks"
-msgstr "legno della giungla"
+msgstr "Tavole di legno della giungla"
 
 #: init.lua
 msgid "Key"
-msgstr ""
+msgstr "Chiave"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Ladder"
-msgstr "ascia di acciaio"
+msgstr "Scala a pioli di acciaio"
 
 #: init.lua
 msgid "Wooden Ladder"
-msgstr "scala a pioli"
+msgstr "Scala a pioli di legno"
 
 #: init.lua
 msgid "Flowing Lava"
-msgstr "lava corrente"
+msgstr "Lava che scorre"
 
 #: init.lua
 msgid "Lava Source"
-msgstr "sorgente di lava"
+msgstr "Sorgente di lava"
 
 #: init.lua
 msgid "Leaves"
-msgstr "foglie"
+msgstr "Foglie"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr "frammento di cristallo di mese"
+msgstr "Frammento di cristallo di mese"
 
 #: init.lua
 msgid "Mese Crystal"
-msgstr "cristallo di mese"
+msgstr "Cristallo di mese"
 
 #: init.lua
 msgid "Mese Lamp"
-msgstr ""
+msgstr "Lampada di mese"
 
 #: init.lua
 msgid "Mese Post Light"
@@ -462,7 +443,7 @@ msgstr ""
 
 #: init.lua
 msgid "Mese Block"
-msgstr "mese"
+msgstr "Blocco di mese"
 
 #: init.lua
 msgid "Mossy Cobblestone"
