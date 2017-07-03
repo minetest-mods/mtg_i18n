@@ -8,65 +8,69 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-07-03 19:35+0000\n"
+"Last-Translator: Muhammad Nur Hidayat Yasuyoshi <muhdnurhidayat96@yahoo.com>"
+"\n"
+"Language-Team: Chinese (Simplified) "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
-msgstr ""
+msgstr "空气（黑客啊你！）"
 
 #: init.lua
 msgid "Simple Bed"
-msgstr ""
+msgstr "简单的床"
 
 #: init.lua
 msgid "Fancy Bed"
-msgstr ""
+msgstr "豪华大床"
 
 #: init.lua
 msgid "Boat"
-msgstr ""
+msgstr "船"
 
 #: init.lua
 msgid "Bones"
-msgstr ""
+msgstr "骨头"
 
 #: init.lua
 msgid "Empty Bucket"
-msgstr ""
+msgstr "空桶"
 
 #: init.lua
 msgid "Lava Bucket"
-msgstr ""
+msgstr "熔岩桶"
 
 #: init.lua
 msgid "River Water Bucket"
-msgstr ""
+msgstr "河水桶"
 
 #: init.lua
 msgid "Water Bucket"
-msgstr ""
+msgstr "水桶"
 
 #: init.lua
 msgid "Brake rail"
-msgstr ""
+msgstr "停止的充能铁轨"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr ""
+msgstr "矿车（潜行＋点击＝捡起来）"
 
 #: init.lua
 msgid "Powered rail"
-msgstr ""
+msgstr "加速的充能铁轨"
 
 #: init.lua
 msgid "Rail"
-msgstr ""
+msgstr "铁轨"
 
 #: init.lua
 msgid "Acacia Bush Leaves"
@@ -94,7 +98,7 @@ msgstr ""
 
 #: init.lua
 msgid "Acacia Wood Planks"
-msgstr ""
+msgstr "金合欢木板"
 
 #: init.lua
 msgid "Apple"
@@ -114,23 +118,23 @@ msgstr ""
 
 #: init.lua
 msgid "Aspen Wood Planks"
-msgstr ""
+msgstr "白杨木板"
 
 #: init.lua
 msgid "Bronze Axe"
-msgstr ""
+msgstr "青铜斧"
 
 #: init.lua
 msgid "Diamond Axe"
-msgstr ""
+msgstr "钻石斧"
 
 #: init.lua
 msgid "Mese Axe"
-msgstr ""
+msgstr "美些斧"
 
 #: init.lua
 msgid "Steel Axe"
-msgstr ""
+msgstr "钢斧"
 
 #: init.lua
 msgid "Stone Axe"
@@ -138,7 +142,7 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Axe"
-msgstr ""
+msgstr "木斧"
 
 #: init.lua
 msgid "Book"
@@ -158,11 +162,11 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Block"
-msgstr ""
+msgstr "青铜块"
 
 #: init.lua
 msgid "Bronze Ingot"
-msgstr ""
+msgstr "青铜锭"
 
 #: init.lua
 msgid "Bush Leaves"
@@ -206,11 +210,11 @@ msgstr ""
 
 #: init.lua
 msgid "Coal Block"
-msgstr ""
+msgstr "煤炭块"
 
 #: init.lua
 msgid "Coal Lump"
-msgstr ""
+msgstr "煤炭"
 
 #: init.lua
 msgid "Cobblestone"
@@ -274,11 +278,11 @@ msgstr ""
 
 #: init.lua
 msgid "Diamond Block"
-msgstr ""
+msgstr "钻石块"
 
 #: init.lua
 msgid "Diamond"
-msgstr ""
+msgstr "钻石"
 
 #: init.lua
 msgid "Dirt"
@@ -322,7 +326,7 @@ msgstr ""
 
 #: init.lua
 msgid "Junglewood Fence"
-msgstr ""
+msgstr "丛林木栅栏"
 
 #: init.lua
 msgid "Pine Fence"
@@ -330,7 +334,7 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Fence"
-msgstr ""
+msgstr "原木栅栏"
 
 #: init.lua
 msgid "Flint"
@@ -346,15 +350,15 @@ msgstr ""
 
 #: init.lua
 msgid "Gold Block"
-msgstr ""
+msgstr "金块"
 
 #: init.lua
 msgid "Gold Ingot"
-msgstr ""
+msgstr "金锭"
 
 #: init.lua
 msgid "Gold Lump"
-msgstr ""
+msgstr "金粒"
 
 #: init.lua
 msgid "Grass"
@@ -370,7 +374,7 @@ msgstr ""
 
 #: init.lua
 msgid "Iron Lump"
-msgstr ""
+msgstr "铁粒"
 
 #: init.lua
 msgid "Jungle Grass"
@@ -390,7 +394,7 @@ msgstr ""
 
 #: init.lua
 msgid "Junglewood Planks"
-msgstr ""
+msgstr "丛林木板"
 
 #: init.lua
 msgid "Key"
@@ -398,11 +402,11 @@ msgstr ""
 
 #: init.lua
 msgid "Steel Ladder"
-msgstr ""
+msgstr "钢梯子"
 
 #: init.lua
 msgid "Wooden Ladder"
-msgstr ""
+msgstr "梯子"
 
 #: init.lua
 msgid "Flowing Lava"
@@ -418,23 +422,23 @@ msgstr ""
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr ""
+msgstr "美些晶片"
 
 #: init.lua
 msgid "Mese Crystal"
-msgstr ""
+msgstr "美些水晶"
 
 #: init.lua
 msgid "Mese Lamp"
-msgstr ""
+msgstr "美些灯"
 
 #: init.lua
 msgid "Mese Post Light"
-msgstr ""
+msgstr "美些灯柱"
 
 #: init.lua
 msgid "Mese Block"
-msgstr ""
+msgstr "美些块"
 
 #: init.lua
 msgid "Mossy Cobblestone"
@@ -470,19 +474,19 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Pickaxe"
-msgstr ""
+msgstr "青铜镐"
 
 #: init.lua
 msgid "Diamond Pickaxe"
-msgstr ""
+msgstr "钻石镐"
 
 #: init.lua
 msgid "Mese Pickaxe"
-msgstr ""
+msgstr "美些镐"
 
 #: init.lua
 msgid "Steel Pickaxe"
-msgstr ""
+msgstr "钢镐"
 
 #: init.lua
 msgid "Stone Pickaxe"
@@ -490,7 +494,7 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Pickaxe"
-msgstr ""
+msgstr "木镐"
 
 #: init.lua
 msgid "Pine Needles"
@@ -506,15 +510,15 @@ msgstr ""
 
 #: init.lua
 msgid "Pine Wood Planks"
-msgstr ""
+msgstr "松木板"
 
 #: init.lua
 msgid "Flowing River Water"
-msgstr ""
+msgstr "流动的河水"
 
 #: init.lua
 msgid "River Water Source"
-msgstr ""
+msgstr "河水源"
 
 #: init.lua
 msgid "Sand"
@@ -538,19 +542,19 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Shovel"
-msgstr ""
+msgstr "青铜锹"
 
 #: init.lua
 msgid "Diamond Shovel"
-msgstr ""
+msgstr "钻石锹"
 
 #: init.lua
 msgid "Mese Shovel"
-msgstr ""
+msgstr "美些锹"
 
 #: init.lua
 msgid "Steel Shovel"
-msgstr ""
+msgstr "钢锹"
 
 #: init.lua
 msgid "Stone Shovel"
@@ -558,15 +562,15 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Shovel"
-msgstr ""
+msgstr "木锹"
 
 #: init.lua
 msgid "Steel Sign"
-msgstr ""
+msgstr "钢告示牌"
 
 #: init.lua
 msgid "Wooden Sign"
-msgstr ""
+msgstr "告示牌"
 
 #: init.lua
 msgid "Silver Sand"
@@ -598,11 +602,11 @@ msgstr ""
 
 #: init.lua
 msgid "Steel Block"
-msgstr ""
+msgstr "钢块"
 
 #: init.lua
 msgid "Steel Ingot"
-msgstr ""
+msgstr "钢锭"
 
 #: init.lua
 msgid "Stick"
@@ -622,7 +626,7 @@ msgstr ""
 
 #: init.lua
 msgid "Coal Ore"
-msgstr ""
+msgstr "煤矿石"
 
 #: init.lua
 msgid "Copper Ore"
@@ -630,19 +634,19 @@ msgstr ""
 
 #: init.lua
 msgid "Diamond Ore"
-msgstr ""
+msgstr "钻石矿石"
 
 #: init.lua
 msgid "Gold Ore"
-msgstr ""
+msgstr "金矿石"
 
 #: init.lua
 msgid "Iron Ore"
-msgstr ""
+msgstr "铁矿石"
 
 #: init.lua
 msgid "Mese Ore"
-msgstr ""
+msgstr "美些矿石"
 
 #: init.lua
 msgid "Tin Ore"
@@ -650,19 +654,19 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Sword"
-msgstr ""
+msgstr "青铜剑"
 
 #: init.lua
 msgid "Diamond Sword"
-msgstr ""
+msgstr "钻石剑"
 
 #: init.lua
 msgid "Mese Sword"
-msgstr ""
+msgstr "美些剑"
 
 #: init.lua
 msgid "Steel Sword"
-msgstr ""
+msgstr "钢剑"
 
 #: init.lua
 msgid "Stone Sword"
@@ -670,7 +674,7 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Sword"
-msgstr ""
+msgstr "木剑"
 
 #: init.lua
 msgid "Tin Block"
@@ -694,15 +698,15 @@ msgstr ""
 
 #: init.lua
 msgid "Flowing Water"
-msgstr ""
+msgstr "流动的水"
 
 #: init.lua
 msgid "Water Source"
-msgstr ""
+msgstr "水源"
 
 #: init.lua
 msgid "Wooden Planks"
-msgstr ""
+msgstr "原木板"
 
 #: init.lua
 msgid "Glass Door"
@@ -714,11 +718,11 @@ msgstr ""
 
 #: init.lua
 msgid "Steel Door"
-msgstr ""
+msgstr "钢门"
 
 #: init.lua
 msgid "Wooden Door"
-msgstr ""
+msgstr "木门"
 
 #: init.lua
 msgid "Acacia Fence Gate"
@@ -730,7 +734,7 @@ msgstr ""
 
 #: init.lua
 msgid "Junglewood Fence Gate"
-msgstr ""
+msgstr "丛林木栅栏门"
 
 #: init.lua
 msgid "Pine Fence Gate"
@@ -738,7 +742,7 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Fence Gate"
-msgstr ""
+msgstr "栅栏门"
 
 #: init.lua
 msgid "Hidden Door Segment"
@@ -750,7 +754,7 @@ msgstr ""
 
 #: init.lua
 msgid "Steel Trapdoor"
-msgstr ""
+msgstr "钢活板门"
 
 #: init.lua
 msgid "Black dye"
@@ -834,19 +838,19 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Hoe"
-msgstr ""
+msgstr "青铜锄"
 
 #: init.lua
 msgid "Diamond Hoe"
-msgstr ""
+msgstr "钻石锄"
 
 #: init.lua
 msgid "Mese Hoe"
-msgstr ""
+msgstr "美些锄"
 
 #: init.lua
 msgid "Steel Hoe"
-msgstr ""
+msgstr "钢锄"
 
 #: init.lua
 msgid "Stone Hoe"
@@ -854,7 +858,7 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Hoe"
-msgstr ""
+msgstr "木锄"
 
 #: init.lua
 msgid "Cotton seed"
@@ -882,7 +886,7 @@ msgstr ""
 
 #: init.lua
 msgid "Flint and Steel"
-msgstr ""
+msgstr "打火石"
 
 #: init.lua
 msgid "Permanent Flame"
@@ -922,7 +926,7 @@ msgstr ""
 
 #: init.lua
 msgid "Waterlily"
-msgstr ""
+msgstr "睡莲"
 
 #: init.lua
 msgid "Ignore (you hacker you!)"
@@ -934,11 +938,11 @@ msgstr ""
 
 #: init.lua
 msgid "Acacia Wood Slab"
-msgstr ""
+msgstr "金合欢木台阶"
 
 #: init.lua
 msgid "Aspen Wood Slab"
-msgstr ""
+msgstr "白杨木台阶"
 
 #: init.lua
 msgid "Brick Slab"
@@ -946,7 +950,7 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Block Slab"
-msgstr ""
+msgstr "青铜块台阶"
 
 #: init.lua
 msgid "Cobblestone Slab"
@@ -986,7 +990,7 @@ msgstr ""
 
 #: init.lua
 msgid "Gold Block Slab"
-msgstr ""
+msgstr "金块台阶"
 
 #: init.lua
 msgid "Ice Slab"
@@ -994,7 +998,7 @@ msgstr ""
 
 #: init.lua
 msgid "Jungle Wood Slab"
-msgstr ""
+msgstr "丛林木台阶"
 
 #: init.lua
 msgid "Mossy Cobblestone Slab"
@@ -1014,7 +1018,7 @@ msgstr ""
 
 #: init.lua
 msgid "Pine Wood Slab"
-msgstr ""
+msgstr "松木台阶"
 
 #: init.lua
 msgid "Sandstone Block Slab"
@@ -1046,7 +1050,7 @@ msgstr ""
 
 #: init.lua
 msgid "Steel Block Slab"
-msgstr ""
+msgstr "钢块台阶"
 
 #: init.lua
 msgid "Stone Block Slab"
@@ -1066,15 +1070,15 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr ""
+msgstr "原木台阶"
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr ""
+msgstr "金合欢木楼梯"
 
 #: init.lua
 msgid "Aspen Wood Stair"
-msgstr ""
+msgstr "白杨木楼梯"
 
 #: init.lua
 msgid "Brick Stair"
@@ -1082,7 +1086,7 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Block Stair"
-msgstr ""
+msgstr "青铜块楼梯"
 
 #: init.lua
 msgid "Cobblestone Stair"
@@ -1122,7 +1126,7 @@ msgstr ""
 
 #: init.lua
 msgid "Gold Block Stair"
-msgstr ""
+msgstr "金块楼梯"
 
 #: init.lua
 msgid "Ice Stair"
@@ -1130,7 +1134,7 @@ msgstr ""
 
 #: init.lua
 msgid "Jungle Wood Stair"
-msgstr ""
+msgstr "丛林木楼梯"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair"
@@ -1150,7 +1154,7 @@ msgstr ""
 
 #: init.lua
 msgid "Pine Wood Stair"
-msgstr ""
+msgstr "松木楼梯"
 
 #: init.lua
 msgid "Sandstone Block Stair"
@@ -1182,7 +1186,7 @@ msgstr ""
 
 #: init.lua
 msgid "Steel Block Stair"
-msgstr ""
+msgstr "钢块楼梯"
 
 #: init.lua
 msgid "Stone Block Stair"
@@ -1202,7 +1206,7 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr ""
+msgstr "原木楼梯"
 
 #: init.lua
 msgid "Gun Powder"
@@ -1234,7 +1238,7 @@ msgstr ""
 
 #: init.lua
 msgid "Heavy Steel Bottle (empty)"
-msgstr ""
+msgstr "重钢瓶（空）"
 
 #: init.lua
 msgid "Cobblestone Wall"
@@ -1310,7 +1314,7 @@ msgstr ""
 
 #: init.lua
 msgid "Iron bar"
-msgstr ""
+msgstr "铁栏杆"
 
 #: init.lua
 msgid "Glass Pane"
