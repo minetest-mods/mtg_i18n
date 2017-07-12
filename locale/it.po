@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-07-01 13:47+0000\n"
-"Last-Translator: Davide Murtas <murtas.davide3@gmail.com>\n"
+"PO-Revision-Date: 2017-07-12 16:01+0000\n"
+"Last-Translator: Roberto Albano De Rosa <robertoalbano@protonmail.com>\n"
 "Language-Team: Italian "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/it/>\n"
 "Language: it\n"
@@ -507,7 +507,7 @@ msgstr "piccone di legno"
 
 #: init.lua
 msgid "Pine Needles"
-msgstr ""
+msgstr "Aghi di pino"
 
 #: init.lua
 #, fuzzy
@@ -786,7 +786,7 @@ msgstr ""
 
 #: init.lua
 msgid "Trapdoor"
-msgstr ""
+msgstr "Botola"
 
 #: init.lua
 #, fuzzy
@@ -918,7 +918,7 @@ msgstr "terra bagnata"
 
 #: init.lua
 msgid "Straw"
-msgstr ""
+msgstr "Paglia"
 
 #: init.lua
 msgid "Wheat"
@@ -930,7 +930,7 @@ msgstr ""
 
 #: init.lua
 msgid "Permanent Flame"
-msgstr ""
+msgstr "Fiamma permanente"
 
 #: init.lua
 msgid "White dandelion"
@@ -968,7 +968,7 @@ msgstr "viola"
 
 #: init.lua
 msgid "Waterlily"
-msgstr ""
+msgstr "Ninfea"
 
 #: init.lua
 msgid "Ignore (you hacker you!)"
@@ -1048,7 +1048,7 @@ msgstr "blocco di oro"
 
 #: init.lua
 msgid "Ice Slab"
-msgstr ""
+msgstr "Lastra di ghiaccio"
 
 #: init.lua
 #, fuzzy
@@ -1137,7 +1137,7 @@ msgstr "pala di pietra"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr ""
+msgstr "Lastra di paglia"
 
 #: init.lua
 #, fuzzy
@@ -1154,7 +1154,7 @@ msgstr ""
 
 #: init.lua
 msgid "Brick Stair"
-msgstr ""
+msgstr "Scala di mattoni"
 
 #: init.lua
 #, fuzzy
@@ -1213,7 +1213,7 @@ msgstr "blocco di oro"
 
 #: init.lua
 msgid "Ice Stair"
-msgstr ""
+msgstr "Scala di ghiaccio"
 
 #: init.lua
 #, fuzzy
@@ -1300,7 +1300,7 @@ msgstr "spada di pietra"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr ""
+msgstr "Scala di paglia"
 
 #: init.lua
 #, fuzzy
@@ -1309,15 +1309,15 @@ msgstr "cartello"
 
 #: init.lua
 msgid "Gun Powder"
-msgstr ""
+msgstr "Polvere da sparo"
 
 #: init.lua
 msgid "TNT"
-msgstr ""
+msgstr "TNT"
 
 #: init.lua
 msgid "Unknown Item"
-msgstr ""
+msgstr "Oggetto sconosciuto"
 
 #: init.lua
 msgid "Drinking Glass (empty)"
@@ -1430,4 +1430,4 @@ msgstr ""
 
 #: init.lua
 msgid "Nyan Cat"
-msgstr ""
+msgstr "Nyan Cat"
