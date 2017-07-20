@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-06-20 20:35+0000\n"
-"Last-Translator: Jakub Mendel <jimikuba@o2.pl>\n"
+"PO-Revision-Date: 2017-07-20 19:38+0000\n"
+"Last-Translator: Dewu <dewu@tfwno.gf>\n"
 "Language-Team: Polish "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.15-dev\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -62,7 +62,7 @@ msgstr "Hamujący tor"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr "Wózek (Skradanie+Click aby podnieś)"
+msgstr "Wózek (Skradanie+Klik aby podnieś)"
 
 #: init.lua
 msgid "Powered rail"
@@ -326,7 +326,7 @@ msgstr "Płot osikowy"
 
 #: init.lua
 msgid "Junglewood Fence"
-msgstr "Płot z drewna jungli"
+msgstr "Płot z drewna dżunglowego"
 
 #: init.lua
 msgid "Pine Fence"
@@ -914,7 +914,6 @@ msgid "Red Mushroom"
 msgstr "Muchomor czerwony"
 
 #: init.lua
-#, fuzzy
 msgid "Rose"
 msgstr "Róża"
 
@@ -1207,7 +1206,6 @@ msgid "Stone Brick Stair"
 msgstr "Ceglane kamienne schody"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair"
 msgstr "Kamienne schody"
 
@@ -1216,7 +1214,6 @@ msgid "Straw Stair"
 msgstr "Schody ze źdźbła"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair"
 msgstr "Drewniane schody"
 
@@ -1280,7 +1277,6 @@ msgid "Blue Wool"
 msgstr "Niebieska wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Brown Wool"
 msgstr "Brązowa wełna"
 
@@ -1298,7 +1294,6 @@ msgid "Dark Grey Wool"
 msgstr "Ciemnoszara wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Green Wool"
 msgstr "Zielona wełna"
 
@@ -1307,42 +1302,34 @@ msgid "Grey Wool"
 msgstr "Szara wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Magenta Wool"
 msgstr "Purpurowa wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Orange Wool"
 msgstr "Pomarańczowa wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Pink Wool"
 msgstr "Różowa wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Red Wool"
 msgstr "Czerwona wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Violet Wool"
 msgstr "Fioletowa wełna"
 
 #: init.lua
-#, fuzzy
 msgid "White Wool"
 msgstr "Biała wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Yellow Wool"
 msgstr "Żółta wełna"
 
 #: init.lua
-#, fuzzy
 msgid "Iron bar"
 msgstr "Sztabka żelaza"
 
@@ -1352,7 +1339,6 @@ msgid "Glass Pane"
 msgstr "Szklana szyba"
 
 #: init.lua
-#, fuzzy
 msgid "Nyan Cat Rainbow"
 msgstr "Tęczowy kot Nyan"
 
