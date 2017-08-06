@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:52+0200\n"
-"PO-Revision-Date: 2017-08-05 23:07+0200\n"
+"PO-Revision-Date: 2017-08-06 12:58+0200\n"
 "Last-Translator: fat115 <fat115@framasoft.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
 "fr/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate 2.14-dev\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -40,7 +40,7 @@ msgstr "Ossements"
 
 #: init.lua
 msgid "Empty Bucket"
-msgstr "Seau Vide"
+msgstr "Seau vide"
 
 #: init.lua
 msgid "Lava Bucket"
@@ -312,7 +312,7 @@ msgstr "Herbe Sèche"
 
 #: init.lua
 msgid "Dry Shrub"
-msgstr "Arbuste desseché"
+msgstr "Arbuste desséché"
 
 #: init.lua
 msgid "Acacia Fence"
@@ -392,7 +392,7 @@ msgstr "Arbre exotique"
 
 #: init.lua
 msgid "Junglewood Planks"
-msgstr "Planches de bois exotique"
+msgstr "Planches en bois exotique"
 
 #: init.lua
 msgid "Key"
@@ -704,7 +704,7 @@ msgstr "Source d'eau"
 
 #: init.lua
 msgid "Wooden Planks"
-msgstr "Planche en bois"
+msgstr "Planches en bois"
 
 #: init.lua
 msgid "Glass Door"
@@ -1204,7 +1204,7 @@ msgstr "Marche en paille"
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr "MArche en bois"
+msgstr "Marche en bois"
 
 #: init.lua
 msgid "Gun Powder"
