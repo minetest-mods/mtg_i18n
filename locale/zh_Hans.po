@@ -7,12 +7,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: 2017-07-03 19:35+0000\n"
-"Last-Translator: Muhammad Nur Hidayat Yasuyoshi <muhdnurhidayat96@yahoo.com>"
-"\n"
-"Language-Team: Chinese (Simplified) "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/zh_Hans/>\n"
+"Last-Translator: Muhammad Nur Hidayat Yasuyoshi <muhdnurhidayat96@yahoo."
+"com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"minetest/mtg_i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -881,6 +881,10 @@ msgid "Straw"
 msgstr ""
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr ""
 
@@ -1069,6 +1073,11 @@ msgid "Straw Slab"
 msgstr ""
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Slab"
+msgstr "青铜块台阶"
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr "原木台阶"
 
@@ -1205,7 +1214,328 @@ msgid "Straw Stair"
 msgstr ""
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Stair"
+msgstr "青铜块楼梯"
+
+#: init.lua
 msgid "Wooden Stair"
+msgstr "原木楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "金合欢木楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "白杨木楼梯"
+
+#: init.lua
+msgid "Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Cobblestone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Desert Cobblestone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Desert Stone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "金块楼梯"
+
+#: init.lua
+msgid "Ice Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Inner"
+msgstr "丛林木楼梯"
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "金块楼梯"
+
+#: init.lua
+msgid "Obsidian Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Inner"
+msgstr "松木楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "钢块楼梯"
+
+#: init.lua
+msgid "Sandstone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Inner"
+msgstr "金块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Inner"
+msgstr "钢块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Inner"
+msgstr "钢块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Inner"
+msgstr "钢块楼梯"
+
+#: init.lua
+msgid "Stone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Straw Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Inner"
+msgstr "青铜块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "原木楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "金合欢木楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "白杨木楼梯"
+
+#: init.lua
+msgid "Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Cobblestone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Desert Cobblestone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Desert Stone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "金块楼梯"
+
+#: init.lua
+msgid "Ice Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Outer"
+msgstr "丛林木楼梯"
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "金块楼梯"
+
+#: init.lua
+msgid "Obsidian Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Outer"
+msgstr "松木楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "钢块楼梯"
+
+#: init.lua
+msgid "Sandstone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "青铜块楼梯"
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Outer"
+msgstr "金块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Outer"
+msgstr "钢块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Outer"
+msgstr "钢块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Outer"
+msgstr "钢块楼梯"
+
+#: init.lua
+msgid "Stone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Straw Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Outer"
+msgstr "青铜块楼梯"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
 msgstr "原木楼梯"
 
 #: init.lua

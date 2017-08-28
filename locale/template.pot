@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -878,6 +878,10 @@ msgid "Straw"
 msgstr ""
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr ""
 
@@ -1066,6 +1070,10 @@ msgid "Straw Slab"
 msgstr ""
 
 #: init.lua
+msgid "Tin Block Slab"
+msgstr ""
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr ""
 
@@ -1202,7 +1210,291 @@ msgid "Straw Stair"
 msgstr ""
 
 #: init.lua
+msgid "Tin Block Stair"
+msgstr ""
+
+#: init.lua
 msgid "Wooden Stair"
+msgstr ""
+
+#: init.lua
+msgid "Acacia Wood Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Aspen Wood Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Bronze Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Cobblestone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Copper Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Cobblestone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Gold Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Ice Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Jungle Wood Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Pine Wood Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Snow Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Steel Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Stone Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Stone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Stone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Straw Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Tin Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Wooden Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Acacia Wood Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Aspen Wood Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Bronze Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Cobblestone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Copper Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Cobblestone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Desert Stone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Gold Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Ice Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Jungle Wood Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Pine Wood Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Snow Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Steel Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Stone Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Stone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Stone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Straw Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Tin Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Wooden Stair Outer"
 msgstr ""
 
 #: init.lua

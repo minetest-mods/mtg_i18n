@@ -1,5 +1,5 @@
 # ITALIAN LOCALE FILE FOR THE MTG_i18N MODULE
-# Copyright (C) 2017
+# Copyright (C) 2017 LNJ
 # This file is distributed under the same license as the MTG_i18N package.
 # Hamlet <h4mlet@riseup.net>, 2017.
 #
@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Italian locale file for the MTG_i18n module\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-08-28 15:27+0100\n"
+"POT-Creation-Date: 2017-08-28 20:52+0200\n"
+"PO-Revision-Date: 2017-08-28 21:00+0100\n"
 "Last-Translator: H4mlet <h4mlet@riseup.net>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -60,7 +60,7 @@ msgstr "Binario freno"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr "Vagone (Shift+Click per prenderlo)"
+msgstr "Vagone (Maiusc+Click per prenderlo)"
 
 #: init.lua
 msgid "Powered rail"
@@ -879,6 +879,10 @@ msgid "Straw"
 msgstr "Paglia"
 
 #: init.lua
+msgid "String"
+msgstr "Filo"
+
+#: init.lua
 msgid "Wheat"
 msgstr "Grano"
 
@@ -1067,6 +1071,10 @@ msgid "Straw Slab"
 msgstr "Lastra di paglia"
 
 #: init.lua
+msgid "Tin Block Slab"
+msgstr "Lastra di blocco di stagno"
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr "Lastra di legno"
 
@@ -1203,8 +1211,292 @@ msgid "Straw Stair"
 msgstr "Scala di paglia"
 
 #: init.lua
+msgid "Tin Block Stair"
+msgstr "Scala di blocco di stagno"
+
+#: init.lua
 msgid "Wooden Stair"
 msgstr "Scala di legno"
+
+#: init.lua
+msgid "Acacia Wood Stair Inner"
+msgstr "Scala di legno d'acacia (angolo interno)"
+
+#: init.lua
+msgid "Aspen Wood Stair Inner"
+msgstr "Scala di legno di pioppo (angolo interno)"
+
+#: init.lua
+msgid "Brick Stair Inner"
+msgstr "Scala di mattoni (angolo interno)"
+
+#: init.lua
+msgid "Bronze Block Stair Inner"
+msgstr "Scala di blocco di bronzo (angolo interno)"
+
+#: init.lua
+msgid "Cobblestone Stair Inner"
+msgstr "Scala di ciottoli (angolo interno)"
+
+#: init.lua
+msgid "Copper Block Stair Inner"
+msgstr "Scala di blocco di rame (angolo interno)"
+
+#: init.lua
+msgid "Desert Cobblestone Stair Inner"
+msgstr "Scala di ciottoli del deserto (angolo interno)"
+
+#: init.lua
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "Scala di blocco d'arenaria del deserto (angolo interno)"
+
+#: init.lua
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "Scala di mattoni d'arenaria del deserto (angolo interno)"
+
+#: init.lua
+msgid "Desert Sandstone Stair Inner"
+msgstr "Scala d'arenaria del deserto (angolo interno)"
+
+#: init.lua
+msgid "Desert Stone Block Stair Inner"
+msgstr "Scala di blocco di pietra del deserto (angolo interno)"
+
+#: init.lua
+msgid "Desert Stone Brick Stair Inner"
+msgstr "Scala di mattoni di pietra del deserto (angolo interno)"
+
+#: init.lua
+msgid "Desert Stone Stair Inner"
+msgstr "Scala di pietra del deserto (angolo interno)"
+
+#: init.lua
+msgid "Gold Block Stair Inner"
+msgstr "Scala di blocco d'oro (angolo interno)"
+
+#: init.lua
+msgid "Ice Stair Inner"
+msgstr "Scala di ghiaccio (angolo interno)"
+
+#: init.lua
+msgid "Jungle Wood Stair Inner"
+msgstr "Scala di legno della giungla (angolo interno)"
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Inner"
+msgstr "Scala di ciottoli muschiosi (angolo interno)"
+
+#: init.lua
+msgid "Obsidian Block Stair Inner"
+msgstr "Scala di blocco d'ossidiana (angolo interno)"
+
+#: init.lua
+msgid "Obsidian Brick Stair Inner"
+msgstr "Scala di mattoni d'ossidiana (angolo interno)"
+
+#: init.lua
+msgid "Obsidian Stair Inner"
+msgstr "Scala d'ossidiana (angolo interno)"
+
+#: init.lua
+msgid "Pine Wood Stair Inner"
+msgstr "Scala di legno di pino (angolo interno)"
+
+#: init.lua
+msgid "Sandstone Block Stair Inner"
+msgstr "Scala di blocco d'arenaria (angolo interno)"
+
+#: init.lua
+msgid "Sandstone Brick Stair Inner"
+msgstr "Scala di mattoni d'arenaria (angolo interno)"
+
+#: init.lua
+msgid "Sandstone Stair Inner"
+msgstr "Scala d'arenaria (angolo interno)"
+
+#: init.lua
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "Scala di blocco d'arenaria argentea (angolo interno)"
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "Scala di mattoni d'arenaria argentea (angolo interno)"
+
+#: init.lua
+msgid "Silver Sandstone Stair Inner"
+msgstr "Scala d'arenaria argentea (angolo interno)"
+
+#: init.lua
+msgid "Snow Block Stair Inner"
+msgstr "Scala di blocco di neve (angolo interno)"
+
+#: init.lua
+msgid "Steel Block Stair Inner"
+msgstr "Scala di blocco d'acciaio (angolo interno)"
+
+#: init.lua
+msgid "Stone Block Stair Inner"
+msgstr "Scala di blocco di pietra (angolo interno)"
+
+#: init.lua
+msgid "Stone Brick Stair Inner"
+msgstr "Scala di mattoni di pietra (angolo interno)"
+
+#: init.lua
+msgid "Stone Stair Inner"
+msgstr "Scala di pietra (angolo interno)"
+
+#: init.lua
+msgid "Straw Stair Inner"
+msgstr "Scala di paglia (angolo interno)"
+
+#: init.lua
+msgid "Tin Block Stair Inner"
+msgstr "Scala di blocco di stagno (angolo interno)"
+
+#: init.lua
+msgid "Wooden Stair Inner"
+msgstr "Scala di legno (angolo interno)"
+
+#: init.lua
+msgid "Acacia Wood Stair Outer"
+msgstr "Scala di legno d'acacia (angolo esterno)"
+
+#: init.lua
+msgid "Aspen Wood Stair Outer"
+msgstr "Scala di legno di pioppo (angolo esterno)"
+
+#: init.lua
+msgid "Brick Stair Outer"
+msgstr "Scala di mattoni (angolo esterno)"
+
+#: init.lua
+msgid "Bronze Block Stair Outer"
+msgstr "Scala di blocco di bronzo (angolo esterno)"
+
+#: init.lua
+msgid "Cobblestone Stair Outer"
+msgstr "Scala di ciottoli (angolo esterno)"
+
+#: init.lua
+msgid "Copper Block Stair Outer"
+msgstr "Scala di blocco di rame (angolo esterno)"
+
+#: init.lua
+msgid "Desert Cobblestone Stair Outer"
+msgstr "Scala di ciottoli del deserto (angolo esterno)"
+
+#: init.lua
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "Scala di blocco d'arenaria del deserto (angolo esterno)"
+
+#: init.lua
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "Scala di mattoni d'arenaria del deserto (angolo esterno)"
+
+#: init.lua
+msgid "Desert Sandstone Stair Outer"
+msgstr "Scala d'arenaria del deserto (angolo esterno)"
+
+#: init.lua
+msgid "Desert Stone Block Stair Outer"
+msgstr "Scala di blocco di pietra del deserto (angolo esterno)"
+
+#: init.lua
+msgid "Desert Stone Brick Stair Outer"
+msgstr "Scala di mattoni di pietra del deserto (angolo esterno)"
+
+#: init.lua
+msgid "Desert Stone Stair Outer"
+msgstr "Scala di pietra del deserto (angolo esterno)"
+
+#: init.lua
+msgid "Gold Block Stair Outer"
+msgstr "Scala di blocco d'oro (angolo esterno)"
+
+#: init.lua
+msgid "Ice Stair Outer"
+msgstr "Scala di ghiaccio (angolo esterno)"
+
+#: init.lua
+msgid "Jungle Wood Stair Outer"
+msgstr "Scala di legno della giungla (angolo esterno)"
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Outer"
+msgstr "Scala di ciottoli muschiosi (angolo esterno)"
+
+#: init.lua
+msgid "Obsidian Block Stair Outer"
+msgstr "Scala di blocco d'ossidiana (angolo esterno)"
+
+#: init.lua
+msgid "Obsidian Brick Stair Outer"
+msgstr "Scala di mattoni d'ossidiana (angolo esterno)"
+
+#: init.lua
+msgid "Obsidian Stair Outer"
+msgstr "Scala d'ossidiana (angolo esterno)"
+
+#: init.lua
+msgid "Pine Wood Stair Outer"
+msgstr "Scala di legno di pino (angolo esterno)"
+
+#: init.lua
+msgid "Sandstone Block Stair Outer"
+msgstr "Scala di blocco d'arenaria (angolo esterno)"
+
+#: init.lua
+msgid "Sandstone Brick Stair Outer"
+msgstr "Scala di mattoni d'arenaria (angolo esterno)"
+
+#: init.lua
+msgid "Sandstone Stair Outer"
+msgstr "Scala d'arenaria (angolo esterno)"
+
+#: init.lua
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "Scala di blocco d'arenaria argentea (angolo esterno)"
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "Scala di mattoni d'arenaria argentea (angolo esterno)"
+
+#: init.lua
+msgid "Silver Sandstone Stair Outer"
+msgstr "Scala d'arenaria argentea (angolo esterno)"
+
+#: init.lua
+msgid "Snow Block Stair Outer"
+msgstr "Scala di blocco di neve (angolo esterno)"
+
+#: init.lua
+msgid "Steel Block Stair Outer"
+msgstr "Scala di blocco d'acciaio (angolo esterno)"
+
+#: init.lua
+msgid "Stone Block Stair Outer"
+msgstr "Scala di blocco di pietra (angolo esterno)"
+
+#: init.lua
+msgid "Stone Brick Stair Outer"
+msgstr "Scala di mattoni di pietra (angolo esterno)"
+
+#: init.lua
+msgid "Stone Stair Outer"
+msgstr "Scala di pietra (angolo esterno)"
+
+#: init.lua
+msgid "Straw Stair Outer"
+msgstr "Scala di paglia (angolo esterno)"
+
+#: init.lua
+msgid "Tin Block Stair Outer"
+msgstr "Scala di blocco di stagno (angolo esterno)"
+
+#: init.lua
+msgid "Wooden Stair Outer"
+msgstr "Scala di legno (angolo esterno)"
 
 #: init.lua
 msgid "Gun Powder"

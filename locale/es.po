@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: 2017-05-16 17:54+0000\n"
 "Last-Translator: Michael Higuera <mineyoshist@protonmail.ch>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/minetest/"
@@ -880,6 +880,10 @@ msgid "Straw"
 msgstr "Paja"
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr "Trigo"
 
@@ -1068,6 +1072,11 @@ msgid "Straw Slab"
 msgstr "Losa de Paja"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Slab"
+msgstr "Losa de Bloque de Nieve"
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr "Losa de Madera"
 
@@ -1204,7 +1213,362 @@ msgid "Straw Stair"
 msgstr "Escalera de Paja"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Stair"
+msgstr "Escalera de Bloque de Nieve"
+
+#: init.lua
 msgid "Wooden Stair"
+msgstr "Escalera de Madera"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "Escaleras de Madera de Acacia"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "Escalera de Madera de Alamo"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Inner"
+msgstr "Escalera de Ladrillo"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "Escalera de Bloque de Bronce"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Inner"
+msgstr "Escalera de Adoquin"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "Escalera de Bloque de Cobre"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Inner"
+msgstr "Escalera de Adoquin del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "Escalera de Bloque de Piedra Arenosa del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "Escalera de Ladrillo de Piedra Arenosa del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Inner"
+msgstr "Escalera de Piedra Arenosa del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "Escalera de Bloque de Piedra del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Inner"
+msgstr "Escalera de Ladrillo de Piedra del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Inner"
+msgstr "Escalera de Piedra del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "Escalera de Bloque de Oro"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Inner"
+msgstr "Escalera de Hielo"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Inner"
+msgstr "Escalera de Madera de Jungla"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Inner"
+msgstr "Escalera de Adoquin Musgoso"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "Escalera de Bloque de Obsidiana"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Inner"
+msgstr "Escalera de Ladrillo de Obsidiana"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Inner"
+msgstr "Escalera de Obsidiana"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Inner"
+msgstr "Escalera de Madera de Pino"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "Escalera de Bloque de Piedra Arenosa"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Inner"
+msgstr "Escalera de Ladrillo de Piedra Arenosa"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Inner"
+msgstr "Escalera de Piedra Arenosa"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "Escalera de Bloque de Piedra Arenosa Plateada"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "Escalera de Ladrillo de Piedra Arenosa Plateada"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Inner"
+msgstr "Escalera de Piedra Arenosa Plateada"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Inner"
+msgstr "Escalera de Bloque de Nieve"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Inner"
+msgstr "Escalera de Bloque de Acero"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Inner"
+msgstr "Escalera de Bloque de Piedra"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Inner"
+msgstr "Escalera de Ladrillo de Piedra"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Inner"
+msgstr "Escalera de Piedra"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Inner"
+msgstr "Escalera de Paja"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Inner"
+msgstr "Escalera de Bloque de Nieve"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "Escalera de Madera"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "Escaleras de Madera de Acacia"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "Escalera de Madera de Alamo"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Outer"
+msgstr "Escalera de Ladrillo"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "Escalera de Bloque de Bronce"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Outer"
+msgstr "Escalera de Adoquin"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "Escalera de Bloque de Cobre"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Outer"
+msgstr "Escalera de Adoquin del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "Escalera de Bloque de Piedra Arenosa del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "Escalera de Ladrillo de Piedra Arenosa del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Outer"
+msgstr "Escalera de Piedra Arenosa del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "Escalera de Bloque de Piedra del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Outer"
+msgstr "Escalera de Ladrillo de Piedra del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Outer"
+msgstr "Escalera de Piedra del Desierto"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "Escalera de Bloque de Oro"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Outer"
+msgstr "Escalera de Hielo"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Outer"
+msgstr "Escalera de Madera de Jungla"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Outer"
+msgstr "Escalera de Adoquin Musgoso"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "Escalera de Bloque de Obsidiana"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Outer"
+msgstr "Escalera de Ladrillo de Obsidiana"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Outer"
+msgstr "Escalera de Obsidiana"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Outer"
+msgstr "Escalera de Madera de Pino"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "Escalera de Bloque de Piedra Arenosa"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Outer"
+msgstr "Escalera de Ladrillo de Piedra Arenosa"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Outer"
+msgstr "Escalera de Piedra Arenosa"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "Escalera de Bloque de Piedra Arenosa Plateada"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "Escalera de Ladrillo de Piedra Arenosa Plateada"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Outer"
+msgstr "Escalera de Piedra Arenosa Plateada"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Outer"
+msgstr "Escalera de Bloque de Nieve"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Outer"
+msgstr "Escalera de Bloque de Acero"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Outer"
+msgstr "Escalera de Bloque de Piedra"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Outer"
+msgstr "Escalera de Ladrillo de Piedra"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Outer"
+msgstr "Escalera de Piedra"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Outer"
+msgstr "Escalera de Paja"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Outer"
+msgstr "Escalera de Bloque de Nieve"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
 msgstr "Escalera de Madera"
 
 #: init.lua
