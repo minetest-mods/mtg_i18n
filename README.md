@@ -9,16 +9,18 @@ settings), but of course only as long your language is supported.
 
 ### Currently supported languages
  * Belarusian
+ * Chinese (Simplified) (~30%)
+ * Czech
  * Esperanto
  * French (~40%)
  * German
  * Indonesian
- * Italian (~45%)
+ * Italian
  * Japanese (~55%)
  * Malay
  * Polish
  * Russian (~60%)
- * Serbian (~5%)
+ * Serbian (~30%)
  * Spanish
  * Turkish
 
