@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: mtg_i18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-08-29 12:45+0000\n"
+"PO-Revision-Date: 2017-08-29 12:50+0000\n"
 "Last-Translator: LNJ <git@lnj.li>\n"
 "Language-Team: German "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/de/>\n"
@@ -1210,7 +1210,7 @@ msgstr "Steintreppe"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr "Stohtreppe"
+msgstr "Strohtreppe"
 
 #: init.lua
 msgid "Tin Block Stair"
@@ -1286,7 +1286,7 @@ msgstr "Innere Tropenholztreppe"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair Inner"
-msgstr "Innere Bemooste Pflastersteintreppe"
+msgstr "Innere, Bemooste Pflastersteintreppe"
 
 #: init.lua
 msgid "Obsidian Block Stair Inner"
