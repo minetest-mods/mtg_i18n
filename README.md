@@ -11,6 +11,7 @@ settings), but of course only as long your language is supported.
  * Belarusian
  * Chinese (Simplified) (~30%)
  * Czech
+ * Dutch (~55%)
  * Esperanto
  * French (~40%)
  * German
