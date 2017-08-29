@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-08-29 12:23+0000\n"
+"PO-Revision-Date: 2017-08-29 12:50+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -197,7 +197,7 @@ msgstr "Kist"
 
 #: init.lua
 msgid "Clay Brick"
-msgstr ""
+msgstr "Baksteen"
 
 #: init.lua
 msgid "Clay Lump"
@@ -509,7 +509,7 @@ msgstr ""
 
 #: init.lua
 msgid "Pine Tree"
-msgstr ""
+msgstr "Naaldboom"
 
 #: init.lua
 msgid "Pine Wood Planks"
@@ -1084,7 +1084,7 @@ msgstr ""
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr ""
+msgstr "Acacia Houten trap"
 
 #: init.lua
 msgid "Aspen Wood Stair"
