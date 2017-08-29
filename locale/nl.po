@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-08-29 12:50+0000\n"
+"PO-Revision-Date: 2017-08-29 15:51+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -108,8 +108,9 @@ msgid "Apple"
 msgstr "Appel"
 
 #: init.lua
+#, fuzzy
 msgid "Aspen Leaves"
-msgstr ""
+msgstr "Espen Bladeren"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
@@ -425,23 +426,24 @@ msgstr "Bladeren"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr ""
+msgstr "Mese Kristal Fragment"
 
 #: init.lua
 msgid "Mese Crystal"
-msgstr ""
+msgstr "Mese Kristal"
 
 #: init.lua
 msgid "Mese Lamp"
-msgstr ""
+msgstr "Mese Lamp"
 
 #: init.lua
+#, fuzzy
 msgid "Mese Post Light"
-msgstr ""
+msgstr "Mese Post Licht"
 
 #: init.lua
 msgid "Mese Block"
-msgstr ""
+msgstr "Mese Blok"
 
 #: init.lua
 msgid "Mossy Cobblestone"
@@ -456,8 +458,9 @@ msgid "Obsidian Brick"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Glass"
-msgstr ""
+msgstr "Obsidiaan Glas"
 
 #: init.lua
 msgid "Obsidian Shard"
@@ -568,8 +571,9 @@ msgid "Wooden Shovel"
 msgstr "Houten Schep"
 
 #: init.lua
+#, fuzzy
 msgid "Steel Sign"
-msgstr ""
+msgstr "Stalen Bordje"
 
 #: init.lua
 msgid "Wooden Sign"
@@ -595,7 +599,7 @@ msgstr "Zilver Zandsteen"
 
 #: init.lua
 msgid "Skeleton Key"
-msgstr ""
+msgstr "Skelet Sleutel"
 
 #: init.lua
 msgid "Snow Block"
@@ -610,12 +614,13 @@ msgid "Steel Block"
 msgstr "Stalen Blok"
 
 #: init.lua
+#, fuzzy
 msgid "Steel Ingot"
-msgstr ""
+msgstr "Stalen Staaf"
 
 #: init.lua
 msgid "Stick"
-msgstr ""
+msgstr "Stok"
 
 #: init.lua
 msgid "Stone Block"
@@ -631,11 +636,11 @@ msgstr "Steen"
 
 #: init.lua
 msgid "Coal Ore"
-msgstr ""
+msgstr "Kool Erts"
 
 #: init.lua
 msgid "Copper Ore"
-msgstr ""
+msgstr "Koper Erts"
 
 #: init.lua
 msgid "Diamond Ore"
@@ -647,15 +652,16 @@ msgstr "Goud Erts"
 
 #: init.lua
 msgid "Iron Ore"
-msgstr ""
+msgstr "Ijzererts"
 
 #: init.lua
 msgid "Mese Ore"
-msgstr ""
+msgstr "Mese Erts"
 
 #: init.lua
+#, fuzzy
 msgid "Tin Ore"
-msgstr ""
+msgstr "Tin Erts"
 
 #: init.lua
 msgid "Bronze Sword"
@@ -667,7 +673,7 @@ msgstr "Diamanten Zwaard"
 
 #: init.lua
 msgid "Mese Sword"
-msgstr ""
+msgstr "Mese Zwaard"
 
 #: init.lua
 msgid "Steel Sword"
@@ -715,11 +721,12 @@ msgstr "Houten Planken"
 
 #: init.lua
 msgid "Glass Door"
-msgstr ""
+msgstr "Glazen Deur"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Glass Door"
-msgstr ""
+msgstr "Obsidiaan Glazen Deur"
 
 #: init.lua
 msgid "Steel Door"
@@ -727,7 +734,7 @@ msgstr "Stalen Deur"
 
 #: init.lua
 msgid "Wooden Door"
-msgstr ""
+msgstr "Houten Deur"
 
 #: init.lua
 msgid "Acacia Fence Gate"
@@ -755,7 +762,7 @@ msgstr ""
 
 #: init.lua
 msgid "Trapdoor"
-msgstr ""
+msgstr "Luik"
 
 #: init.lua
 msgid "Steel Trapdoor"
@@ -843,7 +850,7 @@ msgstr ""
 
 #: init.lua
 msgid "Bronze Hoe"
-msgstr ""
+msgstr "Bronzen Schoffel"
 
 #: init.lua
 msgid "Diamond Hoe"
@@ -851,7 +858,7 @@ msgstr "Diamanten Schoffel"
 
 #: init.lua
 msgid "Mese Hoe"
-msgstr ""
+msgstr "Mese Schoffel"
 
 #: init.lua
 msgid "Steel Hoe"
@@ -863,7 +870,7 @@ msgstr "Stenen Schoffel"
 
 #: init.lua
 msgid "Wooden Hoe"
-msgstr ""
+msgstr "Houten schoffel"
 
 #: init.lua
 msgid "Cotton seed"
@@ -1001,8 +1008,9 @@ msgid "Gold Block Slab"
 msgstr "Gouden Blok Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Ice Slab"
-msgstr ""
+msgstr "Ijs Plaat"
 
 #: init.lua
 msgid "Jungle Wood Slab"
