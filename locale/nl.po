@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-08-29 15:51+0000\n"
+"PO-Revision-Date: 2017-08-29 15:53+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -410,7 +410,7 @@ msgstr "Stalen Ladder"
 
 #: init.lua
 msgid "Wooden Ladder"
-msgstr ""
+msgstr "Houten Ladder"
 
 #: init.lua
 msgid "Flowing Lava"
