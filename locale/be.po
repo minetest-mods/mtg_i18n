@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-05-30 18:34+0000\n"
+"PO-Revision-Date: 2017-08-29 17:37+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
-"Language-Team: Belarusian <https://hosted.weblate.org/projects/minetest/"
-"mtg_i18n/be/>\n"
+"Language-Team: Belarusian "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/be/>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.14.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.17-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -882,7 +882,7 @@ msgstr "Салома"
 
 #: init.lua
 msgid "String"
-msgstr ""
+msgstr "Нітка"
 
 #: init.lua
 msgid "Wheat"
@@ -1073,9 +1073,8 @@ msgid "Straw Slab"
 msgstr "Пліта з саломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Slab"
-msgstr "Пліта з блока снега"
+msgstr "Пліта з блока волава"
 
 #: init.lua
 msgid "Wooden Slab"
@@ -1214,363 +1213,292 @@ msgid "Straw Stair"
 msgstr "Прыступка з саломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair"
-msgstr "Прыступка з блока снега"
+msgstr "Прыступка з блока волава"
 
 #: init.lua
 msgid "Wooden Stair"
 msgstr "Прыступка з драўніны"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Inner"
-msgstr "Прыступка з акацыі"
+msgstr "Унутраная прыступка з акацыі"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Inner"
-msgstr "Прыступка з асіны"
+msgstr "Унутраная прыступка з асіны"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Inner"
-msgstr "Прыступка з цэглы"
+msgstr "Унутраная прыступка з цэглы"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Inner"
-msgstr "Прыступка з бронзавага блока"
+msgstr "Унутраная прыступка з бронзавага блока"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Inner"
-msgstr "Прыступка з бруку"
+msgstr "Унутраная прыступка з бруку"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Inner"
-msgstr "Прыступка з блока медзі"
+msgstr "Унутраная прыступка з блока медзі"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Inner"
-msgstr "Прыступка з пустыннага бруку"
+msgstr "Унутраная прыступка з пустыннага бруку"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Inner"
-msgstr "Прыступка з блока пустыннага пяшчаніка"
+msgstr "Унутраная прыступка з блока пустыннага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Inner"
-msgstr "Прыступка з цэглы пустыннага пяшчаніка"
+msgstr "Унутраная прыступка з цэглы пустыннага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Inner"
-msgstr "Прыступка з пустыннага пяшчаніка"
+msgstr "Унутраная прыступка з пустыннага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Inner"
-msgstr "Прыступка з блока пустыннага камня"
+msgstr "Унутраная прыступка з блока пустыннага камня"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Inner"
-msgstr "Прыступка з цэглы пустыннага камня"
+msgstr "Унутраная прыступка з цэглы пустыннага камня"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Inner"
-msgstr "Прыступка з пустыннага камня"
+msgstr "Унутраная прыступка з пустыннага камня"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Inner"
-msgstr "Прыступка з блока золата"
+msgstr "Унутраная прыступка з блока золата"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Inner"
-msgstr "Прыступка з ільда"
+msgstr "Унутраная прыступка з ільда"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Inner"
-msgstr "Прыступка з джунглевага дрэва"
+msgstr "Унутраная прыступка з джунглевага дрэва"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Inner"
-msgstr "Прыступка з замшэлага бруку"
+msgstr "Унутраная прыступка з замшэлага бруку"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Inner"
-msgstr "Прыступка з блока абсідыяну"
+msgstr "Унутраная прыступка з блока абсідыяну"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Inner"
-msgstr "Прыступка з цэглы абсідыяну"
+msgstr "Унутраная прыступка з цэглы абсідыяну"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Inner"
-msgstr "Прыступка з абсідыяну"
+msgstr "Унутраная прыступка з абсідыяну"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Inner"
-msgstr "Прыступка з хвоі"
+msgstr "Унутраная прыступка з хвоі"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Inner"
-msgstr "Прыступка з блока пяшчаніка"
+msgstr "Унутраная прыступка з блока пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Inner"
-msgstr "Прыступка з цэглы пяшчаніка"
+msgstr "Унутраная прыступка з цэглы пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Inner"
-msgstr "Прыступка з пяшчаніка"
+msgstr "Унутраная прыступка з пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Inner"
-msgstr "Прыступка з блока срэбнага пяшчаніка"
+msgstr "Унутраная прыступка з блока срэбнага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Inner"
-msgstr "Прыступка з цэглы срэбнага пяшчаніка"
+msgstr "Унутраная прыступка з цэглы срэбнага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Inner"
-msgstr "Прыступка са срэбнага пяшчаніка"
+msgstr "Унутраная прыступка са срэбнага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Inner"
-msgstr "Прыступка з блока снега"
+msgstr "Унутраная прыступка з блока снега"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Inner"
-msgstr "Прыступка з блока сталі"
+msgstr "Унутраная прыступка з блока сталі"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Inner"
-msgstr "Прыступка з блока камня"
+msgstr "Унутраная прыступка з блока камня"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Inner"
-msgstr "Прыступка з каменнай цэглы"
+msgstr "Унутраная прыступка з каменнай цэглы"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Inner"
-msgstr "Прыступка з камня"
+msgstr "Унутраная прыступка з камня"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Inner"
-msgstr "Прыступка з саломы"
+msgstr "Унутраная прыступка з саломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Inner"
-msgstr "Прыступка з блока снега"
+msgstr "Унутраная прыступка з блока снега"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Inner"
-msgstr "Прыступка з драўніны"
+msgstr "Унутраная прыступка з драўніны"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Outer"
-msgstr "Прыступка з акацыі"
+msgstr "Знешняя прыступка з акацыі"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Outer"
-msgstr "Прыступка з асіны"
+msgstr "Знешняя прыступка з асіны"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Outer"
-msgstr "Прыступка з цэглы"
+msgstr "Знешняя прыступка з цэглы"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Outer"
-msgstr "Прыступка з бронзавага блока"
+msgstr "Знешняя прыступка з бронзавага блока"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Outer"
-msgstr "Прыступка з бруку"
+msgstr "Знешняя прыступка з бруку"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Outer"
-msgstr "Прыступка з блока медзі"
+msgstr "Знешняя прыступка з блока медзі"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Outer"
-msgstr "Прыступка з пустыннага бруку"
+msgstr "Знешняя прыступка з пустыннага бруку"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Outer"
-msgstr "Прыступка з блока пустыннага пяшчаніка"
+msgstr "Знешняя прыступка з блока пустыннага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Outer"
-msgstr "Прыступка з цэглы пустыннага пяшчаніка"
+msgstr "Знешняя прыступка з цэглы пустыннага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Outer"
-msgstr "Прыступка з пустыннага пяшчаніка"
+msgstr "Знешняя прыступка з пустыннага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Outer"
-msgstr "Прыступка з блока пустыннага камня"
+msgstr "Знешняя прыступка з блока пустыннага камня"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Outer"
-msgstr "Прыступка з цэглы пустыннага камня"
+msgstr "Знешняя прыступка з цэглы пустыннага камня"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Outer"
-msgstr "Прыступка з пустыннага камня"
+msgstr "Знешняя прыступка з пустыннага камня"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Outer"
-msgstr "Прыступка з блока золата"
+msgstr "Знешняя прыступка з блока золата"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Outer"
-msgstr "Прыступка з ільда"
+msgstr "Знешняя прыступка з ільда"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Outer"
-msgstr "Прыступка з джунглевага дрэва"
+msgstr "Знешняя прыступка з джунглевага дрэва"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Outer"
-msgstr "Прыступка з замшэлага бруку"
+msgstr "Знешняя прыступка з замшэлага бруку"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Outer"
-msgstr "Прыступка з блока абсідыяну"
+msgstr "Знешняя прыступка з блока абсідыяну"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Outer"
-msgstr "Прыступка з цэглы абсідыяну"
+msgstr "Знешняя прыступка з цэглы абсідыяну"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Outer"
-msgstr "Прыступка з абсідыяну"
+msgstr "Знешняя прыступка з абсідыяну"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Outer"
-msgstr "Прыступка з хвоі"
+msgstr "Знешняя прыступка з хвоі"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Outer"
-msgstr "Прыступка з блока пяшчаніка"
+msgstr "Знешняя прыступка з блока пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Outer"
-msgstr "Прыступка з цэглы пяшчаніка"
+msgstr "Знешняя прыступка з цэглы пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Outer"
-msgstr "Прыступка з пяшчаніка"
+msgstr "Знешняя прыступка з пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Outer"
-msgstr "Прыступка з блока срэбнага пяшчаніка"
+msgstr "Знешняя прыступка з блока срэбнага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Outer"
-msgstr "Прыступка з цэглы срэбнага пяшчаніка"
+msgstr "Знешняя прыступка з цэглы срэбнага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Outer"
-msgstr "Прыступка са срэбнага пяшчаніка"
+msgstr "Знешняя прыступка са срэбнага пяшчаніка"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Outer"
-msgstr "Прыступка з блока снега"
+msgstr "Знешняя прыступка з блока снега"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Outer"
-msgstr "Прыступка з блока сталі"
+msgstr "Знешняя прыступка з блока сталі"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Outer"
-msgstr "Прыступка з блока камня"
+msgstr "Знешняя прыступка з блока камня"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Outer"
-msgstr "Прыступка з каменнай цэглы"
+msgstr "Знешняя прыступка з каменнай цэглы"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Outer"
-msgstr "Прыступка з камня"
+msgstr "Знешняя прыступка з камня"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Outer"
-msgstr "Прыступка з саломы"
+msgstr "Знешняя прыступка з саломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Outer"
-msgstr "Прыступка з блока снега"
+msgstr "Знешняя прыступка з блока волава"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Outer"
-msgstr "Прыступка з драўніны"
+msgstr "Знешняя прыступка з драўніны"
 
 #: init.lua
 msgid "Gun Powder"
