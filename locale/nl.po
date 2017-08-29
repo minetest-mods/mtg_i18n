@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-08-29 15:53+0000\n"
+"PO-Revision-Date: 2017-08-29 20:10+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -73,18 +73,18 @@ msgid "Rail"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Acacia Bush Leaves"
-msgstr "Acacia Struik Bladeren"
+msgstr "Acacia Struiken Bladeren"
 
 #: init.lua
 #, fuzzy
 msgid "Acacia Bush Sapling"
-msgstr "Acacia Struik Kiemplant"
+msgstr "Acacia Struiken Kiemplant"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Bush Stem"
-msgstr "Acacia Struik Stam"
+msgstr "Acacia Struiken Stam"
 
 #: init.lua
 msgid "Acacia Leaves"
@@ -153,8 +153,9 @@ msgid "Book"
 msgstr "Boek"
 
 #: init.lua
+#, fuzzy
 msgid "Bookshelf"
-msgstr ""
+msgstr "Boekenplanken"
 
 #: init.lua
 msgid "Book With Text"
@@ -162,27 +163,31 @@ msgstr "Boek Met Text"
 
 #: init.lua
 msgid "Brick Block"
-msgstr ""
+msgstr "Bakstenen Blok"
 
 #: init.lua
 msgid "Bronze Block"
 msgstr "Bronzen Blok"
 
 #: init.lua
+#, fuzzy
 msgid "Bronze Ingot"
-msgstr ""
+msgstr "Bronzen Staaf"
 
 #: init.lua
+#, fuzzy
 msgid "Bush Leaves"
-msgstr "Struik Bladeren"
+msgstr "Struiken Bladeren"
 
 #: init.lua
+#, fuzzy
 msgid "Bush Sapling"
-msgstr ""
+msgstr "Struiken Kiemplant"
 
 #: init.lua
+#, fuzzy
 msgid "Bush Stem"
-msgstr ""
+msgstr "Struiken Stam"
 
 #: init.lua
 msgid "Cactus"
@@ -249,8 +254,9 @@ msgid "Coral Skeleton"
 msgstr "Koraal skelet"
 
 #: init.lua
+#, fuzzy
 msgid "Desert Cobblestone"
-msgstr ""
+msgstr "Woestijn Keistenen"
 
 #: init.lua
 msgid "Desert Sand"
@@ -261,8 +267,9 @@ msgid "Desert Sandstone Block"
 msgstr "Woestijn Zandstenen Blok"
 
 #: init.lua
+#, fuzzy
 msgid "Desert Sandstone Brick"
-msgstr ""
+msgstr "Woestijn Zandstenen Bakstenen"
 
 #: init.lua
 msgid "Desert Sandstone"
@@ -274,7 +281,7 @@ msgstr "Woestijn Stenen Blok"
 
 #: init.lua
 msgid "Desert Stone Brick"
-msgstr ""
+msgstr "Woestijn Stenen Bakstenen"
 
 #: init.lua
 msgid "Desert Stone"
@@ -330,7 +337,7 @@ msgstr "Aspen Hek"
 
 #: init.lua
 msgid "Junglewood Fence"
-msgstr ""
+msgstr "Junglehouten Hek"
 
 #: init.lua
 msgid "Pine Fence"
@@ -390,7 +397,7 @@ msgstr "Jungle Bladeren"
 
 #: init.lua
 msgid "Jungle Sapling"
-msgstr ""
+msgstr "Jungle Kiemplant"
 
 #: init.lua
 msgid "Jungle Tree"
@@ -446,16 +453,19 @@ msgid "Mese Block"
 msgstr "Mese Blok"
 
 #: init.lua
+#, fuzzy
 msgid "Mossy Cobblestone"
-msgstr ""
+msgstr "Mossige Keistenen"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Block"
-msgstr ""
+msgstr "Obsidiaan Blok"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Brick"
-msgstr ""
+msgstr "Obsidiaan Bakstenen"
 
 #: init.lua
 #, fuzzy
@@ -464,15 +474,15 @@ msgstr "Obsidiaan Glas"
 
 #: init.lua
 msgid "Obsidian Shard"
-msgstr ""
+msgstr "Obsidiaan Scherf"
 
 #: init.lua
 msgid "Obsidian"
-msgstr ""
+msgstr "Obsidiaan"
 
 #: init.lua
 msgid "Paper"
-msgstr ""
+msgstr "Papier"
 
 #: init.lua
 msgid "Papyrus"
@@ -535,16 +545,18 @@ msgid "Sandstone Block"
 msgstr "Zandstenen Blok"
 
 #: init.lua
+#, fuzzy
 msgid "Sandstone Brick"
-msgstr ""
+msgstr "Zandstenen Bakstenen"
 
 #: init.lua
 msgid "Sandstone"
 msgstr "Zandsteen"
 
 #: init.lua
+#, fuzzy
 msgid "Sapling"
-msgstr ""
+msgstr "Kiemplant"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -573,11 +585,12 @@ msgstr "Houten Schep"
 #: init.lua
 #, fuzzy
 msgid "Steel Sign"
-msgstr "Stalen Bordje"
+msgstr "Stalen Bord"
 
 #: init.lua
+#, fuzzy
 msgid "Wooden Sign"
-msgstr ""
+msgstr "Houten Bord"
 
 #: init.lua
 msgid "Silver Sand"
@@ -665,7 +678,7 @@ msgstr "Tin Erts"
 
 #: init.lua
 msgid "Bronze Sword"
-msgstr ""
+msgstr "Bronzen Zwaard"
 
 #: init.lua
 msgid "Diamond Sword"
@@ -685,7 +698,7 @@ msgstr "Stenen Zwaard"
 
 #: init.lua
 msgid "Wooden Sword"
-msgstr ""
+msgstr "Houten Zwaard"
 
 #: init.lua
 msgid "Tin Block"
@@ -701,7 +714,7 @@ msgstr ""
 
 #: init.lua
 msgid "Torch"
-msgstr ""
+msgstr "Fakkel"
 
 #: init.lua
 msgid "Tree"
@@ -770,63 +783,63 @@ msgstr "Stalen Luik"
 
 #: init.lua
 msgid "Black dye"
-msgstr ""
+msgstr "Zwarte kleurstof"
 
 #: init.lua
 msgid "Blue dye"
-msgstr ""
+msgstr "Blauwe kleurstof"
 
 #: init.lua
 msgid "Brown dye"
-msgstr ""
+msgstr "Bruine kleurstof"
 
 #: init.lua
 msgid "Cyan dye"
-msgstr ""
+msgstr "Cyaan kleurstof"
 
 #: init.lua
 msgid "Dark green dye"
-msgstr ""
+msgstr "Donker groene kleurstof"
 
 #: init.lua
 msgid "Dark grey dye"
-msgstr ""
+msgstr "Donker grijze kleurstof"
 
 #: init.lua
 msgid "Green dye"
-msgstr ""
+msgstr "Groene kleurstof"
 
 #: init.lua
 msgid "Grey dye"
-msgstr ""
+msgstr "Grijze kleurstof"
 
 #: init.lua
 msgid "Magenta dye"
-msgstr ""
+msgstr "Magenta kleurstof"
 
 #: init.lua
 msgid "Orange dye"
-msgstr ""
+msgstr "Oranje kleurstof"
 
 #: init.lua
 msgid "Pink dye"
-msgstr ""
+msgstr "Roze kleurstof"
 
 #: init.lua
 msgid "Red dye"
-msgstr ""
+msgstr "Rode kleurstof"
 
 #: init.lua
 msgid "Violet dye"
-msgstr ""
+msgstr "Paarse kleurstof"
 
 #: init.lua
 msgid "White dye"
-msgstr ""
+msgstr "Witte kleurstof"
 
 #: init.lua
 msgid "Yellow dye"
-msgstr ""
+msgstr "Gele kleurstof"
 
 #: init.lua
 msgid "Bread"
@@ -834,7 +847,7 @@ msgstr "Brood"
 
 #: init.lua
 msgid "Cotton"
-msgstr ""
+msgstr "Katoen"
 
 #: init.lua
 msgid "Desert Sand Soil"
@@ -846,7 +859,7 @@ msgstr ""
 
 #: init.lua
 msgid "Flour"
-msgstr ""
+msgstr "Bloem"
 
 #: init.lua
 msgid "Bronze Hoe"
@@ -874,7 +887,7 @@ msgstr "Houten schoffel"
 
 #: init.lua
 msgid "Cotton seed"
-msgstr ""
+msgstr "Katoen zaad"
 
 #: init.lua
 msgid "Wheat seed"
@@ -906,15 +919,15 @@ msgstr "Permanente Vlam"
 
 #: init.lua
 msgid "White dandelion"
-msgstr "Witte paardenbloem"
+msgstr "Witte paardenbloemen"
 
 #: init.lua
 msgid "Yellow Dandelion"
-msgstr "Gele Paardebloem"
+msgstr "Gele Paardenbloemen"
 
 #: init.lua
 msgid "Blue Geranium"
-msgstr ""
+msgstr "Blauwe Geranium"
 
 #: init.lua
 msgid "Brown Mushroom"
@@ -967,28 +980,33 @@ msgid "Bronze Block Slab"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Cobblestone Slab"
-msgstr ""
+msgstr "Keistenen Plaat"
 
 #: init.lua
 msgid "Copper Block Slab"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Desert Cobblestone Slab"
-msgstr ""
+msgstr "Woestijn Keistenen Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Desert Sandstone Block Slab"
-msgstr ""
+msgstr "Woestijn Zandstenen Blok Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Desert Sandstone Brick Slab"
-msgstr ""
+msgstr "Woestijn Zandstenen Bakstenen Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Desert Sandstone Slab"
-msgstr ""
+msgstr "Woestijn Zandstenen Plaat"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
@@ -1017,28 +1035,33 @@ msgid "Jungle Wood Slab"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Mossy Cobblestone Slab"
-msgstr ""
+msgstr "Mossige Keistenen Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Block Slab"
-msgstr ""
+msgstr "Obsidiaan Blok Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Brick Slab"
-msgstr ""
+msgstr "Obsidiaan Bakstenen Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Slab"
-msgstr ""
+msgstr "Obsidiaan Plaat"
 
 #: init.lua
 msgid "Pine Wood Slab"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Sandstone Block Slab"
-msgstr ""
+msgstr "Zandstenen Blok Plaat"
 
 #: init.lua
 msgid "Sandstone Brick Slab"
@@ -1087,8 +1110,9 @@ msgid "Straw Slab"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Wooden Slab"
-msgstr ""
+msgstr "Houten Plaat"
 
 #: init.lua
 msgid "Acacia Wood Stair"
@@ -1107,16 +1131,18 @@ msgid "Bronze Block Stair"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Cobblestone Stair"
-msgstr ""
+msgstr "Keistenen Trap"
 
 #: init.lua
 msgid "Copper Block Stair"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Desert Cobblestone Stair"
-msgstr ""
+msgstr "Woestijn Keistenen Trap"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair"
@@ -1156,16 +1182,19 @@ msgid "Jungle Wood Stair"
 msgstr "Jungle Houten Trap"
 
 #: init.lua
+#, fuzzy
 msgid "Mossy Cobblestone Stair"
-msgstr ""
+msgstr "Mossige Keistenen Trap"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Block Stair"
-msgstr ""
+msgstr "Obsidiaan Blok Trap"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Brick Stair"
-msgstr ""
+msgstr "Obsidiaan Bakstenen Trap"
 
 #: init.lua
 msgid "Obsidian Stair"
@@ -1192,12 +1221,13 @@ msgid "Silver Sandstone Block Stair"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Silver Sandstone Brick Stair"
-msgstr ""
+msgstr "Silver Zandstenen Bakstenen Trap"
 
 #: init.lua
 msgid "Silver Sandstone Stair"
-msgstr ""
+msgstr "Zilver Zandstenen Trap"
 
 #: init.lua
 #, fuzzy
@@ -1263,12 +1293,14 @@ msgid "Heavy Steel Bottle (empty)"
 msgstr "Zware Stalen Fles (leeg)"
 
 #: init.lua
+#, fuzzy
 msgid "Cobblestone Wall"
-msgstr ""
+msgstr "Keistenen Muur"
 
 #: init.lua
+#, fuzzy
 msgid "Desert Cobblestone Wall"
-msgstr ""
+msgstr "Woestijn Keistenen Muur"
 
 #: init.lua
 #, fuzzy
@@ -1326,9 +1358,8 @@ msgid "Red Wool"
 msgstr "Rode Wol"
 
 #: init.lua
-#, fuzzy
 msgid "Violet Wool"
-msgstr "Violet Wol"
+msgstr "Paarse Wol"
 
 #: init.lua
 msgid "White Wool"
@@ -1339,8 +1370,9 @@ msgid "Yellow Wool"
 msgstr "Gele Wol"
 
 #: init.lua
+#, fuzzy
 msgid "Iron bar"
-msgstr "Ijzeren staaf"
+msgstr "Ijzeren staven"
 
 #: init.lua
 msgid "Glass Pane"
