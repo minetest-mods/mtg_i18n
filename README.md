@@ -9,21 +9,21 @@ settings), but of course only as long your language is supported.
 
 ### Currently supported languages
  * Belarusian
- * Chinese (Simplified) (~30%)
- * Czech
- * Dutch (~55%)
- * Esperanto
- * French (~40%)
+ * Chinese (Simplified) (~25%)
+ * Czech (~80%)
+ * Dutch (~60%)
+ * Esperanto (~80%)
+ * French (~80%)
  * German
- * Indonesian
+ * Indonesian (~80%)
  * Italian
- * Japanese (~55%)
- * Malay
- * Polish
- * Russian (~60%)
- * Serbian (~30%)
- * Spanish
- * Turkish
+ * Japanese (~45%)
+ * Malay (~80%)
+ * Polish (~80%)
+ * Russian (~50%)
+ * Serbian (~25%)
+ * Spanish (~80%)
+ * Turkish (~80%)
 
 ## (Translation) bug reports and suggestions
 You can report bugs and suggest ideas on [GitHub](https://github.com/lnj2/mtg_i18n/), alternatively
