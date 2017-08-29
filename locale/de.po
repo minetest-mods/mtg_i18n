@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mtg_i18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: 2017-05-24 01:54+0000\n"
 "Last-Translator: Wuzzy <almikes@aol.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
@@ -880,6 +880,10 @@ msgid "Straw"
 msgstr "Stroh"
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr "Weizen"
 
@@ -1069,6 +1073,11 @@ msgid "Straw Slab"
 msgstr "Strohplatte"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Slab"
+msgstr "Schneeblockplatte"
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr "Holzplatte"
 
@@ -1205,7 +1214,362 @@ msgid "Straw Stair"
 msgstr "Stohtreppe"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Stair"
+msgstr "Schneeblocktreppe"
+
+#: init.lua
 msgid "Wooden Stair"
+msgstr "Holztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "Akazienholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "Espenholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Inner"
+msgstr "Ziegelsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "Bronzeblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Inner"
+msgstr "Pflastersteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "Kupferblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Inner"
+msgstr "Wüstenpflastersteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "Wüstensandsteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "Wüstensandsteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Inner"
+msgstr "Wüstensandsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "Wüstensteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Inner"
+msgstr "Wüstensteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Inner"
+msgstr "Wüstensteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "Goldblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Inner"
+msgstr "Eistreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Inner"
+msgstr "Tropenholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Inner"
+msgstr "Bemooste Pflastersteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "Obsidianblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Inner"
+msgstr "Obsidianziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Inner"
+msgstr "Obsidiantreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Inner"
+msgstr "Kiefernholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "Sandsteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Inner"
+msgstr "Sandsteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Inner"
+msgstr "Sandsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "Silbersandsteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "Silbersandsteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Inner"
+msgstr "Silbersandsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Inner"
+msgstr "Schneeblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Inner"
+msgstr "Stahlblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Inner"
+msgstr "Steinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Inner"
+msgstr "Steinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Inner"
+msgstr "Steintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Inner"
+msgstr "Stohtreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Inner"
+msgstr "Schneeblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "Holztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "Akazienholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "Espenholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Outer"
+msgstr "Ziegelsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "Bronzeblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Outer"
+msgstr "Pflastersteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "Kupferblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Outer"
+msgstr "Wüstenpflastersteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "Wüstensandsteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "Wüstensandsteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Outer"
+msgstr "Wüstensandsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "Wüstensteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Outer"
+msgstr "Wüstensteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Outer"
+msgstr "Wüstensteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "Goldblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Outer"
+msgstr "Eistreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Outer"
+msgstr "Tropenholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Outer"
+msgstr "Bemooste Pflastersteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "Obsidianblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Outer"
+msgstr "Obsidianziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Outer"
+msgstr "Obsidiantreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Outer"
+msgstr "Kiefernholztreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "Sandsteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Outer"
+msgstr "Sandsteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Outer"
+msgstr "Sandsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "Silbersandsteinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "Silbersandsteinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Outer"
+msgstr "Silbersandsteintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Outer"
+msgstr "Schneeblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Outer"
+msgstr "Stahlblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Outer"
+msgstr "Steinblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Outer"
+msgstr "Steinziegeltreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Outer"
+msgstr "Steintreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Outer"
+msgstr "Stohtreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Outer"
+msgstr "Schneeblocktreppe"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
 msgstr "Holztreppe"
 
 #: init.lua

@@ -7,17 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: 2017-07-09 23:50+0000\n"
 "Last-Translator: Uros Kostic <uroskostic611@gmail.com>\n"
-"Language-Team: Serbian "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/sr/>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/minetest/"
+"mtg_i18n/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.16-dev\n"
 
 #: init.lua
@@ -881,6 +881,10 @@ msgid "Straw"
 msgstr ""
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr ""
 
@@ -1069,6 +1073,10 @@ msgid "Straw Slab"
 msgstr ""
 
 #: init.lua
+msgid "Tin Block Slab"
+msgstr ""
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr ""
 
@@ -1205,8 +1213,332 @@ msgid "Straw Stair"
 msgstr ""
 
 #: init.lua
+msgid "Tin Block Stair"
+msgstr ""
+
+#: init.lua
 msgid "Wooden Stair"
 msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "Daske drveta akacije"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "Daske drveta jasike"
+
+#: init.lua
+msgid "Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "Blok bronze"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Inner"
+msgstr "Kaldrma"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "Blok bakra"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Inner"
+msgstr "Pustinjska kaldrma"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "Blok kamena pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "Cigla pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Inner"
+msgstr "Kamen pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "Blok pustinjskog kamena"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Inner"
+msgstr "Cigla pustinjskog kamena"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Inner"
+msgstr "Cigla pustinjskog kamena"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "Zlatan Blok"
+
+#: init.lua
+msgid "Ice Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Jungle Wood Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "Opsidian Blok"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Inner"
+msgstr "Opsidian cigla"
+
+#: init.lua
+msgid "Obsidian Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Pine Wood Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "Blok kamena pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Inner"
+msgstr "Cigla pustinjskog peska"
+
+#: init.lua
+msgid "Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "Blok kamena pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "Cigla pustinjskog peska"
+
+#: init.lua
+msgid "Silver Sandstone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Snow Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Steel Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Stone Block Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Stone Brick Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Stone Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Straw Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Tin Block Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "Drvena merdevina"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "Daske drveta akacije"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "Daske drveta jasike"
+
+#: init.lua
+msgid "Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "Blok bronze"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Outer"
+msgstr "Kaldrma"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "Blok bakra"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Outer"
+msgstr "Pustinjska kaldrma"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "Blok kamena pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "Cigla pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Outer"
+msgstr "Kamen pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "Blok pustinjskog kamena"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Outer"
+msgstr "Cigla pustinjskog kamena"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Outer"
+msgstr "Cigla pustinjskog kamena"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "Zlatan Blok"
+
+#: init.lua
+msgid "Ice Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Jungle Wood Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Mossy Cobblestone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "Opsidian Blok"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Outer"
+msgstr "Opsidian cigla"
+
+#: init.lua
+msgid "Obsidian Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Pine Wood Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "Blok kamena pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Outer"
+msgstr "Cigla pustinjskog peska"
+
+#: init.lua
+msgid "Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "Blok kamena pustinjskog peska"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "Cigla pustinjskog peska"
+
+#: init.lua
+msgid "Silver Sandstone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Snow Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Steel Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Stone Block Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Stone Brick Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Stone Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Straw Stair Outer"
+msgstr ""
+
+#: init.lua
+msgid "Tin Block Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
+msgstr "Drvena merdevina"
 
 #: init.lua
 msgid "Gun Powder"

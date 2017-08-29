@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 16:29+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: 2017-06-16 13:43+0000\n"
 "Last-Translator: Rui <rui.minetest@gmail.com>\n"
-"Language-Team: Japanese "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/minetest/"
+"mtg_i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -923,6 +923,10 @@ msgid "Straw"
 msgstr ""
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr "小麦"
 
@@ -1143,6 +1147,11 @@ msgstr ""
 
 #: init.lua
 #, fuzzy
+msgid "Tin Block Slab"
+msgstr "雪ブロック"
+
+#: init.lua
+#, fuzzy
 msgid "Wooden Slab"
 msgstr "木のシャベル"
 
@@ -1306,7 +1315,358 @@ msgstr ""
 
 #: init.lua
 #, fuzzy
+msgid "Tin Block Stair"
+msgstr "雪ブロック"
+
+#: init.lua
+#, fuzzy
 msgid "Wooden Stair"
+msgstr "看板"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "原木"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "原木"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Inner"
+msgstr "石レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "青銅ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Inner"
+msgstr "丸石"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "銅ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Inner"
+msgstr "砂漠の丸石"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Inner"
+msgstr "砂岩"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Inner"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Inner"
+msgstr "砂岩"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "金ブロック"
+
+#: init.lua
+msgid "Ice Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Inner"
+msgstr "ジャングルの原木"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Inner"
+msgstr "苔石"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "黒曜石の破片"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Inner"
+msgstr "黒曜石の破片"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Inner"
+msgstr "黒曜石の破片"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Inner"
+msgstr "桃色の羊毛"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Inner"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Inner"
+msgstr "砂岩"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Inner"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Inner"
+msgstr "雪ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Inner"
+msgstr "鉄ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Inner"
+msgstr "石レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Inner"
+msgstr "石レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Inner"
+msgstr "石の剣"
+
+#: init.lua
+msgid "Straw Stair Inner"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Inner"
+msgstr "雪ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "看板"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "原木"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "原木"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Outer"
+msgstr "石レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "青銅ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Outer"
+msgstr "丸石"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "銅ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Outer"
+msgstr "砂漠の丸石"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Outer"
+msgstr "砂岩"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Outer"
+msgstr "赤レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Outer"
+msgstr "砂岩"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "金ブロック"
+
+#: init.lua
+msgid "Ice Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Outer"
+msgstr "ジャングルの原木"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Outer"
+msgstr "苔石"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "黒曜石の破片"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Outer"
+msgstr "黒曜石の破片"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Outer"
+msgstr "黒曜石の破片"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Outer"
+msgstr "桃色の羊毛"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Outer"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Outer"
+msgstr "砂岩"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Outer"
+msgstr "砂岩レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Outer"
+msgstr "雪ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Outer"
+msgstr "鉄ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Outer"
+msgstr "石レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Outer"
+msgstr "石レンガ"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Outer"
+msgstr "石の剣"
+
+#: init.lua
+msgid "Straw Stair Outer"
+msgstr ""
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Outer"
+msgstr "雪ブロック"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
 msgstr "看板"
 
 #: init.lua

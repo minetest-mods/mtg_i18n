@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: 2017-07-20 19:38+0000\n"
 "Last-Translator: Dewu <dewu@tfwno.gf>\n"
-"Language-Team: Polish "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/pl/>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -881,6 +881,10 @@ msgid "Straw"
 msgstr "Źdźbło"
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr "Pszenica"
 
@@ -1072,6 +1076,11 @@ msgid "Straw Slab"
 msgstr "Płyta źdźbła"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Slab"
+msgstr "Płyta śnieżnego bloku"
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr "Drewniana płyta"
 
@@ -1214,7 +1223,362 @@ msgid "Straw Stair"
 msgstr "Schody ze źdźbła"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Stair"
+msgstr "Schody ze śnieżnego bloku"
+
+#: init.lua
 msgid "Wooden Stair"
+msgstr "Drewniane schody"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "Akacjowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "Osikowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Inner"
+msgstr "Ceglane schody"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "Schody bloku z brązu"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Inner"
+msgstr "Brukowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "Schody z miedzianego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Inner"
+msgstr "Schody z pustynnego bruku"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "Schody z bloku pustynnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "Ceglane schody z pustynnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Inner"
+msgstr "Schody z pustynnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "Schody z bloku pustynnego kamienia"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Inner"
+msgstr "Ceglane schody z pustynnego kamienia"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Inner"
+msgstr "Schody z pustynnego kamienia"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "Schody z bloku złota"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Inner"
+msgstr "Lodowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Inner"
+msgstr "Schody z drewna dżunglowego"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Inner"
+msgstr "Schody z omszałego bruku"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "Schody z obsydianowego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Inner"
+msgstr "Schody z obsydianowej cegły"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Inner"
+msgstr "Obsydianowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Inner"
+msgstr "Sosnowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "Schody z bloku piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Inner"
+msgstr "Schody z cegły piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Inner"
+msgstr "Schody z piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "Schody z bloku srebrnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "Schody z cegieł srebrnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Inner"
+msgstr "Schody ze srebrnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Inner"
+msgstr "Schody ze śnieżnego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Inner"
+msgstr "Schody z bloku stali"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Inner"
+msgstr "Schody z kamiennego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Inner"
+msgstr "Ceglane kamienne schody"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Inner"
+msgstr "Kamienne schody"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Inner"
+msgstr "Schody ze źdźbła"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Inner"
+msgstr "Schody ze śnieżnego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "Drewniane schody"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "Akacjowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "Osikowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Outer"
+msgstr "Ceglane schody"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "Schody bloku z brązu"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Outer"
+msgstr "Brukowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "Schody z miedzianego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Outer"
+msgstr "Schody z pustynnego bruku"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "Schody z bloku pustynnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "Ceglane schody z pustynnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Outer"
+msgstr "Schody z pustynnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "Schody z bloku pustynnego kamienia"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Outer"
+msgstr "Ceglane schody z pustynnego kamienia"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Outer"
+msgstr "Schody z pustynnego kamienia"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "Schody z bloku złota"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Outer"
+msgstr "Lodowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Outer"
+msgstr "Schody z drewna dżunglowego"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Outer"
+msgstr "Schody z omszałego bruku"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "Schody z obsydianowego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Outer"
+msgstr "Schody z obsydianowej cegły"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Outer"
+msgstr "Obsydianowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Outer"
+msgstr "Sosnowe schody"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "Schody z bloku piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Outer"
+msgstr "Schody z cegły piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Outer"
+msgstr "Schody z piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "Schody z bloku srebrnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "Schody z cegieł srebrnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Outer"
+msgstr "Schody ze srebrnego piaskowca"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Outer"
+msgstr "Schody ze śnieżnego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Outer"
+msgstr "Schody z bloku stali"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Outer"
+msgstr "Schody z kamiennego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Outer"
+msgstr "Ceglane kamienne schody"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Outer"
+msgstr "Kamienne schody"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Outer"
+msgstr "Schody ze źdźbła"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Outer"
+msgstr "Schody ze śnieżnego bloku"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
 msgstr "Drewniane schody"
 
 #: init.lua

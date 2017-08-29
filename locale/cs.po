@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2017-08-28 21:16+0200\n"
 "PO-Revision-Date: 2017-06-21 19:35+0000\n"
 "Last-Translator: Jakub Vaněk <vanek.jakub4@seznam.cz>\n"
-"Language-Team: Czech "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/cs/>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+"cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -880,6 +880,10 @@ msgid "Straw"
 msgstr "Sláma"
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr "Pšenice"
 
@@ -1068,6 +1072,11 @@ msgid "Straw Slab"
 msgstr "Slaměný půlblok"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Slab"
+msgstr "Půlblok sněhu"
+
+#: init.lua
 msgid "Wooden Slab"
 msgstr "Dřevěný půlblok"
 
@@ -1204,7 +1213,362 @@ msgid "Straw Stair"
 msgstr "Slaměné schody"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Stair"
+msgstr "Schody ze sněhu"
+
+#: init.lua
 msgid "Wooden Stair"
+msgstr "Dřevěné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "Akáciové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "Osikové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Inner"
+msgstr "Cihlové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "Bronzové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Inner"
+msgstr "Schody z kamenné dlažby"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "Měděné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Inner"
+msgstr "Schody z pouštní kamenné dlažby"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "Dekorativní schody z pouštního pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "Cihlové schody z pouštního pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Inner"
+msgstr "Schody z pouštního pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "Dekorativní schody z pouštního kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Inner"
+msgstr "Cihlové schody z pouštního kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Inner"
+msgstr "Schody z pouštního kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "Zlaté schody"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Inner"
+msgstr "Ledové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Inner"
+msgstr "Schody z tropického dřeva"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Inner"
+msgstr "Schody z porostlé dlažby"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "Dekorativní schody z obsidiánu"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Inner"
+msgstr "Cihlové schody z obsidiánu"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Inner"
+msgstr "Obsidiánové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Inner"
+msgstr "Borovicové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "Dekorativní schody z pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Inner"
+msgstr "Cihlové schody z pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Inner"
+msgstr "Pískovcové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "Dekorativní schody ze stříbrného pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "Cihlové schody ze stříbrného pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Inner"
+msgstr "Stříbrnopískovcové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Inner"
+msgstr "Schody ze sněhu"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Inner"
+msgstr "Ocelové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Inner"
+msgstr "Dekorativní schody z kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Inner"
+msgstr "Cihlové schody z kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Inner"
+msgstr "Kamenné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Inner"
+msgstr "Slaměné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Inner"
+msgstr "Schody ze sněhu"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "Dřevěné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "Akáciové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "Osikové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Outer"
+msgstr "Cihlové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "Bronzové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Outer"
+msgstr "Schody z kamenné dlažby"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "Měděné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Outer"
+msgstr "Schody z pouštní kamenné dlažby"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "Dekorativní schody z pouštního pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "Cihlové schody z pouštního pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Outer"
+msgstr "Schody z pouštního pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "Dekorativní schody z pouštního kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Outer"
+msgstr "Cihlové schody z pouštního kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Outer"
+msgstr "Schody z pouštního kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "Zlaté schody"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Outer"
+msgstr "Ledové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Outer"
+msgstr "Schody z tropického dřeva"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Outer"
+msgstr "Schody z porostlé dlažby"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "Dekorativní schody z obsidiánu"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Outer"
+msgstr "Cihlové schody z obsidiánu"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Outer"
+msgstr "Obsidiánové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Outer"
+msgstr "Borovicové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "Dekorativní schody z pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Outer"
+msgstr "Cihlové schody z pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Outer"
+msgstr "Pískovcové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "Dekorativní schody ze stříbrného pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "Cihlové schody ze stříbrného pískovce"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Outer"
+msgstr "Stříbrnopískovcové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Outer"
+msgstr "Schody ze sněhu"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Outer"
+msgstr "Ocelové schody"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Outer"
+msgstr "Dekorativní schody z kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Outer"
+msgstr "Cihlové schody z kamene"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Outer"
+msgstr "Kamenné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Outer"
+msgstr "Slaměné schody"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Outer"
+msgstr "Schody ze sněhu"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
 msgstr "Dřevěné schody"
 
 #: init.lua
