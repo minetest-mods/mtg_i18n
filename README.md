@@ -1,5 +1,5 @@
 # Minetest Game Internationalization Mod
-MTG 0.4.16-dev (2017-08-28), License: MIT (code), CC 0 (translations)
+MTG 0.5.0-dev (2017-08-28), License: MIT (code), CC 0 (translations)
 
 ## Description
 A Minetest mod adding translations to the default game of Minetest. You just have to install the
