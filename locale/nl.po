@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-08-29 20:10+0000\n"
+"PO-Revision-Date: 2017-09-01 18:17+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -175,17 +175,14 @@ msgid "Bronze Ingot"
 msgstr "Bronzen Staaf"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Leaves"
 msgstr "Struiken Bladeren"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Sapling"
 msgstr "Struiken Kiemplant"
 
 #: init.lua
-#, fuzzy
 msgid "Bush Stem"
 msgstr "Struiken Stam"
 
@@ -254,7 +251,6 @@ msgid "Coral Skeleton"
 msgstr "Koraal skelet"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone"
 msgstr "Woestijn Keistenen"
 
@@ -453,19 +449,18 @@ msgid "Mese Block"
 msgstr "Mese Blok"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone"
 msgstr "Mossige Keistenen"
 
 #: init.lua
 #, fuzzy
 msgid "Obsidian Block"
-msgstr "Obsidiaan Blok"
+msgstr "Obsidiaans Blok"
 
 #: init.lua
 #, fuzzy
 msgid "Obsidian Brick"
-msgstr "Obsidiaan Bakstenen"
+msgstr "Obsidiaanse Bakstenen"
 
 #: init.lua
 #, fuzzy
@@ -554,7 +549,6 @@ msgid "Sandstone"
 msgstr "Zandsteen"
 
 #: init.lua
-#, fuzzy
 msgid "Sapling"
 msgstr "Kiemplant"
 
@@ -583,12 +577,10 @@ msgid "Wooden Shovel"
 msgstr "Houten Schep"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Sign"
 msgstr "Stalen Bord"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Sign"
 msgstr "Houten Bord"
 
@@ -606,7 +598,6 @@ msgid "Silver Sandstone Brick"
 msgstr "Zilver Zandstenen Bakstenen"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone"
 msgstr "Zilver Zandsteen"
 
@@ -1223,7 +1214,7 @@ msgstr ""
 #: init.lua
 #, fuzzy
 msgid "Silver Sandstone Brick Stair"
-msgstr "Silver Zandstenen Bakstenen Trap"
+msgstr "Zilver Zandstenen Bakstenen Trap"
 
 #: init.lua
 msgid "Silver Sandstone Stair"
@@ -1235,14 +1226,12 @@ msgid "Snow Block Stair"
 msgstr "Sneeuw Blok Trap"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair"
-msgstr "Stalen Blok Trap"
+msgstr "Stalen Blokken Trap"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair"
-msgstr "Steen Blok Trap"
+msgstr "Stenen Blokken Trap"
 
 #: init.lua
 msgid "Stone Brick Stair"
