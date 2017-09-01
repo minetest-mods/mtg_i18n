@@ -7,11 +7,22 @@ A Minetest mod adding translations to the default game of Minetest. You just hav
 descriptions will be translated into your system's language (or language set in your Minetest
 settings), but of course only as long your language is supported.
 
+## Help Translating
+YOU can help to translate the strings to your language easily on
+[Weblate](https://hosted.weblate.org/projects/minetest/mtg_i18n). It's sometimes a bit slow, because
+it is the free, hosted version for open-source projects and is a bit overloaded. Using the "Zen-mode" can
+help here: There you can see and translate all strings at once, and you don't have to reload the page
+for every translation.
+
+If you go on a long journey without having internet access, or you just prefer translating offline, you can
+use [Poedit](https://poedit.net/) to translate the PO-files in the `locale` directory in this mod and create
+a pull request on this repo on [GitHub](https://github.com/minetest-mods/mtg_i18n).
+
 ### Currently supported languages
  * Belarusian
  * Chinese (Simplified) (~25%)
  * Czech (~80%)
- * Dutch (~60%)
+ * Dutch (~65%)
  * Esperanto (~80%)
  * French (~80%)
  * German
