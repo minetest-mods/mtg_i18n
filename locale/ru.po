@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-05-21 10:25+0000\n"
-"Last-Translator: anonymous <>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/minetest/"
-"mtg_i18n/ru/>\n"
+"PO-Revision-Date: 2017-09-04 21:28+0000\n"
+"Last-Translator: pitchblack <pitchblack@mail.ru>\n"
+"Language-Team: Russian "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.14.1-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.17-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -30,7 +30,7 @@ msgstr "Кровать обычная"
 
 #: init.lua
 msgid "Fancy Bed"
-msgstr ""
+msgstr "Необычная кровать"
 
 #: init.lua
 msgid "Boat"
@@ -58,15 +58,15 @@ msgstr "Ведро воды"
 
 #: init.lua
 msgid "Brake rail"
-msgstr ""
+msgstr "Тормозной рельс"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr ""
+msgstr "Корзина (взять+клик чтобы подобрать)"
 
 #: init.lua
 msgid "Powered rail"
-msgstr ""
+msgstr "Редуктор"
 
 #: init.lua
 msgid "Rail"
@@ -78,11 +78,11 @@ msgstr "Густые листья акации"
 
 #: init.lua
 msgid "Acacia Bush Sapling"
-msgstr ""
+msgstr "Саженец куста акации"
 
 #: init.lua
 msgid "Acacia Bush Stem"
-msgstr ""
+msgstr "Стебель куста акации"
 
 #: init.lua
 msgid "Acacia Leaves"
@@ -106,19 +106,19 @@ msgstr "Яблоко"
 
 #: init.lua
 msgid "Aspen Leaves"
-msgstr ""
+msgstr "Осиновые листья"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
-msgstr ""
+msgstr "Саженец осинового дерева"
 
 #: init.lua
 msgid "Aspen Tree"
-msgstr ""
+msgstr "Осина"
 
 #: init.lua
 msgid "Aspen Wood Planks"
-msgstr ""
+msgstr "Доски осины"
 
 #: init.lua
 msgid "Bronze Axe"
@@ -170,15 +170,15 @@ msgstr "Бронзовый слиток"
 
 #: init.lua
 msgid "Bush Leaves"
-msgstr ""
+msgstr "Листья куста"
 
 #: init.lua
 msgid "Bush Sapling"
-msgstr ""
+msgstr "Саженец куста"
 
 #: init.lua
 msgid "Bush Stem"
-msgstr ""
+msgstr "Стебель куста"
 
 #: init.lua
 msgid "Cactus"
@@ -242,7 +242,7 @@ msgstr "Оранжевый коралл"
 
 #: init.lua
 msgid "Coral Skeleton"
-msgstr ""
+msgstr "Коралловый скелет"
 
 #: init.lua
 msgid "Desert Cobblestone"
@@ -258,7 +258,7 @@ msgstr "Пустынный песчаник"
 
 #: init.lua
 msgid "Desert Sandstone Brick"
-msgstr ""
+msgstr "Пустынный песчаниковый кирпич"
 
 #: init.lua
 msgid "Desert Sandstone"
@@ -266,11 +266,11 @@ msgstr "Пустынный песчаник"
 
 #: init.lua
 msgid "Desert Stone Block"
-msgstr ""
+msgstr "Пустынный каменный блок"
 
 #: init.lua
 msgid "Desert Stone Brick"
-msgstr ""
+msgstr "Пустынный каменный кирпич"
 
 #: init.lua
 msgid "Desert Stone"
@@ -302,7 +302,7 @@ msgstr "Земля с травой"
 
 #: init.lua
 msgid "Dirt with Rainforest Litter"
-msgstr ""
+msgstr "Грязь с подстилкой для тропических лесов"
 
 #: init.lua
 msgid "Dirt with Snow"
@@ -318,23 +318,23 @@ msgstr "Сухой куст"
 
 #: init.lua
 msgid "Acacia Fence"
-msgstr ""
+msgstr "Забор из акации"
 
 #: init.lua
 msgid "Aspen Fence"
-msgstr ""
+msgstr "Забор из осины"
 
 #: init.lua
 msgid "Junglewood Fence"
-msgstr ""
+msgstr "Забор из дерева джунглей"
 
 #: init.lua
 msgid "Pine Fence"
-msgstr ""
+msgstr "Забор из сосны"
 
 #: init.lua
 msgid "Wooden Fence"
-msgstr ""
+msgstr "Деревянный забор"
 
 #: init.lua
 msgid "Flint"
@@ -421,24 +421,29 @@ msgid "Leaves"
 msgstr "Листья"
 
 #: init.lua
+#, fuzzy
 msgid "Mese Crystal Fragment"
-msgstr "Фрагмент кристалла"
+msgstr "Mese фрагмент кристалла"
 
 #: init.lua
+#, fuzzy
 msgid "Mese Crystal"
-msgstr "Кристалл"
+msgstr "Mese кристалл"
 
 #: init.lua
+#, fuzzy
 msgid "Mese Lamp"
-msgstr "Кристальный фонарь"
+msgstr "Mese лампа"
 
 #: init.lua
+#, fuzzy
 msgid "Mese Post Light"
-msgstr ""
+msgstr "Mese сообщение"
 
 #: init.lua
+#, fuzzy
 msgid "Mese Block"
-msgstr "Кристальный блок"
+msgstr "Mese блок"
 
 #: init.lua
 msgid "Mossy Cobblestone"
@@ -726,35 +731,35 @@ msgstr "Деревянная дверь"
 
 #: init.lua
 msgid "Acacia Fence Gate"
-msgstr ""
+msgstr "Ворота из акации"
 
 #: init.lua
 msgid "Aspen Fence Gate"
-msgstr ""
+msgstr "Ворота из осины"
 
 #: init.lua
 msgid "Junglewood Fence Gate"
-msgstr ""
+msgstr "Ворота из дерева джунглей"
 
 #: init.lua
 msgid "Pine Fence Gate"
-msgstr ""
+msgstr "Ворота из сосны"
 
 #: init.lua
 msgid "Wooden Fence Gate"
-msgstr ""
+msgstr "Деревянные ворота"
 
 #: init.lua
 msgid "Hidden Door Segment"
-msgstr ""
+msgstr "Скрытый сегмент двери"
 
 #: init.lua
 msgid "Trapdoor"
-msgstr ""
+msgstr "Люк"
 
 #: init.lua
 msgid "Steel Trapdoor"
-msgstr ""
+msgstr "Стальной люк"
 
 #: init.lua
 msgid "Black dye"
@@ -826,11 +831,11 @@ msgstr "Шерсть"
 
 #: init.lua
 msgid "Desert Sand Soil"
-msgstr ""
+msgstr "Пустынная песчаная почва"
 
 #: init.lua
 msgid "Wet Desert Sand Soil"
-msgstr ""
+msgstr "Влажная пустынная песчаная почва"
 
 #: init.lua
 msgid "Flour"
@@ -870,19 +875,19 @@ msgstr "Семена пшеницы"
 
 #: init.lua
 msgid "Soil"
-msgstr ""
+msgstr "Почва"
 
 #: init.lua
 msgid "Wet Soil"
-msgstr ""
+msgstr "Влажная почва"
 
 #: init.lua
 msgid "Straw"
-msgstr ""
+msgstr "Солома"
 
 #: init.lua
 msgid "String"
-msgstr ""
+msgstr "Нитка"
 
 #: init.lua
 msgid "Wheat"
@@ -890,7 +895,7 @@ msgstr "Пшеница"
 
 #: init.lua
 msgid "Flint and Steel"
-msgstr "Зажигалска"
+msgstr "Зажигалка"
 
 #: init.lua
 msgid "Permanent Flame"
@@ -898,11 +903,11 @@ msgstr "Постоянное пламя"
 
 #: init.lua
 msgid "White dandelion"
-msgstr ""
+msgstr "Белый одуванчик"
 
 #: init.lua
 msgid "Yellow Dandelion"
-msgstr ""
+msgstr "Желтый одуванчик"
 
 #: init.lua
 msgid "Blue Geranium"
@@ -922,15 +927,15 @@ msgstr "Роза"
 
 #: init.lua
 msgid "Orange Tulip"
-msgstr ""
+msgstr "Оранжевый тюльпан"
 
 #: init.lua
 msgid "Viola"
-msgstr ""
+msgstr "Фиалка"
 
 #: init.lua
 msgid "Waterlily"
-msgstr ""
+msgstr "Водяная лилия"
 
 #: init.lua
 msgid "Ignore (you hacker you!)"
@@ -938,655 +943,595 @@ msgstr "Игнор (да ты же хакер!)"
 
 #: init.lua
 msgid "Screwdriver (left-click rotates face, right-click rotates axis)"
-msgstr ""
+msgstr "Отвертка (левый клик поворачивает грань, правый клик поворачивает ось)"
 
 #: init.lua
 msgid "Acacia Wood Slab"
-msgstr ""
+msgstr "Деревянная плита из акации"
 
 #: init.lua
 msgid "Aspen Wood Slab"
-msgstr ""
+msgstr "Деревянная плита из осины"
 
 #: init.lua
 msgid "Brick Slab"
-msgstr ""
+msgstr "Кирпичная плита"
 
 #: init.lua
 msgid "Bronze Block Slab"
-msgstr ""
+msgstr "Плита из бронзового блока"
 
 #: init.lua
 msgid "Cobblestone Slab"
-msgstr ""
+msgstr "Булыжниковая плита"
 
 #: init.lua
 msgid "Copper Block Slab"
-msgstr ""
+msgstr "Плита из блока меди"
 
 #: init.lua
 msgid "Desert Cobblestone Slab"
-msgstr ""
+msgstr "Плита из пустынного песчаника"
 
 #: init.lua
 msgid "Desert Sandstone Block Slab"
-msgstr ""
+msgstr "Плита из пустынного блока песчаника"
 
 #: init.lua
 msgid "Desert Sandstone Brick Slab"
-msgstr ""
+msgstr "Плита из кирпичей пустынного песчаника"
 
 #: init.lua
 msgid "Desert Sandstone Slab"
-msgstr ""
+msgstr "Плита из пустынного песчаника"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
-msgstr ""
+msgstr "Плита из блока пустынного камня"
 
 #: init.lua
 msgid "Desert Stone Brick Slab"
-msgstr ""
+msgstr "Плита из кирпича пустынного камня"
 
 #: init.lua
 msgid "Desert Stone Slab"
-msgstr ""
+msgstr "Плита из пустынного камня"
 
 #: init.lua
 msgid "Gold Block Slab"
-msgstr ""
+msgstr "Плита из золотого блока"
 
 #: init.lua
 msgid "Ice Slab"
-msgstr ""
+msgstr "Плита изо льда"
 
 #: init.lua
 msgid "Jungle Wood Slab"
-msgstr ""
+msgstr "Плита из тропического дерева"
 
 #: init.lua
 msgid "Mossy Cobblestone Slab"
-msgstr ""
+msgstr "Плита из замшелого булыжника"
 
 #: init.lua
 msgid "Obsidian Block Slab"
-msgstr ""
+msgstr "Плита из обсидианового блока"
 
 #: init.lua
 msgid "Obsidian Brick Slab"
-msgstr ""
+msgstr "Плита из обсидианового кирпича"
 
 #: init.lua
 msgid "Obsidian Slab"
-msgstr ""
+msgstr "Плита из обсидиана"
 
 #: init.lua
 msgid "Pine Wood Slab"
-msgstr ""
+msgstr "Плита из соснового дерева"
 
 #: init.lua
 msgid "Sandstone Block Slab"
-msgstr ""
+msgstr "Плита из блока песчаника"
 
 #: init.lua
 msgid "Sandstone Brick Slab"
-msgstr ""
+msgstr "Плита из песчаникового кирпича"
 
 #: init.lua
 msgid "Sandstone Slab"
-msgstr ""
+msgstr "Плита из песчаника"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
-msgstr ""
+msgstr "Плита из блока серебряного песчаника"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
-msgstr ""
+msgstr "Плита из кирпича серебряного песчаника"
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr ""
+msgstr "Плита из серебряного песчаника"
 
 #: init.lua
 msgid "Snow Block Slab"
-msgstr ""
+msgstr "Плита из снежного блока"
 
 #: init.lua
 msgid "Steel Block Slab"
-msgstr ""
+msgstr "Плита из стального блока"
 
 #: init.lua
 msgid "Stone Block Slab"
-msgstr ""
+msgstr "Плита из каменного блока"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr ""
+msgstr "Плита из каменных кирпичей"
 
 #: init.lua
 msgid "Stone Slab"
-msgstr ""
+msgstr "Плита из камня"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr ""
+msgstr "Плита из соломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Slab"
-msgstr "Блок олова"
+msgstr "Плита из оловянного блока"
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr ""
+msgstr "Деревянная плита"
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr ""
+msgstr "Ступени из дерева акации"
 
 #: init.lua
 msgid "Aspen Wood Stair"
-msgstr ""
+msgstr "Ступени из осинового дерева"
 
 #: init.lua
 msgid "Brick Stair"
-msgstr ""
+msgstr "Ступени из кирпича"
 
 #: init.lua
 msgid "Bronze Block Stair"
-msgstr ""
+msgstr "Ступени из бронзового блока"
 
 #: init.lua
 msgid "Cobblestone Stair"
-msgstr ""
+msgstr "Ступени из булыжника"
 
 #: init.lua
 msgid "Copper Block Stair"
-msgstr ""
+msgstr "Ступени из медного блока"
 
 #: init.lua
 msgid "Desert Cobblestone Stair"
-msgstr ""
+msgstr "Ступени из пустынного песчаника"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair"
-msgstr ""
+msgstr "Ступени из блока пустынного песчаника"
 
 #: init.lua
 msgid "Desert Sandstone Brick Stair"
-msgstr ""
+msgstr "Ступени из кирпича пустынного песчаника"
 
 #: init.lua
 msgid "Desert Sandstone Stair"
-msgstr ""
+msgstr "Ступени из пустынного песчаника"
 
 #: init.lua
 msgid "Desert Stone Block Stair"
-msgstr ""
+msgstr "Ступени из блока пустынного камня"
 
 #: init.lua
 msgid "Desert Stone Brick Stair"
-msgstr ""
+msgstr "Ступени из кирпича пустынного камня"
 
 #: init.lua
 msgid "Desert Stone Stair"
-msgstr ""
+msgstr "Ступени из пустынного камня"
 
 #: init.lua
 msgid "Gold Block Stair"
-msgstr ""
+msgstr "Ступени из золотого блока"
 
 #: init.lua
 msgid "Ice Stair"
-msgstr ""
+msgstr "Ступени изо льда"
 
 #: init.lua
 msgid "Jungle Wood Stair"
-msgstr ""
+msgstr "Ступени из тропического дерева"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair"
-msgstr ""
+msgstr "Ступени из замшелого булыжника"
 
 #: init.lua
 msgid "Obsidian Block Stair"
-msgstr ""
+msgstr "Ступени из обсидианового блока"
 
 #: init.lua
 msgid "Obsidian Brick Stair"
-msgstr ""
+msgstr "Ступени из обсидианового кирпича"
 
 #: init.lua
 msgid "Obsidian Stair"
-msgstr ""
+msgstr "Ступени из обсидиана"
 
 #: init.lua
 msgid "Pine Wood Stair"
-msgstr ""
+msgstr "Ступени из соснового дерева"
 
 #: init.lua
 msgid "Sandstone Block Stair"
-msgstr ""
+msgstr "Ступени из блока песчаника"
 
 #: init.lua
 msgid "Sandstone Brick Stair"
-msgstr ""
+msgstr "Ступени из песчаникового кирпича"
 
 #: init.lua
 msgid "Sandstone Stair"
-msgstr ""
+msgstr "Ступени из песчаника"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair"
-msgstr ""
+msgstr "Ступени из блока серебряного песчаника"
 
 #: init.lua
 msgid "Silver Sandstone Brick Stair"
-msgstr ""
+msgstr "Ступени из кирпича серебряного песчаника"
 
 #: init.lua
 msgid "Silver Sandstone Stair"
-msgstr ""
+msgstr "Ступени из серебряного песчаника"
 
 #: init.lua
 msgid "Snow Block Stair"
-msgstr ""
+msgstr "Ступени из снежного блока"
 
 #: init.lua
 msgid "Steel Block Stair"
-msgstr ""
+msgstr "Ступени из стального блока"
 
 #: init.lua
 msgid "Stone Block Stair"
-msgstr ""
+msgstr "Ступени из каменного блока"
 
 #: init.lua
 msgid "Stone Brick Stair"
-msgstr ""
+msgstr "Ступени из каменного кирпича"
 
 #: init.lua
 msgid "Stone Stair"
-msgstr ""
+msgstr "Ступени из камня"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr ""
+msgstr "Ступени из соломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair"
-msgstr "Блок олова"
+msgstr "Ступени из оловянного блока"
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr ""
+msgstr "Ступени из дерева"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Inner"
-msgstr "Доски акации"
+msgstr "Внутренние ступени из дерева акации"
 
 #: init.lua
 msgid "Aspen Wood Stair Inner"
-msgstr ""
+msgstr "Внутренние ступени из осинового дерева"
 
 #: init.lua
 msgid "Brick Stair Inner"
-msgstr ""
+msgstr "Внутренние ступени из кирпича"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Inner"
-msgstr "Блок бронзы"
+msgstr "Внутренние ступени из блока бронзы"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Inner"
-msgstr "Булыжник"
+msgstr "Внутренние ступени из булыжника"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Inner"
-msgstr "Блок меди"
+msgstr "Внутренние ступени из медного блока"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Inner"
-msgstr "Пустынный булыжник"
+msgstr "Внутренние ступени из пустынного булыжника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Inner"
-msgstr "Пустынный песчаник"
+msgstr "Внутренние ступени из пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Inner"
-msgstr "Пустынный песчаник"
+msgstr "Внутренние ступени из кирпичей пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Inner"
-msgstr "Пустынный песчаник"
+msgstr "Внутренние ступени из пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Inner"
-msgstr "Пустынный песчаник"
+msgstr "Внутренние ступени из блока пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Inner"
-msgstr "Пустынный песчаник"
+msgstr "Внутренние ступени из кирпичей пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Inner"
-msgstr "Пустынный камень"
+msgstr "Внутренние ступени из пустынного камня"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Inner"
-msgstr "Блок золота"
+msgstr "Внутренние ступени из блока золота"
 
 #: init.lua
 msgid "Ice Stair Inner"
-msgstr ""
+msgstr "Внутренние ступени изо льда"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Inner"
-msgstr "Доски дерева джунглей"
+msgstr "Внутренние ступени из дерева джунглей"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Inner"
-msgstr "Замшелый булыжник"
+msgstr "Внутренние ступени из замшелого булыжника"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Inner"
-msgstr "Блок обсидана"
+msgstr "Внутренние ступени из блока обсидиана"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Inner"
-msgstr "Обсидановый кирпич"
+msgstr "Внутренние ступени из обсидианового кирпича"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Inner"
-msgstr "Осколок обсидана"
+msgstr "Внутренние ступени из обсидиана"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Inner"
-msgstr "Сосновые доски"
+msgstr "Внутренние ступени из сосны"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Inner"
-msgstr "Блок песчаника"
+msgstr "Внутренние ступени из блока песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Inner"
-msgstr "Кирпичи из песчаника"
+msgstr "Внутренние ступени из песчаниковых кирпичей"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Inner"
-msgstr "Кирпичи из песчаника"
+msgstr "Внутренние ступени из песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Inner"
-msgstr "Блок серебристого песка"
+msgstr "Внутренние ступени из блока серебряного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Inner"
-msgstr "Кирпичи серебристого песчаника"
+msgstr "Внутренние ступени из кирпичей серебряного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Inner"
-msgstr "Серебристый песчаник"
+msgstr "Внутренние ступени из серебряного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Inner"
-msgstr "Блок снега"
+msgstr "Внутренние ступени из блока снега"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Inner"
-msgstr "Блок стали"
+msgstr "Внутренние ступени из блока стали"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Inner"
-msgstr "Каменный блок"
+msgstr "Внутренние ступени из каменного блока"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Inner"
-msgstr "Каменный кирпич"
+msgstr "Внутренние ступени из каменного кирпича"
 
 #: init.lua
 msgid "Stone Stair Inner"
-msgstr ""
+msgstr "Внутренние ступени из камня"
 
 #: init.lua
 msgid "Straw Stair Inner"
-msgstr ""
+msgstr "Внутренние ступени из соломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Inner"
-msgstr "Блок олова"
+msgstr "Внутренние ступени из блока олова"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Inner"
-msgstr "Деревянная табличка"
+msgstr "Внутренние ступени из дерева"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Outer"
-msgstr "Доски акации"
+msgstr "Наружные ступени из дерева акации"
 
 #: init.lua
 msgid "Aspen Wood Stair Outer"
-msgstr ""
+msgstr "Наружные ступени из дерева осины"
 
 #: init.lua
 msgid "Brick Stair Outer"
-msgstr ""
+msgstr "Наружные ступени из кирпича"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Outer"
-msgstr "Блок бронзы"
+msgstr "Наружные ступени из блока бронзы"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Outer"
-msgstr "Булыжник"
+msgstr "Наружные ступени из булыжника"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Outer"
-msgstr "Блок меди"
+msgstr "Наружные ступени из блока меди"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Outer"
-msgstr "Пустынный булыжник"
+msgstr "Наружные ступени из пустынного булыжника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Outer"
-msgstr "Пустынный песчаник"
+msgstr "Наружные ступени из блока пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Outer"
-msgstr "Пустынный песчаник"
+msgstr "Наружные ступени из кирпичей пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Outer"
-msgstr "Пустынный песчаник"
+msgstr "Наружные ступени из пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Outer"
-msgstr "Пустынный песчаник"
+msgstr "Наружные ступени из блока пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Outer"
-msgstr "Пустынный песчаник"
+msgstr "Наружные ступени из кирпича пустынного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Outer"
-msgstr "Пустынный камень"
+msgstr "Наружные ступени из пустынного камня"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Outer"
-msgstr "Блок золота"
+msgstr "Наружные ступени из блока золота"
 
 #: init.lua
 msgid "Ice Stair Outer"
-msgstr ""
+msgstr "Наружные ступени изо льда"
 
 #: init.lua
 msgid "Jungle Wood Stair Outer"
-msgstr ""
+msgstr "Наружные ступени из дерева джунглей"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Outer"
-msgstr "Замшелый булыжник"
+msgstr "Наружные ступени из замшелого булыжника"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Outer"
-msgstr "Блок обсидана"
+msgstr "Наружные ступени из блока обсидиана"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Outer"
-msgstr "Обсидановый кирпич"
+msgstr "Наружные ступени из обсидианового кирпича"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Outer"
-msgstr "Осколок обсидана"
+msgstr "Наружные ступени из обсидиана"
 
 #: init.lua
 msgid "Pine Wood Stair Outer"
-msgstr ""
+msgstr "Наружные ступени из дерева сосны"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Outer"
-msgstr "Блок песчаника"
+msgstr "Наружные ступени из блока песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Outer"
-msgstr "Кирпичи из песчаника"
+msgstr "Наружные ступени из песчаниковых кирпичей"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Outer"
-msgstr "Кирпичи из песчаника"
+msgstr "Наружные ступени из песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Outer"
-msgstr "Блок серебристого песка"
+msgstr "Наружные ступени из блока серебряного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Outer"
-msgstr "Кирпичи серебристого песчаника"
+msgstr "Наружные ступени из кирпичей серебряного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Outer"
-msgstr "Серебристый песчаник"
+msgstr "Наружные ступени из серебряного песчаника"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Outer"
-msgstr "Блок снега"
+msgstr "Наружные ступени из блока снега"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Outer"
-msgstr "Блок стали"
+msgstr "Наружные ступени из блока стали"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Outer"
-msgstr "Каменный блок"
+msgstr "Наружные ступени из каменного блока"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Outer"
-msgstr "Каменный кирпич"
+msgstr "Наружные ступени из каменного кирпича"
 
 #: init.lua
 msgid "Stone Stair Outer"
-msgstr ""
+msgstr "Наружные ступени из камня"
 
 #: init.lua
 msgid "Straw Stair Outer"
-msgstr ""
+msgstr "Наружные ступени из соломы"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Outer"
-msgstr "Блок олова"
+msgstr "Наружные ступени из блока олова"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Outer"
-msgstr "Деревянная лестница"
+msgstr "Наружные ступени из дерева"
 
 #: init.lua
 msgid "Gun Powder"
-msgstr ""
+msgstr "Порох"
 
 #: init.lua
 msgid "TNT"
-msgstr ""
+msgstr "TNT"
 
 #: init.lua
 msgid "Unknown Item"
-msgstr ""
+msgstr "Неизвестный элемент"
 
 #: init.lua
 msgid "Drinking Glass (empty)"
-msgstr ""
+msgstr "Стакан (пустой)"
 
 #: init.lua
 msgid "Glass Bottle (empty)"
-msgstr ""
+msgstr "Бутылка (пустая)"
 
 #: init.lua
 msgid "Pile of Glass Fragments"
-msgstr ""
+msgstr "Куча стеклянных фрагментов"
 
 #: init.lua
 msgid "Vessels Shelf"
-msgstr ""
+msgstr "Полка для сундуков"
 
 #: init.lua
 msgid "Heavy Steel Bottle (empty)"
@@ -1594,59 +1539,59 @@ msgstr "Тяжелая стальная бутылка (пустая)"
 
 #: init.lua
 msgid "Cobblestone Wall"
-msgstr ""
+msgstr "Стена из булыжника"
 
 #: init.lua
 msgid "Desert Cobblestone Wall"
-msgstr ""
+msgstr "Стена из пустынного булыжника"
 
 #: init.lua
 msgid "Mossy Cobblestone Wall"
-msgstr ""
+msgstr "Стена из замшелого булыжника"
 
 #: init.lua
 msgid "Black Wool"
-msgstr ""
+msgstr "Черная шерсть"
 
 #: init.lua
 msgid "Blue Wool"
-msgstr ""
+msgstr "Синяя шерсть"
 
 #: init.lua
 msgid "Brown Wool"
-msgstr ""
+msgstr "Коричневая шерсть"
 
 #: init.lua
 msgid "Cyan Wool"
-msgstr ""
+msgstr "Бирюзовая шерсть"
 
 #: init.lua
 msgid "Dark Green Wool"
-msgstr ""
+msgstr "Темно зеленая шерсть"
 
 #: init.lua
 msgid "Dark Grey Wool"
-msgstr ""
+msgstr "Темно серая шерсть"
 
 #: init.lua
 msgid "Green Wool"
-msgstr ""
+msgstr "Зеленая шерсть"
 
 #: init.lua
 msgid "Grey Wool"
-msgstr ""
+msgstr "Серая шерсть"
 
 #: init.lua
 msgid "Magenta Wool"
-msgstr ""
+msgstr "Пурпурная шерсть"
 
 #: init.lua
 msgid "Orange Wool"
-msgstr ""
+msgstr "Оранжевая шерсть"
 
 #: init.lua
 msgid "Pink Wool"
-msgstr ""
+msgstr "Розовая шерсть"
 
 #: init.lua
 msgid "Red Wool"
@@ -1666,11 +1611,11 @@ msgstr "Желтая шерсть"
 
 #: init.lua
 msgid "Iron bar"
-msgstr "Железный забор"
+msgstr "Железный слиток"
 
 #: init.lua
 msgid "Glass Pane"
-msgstr ""
+msgstr "Стеклянная панель"
 
 #: init.lua
 msgid "Nyan Cat Rainbow"
