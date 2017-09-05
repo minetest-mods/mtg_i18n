@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-06-04 15:00+0000\n"
+"PO-Revision-Date: 2017-09-05 23:29+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/minetest/"
-"mtg_i18n/tr/>\n"
+"Language-Team: Turkish "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.15-dev\n"
+"X-Generator: Weblate 2.17-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -881,7 +881,7 @@ msgstr "Saman"
 
 #: init.lua
 msgid "String"
-msgstr ""
+msgstr "İp"
 
 #: init.lua
 msgid "Wheat"
@@ -1072,9 +1072,8 @@ msgid "Straw Slab"
 msgstr "Saman Dilim"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Slab"
-msgstr "Kar Blok Dilim"
+msgstr "Kalay Blok Dilim"
 
 #: init.lua
 msgid "Wooden Slab"
@@ -1213,363 +1212,292 @@ msgid "Straw Stair"
 msgstr "Saman Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair"
-msgstr "Kar Blok Merdiven"
+msgstr "Kalay Blok Merdiven"
 
 #: init.lua
 msgid "Wooden Stair"
 msgstr "Ahşap Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Inner"
-msgstr "Akasya Ahşap Merdiven"
+msgstr "Akasya Ahşap İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Inner"
-msgstr "Kavak Ahşap Merdiven"
+msgstr "Kavak Ahşap İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Inner"
-msgstr "Tuğla Merdiven"
+msgstr "Tuğla İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Inner"
-msgstr "Bronz Blok Merdiven"
+msgstr "Bronz Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Inner"
-msgstr "Parketaş Merdiven"
+msgstr "Parketaş İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Inner"
-msgstr "Bakır Blok Merdiven"
+msgstr "Bakır Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Inner"
-msgstr "Çöl Parketaşı Merdiven"
+msgstr "Çöl Parketaşı İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Inner"
-msgstr "Çöl Kumtaşı Blok Merdiven"
+msgstr "Çöl Kumtaşı Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Inner"
-msgstr "Çöl Kumtaşı Tuğla Merdiven"
+msgstr "Çöl Kumtaşı Tuğla İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Inner"
-msgstr "Çöl Kumtaşı Merdiven"
+msgstr "Çöl Kumtaşı İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Inner"
-msgstr "Çöl Taşı Blok Merdiven"
+msgstr "Çöl Taşı Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Inner"
-msgstr "Çöl Taşı Tuğla Merdiven"
+msgstr "Çöl Taşı Tuğla İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Inner"
-msgstr "Çöl Taşı Merdiven"
+msgstr "Çöl Taşı İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Inner"
-msgstr "Altın Blok Merdiven"
+msgstr "Altın Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Inner"
-msgstr "Buz Merdiven"
+msgstr "Buz İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Inner"
-msgstr "Cangıl Ahşap Merdiven"
+msgstr "Cangıl Ahşap İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Inner"
-msgstr "Yosunlu Parketaş Merdiven"
+msgstr "Yosunlu Parketaş İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Inner"
-msgstr "Obsidyen Blok Merdiven"
+msgstr "Obsidyen Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Inner"
-msgstr "Obsidyen Tuğla Merdiven"
+msgstr "Obsidyen Tuğla İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Inner"
-msgstr "Obsidyen Merdiven"
+msgstr "Obsidyen İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Inner"
-msgstr "Çam Ahşap Merdiven"
+msgstr "Çam Ahşap İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Inner"
-msgstr "Kumtaşı Blok Merdiven"
+msgstr "Kumtaşı Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Inner"
-msgstr "Kumtaşı Tuğla Merdiven"
+msgstr "Kumtaşı Tuğla İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Inner"
-msgstr "Kumtaşı Merdiven"
+msgstr "Kumtaşı İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Inner"
-msgstr "Gümüş Kumtaşı Blok Merdiven"
+msgstr "Gümüş Kumtaşı Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Inner"
-msgstr "Gümüş Kumtaşı Tuğla Merdiven"
+msgstr "Gümüş Kumtaşı Tuğla İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Inner"
-msgstr "Gümüş Kumtaşı Merdiven"
+msgstr "Gümüş Kumtaşı İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Inner"
-msgstr "Kar Blok Merdiven"
+msgstr "Kar Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Inner"
-msgstr "Çelik Blok Merdiven"
+msgstr "Çelik Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Inner"
-msgstr "Taş Blok Merdiven"
+msgstr "Taş Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Inner"
-msgstr "Taş Tuğla Merdiven"
+msgstr "Taş Tuğla İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Inner"
-msgstr "Taş Merdiven"
+msgstr "Taş İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Inner"
-msgstr "Saman Merdiven"
+msgstr "Saman İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Inner"
-msgstr "Kar Blok Merdiven"
+msgstr "Kalay Blok İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Inner"
-msgstr "Ahşap Merdiven"
+msgstr "Ahşap İç Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Outer"
-msgstr "Akasya Ahşap Merdiven"
+msgstr "Akasya Ahşap Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Outer"
-msgstr "Kavak Ahşap Merdiven"
+msgstr "Kavak Ahşap Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Outer"
-msgstr "Tuğla Merdiven"
+msgstr "Tuğla Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Outer"
-msgstr "Bronz Blok Merdiven"
+msgstr "Bronz Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Outer"
-msgstr "Parketaş Merdiven"
+msgstr "Parketaş Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Outer"
-msgstr "Bakır Blok Merdiven"
+msgstr "Bakır Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Outer"
-msgstr "Çöl Parketaşı Merdiven"
+msgstr "Çöl Parketaşı Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Outer"
-msgstr "Çöl Kumtaşı Blok Merdiven"
+msgstr "Çöl Kumtaşı Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Outer"
-msgstr "Çöl Kumtaşı Tuğla Merdiven"
+msgstr "Çöl Kumtaşı Tuğla Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Outer"
-msgstr "Çöl Kumtaşı Merdiven"
+msgstr "Çöl Kumtaşı Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Outer"
-msgstr "Çöl Taşı Blok Merdiven"
+msgstr "Çöl Taşı Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Outer"
-msgstr "Çöl Taşı Tuğla Merdiven"
+msgstr "Çöl Taşı Tuğla Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Outer"
-msgstr "Çöl Taşı Merdiven"
+msgstr "Çöl Taşı Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Outer"
-msgstr "Altın Blok Merdiven"
+msgstr "Altın Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Outer"
-msgstr "Buz Merdiven"
+msgstr "Buz Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Outer"
-msgstr "Cangıl Ahşap Merdiven"
+msgstr "Cangıl Ahşap Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Outer"
-msgstr "Yosunlu Parketaş Merdiven"
+msgstr "Yosunlu Parketaş Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Outer"
-msgstr "Obsidyen Blok Merdiven"
+msgstr "Obsidyen Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Outer"
-msgstr "Obsidyen Tuğla Merdiven"
+msgstr "Obsidyen Tuğla Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Outer"
-msgstr "Obsidyen Merdiven"
+msgstr "Obsidyen Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Outer"
-msgstr "Çam Ahşap Merdiven"
+msgstr "Çam Ahşap Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Outer"
-msgstr "Kumtaşı Blok Merdiven"
+msgstr "Kumtaşı Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Outer"
-msgstr "Kumtaşı Tuğla Merdiven"
+msgstr "Kumtaşı Tuğla Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Outer"
-msgstr "Kumtaşı Merdiven"
+msgstr "Kumtaşı Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Outer"
-msgstr "Gümüş Kumtaşı Blok Merdiven"
+msgstr "Gümüş Kumtaşı Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Outer"
-msgstr "Gümüş Kumtaşı Tuğla Merdiven"
+msgstr "Gümüş Kumtaşı Tuğla Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Outer"
-msgstr "Gümüş Kumtaşı Merdiven"
+msgstr "Gümüş Kumtaşı Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Outer"
-msgstr "Kar Blok Merdiven"
+msgstr "Kar Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Outer"
-msgstr "Çelik Blok Merdiven"
+msgstr "Çelik Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Outer"
-msgstr "Taş Blok Merdiven"
+msgstr "Taş Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Outer"
-msgstr "Taş Tuğla Merdiven"
+msgstr "Taş Tuğla Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Outer"
-msgstr "Taş Merdiven"
+msgstr "Taş Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Outer"
-msgstr "Saman Merdiven"
+msgstr "Saman Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Outer"
-msgstr "Kar Blok Merdiven"
+msgstr "Kalay Blok Dış Merdiven"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Outer"
-msgstr "Ahşap Merdiven"
+msgstr "Ahşap Dış Merdiven"
 
 #: init.lua
 msgid "Gun Powder"
