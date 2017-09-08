@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-09-01 18:17+0000\n"
+"PO-Revision-Date: 2017-09-09 13:45+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -480,8 +480,9 @@ msgid "Paper"
 msgstr "Papier"
 
 #: init.lua
+#, fuzzy
 msgid "Papyrus"
-msgstr ""
+msgstr "Papyrus"
 
 #: init.lua
 msgid "Bronze Pickaxe"
@@ -631,8 +632,9 @@ msgid "Stone Block"
 msgstr "Stenen Blok"
 
 #: init.lua
+#, fuzzy
 msgid "Stone Brick"
-msgstr ""
+msgstr "Stenen Bakstenen"
 
 #: init.lua
 msgid "Stone"
@@ -757,8 +759,9 @@ msgid "Pine Fence Gate"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Wooden Fence Gate"
-msgstr ""
+msgstr "Houten Hek Poort"
 
 #: init.lua
 msgid "Hidden Door Segment"
@@ -881,8 +884,9 @@ msgid "Cotton seed"
 msgstr "Katoen zaad"
 
 #: init.lua
+#, fuzzy
 msgid "Wheat seed"
-msgstr ""
+msgstr "Tarwe zaad"
 
 #: init.lua
 msgid "Soil"
@@ -898,7 +902,7 @@ msgstr "Stro"
 
 #: init.lua
 msgid "Wheat"
-msgstr ""
+msgstr "Tarwe"
 
 #: init.lua
 msgid "Flint and Steel"
