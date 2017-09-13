@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-09-09 13:45+0000\n"
+"PO-Revision-Date: 2017-09-14 10:46+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -220,7 +220,7 @@ msgstr "Kool Blok"
 
 #: init.lua
 msgid "Coal Lump"
-msgstr ""
+msgstr "Kool Klomp"
 
 #: init.lua
 msgid "Cobblestone"
@@ -764,8 +764,9 @@ msgid "Wooden Fence Gate"
 msgstr "Houten Hek Poort"
 
 #: init.lua
+#, fuzzy
 msgid "Hidden Door Segment"
-msgstr ""
+msgstr "Verborgen Deur Segment"
 
 #: init.lua
 msgid "Trapdoor"
@@ -934,7 +935,7 @@ msgstr "Rode Paddenstoel"
 
 #: init.lua
 msgid "Rose"
-msgstr ""
+msgstr "Roos"
 
 #: init.lua
 msgid "Orange Tulip"
@@ -1026,8 +1027,9 @@ msgid "Ice Slab"
 msgstr "Ijs Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Jungle Wood Slab"
-msgstr ""
+msgstr "Junglehouten Plaat"
 
 #: init.lua
 #, fuzzy
@@ -1063,8 +1065,9 @@ msgid "Sandstone Brick Slab"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Sandstone Slab"
-msgstr ""
+msgstr "Zandstenen Plaat"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
@@ -1119,11 +1122,12 @@ msgstr ""
 
 #: init.lua
 msgid "Brick Stair"
-msgstr ""
+msgstr "Bakstenen Trap"
 
 #: init.lua
+#, fuzzy
 msgid "Bronze Block Stair"
-msgstr ""
+msgstr "Bronzen Blok Trap"
 
 #: init.lua
 #, fuzzy
@@ -1148,8 +1152,9 @@ msgid "Desert Sandstone Brick Stair"
 msgstr ""
 
 #: init.lua
+#, fuzzy
 msgid "Desert Sandstone Stair"
-msgstr ""
+msgstr "Woestijn Zandstenen Trap"
 
 #: init.lua
 msgid "Desert Stone Block Stair"
