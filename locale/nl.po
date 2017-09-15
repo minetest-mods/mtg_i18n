@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-09-14 10:46+0000\n"
+"PO-Revision-Date: 2017-09-16 10:45+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -981,8 +981,9 @@ msgid "Cobblestone Slab"
 msgstr "Keistenen Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Copper Block Slab"
-msgstr ""
+msgstr "Koperen Blok Plaat"
 
 #: init.lua
 #, fuzzy
