@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-09-23 22:46+0000\n"
+"PO-Revision-Date: 2017-09-25 10:46+0000\n"
 "Last-Translator: Sandor Tihanyi <stihanyi@gmail.com>\n"
 "Language-Team: Hungarian "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/hu/>\n"
@@ -1037,179 +1037,179 @@ msgstr "Homokkő lap"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
-msgstr ""
+msgstr "Ezüst homokkő tömb lap"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
-msgstr ""
+msgstr "Ezüst homokkő tégla lap"
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr ""
+msgstr "Ezüst homokkő lap"
 
 #: init.lua
 msgid "Snow Block Slab"
-msgstr ""
+msgstr "Hó tömb lap"
 
 #: init.lua
 msgid "Steel Block Slab"
-msgstr ""
+msgstr "Acél tömb lap"
 
 #: init.lua
 msgid "Stone Block Slab"
-msgstr ""
+msgstr "Kő tömb lap"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr ""
+msgstr "Kő tégla lap"
 
 #: init.lua
 msgid "Stone Slab"
-msgstr ""
+msgstr "Kő lap"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr ""
+msgstr "Szalma lap"
 
 #: init.lua
 msgid "Tin Block Slab"
-msgstr ""
+msgstr "Ón tömb lap"
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr ""
+msgstr "Fa lap"
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr ""
+msgstr "Akácia falépcső"
 
 #: init.lua
 msgid "Aspen Wood Stair"
-msgstr ""
+msgstr "Nyárfa lépcső"
 
 #: init.lua
 msgid "Brick Stair"
-msgstr ""
+msgstr "Tégla lépcső"
 
 #: init.lua
 msgid "Bronze Block Stair"
-msgstr ""
+msgstr "Bronz lépcső"
 
 #: init.lua
 msgid "Cobblestone Stair"
-msgstr ""
+msgstr "Macskakő lépcső"
 
 #: init.lua
 msgid "Copper Block Stair"
-msgstr ""
+msgstr "Réz lépcső"
 
 #: init.lua
 msgid "Desert Cobblestone Stair"
-msgstr ""
+msgstr "Sivatagi macskakő lépcső"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair"
-msgstr ""
+msgstr "Sivatagi homokkő tömb lépcső"
 
 #: init.lua
 msgid "Desert Sandstone Brick Stair"
-msgstr ""
+msgstr "Sivatagi homokkő téglalépcső"
 
 #: init.lua
 msgid "Desert Sandstone Stair"
-msgstr ""
+msgstr "Sivatagi homokkő lépcső"
 
 #: init.lua
 msgid "Desert Stone Block Stair"
-msgstr ""
+msgstr "Sivatagi kő tömb lépcső"
 
 #: init.lua
 msgid "Desert Stone Brick Stair"
-msgstr ""
+msgstr "Sivatagi kő tégla lépcső"
 
 #: init.lua
 msgid "Desert Stone Stair"
-msgstr ""
+msgstr "Sivatagi kő lépcső"
 
 #: init.lua
 msgid "Gold Block Stair"
-msgstr ""
+msgstr "Arany lépcső"
 
 #: init.lua
 msgid "Ice Stair"
-msgstr ""
+msgstr "Jég lépcső"
 
 #: init.lua
 msgid "Jungle Wood Stair"
-msgstr ""
+msgstr "Dzsungelfa lépcső"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair"
-msgstr ""
+msgstr "Mohos macskakő lépcső"
 
 #: init.lua
 msgid "Obsidian Block Stair"
-msgstr ""
+msgstr "Obszidián tömb lépcső"
 
 #: init.lua
 msgid "Obsidian Brick Stair"
-msgstr ""
+msgstr "Obszidián tégla lépcső"
 
 #: init.lua
 msgid "Obsidian Stair"
-msgstr ""
+msgstr "Obszidián lépcső"
 
 #: init.lua
 msgid "Pine Wood Stair"
-msgstr ""
+msgstr "Fenyőfa lépcső"
 
 #: init.lua
 msgid "Sandstone Block Stair"
-msgstr ""
+msgstr "Homokkő tömb lépcső"
 
 #: init.lua
 msgid "Sandstone Brick Stair"
-msgstr ""
+msgstr "Homokkő tégla lépcső"
 
 #: init.lua
 msgid "Sandstone Stair"
-msgstr ""
+msgstr "Homokkő lépcső"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair"
-msgstr ""
+msgstr "Ezüst homokkő tömb lépcső"
 
 #: init.lua
 msgid "Silver Sandstone Brick Stair"
-msgstr ""
+msgstr "Ezüst homokkő tégla lépcső"
 
 #: init.lua
 msgid "Silver Sandstone Stair"
-msgstr ""
+msgstr "Ezüst homokkő lépcső"
 
 #: init.lua
 msgid "Snow Block Stair"
-msgstr ""
+msgstr "Hótömb lépcső"
 
 #: init.lua
 msgid "Steel Block Stair"
-msgstr ""
+msgstr "Acél lépcső"
 
 #: init.lua
 msgid "Stone Block Stair"
-msgstr ""
+msgstr "Kő tömb lépcső"
 
 #: init.lua
 msgid "Stone Brick Stair"
-msgstr ""
+msgstr "Kő tégla lépcső"
 
 #: init.lua
 msgid "Stone Stair"
-msgstr ""
+msgstr "Kő lépcső"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr ""
+msgstr "Szalma lépcső"
 
 #: init.lua
 msgid "Tin Block Stair"
