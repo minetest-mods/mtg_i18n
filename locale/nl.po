@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-09-16 10:45+0000\n"
+"PO-Revision-Date: 2017-09-27 19:45+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -1105,8 +1105,9 @@ msgid "Stone Slab"
 msgstr "Stenen Plaat"
 
 #: init.lua
+#, fuzzy
 msgid "Straw Slab"
-msgstr ""
+msgstr "Stro Plaat"
 
 #: init.lua
 #, fuzzy
