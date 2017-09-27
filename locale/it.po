@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Italian locale file for the MTG_i18n module\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 20:52+0200\n"
-"PO-Revision-Date: 2017-08-31 22:46+0000\n"
+"PO-Revision-Date: 2017-09-28 19:46+0000\n"
 "Last-Translator: Hamlet <h4mlet@riseup.net>\n"
 "Language-Team: Italian "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/it/>\n"
@@ -81,7 +81,7 @@ msgstr "Alberello di cespuglio d'acacia"
 
 #: init.lua
 msgid "Acacia Bush Stem"
-msgstr "Gambo di cespuglio d'acacia"
+msgstr "Fusto di cespuglio d'acacia"
 
 #: init.lua
 msgid "Acacia Leaves"
@@ -177,7 +177,7 @@ msgstr "Alberello di cespuglio"
 
 #: init.lua
 msgid "Bush Stem"
-msgstr "Gambo di cespuglio"
+msgstr "Fusto di cespuglio"
 
 #: init.lua
 msgid "Cactus"
