@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-09-25 10:46+0000\n"
+"PO-Revision-Date: 2017-10-04 19:48+0000\n"
 "Last-Translator: Sandor Tihanyi <stihanyi@gmail.com>\n"
 "Language-Team: Hungarian "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/hu/>\n"
@@ -1213,163 +1213,163 @@ msgstr "Szalma lépcső"
 
 #: init.lua
 msgid "Tin Block Stair"
-msgstr ""
+msgstr "Ón tömb lépcső"
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr ""
+msgstr "Fa lépcső"
 
 #: init.lua
 msgid "Acacia Wood Stair Inner"
-msgstr ""
+msgstr "Akácia lépcső belső"
 
 #: init.lua
 msgid "Aspen Wood Stair Inner"
-msgstr ""
+msgstr "Nyárfa lépcső belső"
 
 #: init.lua
 msgid "Brick Stair Inner"
-msgstr ""
+msgstr "Tégla lépcső belső"
 
 #: init.lua
 msgid "Bronze Block Stair Inner"
-msgstr ""
+msgstr "Bronz tömb lépcső belső"
 
 #: init.lua
 msgid "Cobblestone Stair Inner"
-msgstr ""
+msgstr "Macskakő lépcső belső"
 
 #: init.lua
 msgid "Copper Block Stair Inner"
-msgstr ""
+msgstr "Réz tömb lépcső belső"
 
 #: init.lua
 msgid "Desert Cobblestone Stair Inner"
-msgstr ""
+msgstr "Sivatagi macskakő lépcső belső"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair Inner"
-msgstr ""
+msgstr "Sivatagi homokkő tömb lépcső belső"
 
 #: init.lua
 msgid "Desert Sandstone Brick Stair Inner"
-msgstr ""
+msgstr "Sivatagi homokkő tégla lépcső belső"
 
 #: init.lua
 msgid "Desert Sandstone Stair Inner"
-msgstr ""
+msgstr "Sivatagi homokkő lépcső belső"
 
 #: init.lua
 msgid "Desert Stone Block Stair Inner"
-msgstr ""
+msgstr "Sivatagi kő tömb lépcső belső"
 
 #: init.lua
 msgid "Desert Stone Brick Stair Inner"
-msgstr ""
+msgstr "Sivatagi kőtégla lépcső belső"
 
 #: init.lua
 msgid "Desert Stone Stair Inner"
-msgstr ""
+msgstr "Sivatagi kő lépcső belső"
 
 #: init.lua
 msgid "Gold Block Stair Inner"
-msgstr ""
+msgstr "Arany tömb lépcső belső"
 
 #: init.lua
 msgid "Ice Stair Inner"
-msgstr ""
+msgstr "Jég lépcső belső"
 
 #: init.lua
 msgid "Jungle Wood Stair Inner"
-msgstr ""
+msgstr "Dzsungelfa lépcső belső"
 
 #: init.lua
 msgid "Mossy Cobblestone Stair Inner"
-msgstr ""
+msgstr "Mohos macskakő lépcső belső"
 
 #: init.lua
 msgid "Obsidian Block Stair Inner"
-msgstr ""
+msgstr "Obszidián tömb lépcső belső"
 
 #: init.lua
 msgid "Obsidian Brick Stair Inner"
-msgstr ""
+msgstr "Obszidián tégla lépcső belső"
 
 #: init.lua
 msgid "Obsidian Stair Inner"
-msgstr ""
+msgstr "Obszidián lépcső belső"
 
 #: init.lua
 msgid "Pine Wood Stair Inner"
-msgstr ""
+msgstr "Fenyőfa lépcső belső"
 
 #: init.lua
 msgid "Sandstone Block Stair Inner"
-msgstr ""
+msgstr "Homokkő tömb lépcső belső"
 
 #: init.lua
 msgid "Sandstone Brick Stair Inner"
-msgstr ""
+msgstr "Homokkő tégla lépcső belső"
 
 #: init.lua
 msgid "Sandstone Stair Inner"
-msgstr ""
+msgstr "Homokkő lépcső belső"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair Inner"
-msgstr ""
+msgstr "Ezüst homokkő tömb lépcső belső"
 
 #: init.lua
 msgid "Silver Sandstone Brick Stair Inner"
-msgstr ""
+msgstr "Ezüst homokkő tégla lépcső belső"
 
 #: init.lua
 msgid "Silver Sandstone Stair Inner"
-msgstr ""
+msgstr "Ezüst homokkő lépcső belső"
 
 #: init.lua
 msgid "Snow Block Stair Inner"
-msgstr ""
+msgstr "Hótömb lépcső belső"
 
 #: init.lua
 msgid "Steel Block Stair Inner"
-msgstr ""
+msgstr "Acéltömb lépcső belső"
 
 #: init.lua
 msgid "Stone Block Stair Inner"
-msgstr ""
+msgstr "Kőtömb lépcső belső"
 
 #: init.lua
 msgid "Stone Brick Stair Inner"
-msgstr ""
+msgstr "Kőtégla lépcső belső"
 
 #: init.lua
 msgid "Stone Stair Inner"
-msgstr ""
+msgstr "Kő lépcső belső"
 
 #: init.lua
 msgid "Straw Stair Inner"
-msgstr ""
+msgstr "Szalma lépcső belső"
 
 #: init.lua
 msgid "Tin Block Stair Inner"
-msgstr ""
+msgstr "Ón tömb lépcső belső"
 
 #: init.lua
 msgid "Wooden Stair Inner"
-msgstr ""
+msgstr "Fa lépcső belső"
 
 #: init.lua
 msgid "Acacia Wood Stair Outer"
-msgstr ""
+msgstr "Akácia lépcső külső"
 
 #: init.lua
 msgid "Aspen Wood Stair Outer"
-msgstr ""
+msgstr "Nyárfa lépcső külső"
 
 #: init.lua
 msgid "Brick Stair Outer"
-msgstr ""
+msgstr "Tégla lépcső külső"
 
 #: init.lua
 msgid "Bronze Block Stair Outer"
