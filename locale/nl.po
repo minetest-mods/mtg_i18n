@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-09-28 22:45+0000\n"
+"PO-Revision-Date: 2017-10-09 22:45+0000\n"
 "Last-Translator: Oscar <kingoscargames@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
@@ -1119,7 +1119,7 @@ msgstr "Houten Plaat"
 
 #: init.lua
 msgid "Acacia Wood Stair"
-msgstr "Acacia Houten trap"
+msgstr "Acacia Houten traptreden"
 
 #: init.lua
 msgid "Aspen Wood Stair"
@@ -1127,26 +1127,24 @@ msgstr ""
 
 #: init.lua
 msgid "Brick Stair"
-msgstr "Bakstenen Trap"
+msgstr "Bakstenen Traptreden"
 
 #: init.lua
 #, fuzzy
 msgid "Bronze Block Stair"
-msgstr "Bronzen Blok Trap"
+msgstr "Bronzen Blok Traptreden"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair"
-msgstr "Keistenen Trap"
+msgstr "Keistenen Traptreden"
 
 #: init.lua
 msgid "Copper Block Stair"
 msgstr ""
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair"
-msgstr "Woestijn Keistenen Trap"
+msgstr "Woestijn Keistenen Traptreden"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair"
@@ -1157,9 +1155,8 @@ msgid "Desert Sandstone Brick Stair"
 msgstr ""
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair"
-msgstr "Woestijn Zandstenen Trap"
+msgstr "Woestijn Zandstenen Traptreden"
 
 #: init.lua
 msgid "Desert Stone Block Stair"
@@ -1171,39 +1168,39 @@ msgstr ""
 
 #: init.lua
 msgid "Desert Stone Stair"
-msgstr "Woestijn Stenen Trap"
+msgstr "Woestijn Stenen Traptreden"
 
 #: init.lua
 #, fuzzy
 msgid "Gold Block Stair"
-msgstr "Gouden Blok Trap"
+msgstr "Gouden Blok Traptreden"
 
 #: init.lua
 msgid "Ice Stair"
-msgstr "Ijs Trap"
+msgstr "Ijs Traptreden"
 
 #: init.lua
 msgid "Jungle Wood Stair"
-msgstr "Jungle Houten Trap"
+msgstr "Jungle Houten Traptreden"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair"
-msgstr "Mossige Keistenen Trap"
+msgstr "Mossige Keistenen Traptreden"
 
 #: init.lua
 #, fuzzy
 msgid "Obsidian Block Stair"
-msgstr "Obsidiaan Blok Trap"
+msgstr "Obsidiaan Blok Traptreden"
 
 #: init.lua
 #, fuzzy
 msgid "Obsidian Brick Stair"
-msgstr "Obsidiaan Bakstenen Trap"
+msgstr "Obsidiaan Bakstenen Traptreden"
 
 #: init.lua
+#, fuzzy
 msgid "Obsidian Stair"
-msgstr "Obsidiaan Trap"
+msgstr "Obsidiaanse Traptreden"
 
 #: init.lua
 msgid "Pine Wood Stair"
@@ -1219,7 +1216,7 @@ msgstr ""
 
 #: init.lua
 msgid "Sandstone Stair"
-msgstr "Zandstenen Trap"
+msgstr "Zandstenen Traptreden"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair"
@@ -1228,24 +1225,27 @@ msgstr ""
 #: init.lua
 #, fuzzy
 msgid "Silver Sandstone Brick Stair"
-msgstr "Zilver Zandstenen Bakstenen Trap"
+msgstr "Zilver Zandstenen Bakstenen Traptreden"
 
 #: init.lua
+#, fuzzy
 msgid "Silver Sandstone Stair"
-msgstr "Zilver Zandstenen Trap"
+msgstr "Zilver Zandstenen Traptreden"
 
 #: init.lua
 #, fuzzy
 msgid "Snow Block Stair"
-msgstr "Sneeuw Blok Trap"
+msgstr "Sneeuw Blok Traptreden"
 
 #: init.lua
+#, fuzzy
 msgid "Steel Block Stair"
-msgstr "Stalen Blokken Trap"
+msgstr "Stalen Blok Traptreden"
 
 #: init.lua
+#, fuzzy
 msgid "Stone Block Stair"
-msgstr "Stenen Blokken Trap"
+msgstr "Stenen Blok Traptreden"
 
 #: init.lua
 msgid "Stone Brick Stair"
@@ -1253,15 +1253,15 @@ msgstr ""
 
 #: init.lua
 msgid "Stone Stair"
-msgstr "Stenen Trap"
+msgstr "Stenen Traptreden"
 
 #: init.lua
 msgid "Straw Stair"
-msgstr "Stro Trap"
+msgstr "Stro Traptreden"
 
 #: init.lua
 msgid "Wooden Stair"
-msgstr "Houten Trap"
+msgstr "Houten Traptreden"
 
 #: init.lua
 msgid "Gun Powder"
