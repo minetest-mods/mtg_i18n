@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Italian locale file for the MTG_i18n module\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 20:52+0200\n"
-"PO-Revision-Date: 2017-09-28 19:46+0000\n"
+"PO-Revision-Date: 2017-10-09 16:47+0000\n"
 "Last-Translator: Hamlet <h4mlet@riseup.net>\n"
 "Language-Team: Italian "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/it/>\n"
@@ -33,7 +33,7 @@ msgstr "Letto elegante"
 
 #: init.lua
 msgid "Boat"
-msgstr "Barca"
+msgstr "zattera"
 
 #: init.lua
 msgid "Bones"
@@ -77,7 +77,7 @@ msgstr "Foglie di cespuglio d'acacia"
 
 #: init.lua
 msgid "Acacia Bush Sapling"
-msgstr "Alberello di cespuglio d'acacia"
+msgstr "Pianticella di cespuglio d'acacia"
 
 #: init.lua
 msgid "Acacia Bush Stem"
@@ -89,7 +89,7 @@ msgstr "Foglie d'acacia"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
-msgstr "Alberello di acacia"
+msgstr "Pianticella d'acacia"
 
 #: init.lua
 msgid "Acacia Tree"
@@ -109,7 +109,7 @@ msgstr "Foglie di pioppo"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
-msgstr "Alberello di pioppo"
+msgstr "Pianticella di pioppo"
 
 #: init.lua
 msgid "Aspen Tree"
@@ -173,7 +173,7 @@ msgstr "Foglie di cespuglio"
 
 #: init.lua
 msgid "Bush Sapling"
-msgstr "Alberello di cespuglio"
+msgstr "Pianticella di cespuglio"
 
 #: init.lua
 msgid "Bush Stem"
@@ -385,7 +385,7 @@ msgstr "Foglie della giungla"
 
 #: init.lua
 msgid "Jungle Sapling"
-msgstr "Alberello della giungla"
+msgstr "Pianticella di albero della giungla"
 
 #: init.lua
 msgid "Jungle Tree"
@@ -501,7 +501,7 @@ msgstr "Aghi di pino"
 
 #: init.lua
 msgid "Pine Sapling"
-msgstr "Alberello di pino"
+msgstr "Pianticella di pino"
 
 #: init.lua
 msgid "Pine Tree"
