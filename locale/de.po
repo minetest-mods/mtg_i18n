@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: mtg_i18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-08-29 12:50+0000\n"
-"Last-Translator: LNJ <git@lnj.li>\n"
+"PO-Revision-Date: 2017-11-09 10:46+0000\n"
+"Last-Translator: Wolfshippie <floderhippie@gmail.com>\n"
 "Language-Team: German "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/de/>\n"
 "Language: de\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17-dev\n"
+"X-Generator: Weblate 2.18-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
-msgstr "Luft (Sie Hacker, Sie!)"
+msgstr "Luft (Du Hacker, Du!)"
 
 #: init.lua
 msgid "Simple Bed"
@@ -61,7 +61,7 @@ msgstr "Bremsschiene"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr "Lore (Schleichen+Klicken zum Aufnehmen)"
+msgstr "Lore (Schleichen + Klicken zum Aufnehmen)"
 
 #: init.lua
 msgid "Powered rail"
