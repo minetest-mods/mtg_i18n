@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-08-05 22:19+0000\n"
-"Last-Translator: Tirifto <tirifto@posteo.cz>\n"
-"Language-Team: Esperanto <https://hosted.weblate.org/projects/minetest/"
-"mtg_i18n/eo/>\n"
+"PO-Revision-Date: 2017-11-18 15:45+0000\n"
+"Last-Translator: Reedych <reedych@ya.ru>\n"
+"Language-Team: Esperanto "
+"<https://hosted.weblate.org/projects/minetest/mtg_i18n/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.16-dev\n"
+"X-Generator: Weblate 2.18-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -881,7 +881,7 @@ msgstr "Pajlo"
 
 #: init.lua
 msgid "String"
-msgstr ""
+msgstr "Signoĉeno"
 
 #: init.lua
 msgid "Wheat"
@@ -1072,9 +1072,8 @@ msgid "Straw Slab"
 msgstr "Pajla plato"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Slab"
-msgstr "Neĝa bloka plato"
+msgstr "Stana bloka plato"
 
 #: init.lua
 msgid "Wooden Slab"
@@ -1213,9 +1212,8 @@ msgid "Straw Stair"
 msgstr "Pajla ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair"
-msgstr "Neĝa bloka ŝtupo"
+msgstr "Stana bloka ŝtupo"
 
 #: init.lua
 msgid "Wooden Stair"
