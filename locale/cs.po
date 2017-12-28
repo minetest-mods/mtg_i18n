@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-11-10 18:45+0000\n"
+"PO-Revision-Date: 2018-01-24 12:07+0000\n"
 "Last-Translator: Jiří Kučera <redwoodstudio@seznam.cz>\n"
 "Language-Team: Czech "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/cs/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2.18-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -1072,9 +1072,8 @@ msgid "Straw Slab"
 msgstr "Slaměný půlblok"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Slab"
-msgstr "Půlblok sněhu"
+msgstr "Cínový půlblok"
 
 #: init.lua
 msgid "Wooden Slab"
@@ -1213,46 +1212,38 @@ msgid "Straw Stair"
 msgstr "Slaměné schody"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair"
-msgstr "Schody ze sněhu"
+msgstr "Cínové schody"
 
 #: init.lua
 msgid "Wooden Stair"
 msgstr "Dřevěné schody"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Inner"
 msgstr "Akáciové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Inner"
 msgstr "Osikové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Inner"
 msgstr "Cihlové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Inner"
 msgstr "Bronzové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Inner"
 msgstr "Schody z kamenné dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Inner"
 msgstr "Měděné schody"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Inner"
 msgstr "Schody z pouštní kamenné dlažby"
 
@@ -1262,52 +1253,42 @@ msgid "Desert Sandstone Block Stair Inner"
 msgstr "Dekorativní schody z pouštního pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Inner"
 msgstr "Cihlové schody z pouštního pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Inner"
 msgstr "Schody z pouštního pískovce"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Inner"
 msgstr "Dekorativní schody z pouštního kamene"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Inner"
 msgstr "Cihlové schody z pouštního kamene"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Inner"
 msgstr "Schody z pouštního kamene"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Inner"
 msgstr "Zlaté schody"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Inner"
 msgstr "Ledové schody"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Inner"
 msgstr "Schody z tropického dřeva"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Inner"
 msgstr "Schody z porostlé dlažby"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Inner"
 msgstr "Dekorativní schody z obsidiánu"
 
