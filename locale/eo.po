@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-11-18 15:45+0000\n"
-"Last-Translator: Reedych <reedych@ya.ru>\n"
+"PO-Revision-Date: 2018-01-24 12:09+0000\n"
+"Last-Translator: Erin Heart <erin0heart@protonmail.ch>\n"
 "Language-Team: Esperanto "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/eo/>\n"
 "Language: eo\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -1220,152 +1220,122 @@ msgid "Wooden Stair"
 msgstr "Ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Inner"
 msgstr "Akacia ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Inner"
 msgstr "Tremola ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Inner"
 msgstr "Brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Inner"
 msgstr "Bronza bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Inner"
 msgstr "Pavimŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Inner"
 msgstr "Kupra bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Inner"
 msgstr "Dezerta pavimŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Inner"
 msgstr "Dezerta sabloŝtona bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Inner"
 msgstr "Dezerta sabloŝtona brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Inner"
 msgstr "Dezerta sabloŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Inner"
 msgstr "Dezerta ŝtona bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Inner"
 msgstr "Dezerta ŝtona brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Inner"
 msgstr "Dezerta ŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Inner"
 msgstr "Ora bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Inner"
 msgstr "Glacia ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Inner"
 msgstr "Ĝangala ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Inner"
 msgstr "Muska pavimŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Inner"
 msgstr "Obsidiana bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Inner"
 msgstr "Obsidiana brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Inner"
 msgstr "Obsidiana ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Inner"
 msgstr "Abia ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Inner"
 msgstr "Sabloŝtona bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Inner"
 msgstr "Sabloŝtona brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Inner"
 msgstr "Sabloŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Inner"
 msgstr "Blanka sabloŝtona bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Inner"
 msgstr "Blanka sabloŝtona brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Inner"
 msgstr "Blanka sabloŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Inner"
 msgstr "Neĝa bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Inner"
 msgstr "Ŝtala bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Inner"
 msgstr "Ŝtona bloka ŝtupo"
 
@@ -1375,47 +1345,38 @@ msgid "Stone Brick Stair Inner"
 msgstr "Ŝtona brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Inner"
 msgstr "Ŝtona ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Inner"
 msgstr "Pajla ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Inner"
 msgstr "Neĝa bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Inner"
 msgstr "Ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Outer"
 msgstr "Akacia ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Outer"
 msgstr "Tremola ligna ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Outer"
 msgstr "Brika ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Outer"
 msgstr "Bronza bloka ŝtupo"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Outer"
 msgstr "Pavimŝtona ŝtupo"
 
