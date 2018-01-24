@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-30 15:08+0200\n"
-"PO-Revision-Date: 2017-11-12 13:45+0000\n"
-"Last-Translator: Edgar <Edgar@anotherfoxguy.com>\n"
+"PO-Revision-Date: 2018-01-25 11:35+0000\n"
+"Last-Translator: dave90dave <dave.hulst@gmail.com>\n"
 "Language-Team: Dutch "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
 "Language: nl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -1027,7 +1027,7 @@ msgstr "Woestijn Zandstenen Plaat"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
-msgstr ""
+msgstr "Zandstenen plaat"
 
 #: init.lua
 msgid "Desert Stone Brick Slab"
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #: init.lua
 msgid "Desert Stone Slab"
-msgstr ""
+msgstr "Zandstenen plaat"
 
 #: init.lua
 #, fuzzy
@@ -1093,7 +1093,7 @@ msgstr "Zandstenen Plaat"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
-msgstr ""
+msgstr "Zilveren zandstenen plaat"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
@@ -1101,7 +1101,7 @@ msgstr ""
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr ""
+msgstr "Zilveren zandsteenplaat"
 
 #: init.lua
 #, fuzzy
@@ -1115,11 +1115,11 @@ msgstr "Stalen Blok Plaat"
 
 #: init.lua
 msgid "Stone Block Slab"
-msgstr ""
+msgstr "Blokstenen plaat"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr ""
+msgstr "Blokstenen plaat"
 
 #: init.lua
 msgid "Stone Slab"
@@ -1169,7 +1169,7 @@ msgstr "Woestijn Keistenen Traptreden"
 
 #: init.lua
 msgid "Desert Sandstone Block Stair"
-msgstr ""
+msgstr "Zandstenen trap"
 
 #: init.lua
 msgid "Desert Sandstone Brick Stair"
@@ -1234,7 +1234,7 @@ msgstr ""
 
 #: init.lua
 msgid "Sandstone Brick Stair"
-msgstr ""
+msgstr "Zandstenen baksteen trap"
 
 #: init.lua
 msgid "Sandstone Stair"
@@ -1242,7 +1242,7 @@ msgstr "Zandstenen Traptreden"
 
 #: init.lua
 msgid "Silver Sandstone Block Stair"
-msgstr ""
+msgstr "Zilveren zandsteen trap"
 
 #: init.lua
 #, fuzzy
@@ -1271,7 +1271,7 @@ msgstr "Stenen Blok Traptreden"
 
 #: init.lua
 msgid "Stone Brick Stair"
-msgstr ""
+msgstr "Bakstenen trap"
 
 #: init.lua
 msgid "Stone Stair"
