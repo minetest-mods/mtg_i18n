@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-10-21 16:46+0000\n"
+"PO-Revision-Date: 2018-02-07 12:38+0000\n"
 "Last-Translator: Muhammad Nur Hidayat Yasuyoshi <mnh48mail@gmail.com>\n"
 "Language-Team: Malay "
 "<https://hosted.weblate.org/projects/minetest/mtg_i18n/ms/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.17\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -941,143 +941,143 @@ msgstr "Pemutar Skru (klik-kiri putar muka, klik-kanan putar paksi)"
 
 #: init.lua
 msgid "Acacia Wood Slab"
-msgstr "Bidur Kayu Akasia"
+msgstr "Papak Kayu Akasia"
 
 #: init.lua
 msgid "Aspen Wood Slab"
-msgstr "Bidur Kayu Aspen"
+msgstr "Papak Kayu Aspen"
 
 #: init.lua
 msgid "Brick Slab"
-msgstr "Bidur Bata"
+msgstr "Papak Bata"
 
 #: init.lua
 msgid "Bronze Block Slab"
-msgstr "Bidur Bongkah Gangsa"
+msgstr "Papak Bongkah Gangsa"
 
 #: init.lua
 msgid "Cobblestone Slab"
-msgstr "Bidur Batu Buntar"
+msgstr "Papak Batu Buntar"
 
 #: init.lua
 msgid "Copper Block Slab"
-msgstr "Bidur Bongkah Tembaga"
+msgstr "Papak Bongkah Tembaga"
 
 #: init.lua
 msgid "Desert Cobblestone Slab"
-msgstr "Bidur Batu Buntar Gurun"
+msgstr "Papak Batu Buntar Gurun"
 
 #: init.lua
 msgid "Desert Sandstone Block Slab"
-msgstr "Bidur Bongkah Batu Pasir Gurun"
+msgstr "Papak Bongkah Batu Pasir Gurun"
 
 #: init.lua
 msgid "Desert Sandstone Brick Slab"
-msgstr "Bidur Bata Batu Pasir Gurun"
+msgstr "Papak Bata Batu Pasir Gurun"
 
 #: init.lua
 msgid "Desert Sandstone Slab"
-msgstr "Bidur Batu Pasir Gurun"
+msgstr "Papak Batu Pasir Gurun"
 
 #: init.lua
 msgid "Desert Stone Block Slab"
-msgstr "Bidur Bongkah Batu Gurun"
+msgstr "Papak Bongkah Batu Gurun"
 
 #: init.lua
 msgid "Desert Stone Brick Slab"
-msgstr "Bidur Bata Batu Gurun"
+msgstr "Papak Bata Batu Gurun"
 
 #: init.lua
 msgid "Desert Stone Slab"
-msgstr "Bidur Batu Gurun"
+msgstr "Papak Batu Gurun"
 
 #: init.lua
 msgid "Gold Block Slab"
-msgstr "Bidur Bongkah Emas"
+msgstr "Papak Bongkah Emas"
 
 #: init.lua
 msgid "Ice Slab"
-msgstr "Bidur Ais"
+msgstr "Papak Ais"
 
 #: init.lua
 msgid "Jungle Wood Slab"
-msgstr "Bidur Kayu Hutan"
+msgstr "Papak Kayu Hutan"
 
 #: init.lua
 msgid "Mossy Cobblestone Slab"
-msgstr "Bidur Batu Buntar Berlumut"
+msgstr "Papak Batu Buntar Berlumut"
 
 #: init.lua
 msgid "Obsidian Block Slab"
-msgstr "Bidur Bongkah Obsidia"
+msgstr "Papak Bongkah Obsidia"
 
 #: init.lua
 msgid "Obsidian Brick Slab"
-msgstr "Bidur Bata Obsidia"
+msgstr "Papak Bata Obsidia"
 
 #: init.lua
 msgid "Obsidian Slab"
-msgstr "Bidur Obsidia"
+msgstr "Papak Obsidia"
 
 #: init.lua
 msgid "Pine Wood Slab"
-msgstr "Bidur Kayu Pain"
+msgstr "Papak Kayu Pain"
 
 #: init.lua
 msgid "Sandstone Block Slab"
-msgstr "Bidur Bongkah Batu Pasir"
+msgstr "Papak Bongkah Batu Pasir"
 
 #: init.lua
 msgid "Sandstone Brick Slab"
-msgstr "Bidur Bata Batu Pasir"
+msgstr "Papak Bata Batu Pasir"
 
 #: init.lua
 msgid "Sandstone Slab"
-msgstr "Bidur Batu Pasir"
+msgstr "Papak Batu Pasir"
 
 #: init.lua
 msgid "Silver Sandstone Block Slab"
-msgstr "Bidur Bongkah Batu Pasir Perak"
+msgstr "Papak Bongkah Batu Pasir Perak"
 
 #: init.lua
 msgid "Silver Sandstone Brick Slab"
-msgstr "Bidur Bata Batu Pasir Perak"
+msgstr "Papak Bata Batu Pasir Perak"
 
 #: init.lua
 msgid "Silver Sandstone Slab"
-msgstr "Bidur Batu Pasir Perak"
+msgstr "Papak Batu Pasir Perak"
 
 #: init.lua
 msgid "Snow Block Slab"
-msgstr "Bidur Bongkah Salji"
+msgstr "Papak Bongkah Salji"
 
 #: init.lua
 msgid "Steel Block Slab"
-msgstr "Bidur Bongkah Keluli"
+msgstr "Papak Bongkah Keluli"
 
 #: init.lua
 msgid "Stone Block Slab"
-msgstr "Bidur Bongkah Batu"
+msgstr "Papak Bongkah Batu"
 
 #: init.lua
 msgid "Stone Brick Slab"
-msgstr "Bidur Bata Batu"
+msgstr "Papak Bata Batu"
 
 #: init.lua
 msgid "Stone Slab"
-msgstr "Bidur Batu"
+msgstr "Papak Batu"
 
 #: init.lua
 msgid "Straw Slab"
-msgstr "Bidur Jerami"
+msgstr "Papak Jerami"
 
 #: init.lua
 msgid "Tin Block Slab"
-msgstr "Bidur Bongkah Timah"
+msgstr "Papak Bongkah Timah"
 
 #: init.lua
 msgid "Wooden Slab"
-msgstr "Bidur Kayu"
+msgstr "Papak Kayu"
 
 #: init.lua
 msgid "Acacia Wood Stair"
