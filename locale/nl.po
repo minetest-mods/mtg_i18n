@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-30 15:08+0200\n"
+"POT-Creation-Date: 2018-02-07 21:38+0100\n"
 "PO-Revision-Date: 2017-11-12 13:45+0000\n"
 "Last-Translator: Edgar <Edgar@anotherfoxguy.com>\n"
-"Language-Team: Dutch "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/nl/>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+"nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -917,6 +917,10 @@ msgid "Straw"
 msgstr "Stro"
 
 #: init.lua
+msgid "String"
+msgstr ""
+
+#: init.lua
 msgid "Wheat"
 msgstr "Tarwe"
 
@@ -1132,6 +1136,11 @@ msgstr "Stro Plaat"
 
 #: init.lua
 #, fuzzy
+msgid "Tin Block Slab"
+msgstr "Sneeuw Blok Plaat"
+
+#: init.lua
+#, fuzzy
 msgid "Wooden Slab"
 msgstr "Houten Plaat"
 
@@ -1282,7 +1291,362 @@ msgid "Straw Stair"
 msgstr "Stro Traptreden"
 
 #: init.lua
+#, fuzzy
+msgid "Tin Block Stair"
+msgstr "Sneeuw Blok Traptreden"
+
+#: init.lua
 msgid "Wooden Stair"
+msgstr "Houten Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Inner"
+msgstr "Acacia Houten traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Inner"
+msgstr "Aspen Houten Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Inner"
+msgstr "Bakstenen Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Inner"
+msgstr "Bronzen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Inner"
+msgstr "Keistenen Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Inner"
+msgstr "Koperen Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Inner"
+msgstr "Woestijn Keistenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Inner"
+msgstr "Woestijn Zandstenen Blok Plaat"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Inner"
+msgstr "Woestijn Zandstenen Bakstenen Plaat"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Inner"
+msgstr "Woestijn Zandstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Inner"
+msgstr "Woestijn Stenen Blok"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Inner"
+msgstr "Woestijn Stenen Bakstenen"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Inner"
+msgstr "Woestijn Stenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Inner"
+msgstr "Gouden Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Inner"
+msgstr "Ijs Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Inner"
+msgstr "Jungle Houten Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Inner"
+msgstr "Mossige Keistenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Inner"
+msgstr "Obsidiaan Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Inner"
+msgstr "Obsidiaan Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Inner"
+msgstr "Obsidiaanse Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Inner"
+msgstr "Grenen Houten Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Inner"
+msgstr "Stenen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Inner"
+msgstr "Zilver Zandstenen Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Inner"
+msgstr "Zandstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Inner"
+msgstr "Zilver Zandstenen Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Inner"
+msgstr "Zilver Zandstenen Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Inner"
+msgstr "Zilver Zandstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Inner"
+msgstr "Sneeuw Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Inner"
+msgstr "Stalen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Inner"
+msgstr "Stenen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Inner"
+msgstr "Stenen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Inner"
+msgstr "Stenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Inner"
+msgstr "Stro Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Inner"
+msgstr "Sneeuw Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Inner"
+msgstr "Houten Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Acacia Wood Stair Outer"
+msgstr "Acacia Houten traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Aspen Wood Stair Outer"
+msgstr "Aspen Houten Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Brick Stair Outer"
+msgstr "Bakstenen Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Bronze Block Stair Outer"
+msgstr "Bronzen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Cobblestone Stair Outer"
+msgstr "Keistenen Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Copper Block Stair Outer"
+msgstr "Koperen Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Cobblestone Stair Outer"
+msgstr "Woestijn Keistenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Block Stair Outer"
+msgstr "Woestijn Zandstenen Blok Plaat"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Brick Stair Outer"
+msgstr "Woestijn Zandstenen Bakstenen Plaat"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Sandstone Stair Outer"
+msgstr "Woestijn Zandstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Block Stair Outer"
+msgstr "Woestijn Stenen Blok"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Brick Stair Outer"
+msgstr "Woestijn Stenen Bakstenen"
+
+#: init.lua
+#, fuzzy
+msgid "Desert Stone Stair Outer"
+msgstr "Woestijn Stenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Gold Block Stair Outer"
+msgstr "Gouden Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Ice Stair Outer"
+msgstr "Ijs Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Jungle Wood Stair Outer"
+msgstr "Jungle Houten Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Mossy Cobblestone Stair Outer"
+msgstr "Mossige Keistenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Block Stair Outer"
+msgstr "Obsidiaan Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Brick Stair Outer"
+msgstr "Obsidiaan Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Obsidian Stair Outer"
+msgstr "Obsidiaanse Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Pine Wood Stair Outer"
+msgstr "Grenen Houten Trap"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Block Stair Outer"
+msgstr "Stenen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Brick Stair Outer"
+msgstr "Zilver Zandstenen Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Sandstone Stair Outer"
+msgstr "Zandstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Block Stair Outer"
+msgstr "Zilver Zandstenen Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Brick Stair Outer"
+msgstr "Zilver Zandstenen Bakstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Silver Sandstone Stair Outer"
+msgstr "Zilver Zandstenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Snow Block Stair Outer"
+msgstr "Sneeuw Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Steel Block Stair Outer"
+msgstr "Stalen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Block Stair Outer"
+msgstr "Stenen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Brick Stair Outer"
+msgstr "Stenen Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Stone Stair Outer"
+msgstr "Stenen Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Straw Stair Outer"
+msgstr "Stro Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Tin Block Stair Outer"
+msgstr "Sneeuw Blok Traptreden"
+
+#: init.lua
+#, fuzzy
+msgid "Wooden Stair Outer"
 msgstr "Houten Traptreden"
 
 #: init.lua
