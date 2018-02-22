@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-12-03 16:46+0000\n"
-"Last-Translator: Jean Delahousse <jean.delahousse89@gmail.com>\n"
-"Language-Team: French "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/fr/>\n"
+"PO-Revision-Date: 2018-08-22 21:37+0000\n"
+"Last-Translator: Mrchiantos <Julienetnel@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.18-dev\n"
+"X-Generator: Weblate 3.2-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
-msgstr "Air (espèce de tricheur ! )"
+msgstr "Air (espèce de tricheur !)"
 
 #: init.lua
 msgid "Simple Bed"
@@ -925,7 +925,7 @@ msgstr "Tulipe orange"
 
 #: init.lua
 msgid "Viola"
-msgstr "Viola"
+msgstr "Pensée"
 
 #: init.lua
 msgid "Waterlily"
@@ -1072,7 +1072,6 @@ msgid "Straw Slab"
 msgstr "Dalle en paille"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Slab"
 msgstr "Dalle en blocs d'étain"
 
@@ -1213,7 +1212,6 @@ msgid "Straw Stair"
 msgstr "Marche en paille"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair"
 msgstr "Escalier en étain"
 
@@ -1222,7 +1220,6 @@ msgid "Wooden Stair"
 msgstr "Marche en bois"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Inner"
 msgstr "Escalier en bois d'acacia"
 
@@ -1231,47 +1228,38 @@ msgid "Aspen Wood Stair Inner"
 msgstr "Marche en bois de bouleau"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Inner"
 msgstr "Escalier en briques"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Inner"
 msgstr "Escalier en blocs de bronze"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Inner"
 msgstr "Escalier en pierre"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Inner"
 msgstr "Escalier en cuivre"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Inner"
 msgstr "Marche en pierres du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Inner"
 msgstr "Marche en blocs de grès du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Inner"
 msgstr "Marche en briques de grès du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Inner"
 msgstr "Marche en grès du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Inner"
 msgstr "Escalier en blocs de pierre du désert"
 
@@ -1280,35 +1268,30 @@ msgid "Desert Stone Brick Stair Inner"
 msgstr "Escalier en briques de pierre du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Inner"
-msgstr "escalier en pierres du désert"
+msgstr "Escalier en pierres du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Inner"
-msgstr "Escaliers en or"
+msgstr "Escalier en or"
 
 #: init.lua
 msgid "Ice Stair Inner"
 msgstr "Escalier en glace"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Inner"
-msgstr "Escalier en bois de la jungle"
+msgstr "Escalier en bois exotique"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Inner"
-msgstr "Escalier en pierres de mousse"
+msgstr "Escalier en pierres mousseuse"
 
 #: init.lua
 msgid "Obsidian Block Stair Inner"
 msgstr "Escalier en obsidienne"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Inner"
 msgstr "Escalier en briques d'obsidienne"
 
@@ -1317,7 +1300,6 @@ msgid "Obsidian Stair Inner"
 msgstr "Escalier en obsidienne"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Inner"
 msgstr "Escalier en pin"
 
@@ -1326,22 +1308,18 @@ msgid "Sandstone Block Stair Inner"
 msgstr "Marche en blocs de grès"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Inner"
 msgstr "Marche en briques de grès"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Inner"
 msgstr "Escalier en grès"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Inner"
-msgstr "Marche en blocs de grès argenté"
+msgstr "Escalier en blocs de grès argenté"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Inner"
 msgstr "Marche en briques de grès argenté"
 
@@ -1354,7 +1332,6 @@ msgid "Snow Block Stair Inner"
 msgstr "Marche en blocs de neige"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Inner"
 msgstr "Marche en acier"
 
@@ -1363,202 +1340,162 @@ msgid "Stone Block Stair Inner"
 msgstr "Escalier en blocs de pierre"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Inner"
 msgstr "Escalier en briques de pierre"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Inner"
 msgstr "Marche en pierre"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Inner"
 msgstr "Marche en paille"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Inner"
-msgstr "Marche en blocs de neige"
+msgstr "Marche en blocs d'étain"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Inner"
 msgstr "Marche en bois"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Outer"
 msgstr "Marche en acacia"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Outer"
 msgstr "Marche en bouleau"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Outer"
 msgstr "Marche en briques"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Outer"
 msgstr "Marche en blocs de bronze"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Outer"
 msgstr "Marche en pierres"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Outer"
 msgstr "Marche en blocs de cuivre"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Outer"
-msgstr "Marche en pierres (désert)"
+msgstr "Marche en pierres du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Outer"
-msgstr "Marche en blocs de grès (désert)"
+msgstr "Marche en blocs de grès du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Outer"
-msgstr "Marche en briques de grès (désert)"
+msgstr "Marche en briques de grès du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Outer"
-msgstr "Marche en grès (désert)"
+msgstr "Marche en grès du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Outer"
-msgstr "Marche en blocs de pierre (désert)"
+msgstr "Marche en blocs de pierre du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Outer"
-msgstr "Marche en briques de pierre (désert)"
+msgstr "Marche en briques de pierre du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Outer"
-msgstr "Marche en pierre (désert)"
+msgstr "Marche en pierre du désert"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Outer"
 msgstr "Marche en blocs d'or"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Outer"
 msgstr "Marche en glace"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Outer"
 msgstr "Marche en bois exotique"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Outer"
-msgstr "Marche moussue en pierres"
+msgstr "Marche en pierres moussues"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Outer"
 msgstr "Marche en blocs d'obsidienne"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Outer"
 msgstr "Marche en briques d'obsidienne"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Outer"
 msgstr "Marche en obsidienne"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Outer"
 msgstr "Marche en pin"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Outer"
 msgstr "Marche en blocs de grès"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Outer"
 msgstr "Marche en briques de grès"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Outer"
 msgstr "Marche en grès"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Outer"
 msgstr "Marche en blocs de grès argenté"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Outer"
 msgstr "Marche en briques de grès argenté"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Outer"
 msgstr "Marche en grès argenté"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Outer"
 msgstr "Marche en blocs de neige"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Outer"
 msgstr "Marche en blocs d'acier"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Outer"
 msgstr "Marche en blocs de pierre"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Outer"
 msgstr "Marche en briques de pierre"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Outer"
 msgstr "Marche en pierre"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Outer"
 msgstr "Marche en paille"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Outer"
-msgstr "Marche en blocs de neige"
+msgstr "Marche en blocs d'étaing"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Outer"
 msgstr "Marche en bois"
 
