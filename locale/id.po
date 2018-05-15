@@ -7,20 +7,21 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-09-01 18:17+0000\n"
-"Last-Translator: fidella <fidellawi@gmail.com>\n"
-"Language-Team: Indonesian "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/id/>\n"
+"PO-Revision-Date: 2018-06-28 18:38+0000\n"
+"Last-Translator: Muhammad Rifqi Priyo Susanto "
+"<muhammadrifqipriyosusanto@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/minetest/"
+"mtg_i18n/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.17-dev\n"
+"X-Generator: Weblate 3.1-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
-msgstr "Udara (kau peretas!)"
+msgstr "Udara (kamu peretas!)"
 
 #: init.lua
 msgid "Simple Bed"
@@ -880,7 +881,7 @@ msgstr "Jerami"
 
 #: init.lua
 msgid "String"
-msgstr ""
+msgstr "Benang"
 
 #: init.lua
 msgid "Wheat"
@@ -1071,9 +1072,8 @@ msgid "Straw Slab"
 msgstr "Papan Jerami"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Slab"
-msgstr "Lempeng Balok Salju"
+msgstr "Lempeng Balok Timah"
 
 #: init.lua
 msgid "Wooden Slab"
@@ -1212,363 +1212,292 @@ msgid "Straw Stair"
 msgstr "Tangga Jerami"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair"
-msgstr "Tangga Balok Salju"
+msgstr "Tangga Balok Timah"
 
 #: init.lua
 msgid "Wooden Stair"
 msgstr "Tangga Kayu"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Inner"
-msgstr "Tangga Kayu Akasia"
+msgstr "Inti Tangga Kayu Akasia"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Inner"
-msgstr "Tangga Kayu Aspen"
+msgstr "Inti Tangga Kayu Aspen"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Inner"
-msgstr "Tangga Bata"
+msgstr "Inti Tangga Bata"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Inner"
-msgstr "Tangga Balok Perunggu"
+msgstr "Inti Balok Tangga Perunggu"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Inner"
-msgstr "Tangga Batu Alam"
+msgstr "Inti Tangga Batu Alam"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Inner"
-msgstr "Tangga Balok Tembaga"
+msgstr "Inti Balok Tangga Tembaga"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Inner"
-msgstr "Tangga Batu Alam Gurun"
+msgstr "Inti Tangga Batu Alam Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Inner"
-msgstr "Tangga Balok Batu Pasir Gurun"
+msgstr "Inti Balok Tangga Batu Pasir Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Inner"
-msgstr "Tangga Tembok Batu Pasir Gurun"
+msgstr "Inti Tangga Batu Bata Pasir Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Inner"
-msgstr "Tangga Batu Pasir Gurun"
+msgstr "Inti Tangga Batu Pasir Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Inner"
-msgstr "Tangga Balok Batu Gurun"
+msgstr "Inti Balok Tangga Batu Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Inner"
-msgstr "Tangga Tembok Batu Gurun"
+msgstr "Inti Tangga Batu Bata Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Inner"
-msgstr "Tangga Batu Gurun"
+msgstr "Inti Tangga Batu Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Inner"
-msgstr "Tangga Balok Emas"
+msgstr "Inti Balok Tangga Emas"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Inner"
-msgstr "Tangga Es"
+msgstr "Inti Tangga Es"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Inner"
-msgstr "Tangga Kayu Rimba"
+msgstr "Inti Tangga Kayu Rimba"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Inner"
-msgstr "Tangga Batu Alam Berlumut"
+msgstr "Inti Tangga Batu Alam Berlumut"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Inner"
-msgstr "Tangga Balok Obsidian"
+msgstr "Inti Balok Tangga Obsidian"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Inner"
-msgstr "Tangga Tembok Obsidian"
+msgstr "Inti Tangga Batu Bata Obsidian"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Inner"
-msgstr "Tangga Obsidian"
+msgstr "Inti Tangga Obsidian"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Inner"
-msgstr "Tangga Kayu Pinus"
+msgstr "Inti Tangga Kayu Pinus"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Inner"
-msgstr "Tangga Balok Batu Pasir"
+msgstr "Inti Balok Tangga Batu Pasir"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Inner"
-msgstr "Tangga Tembok Batu Pasir"
+msgstr "Inti Tangga Batu Bata Pasir"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Inner"
-msgstr "Tangga Batu Pasir"
+msgstr "Inti Tangga Batu Pasir"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Inner"
-msgstr "Tangga Balok Batu Pasir Perak"
+msgstr "Inti Balok Tangga Batu Pasir Perak"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Inner"
-msgstr "Tangga Tembok Batu Pasir Perak"
+msgstr "Inti Tangga Batu Bata Pasir Perak"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Inner"
-msgstr "Tangga Batu Pasir Perak"
+msgstr "Inti Tangga Batu Pasir Perak"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Inner"
-msgstr "Tangga Balok Salju"
+msgstr "Inti Balok Tangga Salju"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Inner"
-msgstr "Tangga Balok Baja"
+msgstr "Inti Balok Tangga Baja"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Inner"
-msgstr "Tangga Balok Batu"
+msgstr "Inti Balok Tangga Batu"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Inner"
-msgstr "Tangga Tembok Batu"
+msgstr "Inti Tangga Batu Bata"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Inner"
-msgstr "Tangga Batu"
+msgstr "Inti Tangga Batu"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Inner"
-msgstr "Tangga Jerami"
+msgstr "Inti Tangga Jerami"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Inner"
-msgstr "Tangga Balok Salju"
+msgstr "Inti Balok Tangga Timah"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Inner"
-msgstr "Tangga Kayu"
+msgstr "Inti Tangga Kayu"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Stair Outer"
-msgstr "Tangga Kayu Akasia"
+msgstr "Luar Tangga Kayu Akasia"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Stair Outer"
-msgstr "Tangga Kayu Aspen"
+msgstr "Luar Tangga Kayu Aspen"
 
 #: init.lua
-#, fuzzy
 msgid "Brick Stair Outer"
-msgstr "Tangga Bata"
+msgstr "Luar Tangga Bata"
 
 #: init.lua
-#, fuzzy
 msgid "Bronze Block Stair Outer"
-msgstr "Tangga Balok Perunggu"
+msgstr "Luar Balok Tangga Perunggu"
 
 #: init.lua
-#, fuzzy
 msgid "Cobblestone Stair Outer"
-msgstr "Tangga Batu Alam"
+msgstr "Luar Tangga Batu Alam"
 
 #: init.lua
-#, fuzzy
 msgid "Copper Block Stair Outer"
-msgstr "Tangga Balok Tembaga"
+msgstr "Luar Balok Tangga Tembaga"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Cobblestone Stair Outer"
-msgstr "Tangga Batu Alam Gurun"
+msgstr "Luar Tangga Batu Alam Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Block Stair Outer"
-msgstr "Tangga Balok Batu Pasir Gurun"
+msgstr "Luar Balok Tangga Batu Pasir Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Brick Stair Outer"
-msgstr "Tangga Tembok Batu Pasir Gurun"
+msgstr "Luar Tangga Batu Bata Pasir Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Sandstone Stair Outer"
-msgstr "Tangga Batu Pasir Gurun"
+msgstr "Luar Tangga Batu Pasir Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Block Stair Outer"
-msgstr "Tangga Balok Batu Gurun"
+msgstr "Luar Balok Tangga Batu Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Brick Stair Outer"
-msgstr "Tangga Tembok Batu Gurun"
+msgstr "Luar Tangga Batu Bata Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Desert Stone Stair Outer"
-msgstr "Tangga Batu Gurun"
+msgstr "Luar Tangga Batu Gurun"
 
 #: init.lua
-#, fuzzy
 msgid "Gold Block Stair Outer"
-msgstr "Tangga Balok Emas"
+msgstr "Luar Balok Tangga Emas"
 
 #: init.lua
-#, fuzzy
 msgid "Ice Stair Outer"
-msgstr "Tangga Es"
+msgstr "Luar Tangga Es"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Stair Outer"
-msgstr "Tangga Kayu Rimba"
+msgstr "Luar Tangga Kayu Rimba"
 
 #: init.lua
-#, fuzzy
 msgid "Mossy Cobblestone Stair Outer"
-msgstr "Tangga Batu Alam Berlumut"
+msgstr "Luar Tangga Batu Alam Berlumut"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Block Stair Outer"
-msgstr "Tangga Balok Obsidian"
+msgstr "Luar Balok Tangga Obsidian"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Brick Stair Outer"
-msgstr "Tangga Tembok Obsidian"
+msgstr "Luar Tangga Batu Bata Obsidian"
 
 #: init.lua
-#, fuzzy
 msgid "Obsidian Stair Outer"
-msgstr "Tangga Obsidian"
+msgstr "Luar Tangga Obsidian"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Stair Outer"
-msgstr "Tangga Kayu Pinus"
+msgstr "Luar Tangga Kayu Pinus"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Block Stair Outer"
-msgstr "Tangga Balok Batu Pasir"
+msgstr "Luar Balok Tangga Batu Bata Pasir"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Brick Stair Outer"
-msgstr "Tangga Tembok Batu Pasir"
+msgstr "Luar Tangga Batu Bata Pasir"
 
 #: init.lua
-#, fuzzy
 msgid "Sandstone Stair Outer"
-msgstr "Tangga Batu Pasir"
+msgstr "Luar Tangga Batu Pasir"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Block Stair Outer"
-msgstr "Tangga Balok Batu Pasir Perak"
+msgstr "Luar Balok Tangga Batu Pasir Perak"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Brick Stair Outer"
-msgstr "Tangga Tembok Batu Pasir Perak"
+msgstr "Luar Tangga Batu Bata Pasir Perak"
 
 #: init.lua
-#, fuzzy
 msgid "Silver Sandstone Stair Outer"
-msgstr "Tangga Batu Pasir Perak"
+msgstr "Luar Tangga Batu Pasir Perak"
 
 #: init.lua
-#, fuzzy
 msgid "Snow Block Stair Outer"
-msgstr "Tangga Balok Salju"
+msgstr "Luar Balok Tangga Salju"
 
 #: init.lua
-#, fuzzy
 msgid "Steel Block Stair Outer"
-msgstr "Tangga Balok Baja"
+msgstr "Luar Balok Tangga Baja"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Block Stair Outer"
-msgstr "Tangga Balok Batu"
+msgstr "Luar Balok Tangga Batu"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Brick Stair Outer"
-msgstr "Tangga Tembok Batu"
+msgstr "Luar Tangga Batu Bata"
 
 #: init.lua
-#, fuzzy
 msgid "Stone Stair Outer"
-msgstr "Tangga Batu"
+msgstr "Luar Tangga Batu"
 
 #: init.lua
-#, fuzzy
 msgid "Straw Stair Outer"
-msgstr "Tangga Jerami"
+msgstr "Luar Tangga Jerami"
 
 #: init.lua
-#, fuzzy
 msgid "Tin Block Stair Outer"
-msgstr "Tangga Balok Salju"
+msgstr "Luar Balok Tangga Timah"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Stair Outer"
-msgstr "Tangga Kayu"
+msgstr "Luar Tangga Kayu"
 
 #: init.lua
 msgid "Gun Powder"
