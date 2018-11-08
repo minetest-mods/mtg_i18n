@@ -8,389 +8,389 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-07-09 23:50+0000\n"
-"Last-Translator: Uros Kostic <uroskostic611@gmail.com>\n"
+"PO-Revision-Date: 2018-11-12 17:17+0000\n"
+"Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/minetest/"
 "mtg_i18n/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.16-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
-msgstr "Vazduh"
+msgstr "Ваздух"
 
 #: init.lua
 msgid "Simple Bed"
-msgstr "Prost krevet"
+msgstr "Једноставан кревет"
 
 #: init.lua
 msgid "Fancy Bed"
-msgstr "Lep krevet"
+msgstr "Китњаст кревет"
 
 #: init.lua
 msgid "Boat"
-msgstr "Brod"
+msgstr "Брод"
 
 #: init.lua
 msgid "Bones"
-msgstr "Kosti"
+msgstr "Кости"
 
 #: init.lua
 msgid "Empty Bucket"
-msgstr "Prazna kanta"
+msgstr "Празна канта"
 
 #: init.lua
 msgid "Lava Bucket"
-msgstr "Kanta sa lavom"
+msgstr "Канта лаве"
 
 #: init.lua
 msgid "River Water Bucket"
-msgstr "Kanta sa rečnom vodom"
+msgstr "Канта речне воде"
 
 #: init.lua
 msgid "Water Bucket"
-msgstr "Kanta sa vodom"
+msgstr "Канта воде"
 
 #: init.lua
 msgid "Brake rail"
-msgstr "Šina za kočenje"
+msgstr "Кочиона шина"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr "Voz (Čučanj+Klik za iskopavanje)"
+msgstr "Воз (чучањ+клик за преузимање)"
 
 #: init.lua
 msgid "Powered rail"
-msgstr "Elekrična šina"
+msgstr "Електрична шина"
 
 #: init.lua
 msgid "Rail"
-msgstr "Šina"
+msgstr "Шина"
 
 #: init.lua
 msgid "Acacia Bush Leaves"
-msgstr "Lišće žbuna od akacije"
+msgstr "Лишће жбуна акације"
 
 #: init.lua
 msgid "Acacia Bush Sapling"
-msgstr "Sadnica žbuna od akacije"
+msgstr "Садница жбуна акације"
 
 #: init.lua
 msgid "Acacia Bush Stem"
-msgstr "Koren žbuna akacije"
+msgstr "Корен жбуна акације"
 
 #: init.lua
 msgid "Acacia Leaves"
-msgstr "Lišće akacije"
+msgstr "Лишће акације"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
-msgstr "Sadnica drveta akacije"
+msgstr "Садница жбуна акације"
 
 #: init.lua
 msgid "Acacia Tree"
-msgstr "Drvo akacije"
+msgstr "Дрво акација"
 
 #: init.lua
 msgid "Acacia Wood Planks"
-msgstr "Daske drveta akacije"
+msgstr "Даске дрвета акације"
 
 #: init.lua
 msgid "Apple"
-msgstr "Jabuka"
+msgstr "Јабука"
 
 #: init.lua
 msgid "Aspen Leaves"
-msgstr "Lišće jasike"
+msgstr "Лишће јасике"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
-msgstr "Sadnica drveta jasike"
+msgstr "Садница дрвета јасике"
 
 #: init.lua
 msgid "Aspen Tree"
-msgstr "Drvo jasike"
+msgstr "Дрво јасика"
 
 #: init.lua
 msgid "Aspen Wood Planks"
-msgstr "Daske drveta jasike"
+msgstr "Даске дрвета јасике"
 
 #: init.lua
 msgid "Bronze Axe"
-msgstr "Bronzana sekira"
+msgstr "Медна секира"
 
 #: init.lua
 msgid "Diamond Axe"
-msgstr "Dijamantska sekira"
+msgstr "Дијамантска секира"
 
 #: init.lua
 msgid "Mese Axe"
-msgstr "Mese sekira"
+msgstr "Керамичка секира"
 
 #: init.lua
 msgid "Steel Axe"
-msgstr "Gvozdena sekira"
+msgstr "Гвоздена секира"
 
 #: init.lua
 msgid "Stone Axe"
-msgstr "Kamena sekira"
+msgstr "Камена секира"
 
 #: init.lua
 msgid "Wooden Axe"
-msgstr "Drvena sekira"
+msgstr "Дрвена секира"
 
 #: init.lua
 msgid "Book"
-msgstr "Knjiga"
+msgstr "Књига"
 
 #: init.lua
 msgid "Bookshelf"
-msgstr "Polica sa knjigama"
+msgstr "Полица за књиге"
 
 #: init.lua
 msgid "Book With Text"
-msgstr "Knjiga sa tekstom"
+msgstr "Писана књига"
 
 #: init.lua
 msgid "Brick Block"
-msgstr "Blok cigli"
+msgstr "Коцка цигли"
 
 #: init.lua
 msgid "Bronze Block"
-msgstr "Blok bronze"
+msgstr "Коцка меди"
 
 #: init.lua
 msgid "Bronze Ingot"
-msgstr "Ingot bronze"
+msgstr "Одливак меди"
 
 #: init.lua
 msgid "Bush Leaves"
-msgstr "Lišće žbuna"
+msgstr "Лишће жбуна"
 
 #: init.lua
 msgid "Bush Sapling"
-msgstr "Sadnica žbuna"
+msgstr "Садница жбуна"
 
 #: init.lua
 msgid "Bush Stem"
-msgstr "Korenje žbuna"
+msgstr "Корен жбуна"
 
 #: init.lua
 msgid "Cactus"
-msgstr "Kaktus"
+msgstr "Кактус"
 
 #: init.lua
 msgid "Locked Chest"
-msgstr "Zaključan sanduk"
+msgstr "Закључани сандук"
 
 #: init.lua
 msgid "Chest"
-msgstr "Sanduk"
+msgstr "Ковчег"
 
 #: init.lua
 msgid "Clay Brick"
-msgstr "Cigla"
+msgstr "Цигла"
 
 #: init.lua
 msgid "Clay Lump"
-msgstr "Glina"
+msgstr "Грумен глине"
 
 #: init.lua
 msgid "Clay"
-msgstr "Pečena glina"
+msgstr "Глина"
 
 #: init.lua
 msgid "Cloud"
-msgstr "Oblak"
+msgstr "Облак"
 
 #: init.lua
 msgid "Coal Block"
-msgstr "Blok uglja"
+msgstr "Коцка угља"
 
 #: init.lua
 msgid "Coal Lump"
-msgstr "Ruda uglja"
+msgstr "Руда угља"
 
 #: init.lua
 msgid "Cobblestone"
-msgstr "Kaldrma"
+msgstr "Калдрма"
 
 #: init.lua
 msgid "Copper Block"
-msgstr "Blok bakra"
+msgstr "Коцка бакра"
 
 #: init.lua
 msgid "Copper Ingot"
-msgstr "Ingot bakra"
+msgstr "Одливак бакра"
 
 #: init.lua
 msgid "Copper Lump"
-msgstr "Ruda bakra"
+msgstr "Руда бакра"
 
 #: init.lua
 msgid "Brown Coral"
-msgstr "Braon koral"
+msgstr "Смеђи корал"
 
 #: init.lua
 msgid "Orange Coral"
-msgstr "Narandžasti koral"
+msgstr "Наранџасти корал"
 
 #: init.lua
 msgid "Coral Skeleton"
-msgstr "Koralni skeleton"
+msgstr "Корални костур"
 
 #: init.lua
 msgid "Desert Cobblestone"
-msgstr "Pustinjska kaldrma"
+msgstr "Пустињска калдрма"
 
 #: init.lua
 msgid "Desert Sand"
-msgstr "Pustinjski pesak"
+msgstr "Пустињски песак"
 
 #: init.lua
 msgid "Desert Sandstone Block"
-msgstr "Blok kamena pustinjskog peska"
+msgstr "Коцка пустињског песка"
 
 #: init.lua
 msgid "Desert Sandstone Brick"
-msgstr "Cigla pustinjskog peska"
+msgstr "Цигла од пустињског песка"
 
 #: init.lua
 msgid "Desert Sandstone"
-msgstr "Kamen pustinjskog peska"
+msgstr "Камен од пустињског песка"
 
 #: init.lua
 msgid "Desert Stone Block"
-msgstr "Blok pustinjskog kamena"
+msgstr "Коцка пустињског камена"
 
 #: init.lua
 msgid "Desert Stone Brick"
-msgstr "Cigla pustinjskog kamena"
+msgstr "Цигла од пустињског камена"
 
 #: init.lua
 msgid "Desert Stone"
-msgstr "Pustinjski kamen"
+msgstr "Пустињски камен"
 
 #: init.lua
 msgid "Diamond Block"
-msgstr "Dijamantski blok"
+msgstr "Дијамантска коцка"
 
 #: init.lua
 msgid "Diamond"
-msgstr "Dijamant"
+msgstr "Дијамант"
 
 #: init.lua
 msgid "Dirt"
-msgstr "Zemlja"
+msgstr "Земља"
 
 #: init.lua
 msgid "Dirt with Dry Grass"
-msgstr "Zemlja sa suvom travom"
+msgstr "Земља са сувом травом"
 
 #: init.lua
 msgid "Dirt with Grass and Footsteps"
-msgstr "Zemlja sa travom i tragovima"
+msgstr "Земља са травом и траговима"
 
 #: init.lua
 msgid "Dirt with Grass"
-msgstr "Zemlja sa travom"
+msgstr "Земља са травом"
 
 #: init.lua
 msgid "Dirt with Rainforest Litter"
-msgstr ""
+msgstr "Земља са стељом кишне шуме"
 
 #: init.lua
 msgid "Dirt with Snow"
-msgstr ""
+msgstr "Земља са снегом"
 
 #: init.lua
 msgid "Dry Grass"
-msgstr ""
+msgstr "Сува трава"
 
 #: init.lua
 msgid "Dry Shrub"
-msgstr ""
+msgstr "Суво шибље"
 
 #: init.lua
 msgid "Acacia Fence"
-msgstr "Acacia ograda"
+msgstr "Плот од трња"
 
 #: init.lua
 msgid "Aspen Fence"
-msgstr "Acacia ograda"
+msgstr "Плот од  јасике"
 
 #: init.lua
 msgid "Junglewood Fence"
-msgstr ""
+msgstr "Плот од прашумског дрвета"
 
 #: init.lua
 msgid "Pine Fence"
-msgstr ""
+msgstr "Боров плот"
 
 #: init.lua
 msgid "Wooden Fence"
-msgstr "Drvena ograda"
+msgstr "Дрвени плот"
 
 #: init.lua
 msgid "Flint"
-msgstr ""
+msgstr "Кремен"
 
 #: init.lua
 msgid "Furnace"
-msgstr "Pec"
+msgstr "Пећ"
 
 #: init.lua
 msgid "Glass"
-msgstr ""
+msgstr "Стакло"
 
 #: init.lua
 msgid "Gold Block"
-msgstr "Zlatan Blok"
+msgstr "Златна коцка"
 
 #: init.lua
 msgid "Gold Ingot"
-msgstr ""
+msgstr "Одливак злата"
 
 #: init.lua
 msgid "Gold Lump"
-msgstr ""
+msgstr "Златни грумен"
 
 #: init.lua
 msgid "Grass"
-msgstr "Trava"
+msgstr "Трава"
 
 #: init.lua
 msgid "Gravel"
-msgstr "Pesak"
+msgstr "Шљунак"
 
 #: init.lua
 msgid "Ice"
-msgstr "Led"
+msgstr "Лед"
 
 #: init.lua
 msgid "Iron Lump"
-msgstr ""
+msgstr "Гвоздени грумен"
 
 #: init.lua
 msgid "Jungle Grass"
-msgstr ""
+msgstr "Трава прашуме"
 
 #: init.lua
 msgid "Jungle Leaves"
-msgstr ""
+msgstr "Лишће прашуме"
 
 #: init.lua
 msgid "Jungle Sapling"
-msgstr ""
+msgstr "Прашумска садница"
 
 #: init.lua
 msgid "Jungle Tree"
-msgstr ""
+msgstr "Дрво прашуме"
 
 #: init.lua
 msgid "Junglewood Planks"
@@ -398,35 +398,35 @@ msgstr ""
 
 #: init.lua
 msgid "Key"
-msgstr "Kljuc"
+msgstr "Кључ"
 
 #: init.lua
 msgid "Steel Ladder"
-msgstr "Gvozdena merdevina"
+msgstr "Гвоздене лестве"
 
 #: init.lua
 msgid "Wooden Ladder"
-msgstr "Drvena merdevina"
+msgstr "Дрвене лестве"
 
 #: init.lua
 msgid "Flowing Lava"
-msgstr ""
+msgstr "Текућа лава"
 
 #: init.lua
 msgid "Lava Source"
-msgstr "Lava izvor"
+msgstr "Извор лаве"
 
 #: init.lua
 msgid "Leaves"
-msgstr "Lisce"
+msgstr "Лишће"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr ""
+msgstr "Парче кристала керамике"
 
 #: init.lua
 msgid "Mese Crystal"
-msgstr ""
+msgstr "Кристал керамике"
 
 #: init.lua
 msgid "Mese Lamp"
@@ -438,7 +438,7 @@ msgstr ""
 
 #: init.lua
 msgid "Mese Block"
-msgstr "Mese Blok"
+msgstr "Керамичка коцка"
 
 #: init.lua
 msgid "Mossy Cobblestone"
@@ -446,15 +446,15 @@ msgstr ""
 
 #: init.lua
 msgid "Obsidian Block"
-msgstr "Opsidian Blok"
+msgstr "Коцка од вулканског стакла"
 
 #: init.lua
 msgid "Obsidian Brick"
-msgstr "Opsidian cigla"
+msgstr "Цигла од вулканског стакла"
 
 #: init.lua
 msgid "Obsidian Glass"
-msgstr "Opsidian staklo"
+msgstr "Вулканско стакло"
 
 #: init.lua
 msgid "Obsidian Shard"
@@ -462,15 +462,15 @@ msgstr ""
 
 #: init.lua
 msgid "Obsidian"
-msgstr "Opsidian"
+msgstr "Вулканско стакло"
 
 #: init.lua
 msgid "Paper"
-msgstr "Papir"
+msgstr "Папир"
 
 #: init.lua
 msgid "Papyrus"
-msgstr "Trska"
+msgstr "Трска"
 
 #: init.lua
 msgid "Bronze Pickaxe"
@@ -498,15 +498,15 @@ msgstr ""
 
 #: init.lua
 msgid "Pine Needles"
-msgstr ""
+msgstr "Борове иглице"
 
 #: init.lua
 msgid "Pine Sapling"
-msgstr ""
+msgstr "Борова садница"
 
 #: init.lua
 msgid "Pine Tree"
-msgstr ""
+msgstr "Борово дрво"
 
 #: init.lua
 msgid "Pine Wood Planks"
@@ -514,15 +514,15 @@ msgstr ""
 
 #: init.lua
 msgid "Flowing River Water"
-msgstr ""
+msgstr "Речна вода"
 
 #: init.lua
 msgid "River Water Source"
-msgstr ""
+msgstr "Речни извор"
 
 #: init.lua
 msgid "Sand"
-msgstr "Pesak"
+msgstr "Песак"
 
 #: init.lua
 msgid "Sandstone Block"
