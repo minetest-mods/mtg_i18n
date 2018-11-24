@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 21:16+0200\n"
-"PO-Revision-Date: 2017-11-14 18:47+0000\n"
-"Last-Translator: Sandor Tihanyi <stihanyi@gmail.com>\n"
-"Language-Team: Hungarian "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/hu/>\n"
+"PO-Revision-Date: 2018-11-25 23:08+0000\n"
+"Last-Translator: Hatlábú Farkas <hatlabufarkas@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/minetest/"
+"mtg_i18n/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18-dev\n"
+"X-Generator: Weblate 3.3-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -432,7 +432,6 @@ msgid "Mese Lamp"
 msgstr "Mese lámpa"
 
 #: init.lua
-#, fuzzy
 msgid "Mese Post Light"
 msgstr "Mese posta lámpa"
 
@@ -933,7 +932,6 @@ msgid "Waterlily"
 msgstr "Tavirózsa"
 
 #: init.lua
-#, fuzzy
 msgid "Ignore (you hacker you!)"
 msgstr "Figyelmen kívül hagy"
 
