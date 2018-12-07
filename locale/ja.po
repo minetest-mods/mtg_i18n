@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-28 21:16+0200\n"
+"POT-Creation-Date: 2018-12-07 22:13+0100\n"
 "PO-Revision-Date: 2018-05-28 02:39+0000\n"
 "Last-Translator: Rui <rui.minetest@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/minetest/"
@@ -56,7 +56,8 @@ msgid "Water Bucket"
 msgstr "水バケツ"
 
 #: init.lua
-msgid "Brake rail"
+#, fuzzy
+msgid "Brake Rail"
 msgstr "ブレーキレール"
 
 #: init.lua
@@ -64,7 +65,8 @@ msgid "Cart (Sneak+Click to pick up)"
 msgstr "トロッコ (スニーク+クリックで回収)"
 
 #: init.lua
-msgid "Powered rail"
+#, fuzzy
+msgid "Powered Rail"
 msgstr "パワードレール"
 
 #: init.lua
@@ -84,7 +86,8 @@ msgid "Acacia Bush Stem"
 msgstr "アカシアの茂みの幹"
 
 #: init.lua
-msgid "Acacia Leaves"
+#, fuzzy
+msgid "Acacia Tree Leaves"
 msgstr "アカシアの葉"
 
 #: init.lua
@@ -104,7 +107,8 @@ msgid "Apple"
 msgstr "リンゴ"
 
 #: init.lua
-msgid "Aspen Leaves"
+#, fuzzy
+msgid "Aspen Tree Leaves"
 msgstr "白樺の葉"
 
 #: init.lua
@@ -316,23 +320,28 @@ msgid "Dry Shrub"
 msgstr "枯れ木"
 
 #: init.lua
-msgid "Acacia Fence"
+#, fuzzy
+msgid "Acacia Wood Fence"
 msgstr "アカシアのフェンス"
 
 #: init.lua
-msgid "Aspen Fence"
+#, fuzzy
+msgid "Aspen Wood Fence"
 msgstr "白樺のフェンス"
 
 #: init.lua
-msgid "Junglewood Fence"
+#, fuzzy
+msgid "Jungle Wood Fence"
 msgstr "ジャングルウッドのフェンス"
 
 #: init.lua
-msgid "Pine Fence"
+#, fuzzy
+msgid "Pine Wood Fence"
 msgstr "松のフェンス"
 
 #: init.lua
-msgid "Wooden Fence"
+#, fuzzy
+msgid "Apple Wood Fence"
 msgstr "木のフェンス"
 
 #: init.lua
@@ -380,11 +389,13 @@ msgid "Jungle Grass"
 msgstr "ジャングルの草"
 
 #: init.lua
-msgid "Jungle Leaves"
+#, fuzzy
+msgid "Jungle Tree Leaves"
 msgstr "ジャングルの葉"
 
 #: init.lua
-msgid "Jungle Sapling"
+#, fuzzy
+msgid "Jungle Tree Sapling"
 msgstr "ジャングルの苗木"
 
 #: init.lua
@@ -392,7 +403,8 @@ msgid "Jungle Tree"
 msgstr "ジャングルの木"
 
 #: init.lua
-msgid "Junglewood Planks"
+#, fuzzy
+msgid "Jungle Wood Planks"
 msgstr "ジャングルウッドの木材"
 
 #: init.lua
@@ -416,8 +428,9 @@ msgid "Lava Source"
 msgstr "溶岩"
 
 #: init.lua
-msgid "Leaves"
-msgstr "葉"
+#, fuzzy
+msgid "Apple Tree Leaves"
+msgstr "白樺の葉"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
@@ -500,7 +513,8 @@ msgid "Pine Needles"
 msgstr "松の葉"
 
 #: init.lua
-msgid "Pine Sapling"
+#, fuzzy
+msgid "Pine Tree Sapling"
 msgstr "松の苗木"
 
 #: init.lua
@@ -536,8 +550,9 @@ msgid "Sandstone"
 msgstr "砂岩"
 
 #: init.lua
-msgid "Sapling"
-msgstr "苗木"
+#, fuzzy
+msgid "Apple Tree Sapling"
+msgstr "白樺の苗木"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -692,8 +707,9 @@ msgid "Torch"
 msgstr "松明"
 
 #: init.lua
-msgid "Tree"
-msgstr "木"
+#, fuzzy
+msgid "Apple Tree"
+msgstr "白樺の木"
 
 #: init.lua
 msgid "Flowing Water"
@@ -704,8 +720,9 @@ msgid "Water Source"
 msgstr "水"
 
 #: init.lua
-msgid "Wooden Planks"
-msgstr "木材"
+#, fuzzy
+msgid "Apple Wood Planks"
+msgstr "白樺の木材"
 
 #: init.lua
 msgid "Glass Door"
@@ -724,23 +741,28 @@ msgid "Wooden Door"
 msgstr "木のドア"
 
 #: init.lua
-msgid "Acacia Fence Gate"
+#, fuzzy
+msgid "Acacia Wood Fence Gate"
 msgstr "アカシアのフェンスゲート"
 
 #: init.lua
-msgid "Aspen Fence Gate"
+#, fuzzy
+msgid "Aspen Wood Fence Gate"
 msgstr "白樺のフェンスゲート"
 
 #: init.lua
-msgid "Junglewood Fence Gate"
+#, fuzzy
+msgid "Jungle Wood Fence Gate"
 msgstr "ジャングルウッドのフェンスゲート"
 
 #: init.lua
-msgid "Pine Fence Gate"
+#, fuzzy
+msgid "Pine Wood Fence Gate"
 msgstr "松のフェンスゲート"
 
 #: init.lua
-msgid "Wooden Fence Gate"
+#, fuzzy
+msgid "Apple Wood Fence Gate"
 msgstr "木のフェンスゲート"
 
 #: init.lua
@@ -748,71 +770,87 @@ msgid "Hidden Door Segment"
 msgstr ""
 
 #: init.lua
-msgid "Trapdoor"
-msgstr "トラップドア"
+#, fuzzy
+msgid "Wooden Trapdoor"
+msgstr "木のドア"
 
 #: init.lua
 msgid "Steel Trapdoor"
 msgstr "鉄のトラップドア"
 
 #: init.lua
-msgid "Black dye"
+#, fuzzy
+msgid "Black Dye"
 msgstr "黒色の染料"
 
 #: init.lua
-msgid "Blue dye"
+#, fuzzy
+msgid "Blue Dye"
 msgstr "青色の染料"
 
 #: init.lua
-msgid "Brown dye"
+#, fuzzy
+msgid "Brown Dye"
 msgstr "茶色の染料"
 
 #: init.lua
-msgid "Cyan dye"
+#, fuzzy
+msgid "Cyan Dye"
 msgstr "水色の染料"
 
 #: init.lua
-msgid "Dark green dye"
+#, fuzzy
+msgid "Dark Green Dye"
 msgstr "緑色の染料"
 
 #: init.lua
-msgid "Dark grey dye"
+#, fuzzy
+msgid "Dark Grey Dye"
 msgstr "灰色の染料"
 
 #: init.lua
-msgid "Green dye"
+#, fuzzy
+msgid "Green Dye"
 msgstr "黄緑色の染料"
 
 #: init.lua
-msgid "Grey dye"
+#, fuzzy
+msgid "Grey Dye"
 msgstr "薄灰色の染料"
 
 #: init.lua
-msgid "Magenta dye"
+#, fuzzy
+msgid "Magenta Dye"
 msgstr "赤紫色の染料"
 
 #: init.lua
-msgid "Orange dye"
+#, fuzzy
+msgid "Orange Dye"
 msgstr "橙色の染料"
 
 #: init.lua
-msgid "Pink dye"
+#, fuzzy
+msgid "Pink Dye"
 msgstr "桃色の染料"
 
 #: init.lua
-msgid "Red dye"
+#, fuzzy
+msgid "Red Dye"
 msgstr "赤色の染料"
 
 #: init.lua
-msgid "Violet dye"
+#, fuzzy
+msgid "Violet Dye"
 msgstr "紫色の染料"
 
 #: init.lua
-msgid "White dye"
+#, fuzzy
+msgid "White Dye"
 msgstr "白色の染料"
 
 #: init.lua
-msgid "Yellow dye"
+#, fuzzy
+msgid "Yellow Dye"
 msgstr "黄色の染料"
 
 #: init.lua
@@ -860,11 +898,13 @@ msgid "Wooden Hoe"
 msgstr "木のクワ"
 
 #: init.lua
-msgid "Cotton seed"
+#, fuzzy
+msgid "Cotton Seed"
 msgstr "コットンの種"
 
 #: init.lua
-msgid "Wheat seed"
+#, fuzzy
+msgid "Wheat Seed"
 msgstr "小麦の種"
 
 #: init.lua
@@ -880,10 +920,6 @@ msgid "Straw"
 msgstr "藁"
 
 #: init.lua
-msgid "String"
-msgstr "糸"
-
-#: init.lua
 msgid "Wheat"
 msgstr "小麦"
 
@@ -896,7 +932,8 @@ msgid "Permanent Flame"
 msgstr "燃える火"
 
 #: init.lua
-msgid "White dandelion"
+#, fuzzy
+msgid "White Dandelion"
 msgstr "白いタンポポ"
 
 #: init.lua
@@ -916,8 +953,9 @@ msgid "Red Mushroom"
 msgstr "赤いキノコ"
 
 #: init.lua
-msgid "Rose"
-msgstr "バラ"
+#, fuzzy
+msgid "Red Rose"
+msgstr "赤色の染料"
 
 #: init.lua
 msgid "Orange Tulip"
@@ -1140,86 +1178,6 @@ msgid "Ice Stair"
 msgstr "氷の階段"
 
 #: init.lua
-msgid "Jungle Wood Stair"
-msgstr "ジャングルウッドの階段"
-
-#: init.lua
-msgid "Mossy Cobblestone Stair"
-msgstr "苔石の階段"
-
-#: init.lua
-msgid "Obsidian Block Stair"
-msgstr "黒曜石ブロックの階段"
-
-#: init.lua
-msgid "Obsidian Brick Stair"
-msgstr "黒曜石レンガの階段"
-
-#: init.lua
-msgid "Obsidian Stair"
-msgstr "黒曜石の階段"
-
-#: init.lua
-msgid "Pine Wood Stair"
-msgstr "松の階段"
-
-#: init.lua
-msgid "Sandstone Block Stair"
-msgstr "砂岩ブロックの階段"
-
-#: init.lua
-msgid "Sandstone Brick Stair"
-msgstr "砂岩レンガの階段"
-
-#: init.lua
-msgid "Sandstone Stair"
-msgstr "砂岩の階段"
-
-#: init.lua
-msgid "Silver Sandstone Block Stair"
-msgstr "銀砂岩ブロックの階段"
-
-#: init.lua
-msgid "Silver Sandstone Brick Stair"
-msgstr "銀砂岩レンガの階段"
-
-#: init.lua
-msgid "Silver Sandstone Stair"
-msgstr "銀砂岩の階段"
-
-#: init.lua
-msgid "Snow Block Stair"
-msgstr "雪ブロックの階段"
-
-#: init.lua
-msgid "Steel Block Stair"
-msgstr "鉄ブロックの階段"
-
-#: init.lua
-msgid "Stone Block Stair"
-msgstr "石ブロックの階段"
-
-#: init.lua
-msgid "Stone Brick Stair"
-msgstr "石レンガの階段"
-
-#: init.lua
-msgid "Stone Stair"
-msgstr "石の階段"
-
-#: init.lua
-msgid "Straw Stair"
-msgstr "藁の階段"
-
-#: init.lua
-msgid "Tin Block Stair"
-msgstr "錫ブロックの階段"
-
-#: init.lua
-msgid "Wooden Stair"
-msgstr "木の階段"
-
-#: init.lua
 #, fuzzy
 msgid "Acacia Wood Stair Inner"
 msgstr "原木"
@@ -1391,6 +1349,26 @@ msgstr "雪ブロック"
 #, fuzzy
 msgid "Wooden Stair Inner"
 msgstr "看板"
+
+#: init.lua
+msgid "Jungle Wood Stair"
+msgstr "ジャングルウッドの階段"
+
+#: init.lua
+msgid "Mossy Cobblestone Stair"
+msgstr "苔石の階段"
+
+#: init.lua
+msgid "Obsidian Block Stair"
+msgstr "黒曜石ブロックの階段"
+
+#: init.lua
+msgid "Obsidian Brick Stair"
+msgstr "黒曜石レンガの階段"
+
+#: init.lua
+msgid "Obsidian Stair"
+msgstr "黒曜石の階段"
 
 #: init.lua
 #, fuzzy
@@ -1566,6 +1544,66 @@ msgid "Wooden Stair Outer"
 msgstr "看板"
 
 #: init.lua
+msgid "Pine Wood Stair"
+msgstr "松の階段"
+
+#: init.lua
+msgid "Sandstone Block Stair"
+msgstr "砂岩ブロックの階段"
+
+#: init.lua
+msgid "Sandstone Brick Stair"
+msgstr "砂岩レンガの階段"
+
+#: init.lua
+msgid "Sandstone Stair"
+msgstr "砂岩の階段"
+
+#: init.lua
+msgid "Silver Sandstone Block Stair"
+msgstr "銀砂岩ブロックの階段"
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair"
+msgstr "銀砂岩レンガの階段"
+
+#: init.lua
+msgid "Silver Sandstone Stair"
+msgstr "銀砂岩の階段"
+
+#: init.lua
+msgid "Snow Block Stair"
+msgstr "雪ブロックの階段"
+
+#: init.lua
+msgid "Steel Block Stair"
+msgstr "鉄ブロックの階段"
+
+#: init.lua
+msgid "Stone Block Stair"
+msgstr "石ブロックの階段"
+
+#: init.lua
+msgid "Stone Brick Stair"
+msgstr "石レンガの階段"
+
+#: init.lua
+msgid "Stone Stair"
+msgstr "石の階段"
+
+#: init.lua
+msgid "Straw Stair"
+msgstr "藁の階段"
+
+#: init.lua
+msgid "Tin Block Stair"
+msgstr "錫ブロックの階段"
+
+#: init.lua
+msgid "Wooden Stair"
+msgstr "木の階段"
+
+#: init.lua
 msgid "Gun Powder"
 msgstr "火薬"
 
@@ -1578,15 +1616,18 @@ msgid "Unknown Item"
 msgstr "不明なアイテム"
 
 #: init.lua
-msgid "Drinking Glass (empty)"
+#, fuzzy
+msgid "Empty Drinking Glass"
 msgstr "ドリンクグラス(空)"
 
 #: init.lua
-msgid "Glass Bottle (empty)"
+#, fuzzy
+msgid "Empty Glass Bottle"
 msgstr "ガラスのボトル(空)"
 
 #: init.lua
-msgid "Pile of Glass Fragments"
+#, fuzzy
+msgid "Glass Fragments"
 msgstr "ガラス片の山"
 
 #: init.lua
@@ -1594,7 +1635,8 @@ msgid "Vessels Shelf"
 msgstr "容器棚"
 
 #: init.lua
-msgid "Heavy Steel Bottle (empty)"
+#, fuzzy
+msgid "Empty Heavy Steel Bottle"
 msgstr "鉄のボトル(空)"
 
 #: init.lua
@@ -1671,7 +1713,7 @@ msgstr "黄色の羊毛"
 
 #: init.lua
 #, fuzzy
-msgid "Iron bar"
+msgid "Iron Bar"
 msgstr "鉄鉱石"
 
 #: init.lua
@@ -1685,3 +1727,24 @@ msgstr ""
 #: init.lua
 msgid "Nyan Cat"
 msgstr "Nyan Cat"
+
+#~ msgid "Leaves"
+#~ msgstr "葉"
+
+#~ msgid "Sapling"
+#~ msgstr "苗木"
+
+#~ msgid "Tree"
+#~ msgstr "木"
+
+#~ msgid "Wooden Planks"
+#~ msgstr "木材"
+
+#~ msgid "Trapdoor"
+#~ msgstr "トラップドア"
+
+#~ msgid "String"
+#~ msgstr "糸"
+
+#~ msgid "Rose"
+#~ msgstr "バラ"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-28 21:16+0200\n"
+"POT-Creation-Date: 2018-12-07 22:13+0100\n"
 "PO-Revision-Date: 2018-09-16 01:27+0000\n"
 "Last-Translator: bodqhrohro <bodqhrohro@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/minetest/"
@@ -16,8 +16,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.2-dev\n"
 
 #: init.lua
@@ -57,7 +57,8 @@ msgid "Water Bucket"
 msgstr "Відро з Водою"
 
 #: init.lua
-msgid "Brake rail"
+#, fuzzy
+msgid "Brake Rail"
 msgstr "Гальмівні рельси"
 
 #: init.lua
@@ -65,7 +66,8 @@ msgid "Cart (Sneak+Click to pick up)"
 msgstr "Візок (Крадькома+Клік, щоб забрати)"
 
 #: init.lua
-msgid "Powered rail"
+#, fuzzy
+msgid "Powered Rail"
 msgstr "Рельси живлення"
 
 #: init.lua
@@ -85,7 +87,8 @@ msgid "Acacia Bush Stem"
 msgstr "Стебло Куща Акації"
 
 #: init.lua
-msgid "Acacia Leaves"
+#, fuzzy
+msgid "Acacia Tree Leaves"
 msgstr "Листя Акації"
 
 #: init.lua
@@ -105,7 +108,8 @@ msgid "Apple"
 msgstr "Яблуко"
 
 #: init.lua
-msgid "Aspen Leaves"
+#, fuzzy
+msgid "Aspen Tree Leaves"
 msgstr "Листя Осини"
 
 #: init.lua
@@ -317,23 +321,28 @@ msgid "Dry Shrub"
 msgstr "Сухий Чагарник"
 
 #: init.lua
-msgid "Acacia Fence"
+#, fuzzy
+msgid "Acacia Wood Fence"
 msgstr "Паркан з Акації"
 
 #: init.lua
-msgid "Aspen Fence"
+#, fuzzy
+msgid "Aspen Wood Fence"
 msgstr "Паркан з Осини"
 
 #: init.lua
-msgid "Junglewood Fence"
+#, fuzzy
+msgid "Jungle Wood Fence"
 msgstr "Паркан із Тропічного Дерева"
 
 #: init.lua
-msgid "Pine Fence"
+#, fuzzy
+msgid "Pine Wood Fence"
 msgstr "Сосновий Паркан"
 
 #: init.lua
-msgid "Wooden Fence"
+#, fuzzy
+msgid "Apple Wood Fence"
 msgstr "Дерев'яний Паркан"
 
 #: init.lua
@@ -381,11 +390,13 @@ msgid "Jungle Grass"
 msgstr "Тропічна Трава"
 
 #: init.lua
-msgid "Jungle Leaves"
+#, fuzzy
+msgid "Jungle Tree Leaves"
 msgstr "Тропічне Листя"
 
 #: init.lua
-msgid "Jungle Sapling"
+#, fuzzy
+msgid "Jungle Tree Sapling"
 msgstr "Тропічний Паросток"
 
 #: init.lua
@@ -393,7 +404,8 @@ msgid "Jungle Tree"
 msgstr "Тропічне Дерево"
 
 #: init.lua
-msgid "Junglewood Planks"
+#, fuzzy
+msgid "Jungle Wood Planks"
 msgstr "Дошки з Тропічного Дерева"
 
 #: init.lua
@@ -417,8 +429,9 @@ msgid "Lava Source"
 msgstr "Джерело Лави"
 
 #: init.lua
-msgid "Leaves"
-msgstr "Листя"
+#, fuzzy
+msgid "Apple Tree Leaves"
+msgstr "Листя Осини"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
@@ -501,7 +514,8 @@ msgid "Pine Needles"
 msgstr "Соснові Голки"
 
 #: init.lua
-msgid "Pine Sapling"
+#, fuzzy
+msgid "Pine Tree Sapling"
 msgstr "Сосновий Паросток"
 
 #: init.lua
@@ -537,8 +551,9 @@ msgid "Sandstone"
 msgstr "Піщаник"
 
 #: init.lua
-msgid "Sapling"
-msgstr "Паросток"
+#, fuzzy
+msgid "Apple Tree Sapling"
+msgstr "Паросток Осинового Дерева"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -693,8 +708,9 @@ msgid "Torch"
 msgstr "Смолоскип"
 
 #: init.lua
-msgid "Tree"
-msgstr "Дерево"
+#, fuzzy
+msgid "Apple Tree"
+msgstr "Осинове Дерево"
 
 #: init.lua
 msgid "Flowing Water"
@@ -705,8 +721,9 @@ msgid "Water Source"
 msgstr "Джерело Води"
 
 #: init.lua
-msgid "Wooden Planks"
-msgstr "Дошки"
+#, fuzzy
+msgid "Apple Wood Planks"
+msgstr "Дошки з Осинового Дерева"
 
 #: init.lua
 msgid "Glass Door"
@@ -725,23 +742,28 @@ msgid "Wooden Door"
 msgstr "Дерев'яні Двері"
 
 #: init.lua
-msgid "Acacia Fence Gate"
+#, fuzzy
+msgid "Acacia Wood Fence Gate"
 msgstr "Ворота з Акації"
 
 #: init.lua
-msgid "Aspen Fence Gate"
+#, fuzzy
+msgid "Aspen Wood Fence Gate"
 msgstr "Ворота з Осини"
 
 #: init.lua
-msgid "Junglewood Fence Gate"
+#, fuzzy
+msgid "Jungle Wood Fence Gate"
 msgstr "Ворота з Тропічного Дерева"
 
 #: init.lua
-msgid "Pine Fence Gate"
+#, fuzzy
+msgid "Pine Wood Fence Gate"
 msgstr "Соснові Ворота"
 
 #: init.lua
-msgid "Wooden Fence Gate"
+#, fuzzy
+msgid "Apple Wood Fence Gate"
 msgstr "Дерев'яні Ворота"
 
 #: init.lua
@@ -749,71 +771,87 @@ msgid "Hidden Door Segment"
 msgstr "Частина Прихованих Дверей"
 
 #: init.lua
-msgid "Trapdoor"
-msgstr "Двері-пастка"
+#, fuzzy
+msgid "Wooden Trapdoor"
+msgstr "Дерев'яні Двері"
 
 #: init.lua
 msgid "Steel Trapdoor"
 msgstr "Сталеві Двері-пастка"
 
 #: init.lua
-msgid "Black dye"
+#, fuzzy
+msgid "Black Dye"
 msgstr "Чорний барвник"
 
 #: init.lua
-msgid "Blue dye"
+#, fuzzy
+msgid "Blue Dye"
 msgstr "Синій барвник"
 
 #: init.lua
-msgid "Brown dye"
+#, fuzzy
+msgid "Brown Dye"
 msgstr "Брунатний барвник"
 
 #: init.lua
-msgid "Cyan dye"
+#, fuzzy
+msgid "Cyan Dye"
 msgstr "Блакитний барвник"
 
 #: init.lua
-msgid "Dark green dye"
+#, fuzzy
+msgid "Dark Green Dye"
 msgstr "Темно-зелений барвник"
 
 #: init.lua
-msgid "Dark grey dye"
+#, fuzzy
+msgid "Dark Grey Dye"
 msgstr "Темно-сірий барвник"
 
 #: init.lua
-msgid "Green dye"
+#, fuzzy
+msgid "Green Dye"
 msgstr "Зелений барвник"
 
 #: init.lua
-msgid "Grey dye"
+#, fuzzy
+msgid "Grey Dye"
 msgstr "Сірий барвник"
 
 #: init.lua
-msgid "Magenta dye"
+#, fuzzy
+msgid "Magenta Dye"
 msgstr "Бузковий барвник"
 
 #: init.lua
-msgid "Orange dye"
+#, fuzzy
+msgid "Orange Dye"
 msgstr "Помаранчевий барвник"
 
 #: init.lua
-msgid "Pink dye"
+#, fuzzy
+msgid "Pink Dye"
 msgstr "Рожевий барвник"
 
 #: init.lua
-msgid "Red dye"
+#, fuzzy
+msgid "Red Dye"
 msgstr "Червоний барвник"
 
 #: init.lua
-msgid "Violet dye"
+#, fuzzy
+msgid "Violet Dye"
 msgstr "Фіалковий барвник"
 
 #: init.lua
-msgid "White dye"
+#, fuzzy
+msgid "White Dye"
 msgstr "Білий барвник"
 
 #: init.lua
-msgid "Yellow dye"
+#, fuzzy
+msgid "Yellow Dye"
 msgstr "Жовтий барвник"
 
 #: init.lua
@@ -861,11 +899,13 @@ msgid "Wooden Hoe"
 msgstr "Дерев'яна Сапа"
 
 #: init.lua
-msgid "Cotton seed"
+#, fuzzy
+msgid "Cotton Seed"
 msgstr "Насіння бавовнику"
 
 #: init.lua
-msgid "Wheat seed"
+#, fuzzy
+msgid "Wheat Seed"
 msgstr "Насіння пшениці"
 
 #: init.lua
@@ -881,10 +921,6 @@ msgid "Straw"
 msgstr "Солома"
 
 #: init.lua
-msgid "String"
-msgstr "Нитка"
-
-#: init.lua
 msgid "Wheat"
 msgstr "Пшениця"
 
@@ -897,7 +933,8 @@ msgid "Permanent Flame"
 msgstr "Вічний Вогонь"
 
 #: init.lua
-msgid "White dandelion"
+#, fuzzy
+msgid "White Dandelion"
 msgstr "Біла кульбаба"
 
 #: init.lua
@@ -917,8 +954,9 @@ msgid "Red Mushroom"
 msgstr "Мухомор"
 
 #: init.lua
-msgid "Rose"
-msgstr "Троянда"
+#, fuzzy
+msgid "Red Rose"
+msgstr "Червоний барвник"
 
 #: init.lua
 msgid "Orange Tulip"
@@ -1141,86 +1179,6 @@ msgid "Ice Stair"
 msgstr ""
 
 #: init.lua
-msgid "Jungle Wood Stair"
-msgstr ""
-
-#: init.lua
-msgid "Mossy Cobblestone Stair"
-msgstr ""
-
-#: init.lua
-msgid "Obsidian Block Stair"
-msgstr ""
-
-#: init.lua
-msgid "Obsidian Brick Stair"
-msgstr ""
-
-#: init.lua
-msgid "Obsidian Stair"
-msgstr ""
-
-#: init.lua
-msgid "Pine Wood Stair"
-msgstr ""
-
-#: init.lua
-msgid "Sandstone Block Stair"
-msgstr ""
-
-#: init.lua
-msgid "Sandstone Brick Stair"
-msgstr ""
-
-#: init.lua
-msgid "Sandstone Stair"
-msgstr ""
-
-#: init.lua
-msgid "Silver Sandstone Block Stair"
-msgstr ""
-
-#: init.lua
-msgid "Silver Sandstone Brick Stair"
-msgstr ""
-
-#: init.lua
-msgid "Silver Sandstone Stair"
-msgstr ""
-
-#: init.lua
-msgid "Snow Block Stair"
-msgstr ""
-
-#: init.lua
-msgid "Steel Block Stair"
-msgstr ""
-
-#: init.lua
-msgid "Stone Block Stair"
-msgstr ""
-
-#: init.lua
-msgid "Stone Brick Stair"
-msgstr ""
-
-#: init.lua
-msgid "Stone Stair"
-msgstr ""
-
-#: init.lua
-msgid "Straw Stair"
-msgstr ""
-
-#: init.lua
-msgid "Tin Block Stair"
-msgstr ""
-
-#: init.lua
-msgid "Wooden Stair"
-msgstr ""
-
-#: init.lua
 msgid "Acacia Wood Stair Inner"
 msgstr ""
 
@@ -1358,6 +1316,26 @@ msgstr ""
 
 #: init.lua
 msgid "Wooden Stair Inner"
+msgstr ""
+
+#: init.lua
+msgid "Jungle Wood Stair"
+msgstr ""
+
+#: init.lua
+msgid "Mossy Cobblestone Stair"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Block Stair"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Brick Stair"
+msgstr ""
+
+#: init.lua
+msgid "Obsidian Stair"
 msgstr ""
 
 #: init.lua
@@ -1501,6 +1479,66 @@ msgid "Wooden Stair Outer"
 msgstr ""
 
 #: init.lua
+msgid "Pine Wood Stair"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Block Stair"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Brick Stair"
+msgstr ""
+
+#: init.lua
+msgid "Sandstone Stair"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Block Stair"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair"
+msgstr ""
+
+#: init.lua
+msgid "Silver Sandstone Stair"
+msgstr ""
+
+#: init.lua
+msgid "Snow Block Stair"
+msgstr ""
+
+#: init.lua
+msgid "Steel Block Stair"
+msgstr ""
+
+#: init.lua
+msgid "Stone Block Stair"
+msgstr ""
+
+#: init.lua
+msgid "Stone Brick Stair"
+msgstr ""
+
+#: init.lua
+msgid "Stone Stair"
+msgstr ""
+
+#: init.lua
+msgid "Straw Stair"
+msgstr ""
+
+#: init.lua
+msgid "Tin Block Stair"
+msgstr ""
+
+#: init.lua
+msgid "Wooden Stair"
+msgstr ""
+
+#: init.lua
 msgid "Gun Powder"
 msgstr ""
 
@@ -1513,23 +1551,24 @@ msgid "Unknown Item"
 msgstr "Невідомий предмет"
 
 #: init.lua
-msgid "Drinking Glass (empty)"
+msgid "Empty Drinking Glass"
 msgstr ""
 
 #: init.lua
-msgid "Glass Bottle (empty)"
+msgid "Empty Glass Bottle"
 msgstr ""
 
 #: init.lua
-msgid "Pile of Glass Fragments"
-msgstr ""
+#, fuzzy
+msgid "Glass Fragments"
+msgstr "Уламок Кристалу Мезе"
 
 #: init.lua
 msgid "Vessels Shelf"
 msgstr ""
 
 #: init.lua
-msgid "Heavy Steel Bottle (empty)"
+msgid "Empty Heavy Steel Bottle"
 msgstr ""
 
 #: init.lua
@@ -1605,8 +1644,9 @@ msgid "Yellow Wool"
 msgstr "Жовта вовна"
 
 #: init.lua
-msgid "Iron bar"
-msgstr ""
+#, fuzzy
+msgid "Iron Bar"
+msgstr "Залізна Руда"
 
 #: init.lua
 msgid "Glass Pane"
@@ -1619,3 +1659,24 @@ msgstr "Веселка няв котика"
 #: init.lua
 msgid "Nyan Cat"
 msgstr "Няв котик"
+
+#~ msgid "Leaves"
+#~ msgstr "Листя"
+
+#~ msgid "Sapling"
+#~ msgstr "Паросток"
+
+#~ msgid "Tree"
+#~ msgstr "Дерево"
+
+#~ msgid "Wooden Planks"
+#~ msgstr "Дошки"
+
+#~ msgid "Trapdoor"
+#~ msgstr "Двері-пастка"
+
+#~ msgid "String"
+#~ msgstr "Нитка"
+
+#~ msgid "Rose"
+#~ msgstr "Троянда"

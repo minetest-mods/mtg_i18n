@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-28 21:16+0200\n"
+"POT-Creation-Date: 2018-12-07 22:13+0100\n"
 "PO-Revision-Date: 2018-05-10 21:02+0000\n"
 "Last-Translator: Wuzzy <almikes@aol.com>\n"
 "Language-Team: Lojban <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
@@ -55,7 +55,8 @@ msgid "Water Bucket"
 msgstr "lo baktu be lo djacu"
 
 #: init.lua
-msgid "Brake rail"
+#, fuzzy
+msgid "Brake Rail"
 msgstr "lo terjabre teryre'e"
 
 #: init.lua
@@ -65,7 +66,8 @@ msgstr ""
 "nu cpacu toi"
 
 #: init.lua
-msgid "Powered rail"
+#, fuzzy
+msgid "Powered Rail"
 msgstr "lo se dikca teryre'e"
 
 #: init.lua
@@ -85,7 +87,8 @@ msgid "Acacia Bush Stem"
 msgstr "lo atkaci,ia dzitricu stani"
 
 #: init.lua
-msgid "Acacia Leaves"
+#, fuzzy
+msgid "Acacia Tree Leaves"
 msgstr "lo atkaci,ia pezli"
 
 #: init.lua
@@ -105,7 +108,8 @@ msgid "Apple"
 msgstr "lo plise"
 
 #: init.lua
-msgid "Aspen Leaves"
+#, fuzzy
+msgid "Aspen Tree Leaves"
 msgstr "lo ricrpopulu pezli"
 
 #: init.lua
@@ -317,23 +321,28 @@ msgid "Dry Shrub"
 msgstr "lo sudga dzitricu"
 
 #: init.lua
-msgid "Acacia Fence"
+#, fuzzy
+msgid "Acacia Wood Fence"
 msgstr "lo atkaci,ia garbi'u"
 
 #: init.lua
-msgid "Aspen Fence"
+#, fuzzy
+msgid "Aspen Wood Fence"
 msgstr "lo ricrpopulu garbi'u"
 
 #: init.lua
-msgid "Junglewood Fence"
+#, fuzzy
+msgid "Jungle Wood Fence"
 msgstr "lo glatimdemricfoi mudri garbi'u"
 
 #: init.lua
-msgid "Pine Fence"
+#, fuzzy
+msgid "Pine Wood Fence"
 msgstr "lo ckunu garbi'u"
 
 #: init.lua
-msgid "Wooden Fence"
+#, fuzzy
+msgid "Apple Wood Fence"
 msgstr "lo mudri garbi'u"
 
 #: init.lua
@@ -381,11 +390,13 @@ msgid "Jungle Grass"
 msgstr "lo glatimdemricfoi srasu"
 
 #: init.lua
-msgid "Jungle Leaves"
+#, fuzzy
+msgid "Jungle Tree Leaves"
 msgstr "lo glatimdemricfoi pezli"
 
 #: init.lua
-msgid "Jungle Sapling"
+#, fuzzy
+msgid "Jungle Tree Sapling"
 msgstr "lo glatimdemricfoi ciftricu"
 
 #: init.lua
@@ -393,7 +404,8 @@ msgid "Jungle Tree"
 msgstr "lo glatimdemricfoi ricystani"
 
 #: init.lua
-msgid "Junglewood Planks"
+#, fuzzy
+msgid "Jungle Wood Planks"
 msgstr "lo glatimdemricfoi mudri tanbo"
 
 #: init.lua
@@ -417,8 +429,9 @@ msgid "Lava Source"
 msgstr "lo likro'i velflecu"
 
 #: init.lua
-msgid "Leaves"
-msgstr "lo pezli"
+#, fuzzy
+msgid "Apple Tree Leaves"
+msgstr "lo ricrpopulu pezli"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
@@ -501,7 +514,8 @@ msgid "Pine Needles"
 msgstr "lo ckunu jezpezli"
 
 #: init.lua
-msgid "Pine Sapling"
+#, fuzzy
+msgid "Pine Tree Sapling"
 msgstr "lo ckunu ciftricu"
 
 #: init.lua
@@ -537,8 +551,9 @@ msgid "Sandstone"
 msgstr "lo canro'i"
 
 #: init.lua
-msgid "Sapling"
-msgstr "lo ciftricu"
+#, fuzzy
+msgid "Apple Tree Sapling"
+msgstr "lo ricrpopulu ciftricu"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -693,8 +708,9 @@ msgid "Torch"
 msgstr "lo fagytergu'i"
 
 #: init.lua
-msgid "Tree"
-msgstr "lo ricystani"
+#, fuzzy
+msgid "Apple Tree"
+msgstr "lo ricrpopulu ricystani"
 
 #: init.lua
 msgid "Flowing Water"
@@ -705,8 +721,9 @@ msgid "Water Source"
 msgstr "lo djacu velflecu"
 
 #: init.lua
-msgid "Wooden Planks"
-msgstr "lo mudri tanbo"
+#, fuzzy
+msgid "Apple Wood Planks"
+msgstr "lo ricrpopulu mudri tanbo"
 
 #: init.lua
 msgid "Glass Door"
@@ -725,23 +742,28 @@ msgid "Wooden Door"
 msgstr "lo mudri vrogai"
 
 #: init.lua
-msgid "Acacia Fence Gate"
+#, fuzzy
+msgid "Acacia Wood Fence Gate"
 msgstr "lo atkaci,ia garbimvrogai"
 
 #: init.lua
-msgid "Aspen Fence Gate"
+#, fuzzy
+msgid "Aspen Wood Fence Gate"
 msgstr "lo ricrpopulu garbimvrogai"
 
 #: init.lua
-msgid "Junglewood Fence Gate"
+#, fuzzy
+msgid "Jungle Wood Fence Gate"
 msgstr "lo glatimdemricfoi mudri garbimvrogai"
 
 #: init.lua
-msgid "Pine Fence Gate"
+#, fuzzy
+msgid "Pine Wood Fence Gate"
 msgstr "lo ckunu garbimvrogai"
 
 #: init.lua
-msgid "Wooden Fence Gate"
+#, fuzzy
+msgid "Apple Wood Fence Gate"
 msgstr "lo mudri garbimvrogai"
 
 #: init.lua
@@ -749,71 +771,87 @@ msgid "Hidden Door Segment"
 msgstr "lo se mipri ke vrogai pagbu"
 
 #: init.lua
-msgid "Trapdoor"
-msgstr "lo lolvrogai"
+#, fuzzy
+msgid "Wooden Trapdoor"
+msgstr "lo mudri vrogai"
 
 #: init.lua
 msgid "Steel Trapdoor"
 msgstr "lo gasta lolvrogai"
 
 #: init.lua
-msgid "Black dye"
+#, fuzzy
+msgid "Black Dye"
 msgstr "lo xekri xinmo"
 
 #: init.lua
-msgid "Blue dye"
+#, fuzzy
+msgid "Blue Dye"
 msgstr "lo blanu xinmo"
 
 #: init.lua
-msgid "Brown dye"
+#, fuzzy
+msgid "Brown Dye"
 msgstr "lo bunre xinmo"
 
 #: init.lua
-msgid "Cyan dye"
+#, fuzzy
+msgid "Cyan Dye"
 msgstr "lo cicna xinmo"
 
 #: init.lua
-msgid "Dark green dye"
+#, fuzzy
+msgid "Dark Green Dye"
 msgstr "lo xekri crino xinmo"
 
 #: init.lua
-msgid "Dark grey dye"
+#, fuzzy
+msgid "Dark Grey Dye"
 msgstr "lo xekri grusi xinmo"
 
 #: init.lua
-msgid "Green dye"
+#, fuzzy
+msgid "Green Dye"
 msgstr "lo crino xinmo"
 
 #: init.lua
-msgid "Grey dye"
+#, fuzzy
+msgid "Grey Dye"
 msgstr "lo grusi xinmo"
 
 #: init.lua
-msgid "Magenta dye"
+#, fuzzy
+msgid "Magenta Dye"
 msgstr "lo nukni xinmo"
 
 #: init.lua
-msgid "Orange dye"
+#, fuzzy
+msgid "Orange Dye"
 msgstr "lo narju xinmo"
 
 #: init.lua
-msgid "Pink dye"
+#, fuzzy
+msgid "Pink Dye"
 msgstr "lo xunblabi xinmo"
 
 #: init.lua
-msgid "Red dye"
+#, fuzzy
+msgid "Red Dye"
 msgstr "lo xunre xinmo"
 
 #: init.lua
-msgid "Violet dye"
+#, fuzzy
+msgid "Violet Dye"
 msgstr "lo zirpu xinmo"
 
 #: init.lua
-msgid "White dye"
+#, fuzzy
+msgid "White Dye"
 msgstr "lo blabi xinmo"
 
 #: init.lua
-msgid "Yellow dye"
+#, fuzzy
+msgid "Yellow Dye"
 msgstr "lo pelxu xinmo"
 
 #: init.lua
@@ -861,11 +899,13 @@ msgid "Wooden Hoe"
 msgstr "le mudri te plixa"
 
 #: init.lua
-msgid "Cotton seed"
+#, fuzzy
+msgid "Cotton Seed"
 msgstr "lo mapni tsiju"
 
 #: init.lua
-msgid "Wheat seed"
+#, fuzzy
+msgid "Wheat Seed"
 msgstr "lo maxri tsiju"
 
 #: init.lua
@@ -881,10 +921,6 @@ msgid "Straw"
 msgstr "lo sudysrasu"
 
 #: init.lua
-msgid "String"
-msgstr "lo cilta"
-
-#: init.lua
 msgid "Wheat"
 msgstr "lo maxri"
 
@@ -897,7 +933,8 @@ msgid "Permanent Flame"
 msgstr "lo vitno fagri"
 
 #: init.lua
-msgid "White dandelion"
+#, fuzzy
+msgid "White Dandelion"
 msgstr "lo blabi spartaraksaku"
 
 #: init.lua
@@ -917,8 +954,9 @@ msgid "Red Mushroom"
 msgstr "lo xunre ledgrute"
 
 #: init.lua
-msgid "Rose"
-msgstr "lo rozgu"
+#, fuzzy
+msgid "Red Rose"
+msgstr "lo xunre xinmo"
 
 #: init.lua
 msgid "Orange Tulip"
@@ -1141,86 +1179,6 @@ msgid "Ice Stair"
 msgstr "lo bisli serti"
 
 #: init.lua
-msgid "Jungle Wood Stair"
-msgstr "lo glatimdemricfoi mudri serti"
-
-#: init.lua
-msgid "Mossy Cobblestone Stair"
-msgstr "lo clika lolro'iboi serti"
-
-#: init.lua
-msgid "Obsidian Block Stair"
-msgstr "lo je'erma'ablaci bliku serti"
-
-#: init.lua
-msgid "Obsidian Brick Stair"
-msgstr "lo morna ke je'erma'ablaci serti"
-
-#: init.lua
-msgid "Obsidian Stair"
-msgstr "lo je'erma'ablaci serti"
-
-#: init.lua
-msgid "Pine Wood Stair"
-msgstr "lo ckunu mudri serti"
-
-#: init.lua
-msgid "Sandstone Block Stair"
-msgstr "lo canro'i bliku serti"
-
-#: init.lua
-msgid "Sandstone Brick Stair"
-msgstr "lo morna ke canro'i serti"
-
-#: init.lua
-msgid "Sandstone Stair"
-msgstr "lo canro'i serti"
-
-#: init.lua
-msgid "Silver Sandstone Block Stair"
-msgstr "lo rijyska canro'i bliku serti"
-
-#: init.lua
-msgid "Silver Sandstone Brick Stair"
-msgstr "lo morna ke rijyska canro'i serti"
-
-#: init.lua
-msgid "Silver Sandstone Stair"
-msgstr "lo rijyska canro'i serti"
-
-#: init.lua
-msgid "Snow Block Stair"
-msgstr "lo snime bliku serti"
-
-#: init.lua
-msgid "Steel Block Stair"
-msgstr "lo gasta bliku serti"
-
-#: init.lua
-msgid "Stone Block Stair"
-msgstr "lo rokci bliku serti"
-
-#: init.lua
-msgid "Stone Brick Stair"
-msgstr "lo morna rokci serti"
-
-#: init.lua
-msgid "Stone Stair"
-msgstr "lo rokci serti"
-
-#: init.lua
-msgid "Straw Stair"
-msgstr "lo sudysrasu serti"
-
-#: init.lua
-msgid "Tin Block Stair"
-msgstr "lo tinci bliku serti"
-
-#: init.lua
-msgid "Wooden Stair"
-msgstr "lo mudri serti"
-
-#: init.lua
 msgid "Acacia Wood Stair Inner"
 msgstr "lo zo'i atkaci,ia mudri serti"
 
@@ -1359,6 +1317,26 @@ msgstr "lo zo'i tinci bliku serti"
 #: init.lua
 msgid "Wooden Stair Inner"
 msgstr "lo zo'i mudri serti"
+
+#: init.lua
+msgid "Jungle Wood Stair"
+msgstr "lo glatimdemricfoi mudri serti"
+
+#: init.lua
+msgid "Mossy Cobblestone Stair"
+msgstr "lo clika lolro'iboi serti"
+
+#: init.lua
+msgid "Obsidian Block Stair"
+msgstr "lo je'erma'ablaci bliku serti"
+
+#: init.lua
+msgid "Obsidian Brick Stair"
+msgstr "lo morna ke je'erma'ablaci serti"
+
+#: init.lua
+msgid "Obsidian Stair"
+msgstr "lo je'erma'ablaci serti"
 
 #: init.lua
 msgid "Acacia Wood Stair Outer"
@@ -1501,6 +1479,66 @@ msgid "Wooden Stair Outer"
 msgstr "lo ze'o mudri serti"
 
 #: init.lua
+msgid "Pine Wood Stair"
+msgstr "lo ckunu mudri serti"
+
+#: init.lua
+msgid "Sandstone Block Stair"
+msgstr "lo canro'i bliku serti"
+
+#: init.lua
+msgid "Sandstone Brick Stair"
+msgstr "lo morna ke canro'i serti"
+
+#: init.lua
+msgid "Sandstone Stair"
+msgstr "lo canro'i serti"
+
+#: init.lua
+msgid "Silver Sandstone Block Stair"
+msgstr "lo rijyska canro'i bliku serti"
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair"
+msgstr "lo morna ke rijyska canro'i serti"
+
+#: init.lua
+msgid "Silver Sandstone Stair"
+msgstr "lo rijyska canro'i serti"
+
+#: init.lua
+msgid "Snow Block Stair"
+msgstr "lo snime bliku serti"
+
+#: init.lua
+msgid "Steel Block Stair"
+msgstr "lo gasta bliku serti"
+
+#: init.lua
+msgid "Stone Block Stair"
+msgstr "lo rokci bliku serti"
+
+#: init.lua
+msgid "Stone Brick Stair"
+msgstr "lo morna rokci serti"
+
+#: init.lua
+msgid "Stone Stair"
+msgstr "lo rokci serti"
+
+#: init.lua
+msgid "Straw Stair"
+msgstr "lo sudysrasu serti"
+
+#: init.lua
+msgid "Tin Block Stair"
+msgstr "lo tinci bliku serti"
+
+#: init.lua
+msgid "Wooden Stair"
+msgstr "lo mudri serti"
+
+#: init.lua
 msgid "Gun Powder"
 msgstr "lo tercelpu'o"
 
@@ -1513,15 +1551,18 @@ msgid "Unknown Item"
 msgstr "le na se djuno dacti"
 
 #: init.lua
-msgid "Drinking Glass (empty)"
+#, fuzzy
+msgid "Empty Drinking Glass"
 msgstr "lo blacykabri to kunti toi"
 
 #: init.lua
-msgid "Glass Bottle (empty)"
+#, fuzzy
+msgid "Empty Glass Bottle"
 msgstr "lo blacybo'i to kunti toi"
 
 #: init.lua
-msgid "Pile of Glass Fragments"
+#, fuzzy
+msgid "Glass Fragments"
 msgstr "lo derxi be lo blaci spisa"
 
 #: init.lua
@@ -1529,7 +1570,8 @@ msgid "Vessels Shelf"
 msgstr "lo vasru kajna"
 
 #: init.lua
-msgid "Heavy Steel Bottle (empty)"
+#, fuzzy
+msgid "Empty Heavy Steel Bottle"
 msgstr "lo tilju ke gasta botpi to kunti toi"
 
 #: init.lua
@@ -1605,7 +1647,8 @@ msgid "Yellow Wool"
 msgstr "lo pelxu sunla"
 
 #: init.lua
-msgid "Iron bar"
+#, fuzzy
+msgid "Iron Bar"
 msgstr "lo tirse garna"
 
 #: init.lua
@@ -1619,3 +1662,24 @@ msgstr "lo me la'o gy.Nyan Cat.gy. tanbargu"
 #: init.lua
 msgid "Nyan Cat"
 msgstr "lo me la'o gy.Nyan Cat.gy."
+
+#~ msgid "Leaves"
+#~ msgstr "lo pezli"
+
+#~ msgid "Sapling"
+#~ msgstr "lo ciftricu"
+
+#~ msgid "Tree"
+#~ msgstr "lo ricystani"
+
+#~ msgid "Wooden Planks"
+#~ msgstr "lo mudri tanbo"
+
+#~ msgid "Trapdoor"
+#~ msgstr "lo lolvrogai"
+
+#~ msgid "String"
+#~ msgstr "lo cilta"
+
+#~ msgid "Rose"
+#~ msgstr "lo rozgu"

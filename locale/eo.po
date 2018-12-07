@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-28 21:16+0200\n"
+"POT-Creation-Date: 2018-12-07 22:13+0100\n"
 "PO-Revision-Date: 2018-01-24 12:09+0000\n"
 "Last-Translator: Erin Heart <erin0heart@protonmail.ch>\n"
-"Language-Team: Esperanto "
-"<https://hosted.weblate.org/projects/minetest/mtg_i18n/eo/>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/minetest/"
+"mtg_i18n/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,7 +56,8 @@ msgid "Water Bucket"
 msgstr "Sitelo da akvo"
 
 #: init.lua
-msgid "Brake rail"
+#, fuzzy
+msgid "Brake Rail"
 msgstr "Bremsa relo"
 
 #: init.lua
@@ -64,7 +65,8 @@ msgid "Cart (Sneak+Click to pick up)"
 msgstr "Ĉaro (malrapidi+alklaki por kolekti)"
 
 #: init.lua
-msgid "Powered rail"
+#, fuzzy
+msgid "Powered Rail"
 msgstr "Ŝaltebla relo"
 
 #: init.lua
@@ -84,7 +86,8 @@ msgid "Acacia Bush Stem"
 msgstr "Akacia arbusta trunketo"
 
 #: init.lua
-msgid "Acacia Leaves"
+#, fuzzy
+msgid "Acacia Tree Leaves"
 msgstr "Akaciaj folioj"
 
 #: init.lua
@@ -104,7 +107,8 @@ msgid "Apple"
 msgstr "Pomo"
 
 #: init.lua
-msgid "Aspen Leaves"
+#, fuzzy
+msgid "Aspen Tree Leaves"
 msgstr "Tremolaj folioj"
 
 #: init.lua
@@ -316,23 +320,28 @@ msgid "Dry Shrub"
 msgstr "Seka arbusto"
 
 #: init.lua
-msgid "Acacia Fence"
+#, fuzzy
+msgid "Acacia Wood Fence"
 msgstr "Akacia barilo"
 
 #: init.lua
-msgid "Aspen Fence"
+#, fuzzy
+msgid "Aspen Wood Fence"
 msgstr "Tremola barilo"
 
 #: init.lua
-msgid "Junglewood Fence"
+#, fuzzy
+msgid "Jungle Wood Fence"
 msgstr "Ĝangaloligna barilo"
 
 #: init.lua
-msgid "Pine Fence"
+#, fuzzy
+msgid "Pine Wood Fence"
 msgstr "Abia barilo"
 
 #: init.lua
-msgid "Wooden Fence"
+#, fuzzy
+msgid "Apple Wood Fence"
 msgstr "Ligna barilo"
 
 #: init.lua
@@ -380,11 +389,13 @@ msgid "Jungle Grass"
 msgstr "Ĝangala herbo"
 
 #: init.lua
-msgid "Jungle Leaves"
+#, fuzzy
+msgid "Jungle Tree Leaves"
 msgstr "Ĝangalaj folioj"
 
 #: init.lua
-msgid "Jungle Sapling"
+#, fuzzy
+msgid "Jungle Tree Sapling"
 msgstr "Ĝangala arbido"
 
 #: init.lua
@@ -392,7 +403,8 @@ msgid "Jungle Tree"
 msgstr "Ĝangala arbo"
 
 #: init.lua
-msgid "Junglewood Planks"
+#, fuzzy
+msgid "Jungle Wood Planks"
 msgstr "Ĝangalolignaj tabuloj"
 
 #: init.lua
@@ -416,8 +428,9 @@ msgid "Lava Source"
 msgstr "Lafa fonto"
 
 #: init.lua
-msgid "Leaves"
-msgstr "Folioj"
+#, fuzzy
+msgid "Apple Tree Leaves"
+msgstr "Tremolaj folioj"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
@@ -500,7 +513,8 @@ msgid "Pine Needles"
 msgstr "Abiaj pingloj"
 
 #: init.lua
-msgid "Pine Sapling"
+#, fuzzy
+msgid "Pine Tree Sapling"
 msgstr "Abia arbido"
 
 #: init.lua
@@ -536,8 +550,9 @@ msgid "Sandstone"
 msgstr "Sabloŝtono"
 
 #: init.lua
-msgid "Sapling"
-msgstr "Arbido"
+#, fuzzy
+msgid "Apple Tree Sapling"
+msgstr "Tremola arbido"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -692,8 +707,9 @@ msgid "Torch"
 msgstr "Torĉo"
 
 #: init.lua
-msgid "Tree"
-msgstr "Arbo"
+#, fuzzy
+msgid "Apple Tree"
+msgstr "Tremola arbo"
 
 #: init.lua
 msgid "Flowing Water"
@@ -704,8 +720,9 @@ msgid "Water Source"
 msgstr "Akva fonto"
 
 #: init.lua
-msgid "Wooden Planks"
-msgstr "Lignaj tabuloj"
+#, fuzzy
+msgid "Apple Wood Planks"
+msgstr "Tremolaj lignaj tabuloj"
 
 #: init.lua
 msgid "Glass Door"
@@ -724,23 +741,28 @@ msgid "Wooden Door"
 msgstr "Ligna pordo"
 
 #: init.lua
-msgid "Acacia Fence Gate"
+#, fuzzy
+msgid "Acacia Wood Fence Gate"
 msgstr "Akacia barilpordo"
 
 #: init.lua
-msgid "Aspen Fence Gate"
+#, fuzzy
+msgid "Aspen Wood Fence Gate"
 msgstr "Tremola barilpordo"
 
 #: init.lua
-msgid "Junglewood Fence Gate"
+#, fuzzy
+msgid "Jungle Wood Fence Gate"
 msgstr "Ĝangaloligna barilpordo"
 
 #: init.lua
-msgid "Pine Fence Gate"
+#, fuzzy
+msgid "Pine Wood Fence Gate"
 msgstr "Abia barilpordo"
 
 #: init.lua
-msgid "Wooden Fence Gate"
+#, fuzzy
+msgid "Apple Wood Fence Gate"
 msgstr "Ligna barilpordo"
 
 #: init.lua
@@ -748,71 +770,87 @@ msgid "Hidden Door Segment"
 msgstr "Kaŝita pordo-parto"
 
 #: init.lua
-msgid "Trapdoor"
-msgstr "Plankpordo"
+#, fuzzy
+msgid "Wooden Trapdoor"
+msgstr "Ligna pordo"
 
 #: init.lua
 msgid "Steel Trapdoor"
 msgstr "Ŝtala plankpordo"
 
 #: init.lua
-msgid "Black dye"
+#, fuzzy
+msgid "Black Dye"
 msgstr "Nigra farbo"
 
 #: init.lua
-msgid "Blue dye"
+#, fuzzy
+msgid "Blue Dye"
 msgstr "Blua farbo"
 
 #: init.lua
-msgid "Brown dye"
+#, fuzzy
+msgid "Brown Dye"
 msgstr "Bruna farbo"
 
 #: init.lua
-msgid "Cyan dye"
+#, fuzzy
+msgid "Cyan Dye"
 msgstr "Bluverda farbo"
 
 #: init.lua
-msgid "Dark green dye"
+#, fuzzy
+msgid "Dark Green Dye"
 msgstr "Malhele verda farbo"
 
 #: init.lua
-msgid "Dark grey dye"
+#, fuzzy
+msgid "Dark Grey Dye"
 msgstr "Malhela griza farbo"
 
 #: init.lua
-msgid "Green dye"
+#, fuzzy
+msgid "Green Dye"
 msgstr "Verda farbo"
 
 #: init.lua
-msgid "Grey dye"
+#, fuzzy
+msgid "Grey Dye"
 msgstr "Griza farbo"
 
 #: init.lua
-msgid "Magenta dye"
+#, fuzzy
+msgid "Magenta Dye"
 msgstr "Purpura farbo"
 
 #: init.lua
-msgid "Orange dye"
+#, fuzzy
+msgid "Orange Dye"
 msgstr "Oranĝkolora farbo"
 
 #: init.lua
-msgid "Pink dye"
+#, fuzzy
+msgid "Pink Dye"
 msgstr "Rozkolora farbo"
 
 #: init.lua
-msgid "Red dye"
+#, fuzzy
+msgid "Red Dye"
 msgstr "Ruĝa farbo"
 
 #: init.lua
-msgid "Violet dye"
+#, fuzzy
+msgid "Violet Dye"
 msgstr "Violkolora farbo"
 
 #: init.lua
-msgid "White dye"
+#, fuzzy
+msgid "White Dye"
 msgstr "Blanka farbo"
 
 #: init.lua
-msgid "Yellow dye"
+#, fuzzy
+msgid "Yellow Dye"
 msgstr "Flava farbo"
 
 #: init.lua
@@ -860,11 +898,13 @@ msgid "Wooden Hoe"
 msgstr "Ligna sarkilo"
 
 #: init.lua
-msgid "Cotton seed"
+#, fuzzy
+msgid "Cotton Seed"
 msgstr "Kotona semo"
 
 #: init.lua
-msgid "Wheat seed"
+#, fuzzy
+msgid "Wheat Seed"
 msgstr "Tritika semo"
 
 #: init.lua
@@ -880,10 +920,6 @@ msgid "Straw"
 msgstr "Pajlo"
 
 #: init.lua
-msgid "String"
-msgstr "Signoĉeno"
-
-#: init.lua
 msgid "Wheat"
 msgstr "Tritiko"
 
@@ -896,7 +932,8 @@ msgid "Permanent Flame"
 msgstr "Ĉiama flamo"
 
 #: init.lua
-msgid "White dandelion"
+#, fuzzy
+msgid "White Dandelion"
 msgstr "Blanka leontodo"
 
 #: init.lua
@@ -916,8 +953,9 @@ msgid "Red Mushroom"
 msgstr "Ruĝa fungo"
 
 #: init.lua
-msgid "Rose"
-msgstr "Rozo"
+#, fuzzy
+msgid "Red Rose"
+msgstr "Ruĝa farbo"
 
 #: init.lua
 msgid "Orange Tulip"
@@ -1140,86 +1178,6 @@ msgid "Ice Stair"
 msgstr "Glacia ŝtupo"
 
 #: init.lua
-msgid "Jungle Wood Stair"
-msgstr "Ĝangala ligna ŝtupo"
-
-#: init.lua
-msgid "Mossy Cobblestone Stair"
-msgstr "Muska pavimŝtona ŝtupo"
-
-#: init.lua
-msgid "Obsidian Block Stair"
-msgstr "Obsidiana bloka ŝtupo"
-
-#: init.lua
-msgid "Obsidian Brick Stair"
-msgstr "Obsidiana brika ŝtupo"
-
-#: init.lua
-msgid "Obsidian Stair"
-msgstr "Obsidiana ŝtupo"
-
-#: init.lua
-msgid "Pine Wood Stair"
-msgstr "Abia ligna ŝtupo"
-
-#: init.lua
-msgid "Sandstone Block Stair"
-msgstr "Sabloŝtona bloka ŝtupo"
-
-#: init.lua
-msgid "Sandstone Brick Stair"
-msgstr "Sabloŝtona brika ŝtupo"
-
-#: init.lua
-msgid "Sandstone Stair"
-msgstr "Sabloŝtona ŝtupo"
-
-#: init.lua
-msgid "Silver Sandstone Block Stair"
-msgstr "Blanka sabloŝtona bloka ŝtupo"
-
-#: init.lua
-msgid "Silver Sandstone Brick Stair"
-msgstr "Blanka sabloŝtona brika ŝtupo"
-
-#: init.lua
-msgid "Silver Sandstone Stair"
-msgstr "Blanka sabloŝtona ŝtupo"
-
-#: init.lua
-msgid "Snow Block Stair"
-msgstr "Neĝa bloka ŝtupo"
-
-#: init.lua
-msgid "Steel Block Stair"
-msgstr "Ŝtala bloka ŝtupo"
-
-#: init.lua
-msgid "Stone Block Stair"
-msgstr "Ŝtona bloka ŝtupo"
-
-#: init.lua
-msgid "Stone Brick Stair"
-msgstr "Ŝtona brika ŝtupo"
-
-#: init.lua
-msgid "Stone Stair"
-msgstr "Ŝtona ŝtupo"
-
-#: init.lua
-msgid "Straw Stair"
-msgstr "Pajla ŝtupo"
-
-#: init.lua
-msgid "Tin Block Stair"
-msgstr "Stana bloka ŝtupo"
-
-#: init.lua
-msgid "Wooden Stair"
-msgstr "Ligna ŝtupo"
-
-#: init.lua
 msgid "Acacia Wood Stair Inner"
 msgstr "Akacia ligna ŝtupo"
 
@@ -1359,6 +1317,26 @@ msgstr "Neĝa bloka ŝtupo"
 #: init.lua
 msgid "Wooden Stair Inner"
 msgstr "Ligna ŝtupo"
+
+#: init.lua
+msgid "Jungle Wood Stair"
+msgstr "Ĝangala ligna ŝtupo"
+
+#: init.lua
+msgid "Mossy Cobblestone Stair"
+msgstr "Muska pavimŝtona ŝtupo"
+
+#: init.lua
+msgid "Obsidian Block Stair"
+msgstr "Obsidiana bloka ŝtupo"
+
+#: init.lua
+msgid "Obsidian Brick Stair"
+msgstr "Obsidiana brika ŝtupo"
+
+#: init.lua
+msgid "Obsidian Stair"
+msgstr "Obsidiana ŝtupo"
 
 #: init.lua
 msgid "Acacia Wood Stair Outer"
@@ -1531,6 +1509,66 @@ msgid "Wooden Stair Outer"
 msgstr "Ligna ŝtupo"
 
 #: init.lua
+msgid "Pine Wood Stair"
+msgstr "Abia ligna ŝtupo"
+
+#: init.lua
+msgid "Sandstone Block Stair"
+msgstr "Sabloŝtona bloka ŝtupo"
+
+#: init.lua
+msgid "Sandstone Brick Stair"
+msgstr "Sabloŝtona brika ŝtupo"
+
+#: init.lua
+msgid "Sandstone Stair"
+msgstr "Sabloŝtona ŝtupo"
+
+#: init.lua
+msgid "Silver Sandstone Block Stair"
+msgstr "Blanka sabloŝtona bloka ŝtupo"
+
+#: init.lua
+msgid "Silver Sandstone Brick Stair"
+msgstr "Blanka sabloŝtona brika ŝtupo"
+
+#: init.lua
+msgid "Silver Sandstone Stair"
+msgstr "Blanka sabloŝtona ŝtupo"
+
+#: init.lua
+msgid "Snow Block Stair"
+msgstr "Neĝa bloka ŝtupo"
+
+#: init.lua
+msgid "Steel Block Stair"
+msgstr "Ŝtala bloka ŝtupo"
+
+#: init.lua
+msgid "Stone Block Stair"
+msgstr "Ŝtona bloka ŝtupo"
+
+#: init.lua
+msgid "Stone Brick Stair"
+msgstr "Ŝtona brika ŝtupo"
+
+#: init.lua
+msgid "Stone Stair"
+msgstr "Ŝtona ŝtupo"
+
+#: init.lua
+msgid "Straw Stair"
+msgstr "Pajla ŝtupo"
+
+#: init.lua
+msgid "Tin Block Stair"
+msgstr "Stana bloka ŝtupo"
+
+#: init.lua
+msgid "Wooden Stair"
+msgstr "Ligna ŝtupo"
+
+#: init.lua
 msgid "Gun Powder"
 msgstr "Pulvo"
 
@@ -1543,15 +1581,18 @@ msgid "Unknown Item"
 msgstr "Nekonata objekto"
 
 #: init.lua
-msgid "Drinking Glass (empty)"
+#, fuzzy
+msgid "Empty Drinking Glass"
 msgstr "Glaso (malplena)"
 
 #: init.lua
-msgid "Glass Bottle (empty)"
+#, fuzzy
+msgid "Empty Glass Bottle"
 msgstr "Vitra botelo (malplena)"
 
 #: init.lua
-msgid "Pile of Glass Fragments"
+#, fuzzy
+msgid "Glass Fragments"
 msgstr "Amaso da vitraj fragmentoj"
 
 #: init.lua
@@ -1559,7 +1600,8 @@ msgid "Vessels Shelf"
 msgstr "Uja breto"
 
 #: init.lua
-msgid "Heavy Steel Bottle (empty)"
+#, fuzzy
+msgid "Empty Heavy Steel Bottle"
 msgstr "Peza ŝtala botelo (malplena)"
 
 #: init.lua
@@ -1635,7 +1677,8 @@ msgid "Yellow Wool"
 msgstr "Flava lano"
 
 #: init.lua
-msgid "Iron bar"
+#, fuzzy
+msgid "Iron Bar"
 msgstr "Fera baro"
 
 #: init.lua
@@ -1649,3 +1692,24 @@ msgstr "Njan-kata ĉielarko"
 #: init.lua
 msgid "Nyan Cat"
 msgstr "Njan-kato"
+
+#~ msgid "Leaves"
+#~ msgstr "Folioj"
+
+#~ msgid "Sapling"
+#~ msgstr "Arbido"
+
+#~ msgid "Tree"
+#~ msgstr "Arbo"
+
+#~ msgid "Wooden Planks"
+#~ msgstr "Lignaj tabuloj"
+
+#~ msgid "Trapdoor"
+#~ msgstr "Plankpordo"
+
+#~ msgid "String"
+#~ msgstr "Signoĉeno"
+
+#~ msgid "Rose"
+#~ msgstr "Rozo"
