@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-07 22:13+0100\n"
-"PO-Revision-Date: 2018-02-07 12:38+0000\n"
+"PO-Revision-Date: 2018-12-09 11:08+0000\n"
 "Last-Translator: Muhammad Nur Hidayat Yasuyoshi <mnh48mail@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
 "ms/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -56,7 +56,6 @@ msgid "Water Bucket"
 msgstr "Baldi Air"
 
 #: init.lua
-#, fuzzy
 msgid "Brake Rail"
 msgstr "Landasan Brek"
 
@@ -65,7 +64,6 @@ msgid "Cart (Sneak+Click to pick up)"
 msgstr "Pedati (Selinap+Klik untuk ambil balik)"
 
 #: init.lua
-#, fuzzy
 msgid "Powered Rail"
 msgstr "Landasan Berkuasa"
 
@@ -86,9 +84,8 @@ msgid "Acacia Bush Stem"
 msgstr "Batang Belukar Akasia"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree Leaves"
-msgstr "Daun Akasia"
+msgstr "Daun Pokok Akasia"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
@@ -107,9 +104,8 @@ msgid "Apple"
 msgstr "Epal"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree Leaves"
-msgstr "Daun Aspen"
+msgstr "Daun Pokok Aspen"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
@@ -320,29 +316,24 @@ msgid "Dry Shrub"
 msgstr "Pokok Renek Kering"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Fence"
-msgstr "Pagar Akasia"
+msgstr "Pagar Kayu Akasia"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Fence"
-msgstr "Pagar Aspen"
+msgstr "Pagar Kayu Aspen"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Fence"
 msgstr "Pagar Kayu Hutan"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Fence"
-msgstr "Pagar Pain"
+msgstr "Pagar Kayu Pain"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Fence"
-msgstr "Pagar Kayu"
+msgstr "Pagar Kayu Epal"
 
 #: init.lua
 msgid "Flint"
@@ -389,12 +380,10 @@ msgid "Jungle Grass"
 msgstr "Rumput Hutan"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree Leaves"
 msgstr "Daun Pokok Hutan"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree Sapling"
 msgstr "Anak Pokok Hutan"
 
@@ -403,7 +392,6 @@ msgid "Jungle Tree"
 msgstr "Kayu Pokok Hutan"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Planks"
 msgstr "Papan Kayu Hutan"
 
@@ -428,9 +416,8 @@ msgid "Lava Source"
 msgstr "Sumber Lava"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree Leaves"
-msgstr "Daun Aspen"
+msgstr "Daun Pokok Epal"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
@@ -513,7 +500,6 @@ msgid "Pine Needles"
 msgstr "Daun Pain"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Tree Sapling"
 msgstr "Anak Pokok Pain"
 
@@ -550,9 +536,8 @@ msgid "Sandstone"
 msgstr "Batu Pasir"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree Sapling"
-msgstr "Anak Pokok Aspen"
+msgstr "Anak Pokok Epal"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -707,9 +692,8 @@ msgid "Torch"
 msgstr "Obor"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree"
-msgstr "Kayu Aspen"
+msgstr "Kayu Epal"
 
 #: init.lua
 msgid "Flowing Water"
@@ -720,9 +704,8 @@ msgid "Water Source"
 msgstr "Sumber Air"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Planks"
-msgstr "Papan Kayu Aspen"
+msgstr "Papan Kayu Epal"
 
 #: init.lua
 msgid "Glass Door"
@@ -741,115 +724,94 @@ msgid "Wooden Door"
 msgstr "Pintu Kayu"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Fence Gate"
-msgstr "Pintu Pagar Akasia"
+msgstr "Pintu Pagar Kayu Akasia"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Fence Gate"
-msgstr "Pintu Pagar Aspen"
+msgstr "Pintu Pagar Kayu Aspen"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Fence Gate"
 msgstr "Pintu Pagar Kayu Hutan"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Fence Gate"
-msgstr "Pintu Pagar Pain"
+msgstr "Pintu Pagar Kayu Pain"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Fence Gate"
-msgstr "Pintu Pagar Kayu"
+msgstr "Pintu Pagar Kayu Epal"
 
 #: init.lua
 msgid "Hidden Door Segment"
 msgstr "Segmen Pintu Tersembunyi"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Trapdoor"
-msgstr "Pintu Kayu"
+msgstr "Pintu Kolong Kayu"
 
 #: init.lua
 msgid "Steel Trapdoor"
 msgstr "Pintu Kolong Keluli"
 
 #: init.lua
-#, fuzzy
 msgid "Black Dye"
 msgstr "Pewarna Hitam"
 
 #: init.lua
-#, fuzzy
 msgid "Blue Dye"
 msgstr "Pewarna Biru"
 
 #: init.lua
-#, fuzzy
 msgid "Brown Dye"
 msgstr "Pewarna Perang"
 
 #: init.lua
-#, fuzzy
 msgid "Cyan Dye"
 msgstr "Pewarna Sian"
 
 #: init.lua
-#, fuzzy
 msgid "Dark Green Dye"
 msgstr "Pewarna Hijau Tua"
 
 #: init.lua
-#, fuzzy
 msgid "Dark Grey Dye"
 msgstr "Pewarna Kelabu Tua"
 
 #: init.lua
-#, fuzzy
 msgid "Green Dye"
 msgstr "Pewarna Hijau"
 
 #: init.lua
-#, fuzzy
 msgid "Grey Dye"
 msgstr "Pewarna Kelabu"
 
 #: init.lua
-#, fuzzy
 msgid "Magenta Dye"
 msgstr "Pewarna Magenta"
 
 #: init.lua
-#, fuzzy
 msgid "Orange Dye"
 msgstr "Pewarna Jingga"
 
 #: init.lua
-#, fuzzy
 msgid "Pink Dye"
 msgstr "Pewarna Merah Jambu"
 
 #: init.lua
-#, fuzzy
 msgid "Red Dye"
 msgstr "Pewarna Merah"
 
 #: init.lua
-#, fuzzy
 msgid "Violet Dye"
 msgstr "Pewarna Ungu"
 
 #: init.lua
-#, fuzzy
 msgid "White Dye"
 msgstr "Pewarna Putih"
 
 #: init.lua
-#, fuzzy
 msgid "Yellow Dye"
 msgstr "Pewarna Kuning"
 
@@ -898,12 +860,10 @@ msgid "Wooden Hoe"
 msgstr "Cangkul Kayu"
 
 #: init.lua
-#, fuzzy
 msgid "Cotton Seed"
 msgstr "Benih Kapas"
 
 #: init.lua
-#, fuzzy
 msgid "Wheat Seed"
 msgstr "Benih Gandum"
 
@@ -932,7 +892,6 @@ msgid "Permanent Flame"
 msgstr "Api Abadi"
 
 #: init.lua
-#, fuzzy
 msgid "White Dandelion"
 msgstr "Dandelion Putih"
 
@@ -953,9 +912,8 @@ msgid "Red Mushroom"
 msgstr "Cendawan Merah"
 
 #: init.lua
-#, fuzzy
 msgid "Red Rose"
-msgstr "Pewarna Merah"
+msgstr "Ros Merah"
 
 #: init.lua
 msgid "Orange Tulip"
@@ -1550,28 +1508,24 @@ msgid "Unknown Item"
 msgstr "Item Tidak Diketahui"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Drinking Glass"
-msgstr "Gelas Minuman (Kosong)"
+msgstr "Gelas Minuman Kosong"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Glass Bottle"
-msgstr "Botol Kaca (Kosong)"
+msgstr "Botol Kaca Kosong"
 
 #: init.lua
-#, fuzzy
 msgid "Glass Fragments"
-msgstr "Timbunan Cebisan Kaca"
+msgstr "Cebisan Kaca"
 
 #: init.lua
 msgid "Vessels Shelf"
 msgstr "Rak Bekas Kaca"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Heavy Steel Bottle"
-msgstr "Botol Keluli Berat (Kosong)"
+msgstr "Botol Keluli Berat Kosong"
 
 #: init.lua
 msgid "Cobblestone Wall"
@@ -1646,7 +1600,6 @@ msgid "Yellow Wool"
 msgstr "Bulu Biri-Biri Kuning"
 
 #: init.lua
-#, fuzzy
 msgid "Iron Bar"
 msgstr "Jeriji Besi"
 
