@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-07 22:13+0100\n"
-"PO-Revision-Date: 2017-08-29 17:37+0000\n"
+"PO-Revision-Date: 2018-12-10 19:08+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/minetest/"
 "mtg_i18n/be/>\n"
@@ -16,9 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.17-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -57,7 +57,6 @@ msgid "Water Bucket"
 msgstr "Вядро вады"
 
 #: init.lua
-#, fuzzy
 msgid "Brake Rail"
 msgstr "Тармазныя рэйкі"
 
@@ -66,7 +65,6 @@ msgid "Cart (Sneak+Click to pick up)"
 msgstr "Вазок (Красціся+Націск, каб падабраць)"
 
 #: init.lua
-#, fuzzy
 msgid "Powered Rail"
 msgstr "Сілавыя рэйкі"
 
@@ -87,7 +85,6 @@ msgid "Acacia Bush Stem"
 msgstr "Сцябло хмызняка акацыі"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree Leaves"
 msgstr "Лісце акацыі"
 
@@ -108,7 +105,6 @@ msgid "Apple"
 msgstr "Яблык"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree Leaves"
 msgstr "Лісце асіны"
 
@@ -321,29 +317,24 @@ msgid "Dry Shrub"
 msgstr "Сухі хмызняк"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Fence"
 msgstr "Плот з акацыі"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Fence"
 msgstr "Асінавы плот"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Fence"
 msgstr "Плот з джунглевага дрэва"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Fence"
 msgstr "Хвойны плот"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Fence"
-msgstr "Драўляны плот"
+msgstr "Плот з яблыні"
 
 #: init.lua
 msgid "Flint"
@@ -390,12 +381,10 @@ msgid "Jungle Grass"
 msgstr "Джунглевая трава"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree Leaves"
 msgstr "Лісце джунглевага дрэва"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree Sapling"
 msgstr "Саджанец джунглевага дрэва"
 
@@ -404,7 +393,6 @@ msgid "Jungle Tree"
 msgstr "Джунглевае дрэва"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Planks"
 msgstr "Дошкі з джунглевага дрэва"
 
@@ -429,9 +417,8 @@ msgid "Lava Source"
 msgstr "Крыніца лавы"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree Leaves"
-msgstr "Лісце асіны"
+msgstr "Лісце яблыні"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
@@ -514,7 +501,6 @@ msgid "Pine Needles"
 msgstr "Ігліца хвоі"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Tree Sapling"
 msgstr "Саджанец хвоі"
 
@@ -551,9 +537,8 @@ msgid "Sandstone"
 msgstr "Пяшчанік"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree Sapling"
-msgstr "Саджанец асіны"
+msgstr "Саджанец яблыні"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -708,9 +693,8 @@ msgid "Torch"
 msgstr "Факел"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree"
-msgstr "Асіна"
+msgstr "Яблыня"
 
 #: init.lua
 msgid "Flowing Water"
@@ -721,9 +705,8 @@ msgid "Water Source"
 msgstr "Крыніца вады"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Planks"
-msgstr "Асінавыя дошкі"
+msgstr "Дошкі з яблыні"
 
 #: init.lua
 msgid "Glass Door"
@@ -742,115 +725,94 @@ msgid "Wooden Door"
 msgstr "Драўляныя дзверы"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Wood Fence Gate"
 msgstr "Брама з акацыі"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Wood Fence Gate"
 msgstr "Брама з асіны"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Wood Fence Gate"
 msgstr "Брама з джунглевага дрэва"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Wood Fence Gate"
 msgstr "Брама з хвоі"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Fence Gate"
-msgstr "Брама з дрэва"
+msgstr "Брама з яблыні"
 
 #: init.lua
 msgid "Hidden Door Segment"
 msgstr "Сегнент схаваных дзвярэй"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Trapdoor"
-msgstr "Драўляныя дзверы"
+msgstr "Драўляны люк"
 
 #: init.lua
 msgid "Steel Trapdoor"
 msgstr "Сталёвы люк"
 
 #: init.lua
-#, fuzzy
 msgid "Black Dye"
 msgstr "Чорны фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Blue Dye"
 msgstr "Сіні фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Brown Dye"
 msgstr "Карычневы фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Cyan Dye"
 msgstr "Цыянавы фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Dark Green Dye"
 msgstr "Цёмна-зялёны фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Dark Grey Dye"
 msgstr "Цёмна-шэры фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Green Dye"
 msgstr "Зялёны фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Grey Dye"
 msgstr "Шэры фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Magenta Dye"
 msgstr "Пурпурны фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Orange Dye"
 msgstr "Памаранчавы фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Pink Dye"
 msgstr "Ружовы фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Red Dye"
 msgstr "Чырвоны фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Violet Dye"
 msgstr "Фіялетавы фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "White Dye"
 msgstr "Белы фарбавальнік"
 
 #: init.lua
-#, fuzzy
 msgid "Yellow Dye"
 msgstr "Жоўты фарбавальнік"
 
@@ -899,12 +861,10 @@ msgid "Wooden Hoe"
 msgstr "Драўляная матыка"
 
 #: init.lua
-#, fuzzy
 msgid "Cotton Seed"
 msgstr "Насенне бавоўніка"
 
 #: init.lua
-#, fuzzy
 msgid "Wheat Seed"
 msgstr "Насенне пшаніцы"
 
@@ -933,7 +893,6 @@ msgid "Permanent Flame"
 msgstr "Пастаяннае полымя"
 
 #: init.lua
-#, fuzzy
 msgid "White Dandelion"
 msgstr "Белы дзьмухавец"
 
@@ -954,9 +913,8 @@ msgid "Red Mushroom"
 msgstr "Чырвоны грыб"
 
 #: init.lua
-#, fuzzy
 msgid "Red Rose"
-msgstr "Чырвоны фарбавальнік"
+msgstr "Чырвоная ружа"
 
 #: init.lua
 msgid "Orange Tulip"
@@ -1551,28 +1509,24 @@ msgid "Unknown Item"
 msgstr "Невядомы элемент"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Drinking Glass"
-msgstr "Шклянка (пустая)"
+msgstr "Пустая шклянка"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Glass Bottle"
-msgstr "Шкляная бутэлька (пустая)"
+msgstr "Пустая шкляная бутэлька"
 
 #: init.lua
-#, fuzzy
 msgid "Glass Fragments"
-msgstr "Куча аскепкаў шкла"
+msgstr "Аскепкі шкла"
 
 #: init.lua
 msgid "Vessels Shelf"
 msgstr "Паліца для посуду"
 
 #: init.lua
-#, fuzzy
 msgid "Empty Heavy Steel Bottle"
-msgstr "Цяжкая сталёвая бутэлька (пустая)"
+msgstr "Пустая цяжкая сталёвая бутэлька"
 
 #: init.lua
 msgid "Cobblestone Wall"
@@ -1647,7 +1601,6 @@ msgid "Yellow Wool"
 msgstr "Жоўтая воўна"
 
 #: init.lua
-#, fuzzy
 msgid "Iron Bar"
 msgstr "Жалезны прут"
 
