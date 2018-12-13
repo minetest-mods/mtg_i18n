@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-07 22:13+0100\n"
-"PO-Revision-Date: 2018-01-24 12:09+0000\n"
-"Last-Translator: Erin Heart <erin0heart@protonmail.ch>\n"
+"PO-Revision-Date: 2018-12-14 15:09+0000\n"
+"Last-Translator: Tirifto <tirifto@posteo.cz>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/minetest/"
 "mtg_i18n/eo/>\n"
 "Language: eo\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -33,7 +33,7 @@ msgstr "Luksa lito"
 
 #: init.lua
 msgid "Boat"
-msgstr "Ŝipo"
+msgstr "Boato"
 
 #: init.lua
 msgid "Bones"
@@ -56,13 +56,12 @@ msgid "Water Bucket"
 msgstr "Sitelo da akvo"
 
 #: init.lua
-#, fuzzy
 msgid "Brake Rail"
 msgstr "Bremsa relo"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr "Ĉaro (malrapidi+alklaki por kolekti)"
+msgstr "Ĉaro (malrapidi+klaki por kolekti)"
 
 #: init.lua
 #, fuzzy
@@ -75,24 +74,23 @@ msgstr "Relo"
 
 #: init.lua
 msgid "Acacia Bush Leaves"
-msgstr "Akaciaj arbustaj folioj"
+msgstr "Folioj de akacia arbetaĵo"
 
 #: init.lua
 msgid "Acacia Bush Sapling"
-msgstr "Akacia arbustido"
+msgstr "Plantido de akacia arbetaĵo"
 
 #: init.lua
 msgid "Acacia Bush Stem"
-msgstr "Akacia arbusta trunketo"
+msgstr "Trunketo de akacia arbetaĵo"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree Leaves"
-msgstr "Akaciaj folioj"
+msgstr "Folioj de akacia arbo"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
-msgstr "Akacia arbido"
+msgstr "Plantido de akacia arbo"
 
 #: init.lua
 msgid "Acacia Tree"
@@ -113,11 +111,11 @@ msgstr "Tremolaj folioj"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
-msgstr "Tremola arbido"
+msgstr "Plantido de tremolo"
 
 #: init.lua
 msgid "Aspen Tree"
-msgstr "Tremola arbo"
+msgstr "Trunko de tremolo"
 
 #: init.lua
 msgid "Aspen Wood Planks"
@@ -141,7 +139,7 @@ msgstr "Ŝtala hakilo"
 
 #: init.lua
 msgid "Stone Axe"
-msgstr "Ŝtona Hakilo"
+msgstr "Ŝtona hakilo"
 
 #: init.lua
 msgid "Wooden Axe"
@@ -173,15 +171,15 @@ msgstr "Bronza fandaĵo"
 
 #: init.lua
 msgid "Bush Leaves"
-msgstr "Arbustaj folioj"
+msgstr "Folioj de arbetaĵo"
 
 #: init.lua
 msgid "Bush Sapling"
-msgstr "Arbustido"
+msgstr "Plantido de arbetaĵo"
 
 #: init.lua
 msgid "Bush Stem"
-msgstr "Arbusta trunketo"
+msgstr "Trunketo de arbetaĵo"
 
 #: init.lua
 msgid "Cactus"
@@ -342,7 +340,7 @@ msgstr "Abia barilo"
 #: init.lua
 #, fuzzy
 msgid "Apple Wood Fence"
-msgstr "Ligna barilo"
+msgstr "Pomuja barilo"
 
 #: init.lua
 msgid "Flint"
@@ -389,18 +387,16 @@ msgid "Jungle Grass"
 msgstr "Ĝangala herbo"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree Leaves"
-msgstr "Ĝangalaj folioj"
+msgstr "Folioj de ĝangalarbo"
 
 #: init.lua
-#, fuzzy
 msgid "Jungle Tree Sapling"
-msgstr "Ĝangala arbido"
+msgstr "Plantido de ĝangalarbo"
 
 #: init.lua
 msgid "Jungle Tree"
-msgstr "Ĝangala arbo"
+msgstr "Trunko de ĝangalarbo"
 
 #: init.lua
 #, fuzzy
@@ -425,16 +421,15 @@ msgstr "Fluanta lafo"
 
 #: init.lua
 msgid "Lava Source"
-msgstr "Lafa fonto"
+msgstr "Fonto de lafo"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree Leaves"
-msgstr "Tremolaj folioj"
+msgstr "Folioj de pomujo"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr "Meŝa kristala fragmento"
+msgstr "Fragmento de meŝa kristalo"
 
 #: init.lua
 msgid "Mese Crystal"
@@ -513,9 +508,8 @@ msgid "Pine Needles"
 msgstr "Abiaj pingloj"
 
 #: init.lua
-#, fuzzy
 msgid "Pine Tree Sapling"
-msgstr "Abia arbido"
+msgstr "Plantido de abia arbo"
 
 #: init.lua
 msgid "Pine Tree"
@@ -531,7 +525,7 @@ msgstr "Fluanta rivera akvo"
 
 #: init.lua
 msgid "River Water Source"
-msgstr "Rivera akva fonto"
+msgstr "Fonto de rivera akvo"
 
 #: init.lua
 msgid "Sand"
@@ -550,9 +544,8 @@ msgid "Sandstone"
 msgstr "Sabloŝtono"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree Sapling"
-msgstr "Tremola arbido"
+msgstr "Plantido de pomujo"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -640,31 +633,31 @@ msgstr "Ŝtono"
 
 #: init.lua
 msgid "Coal Ore"
-msgstr "Karba erco"
+msgstr "Karberco"
 
 #: init.lua
 msgid "Copper Ore"
-msgstr "Kupra erco"
+msgstr "Kuprerco"
 
 #: init.lua
 msgid "Diamond Ore"
-msgstr "Diamanta erco"
+msgstr "Diamanterco"
 
 #: init.lua
 msgid "Gold Ore"
-msgstr "Ora erco"
+msgstr "Orerco"
 
 #: init.lua
 msgid "Iron Ore"
-msgstr "Fera erco"
+msgstr "Fererco"
 
 #: init.lua
 msgid "Mese Ore"
-msgstr "Meŝa erco"
+msgstr "Meŝerco"
 
 #: init.lua
 msgid "Tin Ore"
-msgstr "Stana erco"
+msgstr "Stanerco"
 
 #: init.lua
 msgid "Bronze Sword"
@@ -707,9 +700,8 @@ msgid "Torch"
 msgstr "Torĉo"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Tree"
-msgstr "Tremola arbo"
+msgstr "Trunko de pomujo"
 
 #: init.lua
 msgid "Flowing Water"
@@ -717,12 +709,11 @@ msgstr "Fluanta akvo"
 
 #: init.lua
 msgid "Water Source"
-msgstr "Akva fonto"
+msgstr "Fonto de akvo"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Planks"
-msgstr "Tremolaj lignaj tabuloj"
+msgstr "Pomujaj lignaj tabuloj"
 
 #: init.lua
 msgid "Glass Door"
@@ -761,22 +752,20 @@ msgid "Pine Wood Fence Gate"
 msgstr "Abia barilpordo"
 
 #: init.lua
-#, fuzzy
 msgid "Apple Wood Fence Gate"
-msgstr "Ligna barilpordo"
+msgstr "Pomuja barilpordo"
 
 #: init.lua
 msgid "Hidden Door Segment"
 msgstr "Kaŝita pordo-parto"
 
 #: init.lua
-#, fuzzy
 msgid "Wooden Trapdoor"
-msgstr "Ligna pordo"
+msgstr "Ligna klappordo"
 
 #: init.lua
 msgid "Steel Trapdoor"
-msgstr "Ŝtala plankpordo"
+msgstr "Ŝtala klappordo"
 
 #: init.lua
 #, fuzzy
@@ -804,9 +793,8 @@ msgid "Dark Green Dye"
 msgstr "Malhele verda farbo"
 
 #: init.lua
-#, fuzzy
 msgid "Dark Grey Dye"
-msgstr "Malhela griza farbo"
+msgstr "Malhele griza farbo"
 
 #: init.lua
 #, fuzzy
