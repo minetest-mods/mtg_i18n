@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-07 22:13+0100\n"
-"PO-Revision-Date: 2019-01-01 12:20+0000\n"
+"PO-Revision-Date: 2019-01-03 00:06+0000\n"
 "Last-Translator: JDiaz <runspect@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/minetest/"
 "mtg_i18n/es/>\n"
@@ -537,7 +537,7 @@ msgstr "Piedra arenisca"
 
 #: init.lua
 msgid "Apple Tree Sapling"
-msgstr "Retoño de álamo"
+msgstr "Retoño de manzano"
 
 #: init.lua
 msgid "Bronze Shovel"
@@ -1510,11 +1510,11 @@ msgstr "Objeto desconocido"
 
 #: init.lua
 msgid "Empty Drinking Glass"
-msgstr "Vaso para beber (vacío)"
+msgstr "Vaso para beber vacío"
 
 #: init.lua
 msgid "Empty Glass Bottle"
-msgstr "Botella de vidrio (vacía)"
+msgstr "Botella de vidrio vacía"
 
 #: init.lua
 msgid "Glass Fragments"
@@ -1526,7 +1526,7 @@ msgstr "Estante de Vasijas"
 
 #: init.lua
 msgid "Empty Heavy Steel Bottle"
-msgstr "Botella de acero (vacía)"
+msgstr "Botella de acero vacía"
 
 #: init.lua
 msgid "Cobblestone Wall"
