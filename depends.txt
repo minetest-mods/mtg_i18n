@@ -1,4 +1,3 @@
-intllib
 beds?
 boats?
 bucket?
