@@ -1,0 +1,553 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Rui914 <mrrst0914@gmail.com>, 2014.
+#
+#"Project-Id-Version: PACKAGE VERSION\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2018-05-28 02:39+0000\n"
+#"Last-Translator: Rui <rui.minetest@gmail.com>\n"
+#"Language-Team: Japanese <https://hosted.weblate.org/projects/minetest/"
+#"mtg_i18n/ja/>\n"
+#"Language: ja\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=1; plural=0;\n"
+#"X-Generator: Weblate 3.0-dev\n"
+
+Air (you hacker you!)=空気 (お前ハッカーだろ)
+Simple Bed=簡素なベッド
+Fancy Bed=お洒落なベッド
+Boat=ボート
+Bones=骨
+Empty Bucket=空のバケツ
+Lava Bucket=溶岩バケツ
+River Water Bucket=淡水バケツ
+Water Bucket=水バケツ
+#, fuzzy
+Brake Rail=ブレーキレール
+Cart (Sneak+Click to pick up)=トロッコ (スニーク+クリックで回収)
+#, fuzzy
+Powered Rail=パワードレール
+Rail=レール
+Acacia Bush Leaves=アカシアの茂みの葉
+Acacia Bush Sapling=アカシアの茂みの苗木
+Acacia Bush Stem=アカシアの茂みの幹
+#, fuzzy
+Acacia Tree Leaves=アカシアの葉
+Acacia Tree Sapling=アカシアの苗木
+Acacia Tree=アカシアの木
+Acacia Wood Planks=アカシアの木材
+Apple=リンゴ
+#, fuzzy
+Aspen Tree Leaves=白樺の葉
+Aspen Tree Sapling=白樺の苗木
+Aspen Tree=白樺の木
+Aspen Wood Planks=白樺の木材
+Bronze Axe=青銅の斧
+Diamond Axe=ダイヤモンドの斧
+Mese Axe=Meseの斧
+Steel Axe=鉄の斧
+Stone Axe=石の斧
+Wooden Axe=木の斧
+Book=本
+Bookshelf=本棚
+Book With Text=文字入りの本
+Brick Block=レンガブロック
+Bronze Block=青銅ブロック
+Bronze Ingot=青銅インゴット
+Bush Leaves=茂みの葉
+Bush Sapling=茂みの苗木
+Bush Stem=茂みの幹
+Cactus=サボテン
+Locked Chest=鍵付きチェスト
+Chest=チェスト
+Clay Brick=レンガ
+Clay Lump=粘土
+Clay=粘土ブロック
+Cloud=雲ブロック
+Coal Block=石炭ブロック
+Coal Lump=石炭
+Cobblestone=丸石
+Copper Block=銅ブロック
+Copper Ingot=銅インゴット
+Copper Lump=銅
+Brown Coral=茶色の珊瑚
+Orange Coral=橙色の珊瑚
+Coral Skeleton=珊瑚の骨格
+Desert Cobblestone=砂漠の丸石
+Desert Sand=砂漠の砂
+Desert Sandstone Block=砂漠の砂岩ブロック
+Desert Sandstone Brick=砂漠の砂岩レンガ
+Desert Sandstone=砂漠の砂岩
+Desert Stone Block=砂漠の石ブロック
+Desert Stone Brick=砂漠の石レンガ
+Desert Stone=砂漠の石
+Diamond Block=ダイアモンドブロック
+Diamond=ダイヤモンド
+Dirt=土
+Dirt with Dry Grass=枯草付きの土
+Dirt with Grass and Footsteps=足跡と草付きの土
+Dirt with Grass=草付きの土
+Dirt with Rainforest Litter=腐葉土付きの土
+Dirt with Snow=雪付きの土
+Dry Grass=枯草
+Dry Shrub=枯れ木
+#, fuzzy
+Acacia Wood Fence=アカシアのフェンス
+#, fuzzy
+Aspen Wood Fence=白樺のフェンス
+#, fuzzy
+Jungle Wood Fence=ジャングルウッドのフェンス
+#, fuzzy
+Pine Wood Fence=松のフェンス
+#, fuzzy
+Apple Wood Fence=木のフェンス
+Flint=火打ち石
+Furnace=かまど
+Glass=ガラス
+Gold Block=金ブロック
+Gold Ingot=金インゴット
+Gold Lump=金
+Grass=草
+Gravel=砂利
+Ice=氷
+Iron Lump=鉄
+Jungle Grass=ジャングルの草
+#, fuzzy
+Jungle Tree Leaves=ジャングルの葉
+#, fuzzy
+Jungle Tree Sapling=ジャングルの苗木
+Jungle Tree=ジャングルの木
+#, fuzzy
+Jungle Wood Planks=ジャングルウッドの木材
+Key=カギ
+Steel Ladder=鉄のはしご
+Wooden Ladder=木のはしご
+Flowing Lava=溶岩流
+Lava Source=溶岩
+#, fuzzy
+Apple Tree Leaves=白樺の葉
+Mese Crystal Fragment=MESEクリスタルの欠片
+Mese Crystal=MESEクリスタル
+Mese Lamp=MESE
+Mese Post Light=MESEの街燈
+Mese Block=MESEブロック
+Mossy Cobblestone=苔石
+Obsidian Block=黒曜石ブロック
+Obsidian Brick=黒曜石レンガ
+Obsidian Glass=黒曜石ガラス
+Obsidian Shard=黒曜石の破片
+Obsidian=黒曜石
+Paper=紙
+Papyrus=パピルス
+Bronze Pickaxe=青銅のつるはし
+Diamond Pickaxe=ダイヤモンドのつるはし
+Mese Pickaxe=MESEのつるはし
+Steel Pickaxe=鉄のつるはし
+Stone Pickaxe=石のつるはし
+Wooden Pickaxe=木のつるはし
+Pine Needles=松の葉
+#, fuzzy
+Pine Tree Sapling=松の苗木
+Pine Tree=松の木
+Pine Wood Planks=松の木材
+Flowing River Water=淡水の水流
+River Water Source=淡水
+Sand=砂
+Sandstone Block=砂岩ブロック
+Sandstone Brick=砂岩レンガ
+Sandstone=砂岩
+#, fuzzy
+Apple Tree Sapling=白樺の苗木
+Bronze Shovel=青銅のシャベル
+Diamond Shovel=ダイヤモンドのシャベル
+Mese Shovel=MESEのシャベル
+Steel Shovel=鉄のシャベル
+Stone Shovel=石のシャベル
+Wooden Shovel=木のシャベル
+Steel Sign=鉄の看板
+Wooden Sign=木の看板
+Silver Sand=銀砂
+Silver Sandstone Block=銀砂岩ブロック
+Silver Sandstone Brick=銀砂岩レンガ
+Silver Sandstone=銀砂岩
+Skeleton Key=金のカギ
+Snow Block=雪ブロック
+Snow=雪
+Steel Block=鉄ブロック
+Steel Ingot=鉄インゴット
+Stick=棒
+Stone Block=石ブロック
+Stone Brick=石レンガ
+Stone=石
+Coal Ore=石炭鉱石
+Copper Ore=銅鉱石
+Diamond Ore=ダイヤモンド鉱石
+Gold Ore=金鉱石
+Iron Ore=鉄鉱石
+Mese Ore=MESE鉱石
+Tin Ore=錫鉱石
+Bronze Sword=青銅の剣
+Diamond Sword=ダイヤモンドの剣
+Mese Sword=MESEの剣
+Steel Sword=鉄の剣
+Stone Sword=石の剣
+Wooden Sword=木の剣
+Tin Block=錫ブロック
+Tin Ingot=錫インゴット
+Tin Lump=錫
+Torch=松明
+#, fuzzy
+Apple Tree=白樺の木
+Flowing Water=水流
+Water Source=水
+#, fuzzy
+Apple Wood Planks=白樺の木材
+Glass Door=ガラスのドア
+Obsidian Glass Door=黒曜石ガラスのドア
+Steel Door=鉄のドア
+Wooden Door=木のドア
+#, fuzzy
+Acacia Wood Fence Gate=アカシアのフェンスゲート
+#, fuzzy
+Aspen Wood Fence Gate=白樺のフェンスゲート
+#, fuzzy
+Jungle Wood Fence Gate=ジャングルウッドのフェンスゲート
+#, fuzzy
+Pine Wood Fence Gate=松のフェンスゲート
+#, fuzzy
+Apple Wood Fence Gate=木のフェンスゲート
+Hidden Door Segment=
+#, fuzzy
+Wooden Trapdoor=木のドア
+Steel Trapdoor=鉄のトラップドア
+#, fuzzy
+Black Dye=黒色の染料
+#, fuzzy
+Blue Dye=青色の染料
+#, fuzzy
+Brown Dye=茶色の染料
+#, fuzzy
+Cyan Dye=水色の染料
+#, fuzzy
+Dark Green Dye=緑色の染料
+#, fuzzy
+Dark Grey Dye=灰色の染料
+#, fuzzy
+Green Dye=黄緑色の染料
+#, fuzzy
+Grey Dye=薄灰色の染料
+#, fuzzy
+Magenta Dye=赤紫色の染料
+#, fuzzy
+Orange Dye=橙色の染料
+#, fuzzy
+Pink Dye=桃色の染料
+#, fuzzy
+Red Dye=赤色の染料
+#, fuzzy
+Violet Dye=紫色の染料
+#, fuzzy
+White Dye=白色の染料
+#, fuzzy
+Yellow Dye=黄色の染料
+Bread=パン
+Cotton=コットン
+Desert Sand Soil=砂漠の砂の土壌
+Wet Desert Sand Soil=濡れた砂漠の砂の土壌
+Flour=小麦粉
+Bronze Hoe=銅のクワ
+Diamond Hoe=ダイヤモンドのクワ
+Mese Hoe=MESEのクワ
+Steel Hoe=鉄のクワ
+Stone Hoe=石のクワ
+Wooden Hoe=木のクワ
+#, fuzzy
+Cotton Seed=コットンの種
+#, fuzzy
+Wheat Seed=小麦の種
+Soil=土壌
+Wet Soil=濡れた土壌
+Straw=藁
+Wheat=小麦
+Flint and Steel=鉄と火打ち石
+Permanent Flame=燃える火
+#, fuzzy
+White Dandelion=白いタンポポ
+Yellow Dandelion=タンポポ
+Blue Geranium=ゼラニウム
+Brown Mushroom=茶色いキノコ
+Red Mushroom=赤いキノコ
+#, fuzzy
+Red Rose=赤色の染料
+Orange Tulip=チューリップ
+Viola=ビオラ
+Waterlily=スイレン
+Ignore (you hacker you!)=無視(お前ハッカーだろ)
+Screwdriver (left-click rotates face, right-click rotates axis)=スクリュードライバー(左クリック:表面の回転 右クリック:軸の回転)
+Acacia Wood Slab=アカシアの板
+Aspen Wood Slab=白樺の板
+Brick Slab=レンガの板
+Bronze Block Slab=青銅ブロックの板
+Cobblestone Slab=丸石の板
+Copper Block Slab=銅ブロックの板
+Desert Cobblestone Slab=砂漠の丸石の板
+Desert Sandstone Block Slab=砂漠の砂岩ブロックの板
+Desert Sandstone Brick Slab=砂漠の砂岩レンガの板
+Desert Sandstone Slab=砂漠の砂岩の板
+Desert Stone Block Slab=砂漠の石ブロックの板
+Desert Stone Brick Slab=砂漠の石レンガの板
+Desert Stone Slab=砂漠の石の板
+Gold Block Slab=金ブロックの板
+Ice Slab=氷の板
+Jungle Wood Slab=ジャングルウッドの板
+Mossy Cobblestone Slab=苔石の板
+Obsidian Block Slab=黒曜石ブロックの板
+Obsidian Brick Slab=黒曜石レンガの板
+Obsidian Slab=黒曜石の板
+Pine Wood Slab=松の板
+Sandstone Block Slab=砂岩ブロックの板
+Sandstone Brick Slab=砂岩レンガの板
+Sandstone Slab=砂岩の板
+Silver Sandstone Block Slab=銀砂岩ブロックの板
+Silver Sandstone Brick Slab=銀砂岩レンガの板
+Silver Sandstone Slab=銀砂岩の板
+Snow Block Slab=雪ブロックの板
+Steel Block Slab=鉄ブロックの板
+Stone Block Slab=石ブロックの板
+Stone Brick Slab=石レンガの板
+Stone Slab=石の板
+Straw Slab=藁の板
+Tin Block Slab=錫ブロックの板
+Wooden Slab=木の板
+Acacia Wood Stair=アカシアの階段
+Aspen Wood Stair=白樺の階段
+Brick Stair=レンガの階段
+Bronze Block Stair=青銅ブロックの階段
+Cobblestone Stair=丸石の階段
+Copper Block Stair=銅ブロックの階段
+Desert Cobblestone Stair=砂漠の丸石の階段
+Desert Sandstone Block Stair=砂漠の砂岩ブロックの階段
+Desert Sandstone Brick Stair=砂漠の砂岩レンガの階段
+Desert Sandstone Stair=砂漠の砂岩の階段
+Desert Stone Block Stair=砂漠の石ブロックの階段
+Desert Stone Brick Stair=砂漠の石レンガの階段
+Desert Stone Stair=砂漠の石の階段
+Gold Block Stair=金ブロックの階段
+Ice Stair=氷の階段
+#, fuzzy
+Acacia Wood Stair Inner=原木
+#, fuzzy
+Aspen Wood Stair Inner=原木
+#, fuzzy
+Brick Stair Inner=石レンガ
+#, fuzzy
+Bronze Block Stair Inner=青銅ブロック
+#, fuzzy
+Cobblestone Stair Inner=丸石
+#, fuzzy
+Copper Block Stair Inner=銅ブロック
+#, fuzzy
+Desert Cobblestone Stair Inner=砂漠の丸石
+#, fuzzy
+Desert Sandstone Block Stair Inner=赤レンガ
+#, fuzzy
+Desert Sandstone Brick Stair Inner=赤レンガ
+#, fuzzy
+Desert Sandstone Stair Inner=砂岩
+#, fuzzy
+Desert Stone Block Stair Inner=赤レンガ
+#, fuzzy
+Desert Stone Brick Stair Inner=赤レンガ
+#, fuzzy
+Desert Stone Stair Inner=砂岩
+#, fuzzy
+Gold Block Stair Inner=金ブロック
+Ice Stair Inner=
+#, fuzzy
+Jungle Wood Stair Inner=ジャングルの原木
+#, fuzzy
+Mossy Cobblestone Stair Inner=苔石
+#, fuzzy
+Obsidian Block Stair Inner=黒曜石の破片
+#, fuzzy
+Obsidian Brick Stair Inner=黒曜石の破片
+#, fuzzy
+Obsidian Stair Inner=黒曜石の破片
+#, fuzzy
+Pine Wood Stair Inner=桃色の羊毛
+#, fuzzy
+Sandstone Block Stair Inner=砂岩レンガ
+#, fuzzy
+Sandstone Brick Stair Inner=砂岩レンガ
+#, fuzzy
+Sandstone Stair Inner=砂岩
+#, fuzzy
+Silver Sandstone Block Stair Inner=砂岩レンガ
+#, fuzzy
+Silver Sandstone Brick Stair Inner=砂岩レンガ
+#, fuzzy
+Silver Sandstone Stair Inner=砂岩レンガ
+#, fuzzy
+Snow Block Stair Inner=雪ブロック
+#, fuzzy
+Steel Block Stair Inner=鉄ブロック
+#, fuzzy
+Stone Block Stair Inner=石レンガ
+#, fuzzy
+Stone Brick Stair Inner=石レンガ
+#, fuzzy
+Stone Stair Inner=石の剣
+Straw Stair Inner=
+#, fuzzy
+Tin Block Stair Inner=雪ブロック
+#, fuzzy
+Wooden Stair Inner=看板
+Jungle Wood Stair=ジャングルウッドの階段
+Mossy Cobblestone Stair=苔石の階段
+Obsidian Block Stair=黒曜石ブロックの階段
+Obsidian Brick Stair=黒曜石レンガの階段
+Obsidian Stair=黒曜石の階段
+#, fuzzy
+Acacia Wood Stair Outer=原木
+#, fuzzy
+Aspen Wood Stair Outer=原木
+#, fuzzy
+Brick Stair Outer=石レンガ
+#, fuzzy
+Bronze Block Stair Outer=青銅ブロック
+#, fuzzy
+Cobblestone Stair Outer=丸石
+#, fuzzy
+Copper Block Stair Outer=銅ブロック
+#, fuzzy
+Desert Cobblestone Stair Outer=砂漠の丸石
+#, fuzzy
+Desert Sandstone Block Stair Outer=赤レンガ
+#, fuzzy
+Desert Sandstone Brick Stair Outer=赤レンガ
+#, fuzzy
+Desert Sandstone Stair Outer=砂岩
+#, fuzzy
+Desert Stone Block Stair Outer=赤レンガ
+#, fuzzy
+Desert Stone Brick Stair Outer=赤レンガ
+#, fuzzy
+Desert Stone Stair Outer=砂岩
+#, fuzzy
+Gold Block Stair Outer=金ブロック
+Ice Stair Outer=
+#, fuzzy
+Jungle Wood Stair Outer=ジャングルの原木
+#, fuzzy
+Mossy Cobblestone Stair Outer=苔石
+#, fuzzy
+Obsidian Block Stair Outer=黒曜石の破片
+#, fuzzy
+Obsidian Brick Stair Outer=黒曜石の破片
+#, fuzzy
+Obsidian Stair Outer=黒曜石の破片
+#, fuzzy
+Pine Wood Stair Outer=桃色の羊毛
+#, fuzzy
+Sandstone Block Stair Outer=砂岩レンガ
+#, fuzzy
+Sandstone Brick Stair Outer=砂岩レンガ
+#, fuzzy
+Sandstone Stair Outer=砂岩
+#, fuzzy
+Silver Sandstone Block Stair Outer=砂岩レンガ
+#, fuzzy
+Silver Sandstone Brick Stair Outer=砂岩レンガ
+#, fuzzy
+Silver Sandstone Stair Outer=砂岩レンガ
+#, fuzzy
+Snow Block Stair Outer=雪ブロック
+#, fuzzy
+Steel Block Stair Outer=鉄ブロック
+#, fuzzy
+Stone Block Stair Outer=石レンガ
+#, fuzzy
+Stone Brick Stair Outer=石レンガ
+#, fuzzy
+Stone Stair Outer=石の剣
+Straw Stair Outer=
+#, fuzzy
+Tin Block Stair Outer=雪ブロック
+#, fuzzy
+Wooden Stair Outer=看板
+Pine Wood Stair=松の階段
+Sandstone Block Stair=砂岩ブロックの階段
+Sandstone Brick Stair=砂岩レンガの階段
+Sandstone Stair=砂岩の階段
+Silver Sandstone Block Stair=銀砂岩ブロックの階段
+Silver Sandstone Brick Stair=銀砂岩レンガの階段
+Silver Sandstone Stair=銀砂岩の階段
+Snow Block Stair=雪ブロックの階段
+Steel Block Stair=鉄ブロックの階段
+Stone Block Stair=石ブロックの階段
+Stone Brick Stair=石レンガの階段
+Stone Stair=石の階段
+Straw Stair=藁の階段
+Tin Block Stair=錫ブロックの階段
+Wooden Stair=木の階段
+Gun Powder=火薬
+TNT=TNT爆薬
+Unknown Item=不明なアイテム
+#, fuzzy
+Empty Drinking Glass=ドリンクグラス(空)
+#, fuzzy
+Empty Glass Bottle=ガラスのボトル(空)
+#, fuzzy
+Glass Fragments=ガラス片の山
+Vessels Shelf=容器棚
+#, fuzzy
+Empty Heavy Steel Bottle=鉄のボトル(空)
+Cobblestone Wall=丸石の壁
+Desert Cobblestone Wall=砂漠の丸石の壁
+Mossy Cobblestone Wall=苔石の壁
+Black Wool=黒色の羊毛
+Blue Wool=青色の羊毛
+Brown Wool=茶色の羊毛
+Cyan Wool=空色の羊毛
+Dark Green Wool=緑色の羊毛
+Dark Grey Wool=灰色の羊毛
+Green Wool=黄緑色の羊毛
+Grey Wool=薄灰色の羊毛
+Magenta Wool=赤紫色の羊毛
+Orange Wool=橙色の羊毛
+Pink Wool=桃色の羊毛
+Red Wool=赤色の羊毛
+Violet Wool=紫色の羊毛
+White Wool=白色の羊毛
+Yellow Wool=黄色の羊毛
+#, fuzzy
+Iron Bar=鉄鉱石
+Glass Pane=ガラス板
+Nyan Cat Rainbow=
+Nyan Cat=Nyan Cat"
+
+#~ Leaves"
+#~ msgstr "葉"
+
+#~ Sapling"
+#~ msgstr "苗木"
+
+#~ Tree"
+#~ msgstr "木"
+
+#~ Wooden Planks"
+#~ msgstr "木材"
+
+#~ Trapdoor"
+#~ msgstr "トラップドア"
+
+#~ String"
+#~ msgstr "糸"
+
+#~ Rose"
+#~ msgstr "バラ"

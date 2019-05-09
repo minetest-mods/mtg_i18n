@@ -1,0 +1,487 @@
+# textdomain: mtg_i18n
+# ITALIAN LOCALE FILE FOR THE MTG_i18N MODULE
+# Copyright (C) 2017 LNJ
+# This file is distributed under the same license as the MTG_i18N package.
+# Hamlet <h4mlet@riseup.net>, 2017.
+#
+#"Project-Id-Version: Italian locale file for the MTG_i18n module\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2017-10-09 16:47+0000\n"
+#"Last-Translator: Hamlet <h4mlet@riseup.net>\n"
+#"Language-Team: Italian <https://hosted.weblate.org/projects/minetest/"
+#"mtg_i18n/it/>\n"
+#"Language: it\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=2; plural=n != 1;\n"
+#"X-Generator: Weblate 2.17-dev\n"
+
+Air (you hacker you!)=Aria (hacker!)
+Simple Bed=Letto semplice
+Fancy Bed=Letto elegante
+Boat=zattera
+Bones=Ossa
+Empty Bucket=Secchio vuoto
+Lava Bucket=Secchio di lava
+River Water Bucket=Secchio d'acqua di fiume
+Water Bucket=Secchio d'acqua
+#, fuzzy
+Brake Rail=Binario freno
+Cart (Sneak+Click to pick up)=Vagone (Maiusc+Click per prenderlo)
+#, fuzzy
+Powered Rail=Binario alimentato
+Rail=Binario
+Acacia Bush Leaves=Foglie di cespuglio d'acacia
+Acacia Bush Sapling=Pianticella di cespuglio d'acacia
+Acacia Bush Stem=Fusto di cespuglio d'acacia
+#, fuzzy
+Acacia Tree Leaves=Foglie d'acacia
+Acacia Tree Sapling=Pianticella d'acacia
+Acacia Tree=Acacia
+Acacia Wood Planks=Assi di legno d'acacia
+Apple=Mela
+#, fuzzy
+Aspen Tree Leaves=Foglie di pioppo
+Aspen Tree Sapling=Pianticella di pioppo
+Aspen Tree=Pioppo
+Aspen Wood Planks=Assi di legno di pioppo
+Bronze Axe=Ascia di bronzo
+Diamond Axe=Ascia di diamante
+Mese Axe=Ascia di mese
+Steel Axe=Ascia d'acciaio
+Stone Axe=Ascia di pietra
+Wooden Axe=Ascia di legno
+Book=Libro
+Bookshelf=Scaffale
+Book With Text=Libro scritto
+Brick Block=Blocco di mattoni
+Bronze Block=Blocco di bronzo
+Bronze Ingot=Lingotto di bronzo
+Bush Leaves=Foglie di cespuglio
+Bush Sapling=Pianticella di cespuglio
+Bush Stem=Fusto di cespuglio
+Cactus=Cactus
+Locked Chest=Baule chiuso a chiave
+Chest=Baule
+Clay Brick=Mattone d'argilla
+Clay Lump=Grumo d'argilla
+Clay=Argilla
+Cloud=Nuvola
+Coal Block=Blocco di carbone
+Coal Lump=Grumo di carbone
+Cobblestone=Ciottoli
+Copper Block=Blocco di rame
+Copper Ingot=Lingotto di rame
+Copper Lump=Grumo di rame
+Brown Coral=Corallo marrone
+Orange Coral=Corallo arancione
+Coral Skeleton=Scheletro di corallo
+Desert Cobblestone=Ciottoli del deserto
+Desert Sand=Sabbia del deserto
+Desert Sandstone Block=Blocco di arenaria del deserto
+Desert Sandstone Brick=Mattoni di arenaria del deserto
+Desert Sandstone=Arenaria del deserto
+Desert Stone Block=Blocco di pietra del deserto
+Desert Stone Brick=Mattoni di pietra del deserto
+Desert Stone=Pietra del deserto
+Diamond Block=Blocco di diamante
+Diamond=Diamante
+Dirt=Terra
+Dirt with Dry Grass=Terra con erba secca
+Dirt with Grass and Footsteps=Terra con erba e impronte
+Dirt with Grass=Terra con erba
+Dirt with Rainforest Litter=Terra con humus della foresta pluviale
+Dirt with Snow=Terra con neve
+Dry Grass=Erba secca
+Dry Shrub=Arbusto secco
+#, fuzzy
+Acacia Wood Fence=Staccionata d'acacia
+#, fuzzy
+Aspen Wood Fence=Staccionata di pioppo
+#, fuzzy
+Jungle Wood Fence=Staccionata di legno della giungla
+#, fuzzy
+Pine Wood Fence=Staccionata di pino
+#, fuzzy
+Apple Wood Fence=Staccionata di legno
+Flint=Selce
+Furnace=Fornace
+Glass=Vetro
+Gold Block=Blocco d'oro
+Gold Ingot=Lingotto d'oro
+Gold Lump=Grumo d'oro
+Grass=Erba
+Gravel=Ghiaia
+Ice=Ghiaccio
+Iron Lump=Grumo di ferro
+Jungle Grass=Erba della giungla
+#, fuzzy
+Jungle Tree Leaves=Foglie della giungla
+#, fuzzy
+Jungle Tree Sapling=Pianticella di albero della giungla
+Jungle Tree=Albero della giungla
+#, fuzzy
+Jungle Wood Planks=Assi di legno della giungla
+Key=Chiave
+Steel Ladder=Scala a pioli d'acciaio
+Wooden Ladder=Scala a pioli di legno
+Flowing Lava=Lava corrente
+Lava Source=Fonte di lava
+#, fuzzy
+Apple Tree Leaves=Foglie di pioppo
+Mese Crystal Fragment=Frammento di cristallo di mese
+Mese Crystal=Cristallo di mese
+Mese Lamp=Lampada di mese
+Mese Post Light=Lampioncino di mese
+Mese Block=Blocco di mese
+Mossy Cobblestone=Ciottoli muschiosi
+Obsidian Block=Blocco di ossidiana
+Obsidian Brick=Mattoni di ossidiana
+Obsidian Glass=Vetro di ossidiana
+Obsidian Shard=Scheggia di ossidiana
+Obsidian=Ossidiana
+Paper=Carta
+Papyrus=Papiro
+Bronze Pickaxe=Piccone di bronzo
+Diamond Pickaxe=Piccone di diamante
+Mese Pickaxe=Piccone di mese
+Steel Pickaxe=Piccone d'acciaio
+Stone Pickaxe=Piccone di pietra
+Wooden Pickaxe=Piccone di legno
+Pine Needles=Aghi di pino
+#, fuzzy
+Pine Tree Sapling=Pianticella di pino
+Pine Tree=Pino
+Pine Wood Planks=Assi di legno di pino
+Flowing River Water=Acqua di fiume corrente
+River Water Source=Fonte d'acqua di fiume
+Sand=Sabbia
+Sandstone Block=Blocco d'arenaria
+Sandstone Brick=Mattoni d'arenaria
+Sandstone=Arenaria
+#, fuzzy
+Apple Tree Sapling=Pianticella di pioppo
+Bronze Shovel=Badile di bronzo
+Diamond Shovel=Badile di diamante
+Mese Shovel=Badile di mese
+Steel Shovel=Badile d'acciaio
+Stone Shovel=Badile di pietra
+Wooden Shovel=Badile di legno
+Steel Sign=Cartello d'acciaio
+Wooden Sign=Cartello di legno
+Silver Sand=Sabbia argentata
+Silver Sandstone Block=Blocco di arenaria argentata
+Silver Sandstone Brick=Mattoni di arenaria argentata
+Silver Sandstone=Arenaria argentata
+Skeleton Key=Chiave dello scheletro
+Snow Block=Blocco di neve
+Snow=Neve
+Steel Block=Blocco d'acciaio
+Steel Ingot=Lingotto d'acciaio
+Stick=Bastone
+Stone Block=Blocco di pietra
+Stone Brick=Mattoni di pietra
+Stone=Pietra
+Coal Ore=Vena di carbone
+Copper Ore=Vena di rame
+Diamond Ore=Vena di diamante
+Gold Ore=Vena d'oro
+Iron Ore=Vena di ferro
+Mese Ore=Vena di mese
+Tin Ore=Vena di stagno
+Bronze Sword=Spada di bronzo
+Diamond Sword=Spada di diamante
+Mese Sword=Spada di mese
+Steel Sword=Spada d'acciaio
+Stone Sword=Spada di pietra
+Wooden Sword=Spada di legno
+Tin Block=Blocco di stagno
+Tin Ingot=Lingotto di stagno
+Tin Lump=Grumo di stagno
+Torch=Torcia
+#, fuzzy
+Apple Tree=Pioppo
+Flowing Water=Acqua corrente
+Water Source=Sorgente d'acqua
+#, fuzzy
+Apple Wood Planks=Assi di legno di pioppo
+Glass Door=Porta di vetro
+Obsidian Glass Door=Porta di vetro d'ossidiana
+Steel Door=Porta d'acciaio
+Wooden Door=Porta di legno
+#, fuzzy
+Acacia Wood Fence Gate=Cancelletto d'acacia
+#, fuzzy
+Aspen Wood Fence Gate=Cancelletto di pioppo
+#, fuzzy
+Jungle Wood Fence Gate=Cancelletto di albero della giungla
+#, fuzzy
+Pine Wood Fence Gate=Cancelletto di pino
+#, fuzzy
+Apple Wood Fence Gate=Cancelletto di legno
+Hidden Door Segment=Segmento nascosto della porta
+#, fuzzy
+Wooden Trapdoor=Porta di legno
+Steel Trapdoor=Botola d'acciaio
+#, fuzzy
+Black Dye=Tintura nera
+#, fuzzy
+Blue Dye=Tintura blu
+#, fuzzy
+Brown Dye=Tintura marrone
+#, fuzzy
+Cyan Dye=Tintura ciano
+#, fuzzy
+Dark Green Dye=Tintura verde scuro
+#, fuzzy
+Dark Grey Dye=Tintura grigio scuro
+#, fuzzy
+Green Dye=Tintura verde
+#, fuzzy
+Grey Dye=Tintura grigia
+#, fuzzy
+Magenta Dye=Tintura magenta
+#, fuzzy
+Orange Dye=Tintura arancione
+#, fuzzy
+Pink Dye=Tintura rosa
+#, fuzzy
+Red Dye=Tintura rossa
+#, fuzzy
+Violet Dye=Tintura viola
+#, fuzzy
+White Dye=Tintura bianca
+#, fuzzy
+Yellow Dye=Tintura gialla
+Bread=Pane
+Cotton=Cotone
+Desert Sand Soil=Terreno coltivabile di sabbia del deserto
+Wet Desert Sand Soil=Terreno coltivabile irrigato di sabbia del deserto
+Flour=Farina
+Bronze Hoe=Zappa di bronzo
+Diamond Hoe=Zappa di diamante
+Mese Hoe=Zappa di mese
+Steel Hoe=Zappa d'acciaio
+Stone Hoe=Zappa di pietra
+Wooden Hoe=Zappa di legno
+#, fuzzy
+Cotton Seed=Semi di cotone
+#, fuzzy
+Wheat Seed=Semi di grano
+Soil=Terreno coltivabile
+Wet Soil=Terreno coltivabile irrigato
+Straw=Paglia
+Wheat=Grano
+Flint and Steel=Acciarino
+Permanent Flame=Fiamma eterna
+#, fuzzy
+White Dandelion=Dente di leone bianco
+Yellow Dandelion=Dente di leone giallo
+Blue Geranium=Geranio blu
+Brown Mushroom=Fungo marrone
+Red Mushroom=Fungo rosso
+#, fuzzy
+Red Rose=Tintura rossa
+Orange Tulip=Tulipano arancione
+Viola=Viola
+Waterlily=Ninfea
+Ignore (you hacker you!)=Ignore (hacker!)
+Screwdriver (left-click rotates face, right-click rotates axis)=Cacciavite (click sx ruota la faccia, click dx ruota l'asse)
+Acacia Wood Slab=Lastra di legno d'acacia
+Aspen Wood Slab=Lastra di legno di pioppo
+Brick Slab=Lastra di mattoni
+Bronze Block Slab=Lastra di blocco di bronzo
+Cobblestone Slab=Lastra di ciottoli
+Copper Block Slab=Lastra di blocco di rame
+Desert Cobblestone Slab=Latra di ciottoli del deserto
+Desert Sandstone Block Slab=Lastra di blocco di arenaria del deserto
+Desert Sandstone Brick Slab=Lastra di mattoni di arenaria del deserto
+Desert Sandstone Slab=Lastra di arenaria del deserto
+Desert Stone Block Slab=Lastra di blocco di pietra del deserto
+Desert Stone Brick Slab=Lastra di mattoni di pietra del deserto
+Desert Stone Slab=Lastra di pietra del deserto
+Gold Block Slab=Lastra di blocco d'oro
+Ice Slab=Lastra di ghiaccio
+Jungle Wood Slab=Lastra di legno della giungla
+Mossy Cobblestone Slab=Lastra di ciottoli muschiosi
+Obsidian Block Slab=Lastra di blocco d'ossidiana
+Obsidian Brick Slab=Lastra di mattoni d'ossidiana
+Obsidian Slab=Lastra d'ossidiana
+Pine Wood Slab=Lastra di legno di pino
+Sandstone Block Slab=Lastra di blocco d'arenaria
+Sandstone Brick Slab=Lastra di mattoni d'arenaria
+Sandstone Slab=Lastra d'arenaria
+Silver Sandstone Block Slab=Lastra di blocco d'arenaria argentata
+Silver Sandstone Brick Slab=Lastra di mattoni d'arenaria argentata
+Silver Sandstone Slab=Lastra d'arenaria argentata
+Snow Block Slab=Lastra di blocco di neve
+Steel Block Slab=Lastra di blocco d'acciaio
+Stone Block Slab=Lastra di blocco di pietra
+Stone Brick Slab=Lastra di mattoni di pietra
+Stone Slab=Lastra di pietra
+Straw Slab=Lastra di paglia
+Tin Block Slab=Lastra di blocco di stagno
+Wooden Slab=Lastra di legno
+Acacia Wood Stair=Scala di legno d'acacia
+Aspen Wood Stair=Scala di legno di pioppo
+Brick Stair=Scala di mattoni
+Bronze Block Stair=Scala di blocco di bronzo
+Cobblestone Stair=Scala di ciottoli
+Copper Block Stair=Scala di blocco di rame
+Desert Cobblestone Stair=Scala di ciottoli del deserto
+Desert Sandstone Block Stair=Scala di blocco d'arenaria del deserto
+Desert Sandstone Brick Stair=Scala di mattoni d'arenaria del deserto
+Desert Sandstone Stair=Scala d'arenaria del deserto
+Desert Stone Block Stair=Scala di blocco di pietra del deserto
+Desert Stone Brick Stair=Scala di mattoni di pietra del deserto
+Desert Stone Stair=Scala di pietra del deserto
+Gold Block Stair=Scala di blocco d'oro
+Ice Stair=Scala di ghiaccio
+Acacia Wood Stair Inner=Scala di legno d'acacia (angolo interno)
+Aspen Wood Stair Inner=Scala di legno di pioppo (angolo interno)
+Brick Stair Inner=Scala di mattoni (angolo interno)
+Bronze Block Stair Inner=Scala di blocco di bronzo (angolo interno)
+Cobblestone Stair Inner=Scala di ciottoli (angolo interno)
+Copper Block Stair Inner=Scala di blocco di rame (angolo interno)
+Desert Cobblestone Stair Inner=Scala di ciottoli del deserto (angolo interno)
+Desert Sandstone Block Stair Inner=Scala di blocco d'arenaria del deserto (angolo interno)
+Desert Sandstone Brick Stair Inner=Scala di mattoni d'arenaria del deserto (angolo interno)
+Desert Sandstone Stair Inner=Scala d'arenaria del deserto (angolo interno)
+Desert Stone Block Stair Inner=Scala di blocco di pietra del deserto (angolo interno)
+Desert Stone Brick Stair Inner=Scala di mattoni di pietra del deserto (angolo interno)
+Desert Stone Stair Inner=Scala di pietra del deserto (angolo interno)
+Gold Block Stair Inner=Scala di blocco d'oro (angolo interno)
+Ice Stair Inner=Scala di ghiaccio (angolo interno)
+Jungle Wood Stair Inner=Scala di legno della giungla (angolo interno)
+Mossy Cobblestone Stair Inner=Scala di ciottoli muschiosi (angolo interno)
+Obsidian Block Stair Inner=Scala di blocco d'ossidiana (angolo interno)
+Obsidian Brick Stair Inner=Scala di mattoni d'ossidiana (angolo interno)
+Obsidian Stair Inner=Scala d'ossidiana (angolo interno)
+Pine Wood Stair Inner=Scala di legno di pino (angolo interno)
+Sandstone Block Stair Inner=Scala di blocco d'arenaria (angolo interno)
+Sandstone Brick Stair Inner=Scala di mattoni d'arenaria (angolo interno)
+Sandstone Stair Inner=Scala d'arenaria (angolo interno)
+Silver Sandstone Block Stair Inner=Scala di blocco d'arenaria argentea (angolo interno)
+Silver Sandstone Brick Stair Inner=Scala di mattoni d'arenaria argentea (angolo interno)
+Silver Sandstone Stair Inner=Scala d'arenaria argentea (angolo interno)
+Snow Block Stair Inner=Scala di blocco di neve (angolo interno)
+Steel Block Stair Inner=Scala di blocco d'acciaio (angolo interno)
+Stone Block Stair Inner=Scala di blocco di pietra (angolo interno)
+Stone Brick Stair Inner=Scala di mattoni di pietra (angolo interno)
+Stone Stair Inner=Scala di pietra (angolo interno)
+Straw Stair Inner=Scala di paglia (angolo interno)
+Tin Block Stair Inner=Scala di blocco di stagno (angolo interno)
+Wooden Stair Inner=Scala di legno (angolo interno)
+Jungle Wood Stair=Scala di legno della giungla
+Mossy Cobblestone Stair=Scala di ciottoli muschiosi
+Obsidian Block Stair=Scala di blocco d'ossidiana
+Obsidian Brick Stair=Scala di mattoni d'ossidiana
+Obsidian Stair=Scala d'ossidiana
+Acacia Wood Stair Outer=Scala di legno d'acacia (angolo esterno)
+Aspen Wood Stair Outer=Scala di legno di pioppo (angolo esterno)
+Brick Stair Outer=Scala di mattoni (angolo esterno)
+Bronze Block Stair Outer=Scala di blocco di bronzo (angolo esterno)
+Cobblestone Stair Outer=Scala di ciottoli (angolo esterno)
+Copper Block Stair Outer=Scala di blocco di rame (angolo esterno)
+Desert Cobblestone Stair Outer=Scala di ciottoli del deserto (angolo esterno)
+Desert Sandstone Block Stair Outer=Scala di blocco d'arenaria del deserto (angolo esterno)
+Desert Sandstone Brick Stair Outer=Scala di mattoni d'arenaria del deserto (angolo esterno)
+Desert Sandstone Stair Outer=Scala d'arenaria del deserto (angolo esterno)
+Desert Stone Block Stair Outer=Scala di blocco di pietra del deserto (angolo esterno)
+Desert Stone Brick Stair Outer=Scala di mattoni di pietra del deserto (angolo esterno)
+Desert Stone Stair Outer=Scala di pietra del deserto (angolo esterno)
+Gold Block Stair Outer=Scala di blocco d'oro (angolo esterno)
+Ice Stair Outer=Scala di ghiaccio (angolo esterno)
+Jungle Wood Stair Outer=Scala di legno della giungla (angolo esterno)
+Mossy Cobblestone Stair Outer=Scala di ciottoli muschiosi (angolo esterno)
+Obsidian Block Stair Outer=Scala di blocco d'ossidiana (angolo esterno)
+Obsidian Brick Stair Outer=Scala di mattoni d'ossidiana (angolo esterno)
+Obsidian Stair Outer=Scala d'ossidiana (angolo esterno)
+Pine Wood Stair Outer=Scala di legno di pino (angolo esterno)
+Sandstone Block Stair Outer=Scala di blocco d'arenaria (angolo esterno)
+Sandstone Brick Stair Outer=Scala di mattoni d'arenaria (angolo esterno)
+Sandstone Stair Outer=Scala d'arenaria (angolo esterno)
+Silver Sandstone Block Stair Outer=Scala di blocco d'arenaria argentea (angolo esterno)
+Silver Sandstone Brick Stair Outer=Scala di mattoni d'arenaria argentea (angolo esterno)
+Silver Sandstone Stair Outer=Scala d'arenaria argentea (angolo esterno)
+Snow Block Stair Outer=Scala di blocco di neve (angolo esterno)
+Steel Block Stair Outer=Scala di blocco d'acciaio (angolo esterno)
+Stone Block Stair Outer=Scala di blocco di pietra (angolo esterno)
+Stone Brick Stair Outer=Scala di mattoni di pietra (angolo esterno)
+Stone Stair Outer=Scala di pietra (angolo esterno)
+Straw Stair Outer=Scala di paglia (angolo esterno)
+Tin Block Stair Outer=Scala di blocco di stagno (angolo esterno)
+Wooden Stair Outer=Scala di legno (angolo esterno)
+Pine Wood Stair=Scala di legno di pino
+Sandstone Block Stair=Scala di blocco d'arenaria
+Sandstone Brick Stair=Scala di mattoni d'arenaria
+Sandstone Stair=Scala d'arenaria
+Silver Sandstone Block Stair=Scala di blocco d'arenaria argentea
+Silver Sandstone Brick Stair=Scala di mattoni d'arenaria argentea
+Silver Sandstone Stair=Scala d'arenaria argentea
+Snow Block Stair=Scala di blocco di neve
+Steel Block Stair=Scala di blocco d'acciaio
+Stone Block Stair=Scala di blocco di pietra
+Stone Brick Stair=Scala di mattoni di pietra
+Stone Stair=Scala di pietra
+Straw Stair=Scala di paglia
+Tin Block Stair=Scala di blocco di stagno
+Wooden Stair=Scala di legno
+Gun Powder=Polvere da sparo
+TNT=TNT
+Unknown Item=Oggetto sconosciuto
+#, fuzzy
+Empty Drinking Glass=Bicchiere (vuoto)
+#, fuzzy
+Empty Glass Bottle=Bottiglia (vuota)
+#, fuzzy
+Glass Fragments=Mucchietto di frammenti di vetro
+Vessels Shelf=Scaffale per bottiglie
+#, fuzzy
+Empty Heavy Steel Bottle=Bottiglia d'acciaio pesante (vuota)
+Cobblestone Wall=Muro di ciottoli
+Desert Cobblestone Wall=Muro di ciottoli del deserto
+Mossy Cobblestone Wall=Muro di ciottoli muschiosi
+Black Wool=Lana nera
+Blue Wool=Lana blu
+Brown Wool=Lana marrone
+Cyan Wool=Lana ciano
+Dark Green Wool=Lana verde scuro
+Dark Grey Wool=Lana grigio scuro
+Green Wool=Lana verde
+Grey Wool=Lana grigia
+Magenta Wool=Lana magenta
+Orange Wool=Lana arancione
+Pink Wool=Lana rosa
+Red Wool=Lana rossa
+Violet Wool=Lana viola
+White Wool=Lana bianca
+Yellow Wool=Lana gialla
+#, fuzzy
+Iron Bar=Sbarre di ferro
+Glass Pane=Pannello di vetro
+Nyan Cat Rainbow=Arcobaleno del gatto Nyan
+Nyan Cat=Gatto Nyan"
+
+#~ Leaves"
+#~ msgstr "Foglie"
+
+#~ Sapling"
+#~ msgstr "Alberello"
+
+#~ Tree"
+#~ msgstr "Albero"
+
+#~ Wooden Planks"
+#~ msgstr "Assi di legno"
+
+#~ Trapdoor"
+#~ msgstr "Botola"
+
+#~ String"
+#~ msgstr "Filo"
+
+#~ Rose"
+#~ msgstr "Rosa"

@@ -1,0 +1,629 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#"Project-Id-Version: PACKAGE VERSION\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2018-01-25 11:35+0000\n"
+#"Last-Translator: dave90dave <dave.hulst@gmail.com>\n"
+#"Language-Team: Dutch <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+#"nl/>\n"
+#"Language: nl\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=2; plural=n != 1;\n"
+#"X-Generator: Weblate 2.19-dev\n"
+
+Air (you hacker you!)=Lucht (jij hacker jij!)
+Simple Bed=Simpel bed
+#, fuzzy
+Fancy Bed=Mooi Bed
+Boat=Boot
+Bones=Botten
+Empty Bucket=Lege Emmer
+Lava Bucket=Emmer Met Lava
+River Water Bucket=Emmer Met Rivier Water
+Water Bucket=Emmer met water
+#, fuzzy
+Brake Rail=Rem spoor
+#, fuzzy
+Cart (Sneak+Click to pick up)=Kar (Sneak+Klik om op the pakken)
+Powered Rail=
+#, fuzzy
+Rail=Spoor
+#, fuzzy
+Acacia Bush Leaves=Acacia Struiken Bladeren
+#, fuzzy
+Acacia Bush Sapling=Acacia Struiken Kiemplant
+Acacia Bush Stem=Acacia Struiken Stam
+#, fuzzy
+Acacia Tree Leaves=Acacia Bladeren
+#, fuzzy
+Acacia Tree Sapling=Acacia Boom Kiemplant
+Acacia Tree=Acacia Boom
+Acacia Wood Planks=Acacia Houten Planken
+Apple=Appel
+#, fuzzy
+Aspen Tree Leaves=Espen Bladeren
+Aspen Tree Sapling=
+Aspen Tree=Aspen Boom
+Aspen Wood Planks=Aspen houten planken
+Bronze Axe=Bronzen Bijl
+Diamond Axe=Diamanten Bijl
+Mese Axe=Mese Bijl
+Steel Axe=Stalen Bijl
+Stone Axe=Stenen Bijl
+Wooden Axe=Houten Bijl
+Book=Boek
+#, fuzzy
+Bookshelf=Boekenplanken
+Book With Text=Boek Met Text
+Brick Block=Bakstenen Blok
+Bronze Block=Bronzen Blok
+#, fuzzy
+Bronze Ingot=Bronzen Staaf
+Bush Leaves=Struiken Bladeren
+Bush Sapling=Struiken Kiemplant
+Bush Stem=Struiken Stam
+Cactus=Cactus
+Locked Chest=Vergrendelde Kist
+Chest=Kist
+Clay Brick=Baksteen
+Clay Lump=Klomp Klei
+Clay=Klei
+Cloud=Wolk
+Coal Block=Kool Blok
+Coal Lump=Kool Klomp
+Cobblestone=Keisteen
+Copper Block=Koperen Blok
+Copper Ingot=Koperen staaf
+Copper Lump=Koperen Klomp
+Brown Coral=Bruin Koraal
+Orange Coral=Oranje koraal
+Coral Skeleton=Koraal skelet
+Desert Cobblestone=Woestijn Keistenen
+Desert Sand=Woestijn Zand
+Desert Sandstone Block=Woestijn Zandstenen Blok
+#, fuzzy
+Desert Sandstone Brick=Woestijn Zandstenen Bakstenen
+Desert Sandstone=Woestijn Zandsteen
+Desert Stone Block=Woestijn Stenen Blok
+Desert Stone Brick=Woestijn Stenen Bakstenen
+Desert Stone=Woestijn Steen
+Diamond Block=Diamanten Blok
+Diamond=Diamant
+Dirt=Aarde
+Dirt with Dry Grass=Aarde met Droog Gras
+Dirt with Grass and Footsteps=Aarde met Gras en Voetstappen
+Dirt with Grass=Aarde met Gras
+#, fuzzy
+Dirt with Rainforest Litter=Aarde met regenwouddrooisel
+Dirt with Snow=Aarde met Sneeuw
+Dry Grass=Droog gras
+Dry Shrub=Droge Struik
+#, fuzzy
+Acacia Wood Fence=Acacia Hek
+#, fuzzy
+Aspen Wood Fence=Aspen Hek
+#, fuzzy
+Jungle Wood Fence=Junglehouten Hek
+#, fuzzy
+Pine Wood Fence=Grenen Schutting
+#, fuzzy
+Apple Wood Fence=Houten Hek
+Flint=Vuursteen
+Furnace=Oven
+Glass=Glas
+Gold Block=Gouden Blok
+Gold Ingot=Goudstaaf
+Gold Lump=Goud Klomp
+Grass=Gras
+Gravel=Grind
+Ice=Ijs
+Iron Lump=Ijzer Klomp
+Jungle Grass=Jungle Gras
+#, fuzzy
+Jungle Tree Leaves=Jungle Bladeren
+#, fuzzy
+Jungle Tree Sapling=Jungle Kiemplant
+Jungle Tree=Jungle Boom
+#, fuzzy
+Jungle Wood Planks=Jungle Houten Planken
+Key=Sleutel
+Steel Ladder=Stalen Ladder
+Wooden Ladder=Houten Ladder
+Flowing Lava=Stromende Lava
+Lava Source=Lava Bron
+#, fuzzy
+Apple Tree Leaves=Espen Bladeren
+Mese Crystal Fragment=Mese Kristal Fragment
+Mese Crystal=Mese Kristal
+Mese Lamp=Mese Lamp
+#, fuzzy
+Mese Post Light=Mese Post Licht
+Mese Block=Mese Blok
+Mossy Cobblestone=Mossige Keistenen
+#, fuzzy
+Obsidian Block=Obsidiaans Blok
+#, fuzzy
+Obsidian Brick=Obsidiaanse Bakstenen
+#, fuzzy
+Obsidian Glass=Obsidiaan Glas
+Obsidian Shard=Obsidiaan Scherf
+Obsidian=Obsidiaan
+Paper=Papier
+#, fuzzy
+Papyrus=Papyrus
+Bronze Pickaxe=Bronzen Pikhouweel
+Diamond Pickaxe=Diamanten Pikhouweel
+Mese Pickaxe=Mese Pikhouweel
+Steel Pickaxe=Stalen Pikhouweel
+Stone Pickaxe=Stenen Pikhouweel
+Wooden Pickaxe=Houten Pikhouweel
+Pine Needles=Dennennaalden
+#, fuzzy
+Pine Tree Sapling=Acacia Boom Kiemplant
+Pine Tree=Naaldboom
+#, fuzzy
+Pine Wood Planks=Grenen houten planken
+Flowing River Water=Stromend Rivierwater
+River Water Source=Rivierwater Bron
+Sand=Zand
+Sandstone Block=Zandstenen Blok
+#, fuzzy
+Sandstone Brick=Zandstenen Bakstenen
+Sandstone=Zandsteen
+#, fuzzy
+Apple Tree Sapling=Acacia Boom Kiemplant
+Bronze Shovel=Bronzen Schep
+Diamond Shovel=Diamond Schep
+Mese Shovel=Mese Schep
+Steel Shovel=Stalen Schep
+Stone Shovel=Stenen Schep
+Wooden Shovel=Houten Schep
+Steel Sign=Stalen Bord
+Wooden Sign=Houten Bord
+Silver Sand=Zilver Zand
+Silver Sandstone Block=Zilver Zandstenen Blok
+#, fuzzy
+Silver Sandstone Brick=Zilver Zandstenen Bakstenen
+Silver Sandstone=Zilver Zandsteen
+Skeleton Key=Skelet Sleutel
+Snow Block=Sneeuw Blok
+Snow=Sneeuw
+Steel Block=Stalen Blok
+#, fuzzy
+Steel Ingot=Stalen Staaf
+Stick=Stok
+Stone Block=Stenen Blok
+#, fuzzy
+Stone Brick=Stenen Bakstenen
+Stone=Steen
+Coal Ore=Kool Erts
+Copper Ore=Koper Erts
+Diamond Ore=Diamant Erts
+Gold Ore=Goud Erts
+Iron Ore=Ijzererts
+Mese Ore=Mese Erts
+#, fuzzy
+Tin Ore=Tin Erts
+Bronze Sword=Bronzen Zwaard
+Diamond Sword=Diamanten Zwaard
+Mese Sword=Mese Zwaard
+Steel Sword=Stalen Zwaard
+Stone Sword=Stenen Zwaard
+Wooden Sword=Houten Zwaard
+#, fuzzy
+Tin Block=Blikken blok
+#, fuzzy
+Tin Ingot=Tinnen Ingot
+#, fuzzy
+Tin Lump=Brok Tin
+Torch=Fakkel
+#, fuzzy
+Apple Tree=Aspen Boom
+Flowing Water=Stromend Water
+Water Source=Waterbron
+#, fuzzy
+Apple Wood Planks=Aspen houten planken
+Glass Door=Glazen Deur
+#, fuzzy
+Obsidian Glass Door=Obsidiaan Glazen Deur
+Steel Door=Stalen Deur
+Wooden Door=Houten Deur
+#, fuzzy
+Acacia Wood Fence Gate=Acacia Poort
+#, fuzzy
+Aspen Wood Fence Gate=Aspen Poort
+#, fuzzy
+Jungle Wood Fence Gate=Junglewood Poort
+#, fuzzy
+Pine Wood Fence Gate=Grenen Poort
+#, fuzzy
+Apple Wood Fence Gate=Houten Hek Poort
+#, fuzzy
+Hidden Door Segment=Verborgen Deur Segment
+#, fuzzy
+Wooden Trapdoor=Houten Deur
+Steel Trapdoor=Stalen Luik
+#, fuzzy
+Black Dye=Zwarte kleurstof
+#, fuzzy
+Blue Dye=Blauwe kleurstof
+#, fuzzy
+Brown Dye=Bruine kleurstof
+#, fuzzy
+Cyan Dye=Cyaan kleurstof
+#, fuzzy
+Dark Green Dye=Donker groene kleurstof
+#, fuzzy
+Dark Grey Dye=Donker grijze kleurstof
+#, fuzzy
+Green Dye=Groene kleurstof
+#, fuzzy
+Grey Dye=Grijze kleurstof
+#, fuzzy
+Magenta Dye=Magenta kleurstof
+#, fuzzy
+Orange Dye=Oranje kleurstof
+#, fuzzy
+Pink Dye=Roze kleurstof
+#, fuzzy
+Red Dye=Rode kleurstof
+#, fuzzy
+Violet Dye=Paarse kleurstof
+#, fuzzy
+White Dye=Witte kleurstof
+#, fuzzy
+Yellow Dye=Gele kleurstof
+Bread=Brood
+Cotton=Katoen
+#, fuzzy
+Desert Sand Soil=Woestijn Zand
+#, fuzzy
+Wet Desert Sand Soil=Nat Woestijn Zand
+Flour=Bloem
+Bronze Hoe=Bronzen Schoffel
+Diamond Hoe=Diamanten Schoffel
+Mese Hoe=Mese Schoffel
+Steel Hoe=Stalen Schoffel
+Stone Hoe=Stenen Schoffel
+Wooden Hoe=Houten schoffel
+#, fuzzy
+Cotton Seed=Katoen zaad
+#, fuzzy
+Wheat Seed=Tarwe zaad
+Soil=Aarde
+Wet Soil=Natte aarde
+Straw=Stro
+Wheat=Tarwe
+Flint and Steel=Vuursteen en Staal
+Permanent Flame=Permanente Vlam
+#, fuzzy
+White Dandelion=Witte paardenbloemen
+Yellow Dandelion=Gele Paardenbloemen
+Blue Geranium=Blauwe Geranium
+Brown Mushroom=Bruine Paddenstoel
+Red Mushroom=Rode Paddenstoel
+#, fuzzy
+Red Rose=Rode kleurstof
+Orange Tulip=Oranje Tulp
+Viola=
+Waterlily=Waterlelie
+Ignore (you hacker you!)=Negeren (jij hacker jij!)
+#, fuzzy
+Screwdriver (left-click rotates face, right-click rotates axis)="
+"Schroevendraaier (Klik met de linkermuisknop draait richting, klik met de "
+"rechtermuisknop draait as)
+#, fuzzy
+Acacia Wood Slab=Acacia Houten Plaat
+#, fuzzy
+Aspen Wood Slab=Aspen Houten Plaat
+#, fuzzy
+Brick Slab=Baksteen Plaat
+#, fuzzy
+Bronze Block Slab=Bronzen Blok Plaat
+#, fuzzy
+Cobblestone Slab=Keistenen Plaat
+#, fuzzy
+Copper Block Slab=Koperen Blok Plaat
+#, fuzzy
+Desert Cobblestone Slab=Woestijn Keistenen Plaat
+#, fuzzy
+Desert Sandstone Block Slab=Woestijn Zandstenen Blok Plaat
+#, fuzzy
+Desert Sandstone Brick Slab=Woestijn Zandstenen Bakstenen Plaat
+#, fuzzy
+Desert Sandstone Slab=Woestijn Zandstenen Plaat
+Desert Stone Block Slab=Zandstenen plaat
+Desert Stone Brick Slab=
+Desert Stone Slab=Zandstenen plaat
+#, fuzzy
+Gold Block Slab=Gouden Blok Plaat
+#, fuzzy
+Ice Slab=Ijs Plaat
+#, fuzzy
+Jungle Wood Slab=Junglehouten Plaat
+#, fuzzy
+Mossy Cobblestone Slab=Mossige Keistenen Plaat
+#, fuzzy
+Obsidian Block Slab=Obsidiaan Blok Plaat
+#, fuzzy
+Obsidian Brick Slab=Obsidiaan Bakstenen Plaat
+#, fuzzy
+Obsidian Slab=Obsidiaan Plaat
+#, fuzzy
+Pine Wood Slab=Grenen Houten Plaat
+#, fuzzy
+Sandstone Block Slab=Zandstenen Blok Plaat
+Sandstone Brick Slab=
+#, fuzzy
+Sandstone Slab=Zandstenen Plaat
+Silver Sandstone Block Slab=Zilveren zandstenen plaat
+Silver Sandstone Brick Slab=
+Silver Sandstone Slab=Zilveren zandsteenplaat
+#, fuzzy
+Snow Block Slab=Sneeuw Blok Plaat
+#, fuzzy
+Steel Block Slab=Stalen Blok Plaat
+Stone Block Slab=Blokstenen plaat
+Stone Brick Slab=Blokstenen plaat
+Stone Slab=Stenen Plaat
+#, fuzzy
+Straw Slab=Stro Plaat
+#, fuzzy
+Tin Block Slab=Sneeuw Blok Plaat
+#, fuzzy
+Wooden Slab=Houten Plaat
+Acacia Wood Stair=Acacia Houten traptreden
+Aspen Wood Stair=Aspen Houten Trap
+#, fuzzy
+Brick Stair=Bakstenen Trap
+#, fuzzy
+Bronze Block Stair=Bronzen Blok Traptreden
+#, fuzzy
+Cobblestone Stair=Keistenen Trap
+#, fuzzy
+Copper Block Stair=Koperen Trap
+Desert Cobblestone Stair=Woestijn Keistenen Traptreden
+Desert Sandstone Block Stair=Zandstenen trap
+Desert Sandstone Brick Stair=
+Desert Sandstone Stair=Woestijn Zandstenen Traptreden
+Desert Stone Block Stair=
+Desert Stone Brick Stair=
+Desert Stone Stair=Woestijn Stenen Traptreden
+#, fuzzy
+Gold Block Stair=Gouden Blok Traptreden
+Ice Stair=Ijs Traptreden
+#, fuzzy
+Acacia Wood Stair Inner=Acacia Houten traptreden
+#, fuzzy
+Aspen Wood Stair Inner=Aspen Houten Trap
+#, fuzzy
+Brick Stair Inner=Bakstenen Trap
+#, fuzzy
+Bronze Block Stair Inner=Bronzen Blok Traptreden
+#, fuzzy
+Cobblestone Stair Inner=Keistenen Trap
+#, fuzzy
+Copper Block Stair Inner=Koperen Trap
+#, fuzzy
+Desert Cobblestone Stair Inner=Woestijn Keistenen Traptreden
+#, fuzzy
+Desert Sandstone Block Stair Inner=Zandstenen trap
+#, fuzzy
+Desert Sandstone Brick Stair Inner=Zandstenen trap
+#, fuzzy
+Desert Sandstone Stair Inner=Woestijn Zandstenen Traptreden
+#, fuzzy
+Desert Stone Block Stair Inner=Zandstenen trap
+#, fuzzy
+Desert Stone Brick Stair Inner=Zandstenen trap
+#, fuzzy
+Desert Stone Stair Inner=Woestijn Stenen Traptreden
+#, fuzzy
+Gold Block Stair Inner=Gouden Blok Traptreden
+#, fuzzy
+Ice Stair Inner=Ijs Traptreden
+#, fuzzy
+Jungle Wood Stair Inner=Jungle Houten Traptreden
+#, fuzzy
+Mossy Cobblestone Stair Inner=Mossige Keistenen Traptreden
+#, fuzzy
+Obsidian Block Stair Inner=Obsidiaan Blok Traptreden
+#, fuzzy
+Obsidian Brick Stair Inner=Obsidiaan Bakstenen Traptreden
+#, fuzzy
+Obsidian Stair Inner=Obsidiaanse Traptreden
+#, fuzzy
+Pine Wood Stair Inner=Grenen Houten Trap
+#, fuzzy
+Sandstone Block Stair Inner=Zandstenen baksteen trap
+#, fuzzy
+Sandstone Brick Stair Inner=Zandstenen baksteen trap
+#, fuzzy
+Sandstone Stair Inner=Zandstenen Traptreden
+#, fuzzy
+Silver Sandstone Block Stair Inner=Zilveren zandsteen trap
+#, fuzzy
+Silver Sandstone Brick Stair Inner=Zilver Zandstenen Bakstenen Traptreden
+#, fuzzy
+Silver Sandstone Stair Inner=Zilver Zandstenen Traptreden
+#, fuzzy
+Snow Block Stair Inner=Sneeuw Blok Traptreden
+#, fuzzy
+Steel Block Stair Inner=Stalen Blok Traptreden
+#, fuzzy
+Stone Block Stair Inner=Stenen Blok Traptreden
+#, fuzzy
+Stone Brick Stair Inner=Bakstenen trap
+#, fuzzy
+Stone Stair Inner=Stenen Traptreden
+#, fuzzy
+Straw Stair Inner=Stro Traptreden
+#, fuzzy
+Tin Block Stair Inner=Sneeuw Blok Traptreden
+#, fuzzy
+Wooden Stair Inner=Houten Traptreden
+Jungle Wood Stair=Jungle Houten Traptreden
+Mossy Cobblestone Stair=Mossige Keistenen Traptreden
+#, fuzzy
+Obsidian Block Stair=Obsidiaan Blok Traptreden
+#, fuzzy
+Obsidian Brick Stair=Obsidiaan Bakstenen Traptreden
+#, fuzzy
+Obsidian Stair=Obsidiaanse Traptreden
+#, fuzzy
+Acacia Wood Stair Outer=Acacia Houten traptreden
+#, fuzzy
+Aspen Wood Stair Outer=Aspen Houten Trap
+#, fuzzy
+Brick Stair Outer=Bakstenen Trap
+#, fuzzy
+Bronze Block Stair Outer=Bronzen Blok Traptreden
+#, fuzzy
+Cobblestone Stair Outer=Keistenen Trap
+#, fuzzy
+Copper Block Stair Outer=Koperen Trap
+#, fuzzy
+Desert Cobblestone Stair Outer=Woestijn Keistenen Traptreden
+#, fuzzy
+Desert Sandstone Block Stair Outer=Zandstenen trap
+#, fuzzy
+Desert Sandstone Brick Stair Outer=Zandstenen trap
+#, fuzzy
+Desert Sandstone Stair Outer=Woestijn Zandstenen Traptreden
+#, fuzzy
+Desert Stone Block Stair Outer=Zandstenen trap
+#, fuzzy
+Desert Stone Brick Stair Outer=Zandstenen trap
+#, fuzzy
+Desert Stone Stair Outer=Woestijn Stenen Traptreden
+#, fuzzy
+Gold Block Stair Outer=Gouden Blok Traptreden
+#, fuzzy
+Ice Stair Outer=Ijs Traptreden
+#, fuzzy
+Jungle Wood Stair Outer=Jungle Houten Traptreden
+#, fuzzy
+Mossy Cobblestone Stair Outer=Mossige Keistenen Traptreden
+#, fuzzy
+Obsidian Block Stair Outer=Obsidiaan Blok Traptreden
+#, fuzzy
+Obsidian Brick Stair Outer=Obsidiaan Bakstenen Traptreden
+#, fuzzy
+Obsidian Stair Outer=Obsidiaanse Traptreden
+#, fuzzy
+Pine Wood Stair Outer=Grenen Houten Trap
+#, fuzzy
+Sandstone Block Stair Outer=Zandstenen baksteen trap
+#, fuzzy
+Sandstone Brick Stair Outer=Zandstenen baksteen trap
+#, fuzzy
+Sandstone Stair Outer=Zandstenen Traptreden
+#, fuzzy
+Silver Sandstone Block Stair Outer=Zilveren zandsteen trap
+#, fuzzy
+Silver Sandstone Brick Stair Outer=Zilver Zandstenen Bakstenen Traptreden
+#, fuzzy
+Silver Sandstone Stair Outer=Zilver Zandstenen Traptreden
+#, fuzzy
+Snow Block Stair Outer=Sneeuw Blok Traptreden
+#, fuzzy
+Steel Block Stair Outer=Stalen Blok Traptreden
+#, fuzzy
+Stone Block Stair Outer=Stenen Blok Traptreden
+#, fuzzy
+Stone Brick Stair Outer=Bakstenen trap
+#, fuzzy
+Stone Stair Outer=Stenen Traptreden
+#, fuzzy
+Straw Stair Outer=Stro Traptreden
+#, fuzzy
+Tin Block Stair Outer=Sneeuw Blok Traptreden
+#, fuzzy
+Wooden Stair Outer=Houten Traptreden
+#, fuzzy
+Pine Wood Stair=Grenen Houten Trap
+Sandstone Block Stair=
+Sandstone Brick Stair=Zandstenen baksteen trap
+Sandstone Stair=Zandstenen Traptreden
+Silver Sandstone Block Stair=Zilveren zandsteen trap
+#, fuzzy
+Silver Sandstone Brick Stair=Zilver Zandstenen Bakstenen Traptreden
+#, fuzzy
+Silver Sandstone Stair=Zilver Zandstenen Traptreden
+#, fuzzy
+Snow Block Stair=Sneeuw Blok Traptreden
+#, fuzzy
+Steel Block Stair=Stalen Blok Traptreden
+#, fuzzy
+Stone Block Stair=Stenen Blok Traptreden
+Stone Brick Stair=Bakstenen trap
+Stone Stair=Stenen Traptreden
+Straw Stair=Stro Traptreden
+#, fuzzy
+Tin Block Stair=Sneeuw Blok Traptreden
+Wooden Stair=Houten Traptreden
+Gun Powder=Buskruit
+TNT=TNT
+Unknown Item=Onbekend Item
+#, fuzzy
+Empty Drinking Glass=Drinkglas (leeg)
+#, fuzzy
+Empty Glass Bottle=Glazen fles (leeg)
+#, fuzzy
+Glass Fragments=Stapel van Glasscherven
+Vessels Shelf=
+#, fuzzy
+Empty Heavy Steel Bottle=Zware Stalen Fles (leeg)
+#, fuzzy
+Cobblestone Wall=Keistenen Muur
+#, fuzzy
+Desert Cobblestone Wall=Woestijn Keistenen Muur
+#, fuzzy
+Mossy Cobblestone Wall=Mossige Keistenen Muur
+Black Wool=Zwarte Wol
+Blue Wool=Blauwe Wol
+Brown Wool=Bruine Wol
+#, fuzzy
+Cyan Wool=Cyaan Wol
+Dark Green Wool=Donker Groene Wol
+Dark Grey Wool=Donker Grijze Wol
+Green Wool=Groene Wol
+Grey Wool=Grijze wol
+#, fuzzy
+Magenta Wool=Magenta Wol
+Orange Wool=Oranje Wol
+Pink Wool=Roze Wol
+Red Wool=Rode Wol
+Violet Wool=Paarse Wol
+White Wool=Witte Wol
+Yellow Wool=Gele Wol
+#, fuzzy
+Iron Bar=Ijzeren staven
+Glass Pane=Glazen Paneel
+Nyan Cat Rainbow=Nyan Cat Regenboog
+Nyan Cat=Nyan Cat"
+
+#~ Leaves"
+#~ msgstr "Bladeren"
+
+#~ Sapling"
+#~ msgstr "Kiemplant"
+
+#~ Tree"
+#~ msgstr "Boom"
+
+#~ Wooden Planks"
+#~ msgstr "Houten Planken"
+
+#~ Trapdoor"
+#~ msgstr "Luik"
+
+#~ Rose"
+#~ msgstr "Roos"

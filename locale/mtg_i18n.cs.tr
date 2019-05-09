@@ -1,0 +1,540 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#"Project-Id-Version: PACKAGE VERSION\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2018-01-24 12:07+0000\n"
+#"Last-Translator: Jiří Kučera <redwoodstudio@seznam.cz>\n"
+#"Language-Team: Czech <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+#"cs/>\n"
+#"Language: cs\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Trans#fer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+#"X-Generator: Weblate 2.19-dev\n
+
+Air (you hacker you!)=Vzduch (ty jeden hackere!)
+Simple Bed=Prostá postel
+Fancy Bed=Zdobená postel
+Boat=Loďka
+Bones=Kosti
+Empty Bucket=Prázdný kbelík
+Lava Bucket=Kbelík s lávou
+River Water Bucket=Kbelík s říční vodou
+Water Bucket=Kbelík s vodou
+#, fuzzy
+Brake Rail=Brzdící kolej
+Cart (Sneak+Click to pick up)=Vagon (plížit+kliknout k sebrání)
+#, fuzzy
+Powered Rail=Napájená kolej
+Rail=Kolej
+Acacia Bush Leaves=Listí akácie (keře)
+Acacia Bush Sapling=Sazenice akácie (keře)
+Acacia Bush Stem=Stonek akácie (keře)
+#, fuzzy
+Acacia Tree Leaves=Listí akácie
+Acacia Tree Sapling=Sazenice akácie (stromu)
+Acacia Tree=Kmen akácie
+Acacia Wood Planks=Dřevěná akáciová prkna
+Apple=Jablko
+#, fuzzy
+Aspen Tree Leaves=Listí osiky
+Aspen Tree Sapling=Sazenice osiky
+Aspen Tree=Kmen osiky
+Aspen Wood Planks=Dřevěná osiková prkna
+Bronze Axe=Bronzová sekera
+Diamond Axe=Diamantová sekera
+Mese Axe=Mese sekera
+Steel Axe=Ocelová sekera
+Stone Axe=Kamenná sekera
+Wooden Axe=Dřevěná sekera
+Book=Kniha
+Bookshelf=Regál na knihy
+Book With Text=Popsaná kniha
+Brick Block=Cihlový blok
+Bronze Block=Bronzový blok
+Bronze Ingot=Bronzový ingot
+Bush Leaves=Listí keře
+Bush Sapling=Sazenice keře
+Bush Stem=Stonek keře
+Cactus=Kaktus
+Locked Chest=Zamčená truhla
+Chest=Truhla
+Clay Brick=Pálené cihly
+Clay Lump=Hrouda jílu
+Clay=Jíl
+Cloud=Oblak
+Coal Block=Blok uhlí
+Coal Lump=Hrouda uhlí
+Cobblestone=Kamenná dlažba
+Copper Block=Měděný blok
+Copper Ingot=Měděný ingot
+Copper Lump=Hrouda mědi
+Brown Coral=Hnědé korály
+Orange Coral=Oranžové korály
+Coral Skeleton=Zkamenělý korál
+Desert Cobblestone=Pouštní kamenná dlažba
+Desert Sand=Pouštní písek
+Desert Sandstone Block=Dekorativní pouštní pískovec
+Desert Sandstone Brick=Cihly z pouštního pískovce
+Desert Sandstone=Pouštní pískovec
+Desert Stone Block=Dekorativní pouštní kámen
+Desert Stone Brick=Cihly z pouštního kamene
+Desert Stone=Pouštní kámen
+Diamond Block=Diamantový blok
+Diamond=Diamant
+Dirt=Hlína
+Dirt with Dry Grass=Hlína porostlá suchou trávou
+Dirt with Grass and Footsteps=Pošlapaná hlína porostlá trávou
+Dirt with Grass=Hlína porostlá trávou
+Dirt with Rainforest Litter=Hlína s humusem z pralesa
+Dirt with Snow=Hlína pokrytá sněhem
+Dry Grass=Suchá tráva
+Dry Shrub=Suché křoví
+#, fuzzy
+Acacia Wood Fence=Akáciový plot
+#, fuzzy
+Aspen Wood Fence=Osikový plot
+#, fuzzy
+Jungle Wood Fence=Plot z tropického dřeva
+#, fuzzy
+Pine Wood Fence=Borovicový plot
+#, fuzzy
+Apple Wood Fence=Dřevěný plot
+Flint=Pazourek
+Furnace=Pec
+Glass=Sklo
+Gold Block=Zlatý blok
+Gold Ingot=Zlatý ingot
+Gold Lump=Hrouda zlata
+Grass=Tráva
+Gravel=Štěrk
+Ice=Led
+Iron Lump=Hrouda železa
+Jungle Grass=Tropická tráva
+#, fuzzy
+Jungle Tree Leaves=Listí tropického stormu
+#, fuzzy
+Jungle Tree Sapling=Sazenice tropického stromu
+Jungle Tree=Kmen tropického stormu
+#, fuzzy
+Jungle Wood Planks=Prkna z tropického dřeva
+Key=Klíč
+Steel Ladder=Ocelový žebřík
+Wooden Ladder=Dřevěný žebřík
+Flowing Lava=Tekoucí láva
+Lava Source=Zdroj lávy
+#, fuzzy
+Apple Tree Leaves=Listí osiky
+Mese Crystal Fragment=Úlomek Mese krystalu
+Mese Crystal=Mese krystal
+Mese Lamp=Mese lampa
+Mese Post Light=Svítící Mese sloupek
+Mese Block=Mese blok
+Mossy Cobblestone=Dlažba porostlý mechem
+Obsidian Block=Dekorativní obsidián
+Obsidian Brick=Obsidiánové cihly
+Obsidian Glass=Obsidiánové sklo
+Obsidian Shard=Úlomek obsidiánu
+Obsidian=Obsidián
+Paper=Papír
+Papyrus=Papyrus
+Bronze Pickaxe=Bronzový krumpáč
+Diamond Pickaxe=Diamantový krumpáč
+Mese Pickaxe=Mese krumpáč
+Steel Pickaxe=Ocelový krumpáč
+Stone Pickaxe=Kamenný krumpáč
+Wooden Pickaxe=Dřevěný krumpáč
+Pine Needles=Jehlice borovice
+#, fuzzy
+Pine Tree Sapling=Sazenice borovice
+Pine Tree=Kmen borovice
+Pine Wood Planks=Dřevěná borovicová prkna
+Flowing River Water=Tekoucí říční voda
+River Water Source=Zdroj říční vody
+Sand=Písek
+Sandstone Block=Dekorativní pískovec
+Sandstone Brick=Pískovcové cihly
+Sandstone=Pískovec
+#, fuzzy
+Apple Tree Sapling=Sazenice osiky
+Bronze Shovel=Bronzová lopata
+Diamond Shovel=Diamantová lopata
+Mese Shovel=Mese lopata
+Steel Shovel=Ocelová lopata
+Stone Shovel=Kamenná lopata
+Wooden Shovel=Dřevěná lopata
+Steel Sign=Ocelová cedule
+Wooden Sign=Dřevěná cedule
+Silver Sand=Stříbrný písek
+Silver Sandstone Block=Dekorativní stříbrný pískovec
+Silver Sandstone Brick=Cihly ze stříbrného pískovce
+Silver Sandstone=Stříbrný pískovec
+Skeleton Key=Neurčený klíč
+Snow Block=Blok sněhu
+Snow=Sníh
+Steel Block=Ocelový blok
+Steel Ingot=Ocelový ingot
+Stick=Tyčky
+Stone Block=Dekorativní kámen
+Stone Brick=Kamenné cihly
+Stone=Kámen
+Coal Ore=Uhelná ruda
+Copper Ore=Měděná ruda
+Diamond Ore=Diamantová ruda
+Gold Ore=Zlatá ruda
+Iron Ore=Železná ruda
+Mese Ore=Mese ruda
+Tin Ore=Cínová ruda
+Bronze Sword=Bronzový meč
+Diamond Sword=Diamantový meč
+Mese Sword=Mese meč
+Steel Sword=Ocelový meč
+Stone Sword=Kamenný meč
+Wooden Sword=Dřevěný meč
+Tin Block=Cínový blok
+Tin Ingot=Cínový ingot
+Tin Lump=Hrouda cínu
+Torch=Pochodeň
+#, fuzzy
+Apple Tree=Kmen osiky
+Flowing Water=Tekoucí voda
+Water Source=Zdroj vody
+#, fuzzy
+Apple Wood Planks=Dřevěná osiková prkna
+Glass Door=Skleněné dveře
+Obsidian Glass Door=Obsidiánově skleněné dveře
+Steel Door=Ocelové dveře
+Wooden Door=Dřevěné dveře
+#, fuzzy
+Acacia Wood Fence Gate=Akáciová branka
+#, fuzzy
+Aspen Wood Fence Gate=Osiková branka
+#, fuzzy
+Jungle Wood Fence Gate=Branka z tropického dřeva
+#, fuzzy
+Pine Wood Fence Gate=Borovicová branka
+#, fuzzy
+Apple Wood Fence Gate=Dřevěná branka
+Hidden Door Segment=Skrytá část dveří
+#, fuzzy
+Wooden Trapdoor=Dřevěné dveře
+Steel Trapdoor=Ocelové padací dveře
+#, fuzzy
+Black Dye=Černé barvivo
+#, fuzzy
+Blue Dye=Modré barvivo
+#, fuzzy
+Brown Dye=Hnědé barvivo
+#, fuzzy
+Cyan Dye=Tyrkysové barvivo
+#, fuzzy
+Dark Green Dye=Tmavě zelené barvivo
+#, fuzzy
+Dark Grey Dye=Tmavě šedé barvivo
+#, fuzzy
+Green Dye=Zelené barvivo
+#, fuzzy
+Grey Dye=Šedé barvivo
+#, fuzzy
+Magenta Dye=Purpurové barvivo
+#, fuzzy
+Orange Dye=Oranžové barvivo
+#, fuzzy
+Pink Dye=Růžové barvivo
+#, fuzzy
+Red Dye=Červené barvivo
+#, fuzzy
+Violet Dye=Fialové barvivo
+#, fuzzy
+White Dye=Bílé barvivo
+#, fuzzy
+Yellow Dye=Žluté barvivo
+Bread=Chléb
+Cotton=Bavlna
+Desert Sand Soil=Pouštní orná půda
+Wet Desert Sand Soil=Vlhká pouštní orná půda
+Flour=Mouka
+Bronze Hoe=Bronzová motyka
+Diamond Hoe=Diamantová motyka
+Mese Hoe=Mese motyka
+Steel Hoe=Ocelová motyka
+Stone Hoe=Kamenná motyka
+Wooden Hoe=Dřevěná motyka
+#, fuzzy
+Cotton Seed=Semena bavlníku
+#, fuzzy
+Wheat Seed=Semena pšenice
+Soil=Orná půda
+Wet Soil=Vlhká orná půda
+Straw=Sláma
+Wheat=Pšenice
+Flint and Steel=Křesadlo
+Permanent Flame=Stálý oheň
+#, fuzzy
+White Dandelion=Bílá pampeliška
+Yellow Dandelion=Žlutá pampeliška
+Blue Geranium=Modrá pelargónie
+Brown Mushroom=Hnědá houba
+Red Mushroom=Červená houba
+#, fuzzy
+Red Rose=Červené barvivo
+Orange Tulip=Oranžový tulipán
+Viola=Fialka
+Waterlily=Leknín
+Ignore (you hacker you!)=Ignoruj (ty jeden hackere!)
+Screwdriver (left-click rotates face, right-click rotates axis)=Šroubovák (klik levým otáčí stěnu, klik pravým otáčí podle osy)
+Acacia Wood Slab=Dřevěný akáciový půlblok
+Aspen Wood Slab=Dřevěný osikový půlblok
+Brick Slab=Cihlový půlblok
+Bronze Block Slab=Bronzový půlblok
+Cobblestone Slab=Půlblok kamenné dlažby
+Copper Block Slab=Měděný půlblok
+Desert Cobblestone Slab=Půlblok pouštní kamenné dlažby
+Desert Sandstone Block Slab=Dekorativní půlblok pouštního pískovce
+Desert Sandstone Brick Slab=Cihlový půlblok z pouštního pískovce
+Desert Sandstone Slab=Půlblok pouštního pískovce
+Desert Stone Block Slab=Dekorativní půlblok pouštního kamene
+Desert Stone Brick Slab=Cihlový půlblok z pouštního kamene
+Desert Stone Slab=Půlblok pouštního kamene
+Gold Block Slab=Zlatý půlblok
+Ice Slab=Ledový půlblok
+Jungle Wood Slab=Půlblok tropického dřeva
+Mossy Cobblestone Slab=Půlblok porostlé dlažby
+Obsidian Block Slab=Dekorativní půlblok obsidiánu
+Obsidian Brick Slab=Cihlový půlblok z obsidiánu
+Obsidian Slab=Půlblok obsidiánu
+Pine Wood Slab=Půlblok borovicového dřeva
+Sandstone Block Slab=Dekorativní půlblok pískovce
+Sandstone Brick Slab=Cihlový půlblok z pískovce
+Sandstone Slab=Půlblok pískovce
+Silver Sandstone Block Slab=Půlbok dekorativního stříbrného pískovce
+Silver Sandstone Brick Slab=Cihlový půlblok ze stříbrného pískovce
+Silver Sandstone Slab=Půlblok stříbrného pískovce
+Snow Block Slab=Půlblok sněhu
+Steel Block Slab=Ocelový půlblok
+Stone Block Slab=Dekorativní půlblok kamene
+Stone Brick Slab=Cihlový půlblok kamene
+Stone Slab=Kamenný půlblok
+Straw Slab=Slaměný půlblok
+Tin Block Slab=Cínový půlblok
+Wooden Slab=Dřevěný půlblok
+Acacia Wood Stair=Akáciové schody
+Aspen Wood Stair=Osikové schody
+Brick Stair=Cihlové schody
+Bronze Block Stair=Bronzové schody
+Cobblestone Stair=Schody z kamenné dlažby
+Copper Block Stair=Měděné schody
+Desert Cobblestone Stair=Schody z pouštní kamenné dlažby
+Desert Sandstone Block Stair=Dekorativní schody z pouštního pískovce
+Desert Sandstone Brick Stair=Cihlové schody z pouštního pískovce
+Desert Sandstone Stair=Schody z pouštního pískovce
+Desert Stone Block Stair=Dekorativní schody z pouštního kamene
+Desert Stone Brick Stair=Cihlové schody z pouštního kamene
+Desert Stone Stair=Schody z pouštního kamene
+Gold Block Stair=Zlaté schody
+Ice Stair=Ledové schody
+Acacia Wood Stair Inner=Akáciové schody
+Aspen Wood Stair Inner=Osikové schody
+Brick Stair Inner=Cihlové schody
+Bronze Block Stair Inner=Bronzové schody
+Cobblestone Stair Inner=Schody z kamenné dlažby
+Copper Block Stair Inner=Měděné schody
+Desert Cobblestone Stair Inner=Schody z pouštní kamenné dlažby
+#, fuzzy
+Desert Sandstone Block Stair Inner=Dekorativní schody z pouštního pískovce
+Desert Sandstone Brick Stair Inner=Cihlové schody z pouštního pískovce
+Desert Sandstone Stair Inner=Schody z pouštního pískovce
+Desert Stone Block Stair Inner=Dekorativní schody z pouštního kamene
+Desert Stone Brick Stair Inner=Cihlové schody z pouštního kamene
+Desert Stone Stair Inner=Schody z pouštního kamene
+Gold Block Stair Inner=Zlaté schody
+Ice Stair Inner=Ledové schody
+Jungle Wood Stair Inner=Schody z tropického dřeva
+Mossy Cobblestone Stair Inner=Schody z porostlé dlažby
+Obsidian Block Stair Inner=Dekorativní schody z obsidiánu
+#, fuzzy
+Obsidian Brick Stair Inner=Cihlové schody z obsidiánu
+#, fuzzy
+Obsidian Stair Inner=Obsidiánové schody
+#, fuzzy
+Pine Wood Stair Inner=Borovicové schody
+#, fuzzy
+Sandstone Block Stair Inner=Dekorativní schody z pískovce
+#, fuzzy
+Sandstone Brick Stair Inner=Cihlové schody z pískovce
+#, fuzzy
+Sandstone Stair Inner=Pískovcové schody
+#, fuzzy
+Silver Sandstone Block Stair Inner=Dekorativní schody ze stříbrného pískovce
+#, fuzzy
+Silver Sandstone Brick Stair Inner=Cihlové schody ze stříbrného pískovce
+#, fuzzy
+Silver Sandstone Stair Inner=Stříbrnopískovcové schody
+#, fuzzy
+Snow Block Stair Inner=Schody ze sněhu
+#, fuzzy
+Steel Block Stair Inner=Ocelové schody
+#, fuzzy
+Stone Block Stair Inner=Dekorativní schody z kamene
+#, fuzzy
+Stone Brick Stair Inner=Cihlové schody z kamene
+#, fuzzy
+Stone Stair Inner=Kamenné schody
+#, fuzzy
+Straw Stair Inner=Slaměné schody
+#, fuzzy
+Tin Block Stair Inner=Schody ze sněhu
+#, fuzzy
+Wooden Stair Inner=Dřevěné schody
+Jungle Wood Stair=Schody z tropického dřeva
+Mossy Cobblestone Stair=Schody z porostlé dlažby
+Obsidian Block Stair=Dekorativní schody z obsidiánu
+Obsidian Brick Stair=Cihlové schody z obsidiánu
+Obsidian Stair=Obsidiánové schody
+#, fuzzy
+Acacia Wood Stair Outer=Akáciové schody
+#, fuzzy
+Aspen Wood Stair Outer=Osikové schody
+#, fuzzy
+Brick Stair Outer=Cihlové schody
+#, fuzzy
+Bronze Block Stair Outer=Bronzové schody
+#, fuzzy
+Cobblestone Stair Outer=Schody z kamenné dlažby
+#, fuzzy
+Copper Block Stair Outer=Měděné schody
+#, fuzzy
+Desert Cobblestone Stair Outer=Schody z pouštní kamenné dlažby
+#, fuzzy
+Desert Sandstone Block Stair Outer=Dekorativní schody z pouštního pískovce
+#, fuzzy
+Desert Sandstone Brick Stair Outer=Cihlové schody z pouštního pískovce
+#, fuzzy
+Desert Sandstone Stair Outer=Schody z pouštního pískovce
+#, fuzzy
+Desert Stone Block Stair Outer=Dekorativní schody z pouštního kamene
+#, fuzzy
+Desert Stone Brick Stair Outer=Cihlové schody z pouštního kamene
+#, fuzzy
+Desert Stone Stair Outer=Schody z pouštního kamene
+#, fuzzy
+Gold Block Stair Outer=Zlaté schody
+#, fuzzy
+Ice Stair Outer=Ledové schody
+#, fuzzy
+Jungle Wood Stair Outer=Schody z tropického dřeva
+#, fuzzy
+Mossy Cobblestone Stair Outer=Schody z porostlé dlažby
+#, fuzzy
+Obsidian Block Stair Outer=Dekorativní schody z obsidiánu
+#, fuzzy
+Obsidian Brick Stair Outer=Cihlové schody z obsidiánu
+#, fuzzy
+Obsidian Stair Outer=Obsidiánové schody
+#, fuzzy
+Pine Wood Stair Outer=Borovicové schody
+#, fuzzy
+Sandstone Block Stair Outer=Dekorativní schody z pískovce
+#, fuzzy
+Sandstone Brick Stair Outer=Cihlové schody z pískovce
+#, fuzzy
+Sandstone Stair Outer=Pískovcové schody
+#, fuzzy
+Silver Sandstone Block Stair Outer=Dekorativní schody ze stříbrného pískovce
+#, fuzzy
+Silver Sandstone Brick Stair Outer=Cihlové schody ze stříbrného pískovce
+#, fuzzy
+Silver Sandstone Stair Outer=Stříbrnopískovcové schody
+#, fuzzy
+Snow Block Stair Outer=Schody ze sněhu
+#, fuzzy
+Steel Block Stair Outer=Ocelové schody
+#, fuzzy
+Stone Block Stair Outer=Dekorativní schody z kamene
+#, fuzzy
+Stone Brick Stair Outer=Cihlové schody z kamene
+#, fuzzy
+Stone Stair Outer=Kamenné schody
+#, fuzzy
+Straw Stair Outer=Slaměné schody
+#, fuzzy
+Tin Block Stair Outer=Schody ze sněhu
+#, fuzzy
+Wooden Stair Outer=Dřevěné schody
+Pine Wood Stair=Borovicové schody
+Sandstone Block Stair=Dekorativní schody z pískovce
+Sandstone Brick Stair=Cihlové schody z pískovce
+Sandstone Stair=Pískovcové schody
+Silver Sandstone Block Stair=Dekorativní schody ze stříbrného pískovce
+Silver Sandstone Brick Stair=Cihlové schody ze stříbrného pískovce
+Silver Sandstone Stair=Stříbrnopískovcové schody
+Snow Block Stair=Schody ze sněhu
+Steel Block Stair=Ocelové schody
+Stone Block Stair=Dekorativní schody z kamene
+Stone Brick Stair=Cihlové schody z kamene
+Stone Stair=Kamenné schody
+Straw Stair=Slaměné schody
+Tin Block Stair=Cínové schody
+Wooden Stair=Dřevěné schody
+Gun Powder=Střelný prach
+TNT=TNT
+Unknown Item=Neznámý předmět
+#, fuzzy
+Empty Drinking Glass=Sklenice (prázdná)
+#, fuzzy
+Empty Glass Bottle=Skleněná lahev (prázdná)
+#, fuzzy
+Glass Fragments=Hromádka skleněných střepů
+Vessels Shelf=Police na lahve
+#, fuzzy
+Empty Heavy Steel Bottle=Těžká ocelová lahev (prázdná)
+Cobblestone Wall=Zeď z kamenné dlažby
+Desert Cobblestone Wall=Zeď z pouštní kamenné dlažby
+Mossy Cobblestone Wall=Zeď z porostlé dlažby
+Black Wool=Černá vlna
+Blue Wool=Modrá vlna
+Brown Wool=Hnědá vlna
+Cyan Wool=Tyrkysová vlna
+Dark Green Wool=Tmavě zelená vlna
+Dark Grey Wool=Tmavě šedá vlna
+Green Wool=Zelená vlna
+Grey Wool=Šedá vlna
+Magenta Wool=Purpurová vlna
+Orange Wool=Oranžová vlna
+Pink Wool=Růžová vlna
+Red Wool=Červená vlna
+Violet Wool=Fialová vlna
+White Wool=Bílá vlna
+Yellow Wool=Žlutá vlna
+#, fuzzy
+Iron Bar=Železná mříž
+Glass Pane=Skleněná tabule
+Nyan Cat Rainbow=Nyan Cat duha
+Nyan Cat=Nyan Cat"
+
+#~ Leaves"
+#~ msgstr "Listí"
+
+#~ Sapling"
+#~ msgstr "Sazenice"
+
+#~ Tree"
+#~ msgstr "Kmen"
+
+#~ Wooden Planks"
+#~ msgstr "Dřevěná prkna"
+
+#~ Trapdoor"
+#~ msgstr "Padací dveře"
+
+#~ String"
+#~ msgstr "provázek"
+
+#~ Rose"
+#~ msgstr "Růže"
