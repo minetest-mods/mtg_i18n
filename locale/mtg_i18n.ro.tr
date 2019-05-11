@@ -18,7 +18,6 @@
 #"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 #"20)) ? 1 : 2;\n"
 #"X-Generator: Weblate 2.19-dev\n"
-
 Air (you hacker you!)=Aer (hacker-ule!)
 Simple Bed=Pat Simplu
 Fancy Bed=Pat Luxos
@@ -443,16 +442,12 @@ Yellow Wool=
 Iron Bar=Minereu de Oţel
 Glass Pane=
 Nyan Cat Rainbow=
-Nyan Cat="
-
+Nyan Cat=
 #~ Leaves"
 #~ msgstr "Frunze"
-
 #~ Sapling"
 #~ msgstr "Puiet"
-
 #~ Tree"
 #~ msgstr "Arbore"
-
 #~ Wooden Planks"
 #~ msgstr "Scândură de Lemn"

@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=1; plural=0;\n"
 #"X-Generator: Weblate 3.0-dev\n"
-
 Air (you hacker you!)=空気 (お前ハッカーだろ)
 Simple Bed=簡素なベッド
 Fancy Bed=お洒落なベッド
@@ -529,25 +528,18 @@ Yellow Wool=黄色の羊毛
 Iron Bar=鉄鉱石
 Glass Pane=ガラス板
 Nyan Cat Rainbow=
-Nyan Cat=Nyan Cat"
-
+Nyan Cat=Nyan Cat
 #~ Leaves"
 #~ msgstr "葉"
-
 #~ Sapling"
 #~ msgstr "苗木"
-
 #~ Tree"
 #~ msgstr "木"
-
 #~ Wooden Planks"
 #~ msgstr "木材"
-
 #~ Trapdoor"
 #~ msgstr "トラップドア"
-
 #~ String"
 #~ msgstr "糸"
-
 #~ Rose"
 #~ msgstr "バラ"

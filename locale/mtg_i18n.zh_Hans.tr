@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=1; plural=0;\n"
 #"X-Generator: Weblate 3.0-dev\n"
-
 Air (you hacker you!)=空气（黑客啊你！）
 Simple Bed=简单的床
 Fancy Bed=豪华大床
@@ -462,28 +461,21 @@ Yellow Wool=黄色羊毛
 #, fuzzy
 Iron Bar=铁栏杆
 Glass Pane=玻璃窗格
-Nyan Cat Rainbow="
-"五彩缤纷的\n"
-"彩虹猫
-Nyan Cat=彩虹猫"
-
+Nyan Cat Rainbow=
+五彩缤纷的\n
+彩虹猫
+Nyan Cat=彩虹猫
 #~ Leaves"
 #~ msgstr "树叶"
-
 #~ Sapling"
 #~ msgstr "树苗"
-
 #~ Tree"
 #~ msgstr "树"
-
 #~ Wooden Planks"
 #~ msgstr "原木板"
-
 #~ Trapdoor"
 #~ msgstr "活板门"
-
 #~ String"
 #~ msgstr "字符串"
-
 #~ Rose"
 #~ msgstr "玫瑰"

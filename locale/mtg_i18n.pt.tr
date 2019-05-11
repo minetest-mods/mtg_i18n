@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n > 1;\n"
 #"X-Generator: Weblate 3.4-dev\n"
-
 Air (you hacker you!)=Ar (Você se hackeia!)
 Simple Bed=Cama Simples
 Fancy Bed=Cama com Cabeceira
@@ -28,9 +27,9 @@ Lava Bucket=Balde de Lava
 River Water Bucket=Balde com Água de Rio
 Water Bucket=Balde de Água
 Brake Rail=Trilho de freio
-Cart (Sneak+Click to pick up)="
-"Carro de Trilho\n"
-" * [Agacha + Clique] para coletar.
+Cart (Sneak+Click to pick up)=
+Carro de Trilho\n
+ * [Agacha + Clique] para coletar.
 Powered Rail=Trilho Energizado
 Rail=Trilho
 Acacia Bush Leaves=Folhas de Arbusto de Acácia
@@ -248,10 +247,10 @@ Orange Tulip=Flor Tulipa Laranja
 Viola=Flor Violeta
 Waterlily=Nenúfar
 Ignore (you hacker you!)=Ignore (você se hackeia!)
-Screwdriver (left-click rotates face, right-click rotates axis)="
-"Chave de Fenda\n"
-" * (Clique esquerdo gira a face, clique com o botão direito do mouse gira o "
-"eixo)
+Screwdriver (left-click rotates face, right-click rotates axis)=
+Chave de Fenda\n
+ * (Clique esquerdo gira a face, clique com o botão direito do mouse gira o 
+eixo)
 Acacia Wood Slab=Chapa de Madeira de Acácia
 Aspen Wood Slab=Chapa de Madeira de Álamo
 Brick Slab=Chapa de Alvenaria
@@ -421,25 +420,18 @@ Yellow Wool=Lã Amarela
 Iron Bar=Barra de Ferro
 Glass Pane=Painel de Vidro
 Nyan Cat Rainbow=Arco Iris do Nyan Cat
-Nyan Cat=Nyan Cat"
-
+Nyan Cat=Nyan Cat
 #~ Leaves"
 #~ msgstr "Folhas"
-
 #~ Sapling"
 #~ msgstr "Muda"
-
 #~ Tree"
 #~ msgstr "Árvore"
-
 #~ Wooden Planks"
 #~ msgstr "Prancha de Madeira"
-
 #~ Trapdoor"
 #~ msgstr "Alçapão"
-
 #~ String"
 #~ msgstr "Linha"
-
 #~ Rose"
 #~ msgstr "Flor de Rosa"

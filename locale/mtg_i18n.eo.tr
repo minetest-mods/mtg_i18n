@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n != 1;\n"
 #"X-Generator: Weblate 3.5-dev\n"
-
 Air (you hacker you!)=Aero (vi kodrompisto!)
 Simple Bed=Simpla lito
 Fancy Bed=Luksa lito
@@ -416,25 +415,18 @@ Yellow Wool=Flava lano
 Iron Bar=Fera krado
 Glass Pane=Vitra tabulo
 Nyan Cat Rainbow=Njan-kata ĉielarko
-Nyan Cat=Njan-kato"
-
+Nyan Cat=Njan-kato
 #~ Leaves"
 #~ msgstr "Folioj"
-
 #~ Sapling"
 #~ msgstr "Arbido"
-
 #~ Tree"
 #~ msgstr "Arbo"
-
 #~ Wooden Planks"
 #~ msgstr "Lignaj tabuloj"
-
 #~ Trapdoor"
 #~ msgstr "Plankpordo"
-
 #~ String"
 #~ msgstr "Signoĉeno"
-
 #~ Rose"
 #~ msgstr "Rozo"

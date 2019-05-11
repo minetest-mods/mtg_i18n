@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n > 1;\n"
 #"X-Generator: Weblate 3.4-dev\n"
-
 Air (you hacker you!)=Hava (seni hacker seni!)
 Simple Bed=Basit Yatak
 Fancy Bed=Süslü Yatak
@@ -416,25 +415,18 @@ Yellow Wool=Sarı Yün
 Iron Bar=Demir Parmaklık
 Glass Pane=Cam Levha
 Nyan Cat Rainbow=Nyan Kedi Gökkuşağı
-Nyan Cat=Nyan Kedi"
-
+Nyan Cat=Nyan Kedi
 #~ Leaves"
 #~ msgstr "Yapraklar"
-
 #~ Sapling"
 #~ msgstr "Fidan"
-
 #~ Tree"
 #~ msgstr "Ağaç"
-
 #~ Wooden Planks"
 #~ msgstr "Ahşap Plakalar"
-
 #~ Trapdoor"
 #~ msgstr "Kapak"
-
 #~ String"
 #~ msgstr "İp"
-
 #~ Rose"
 #~ msgstr "Gül"

@@ -4,8 +4,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#msgid ""
-#msgstr ""
 #"Project-Id-Version: \n"
 #"Report-Msgid-Bugs-To: \n"
 #"POT-Creation-Date: 2018-12-07 22:13+0100\n"
@@ -19,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n > 1;\n"
 #"X-Generator: Weblate 3.5-dev\n"
-
 Air (you hacker you!)=Air (espèce de tricheur !)
 Simple Bed=Lit Simple
 Fancy Bed=Lit fantaisie
@@ -418,25 +415,18 @@ Yellow Wool=Laine jaune
 Iron Bar=Barre de fer
 Glass Pane=Vitre
 Nyan Cat Rainbow=Nyan Cat Arc-en-Ciel
-Nyan Cat=Nyan Cat"
-
+Nyan Cat=Nyan Cat
 #~ Leaves"
 #~ msgstr "Feuilles"
-
 #~ Sapling"
 #~ msgstr "Pousse d'arbre"
-
 #~ Tree"
 #~ msgstr "Arbre"
-
 #~ Wooden Planks"
 #~ msgstr "Planches en bois"
-
 #~ Trapdoor"
 #~ msgstr "Trappe"
-
 #~ String"
 #~ msgstr "Ficelle"
-
 #~ Rose"
 #~ msgstr "Rose"

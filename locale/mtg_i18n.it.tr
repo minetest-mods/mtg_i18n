@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n != 1;\n"
 #"X-Generator: Weblate 2.17-dev\n"
-
 Air (you hacker you!)=Aria (hacker!)
 Simple Bed=Letto semplice
 Fancy Bed=Letto elegante
@@ -463,25 +462,18 @@ Yellow Wool=Lana gialla
 Iron Bar=Sbarre di ferro
 Glass Pane=Pannello di vetro
 Nyan Cat Rainbow=Arcobaleno del gatto Nyan
-Nyan Cat=Gatto Nyan"
-
+Nyan Cat=Gatto Nyan
 #~ Leaves"
 #~ msgstr "Foglie"
-
 #~ Sapling"
 #~ msgstr "Alberello"
-
 #~ Tree"
 #~ msgstr "Albero"
-
 #~ Wooden Planks"
 #~ msgstr "Assi di legno"
-
 #~ Trapdoor"
 #~ msgstr "Botola"
-
 #~ String"
 #~ msgstr "Filo"
-
 #~ Rose"
 #~ msgstr "Rosa"

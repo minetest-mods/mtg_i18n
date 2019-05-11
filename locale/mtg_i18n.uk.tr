@@ -18,7 +18,6 @@
 #"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 #"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 #"X-Generator: Weblate 3.2-dev\n"
-
 Air (you hacker you!)=Повітря (ах ти ж хакер!)
 Simple Bed=Просте Ліжко
 Fancy Bed=Чепурне Ліжко
@@ -461,25 +460,18 @@ Yellow Wool=Жовта вовна
 Iron Bar=Залізна Руда
 Glass Pane=
 Nyan Cat Rainbow=Веселка няв котика
-Nyan Cat=Няв котик"
-
+Nyan Cat=Няв котик
 #~ Leaves"
 #~ msgstr "Листя"
-
 #~ Sapling"
 #~ msgstr "Паросток"
-
 #~ Tree"
 #~ msgstr "Дерево"
-
 #~ Wooden Planks"
 #~ msgstr "Дошки"
-
 #~ Trapdoor"
 #~ msgstr "Двері-пастка"
-
 #~ String"
 #~ msgstr "Нитка"
-
 #~ Rose"
 #~ msgstr "Троянда"

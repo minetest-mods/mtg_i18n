@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n != 1;\n"
 #"X-Generator: Weblate 3.4-dev\n"
-
 Air (you hacker you!)=Levegő
 Simple Bed=Egyszerű ágy
 Fancy Bed=Csinos ágy
@@ -246,9 +245,9 @@ Orange Tulip=Narancssárga tulipán
 Viola=Ibolya
 Waterlily=Tavirózsa
 Ignore (you hacker you!)=Figyelmen kívül hagy
-Screwdriver (left-click rotates face, right-click rotates axis)="
-"Csavarhúzó (bal-klikk forgatja szemből, jobb klikk a forgatási tengely "
-"váltáshoz)
+Screwdriver (left-click rotates face, right-click rotates axis)=
+Csavarhúzó (bal-klikk forgatja szemből, jobb klikk a forgatási tengely 
+váltáshoz)
 Acacia Wood Slab=Akácia lap
 Aspen Wood Slab=Nyárfa lap
 Brick Slab=Tégla lap
@@ -418,25 +417,18 @@ Yellow Wool=Sárga gyapjú
 Iron Bar=Vas rúd
 Glass Pane=Üvegtábla
 Nyan Cat Rainbow=Nyan macska szivárvány
-Nyan Cat=Nyan macska"
-
+Nyan Cat=Nyan macska
 #~ Leaves"
 #~ msgstr "Levelek"
-
 #~ Sapling"
 #~ msgstr "Csemete"
-
 #~ Tree"
 #~ msgstr "Fa"
-
 #~ Wooden Planks"
 #~ msgstr "Deszka"
-
 #~ Trapdoor"
 #~ msgstr "Csapóajtó"
-
 #~ String"
 #~ msgstr "Zsineg"
-
 #~ Rose"
 #~ msgstr "Rózsa"

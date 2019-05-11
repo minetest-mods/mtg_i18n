@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n != 1;\n"
 #"X-Generator: Weblate 3.4-dev\n"
-
 Air (you hacker you!)=Luft (Sie Hacker!)
 Simple Bed=Schlichtes Bett
 Fancy Bed=Schönes Bett
@@ -246,8 +245,8 @@ Orange Tulip=Orange Tulpe
 Viola=Veilchen
 Waterlily=Wasserlilie
 Ignore (you hacker you!)=Ignore (Sie Hacker, Sie!)
-Screwdriver (left-click rotates face, right-click rotates axis)="
-"Schraubenzieher (Linksklick dreht Ausrichtung, Rechtsklick dreht Achse)
+Screwdriver (left-click rotates face, right-click rotates axis)=
+Schraubenzieher (Linksklick dreht Ausrichtung, Rechtsklick dreht Achse)
 Acacia Wood Slab=Akazienholzplatte
 Aspen Wood Slab=Espenholzplatte
 Brick Slab=Ziegelsteinplatte
@@ -417,25 +416,18 @@ Yellow Wool=Gelbe Wolle
 Iron Bar=Eisengitter
 Glass Pane=Glasscheibe
 Nyan Cat Rainbow=Nyan-Cat-Regenbogen
-Nyan Cat=Nyan Cat"
-
+Nyan Cat=Nyan Cat
 #~ Leaves"
 #~ msgstr "Blätter"
-
 #~ Sapling"
 #~ msgstr "Setzling"
-
 #~ Tree"
 #~ msgstr "Baumstamm"
-
 #~ Wooden Planks"
 #~ msgstr "Holzbretter"
-
 #~ Trapdoor"
 #~ msgstr "Falltür"
-
 #~ String"
 #~ msgstr "Faden"
-
 #~ Rose"
 #~ msgstr "Rose"

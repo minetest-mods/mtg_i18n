@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=2; plural=n != 1;\n"
 #"X-Generator: Weblate 2.19-dev\n"
-
 Air (you hacker you!)=Lucht (jij hacker jij!)
 Simple Bed=Simpel bed
 #, fuzzy
@@ -316,9 +315,9 @@ Viola=
 Waterlily=Waterlelie
 Ignore (you hacker you!)=Negeren (jij hacker jij!)
 #, fuzzy
-Screwdriver (left-click rotates face, right-click rotates axis)="
-"Schroevendraaier (Klik met de linkermuisknop draait richting, klik met de "
-"rechtermuisknop draait as)
+Screwdriver (left-click rotates face, right-click rotates axis)=
+Schroevendraaier (Klik met de linkermuisknop draait richting, klik met de 
+rechtermuisknop draait as)
 #, fuzzy
 Acacia Wood Slab=Acacia Houten Plaat
 #, fuzzy
@@ -608,22 +607,16 @@ Yellow Wool=Gele Wol
 Iron Bar=Ijzeren staven
 Glass Pane=Glazen Paneel
 Nyan Cat Rainbow=Nyan Cat Regenboog
-Nyan Cat=Nyan Cat"
-
+Nyan Cat=Nyan Cat
 #~ Leaves"
 #~ msgstr "Bladeren"
-
 #~ Sapling"
 #~ msgstr "Kiemplant"
-
 #~ Tree"
 #~ msgstr "Boom"
-
 #~ Wooden Planks"
 #~ msgstr "Houten Planken"
-
 #~ Trapdoor"
 #~ msgstr "Luik"
-
 #~ Rose"
 #~ msgstr "Roos"

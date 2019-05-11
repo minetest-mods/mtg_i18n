@@ -17,7 +17,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=1; plural=0;\n"
 #"X-Generator: Weblate 3.4-dev\n"
-
 Air (you hacker you!)=Udara (engkau penggodam!)
 Simple Bed=Katil Biasa
 Fancy Bed=Katil Beragam
@@ -416,25 +415,18 @@ Yellow Wool=Bulu Biri-Biri Kuning
 Iron Bar=Jeriji Besi
 Glass Pane=Kaca Tingkap
 Nyan Cat Rainbow=Pelangi Nyan Cat
-Nyan Cat=Nyan Cat"
-
+Nyan Cat=Nyan Cat
 #~ Leaves"
 #~ msgstr "Daun Pokok"
-
 #~ Sapling"
 #~ msgstr "Anak Pokok"
-
 #~ Tree"
 #~ msgstr "Kayu Pokok"
-
 #~ Wooden Planks"
 #~ msgstr "Papan Kayu"
-
 #~ Trapdoor"
 #~ msgstr "Pintu Kolong"
-
 #~ String"
 #~ msgstr "Rentetan"
-
 #~ Rose"
 #~ msgstr "Ros"

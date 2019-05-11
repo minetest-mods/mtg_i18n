@@ -14,10 +14,9 @@
 #"Language: cs\n"
 #"MIME-Version: 1.0\n"
 #"Content-Type: text/plain; charset=UTF-8\n"
-#"Content-Trans#fer-Encoding: 8bit\n"
+#"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-#"X-Generator: Weblate 2.19-dev\n
-
+#"X-Generator: Weblate 2.19-dev\n"
 Air (you hacker you!)=Vzduch (ty jeden hackere!)
 Simple Bed=Prostá postel
 Fancy Bed=Zdobená postel
@@ -516,25 +515,18 @@ Yellow Wool=Žlutá vlna
 Iron Bar=Železná mříž
 Glass Pane=Skleněná tabule
 Nyan Cat Rainbow=Nyan Cat duha
-Nyan Cat=Nyan Cat"
-
+Nyan Cat=Nyan Cat
 #~ Leaves"
 #~ msgstr "Listí"
-
 #~ Sapling"
 #~ msgstr "Sazenice"
-
 #~ Tree"
 #~ msgstr "Kmen"
-
 #~ Wooden Planks"
 #~ msgstr "Dřevěná prkna"
-
 #~ Trapdoor"
 #~ msgstr "Padací dveře"
-
 #~ String"
 #~ msgstr "provázek"
-
 #~ Rose"
 #~ msgstr "Růže"

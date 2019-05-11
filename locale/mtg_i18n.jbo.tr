@@ -3,7 +3,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#"Project-Id-Version: \n"
+
 #"Report-Msgid-Bugs-To: \n"
 #"POT-Creation-Date: 2018-12-07 22:13+0100\n"
 #"PO-Revision-Date: 2018-05-10 21:02+0000\n"
@@ -16,7 +16,6 @@
 #"Content-Transfer-Encoding: 8bit\n"
 #"Plural-Forms: nplurals=1; plural=0;\n"
 #"X-Generator: Weblate 3.0-dev\n"
-
 Air (you hacker you!)=lo vacri to do zerjonse zo'o toi
 Simple Bed=lo sampu ckana
 Fancy Bed=lo melbi ckana
@@ -28,9 +27,9 @@ River Water Bucket=lo baktu be lo rirxe djacu
 Water Bucket=lo baktu be lo djacu
 #, fuzzy
 Brake Rail=lo terjabre teryre'e
-Cart (Sneak+Click to pick up)="
-"lo carce to da'i iklki fe la masno cadzu ku jo'u lo selpevysmacu tezu'e lo "
-"nu cpacu toi
+Cart (Sneak+Click to pick up)=
+lo carce to da'i iklki fe la masno cadzu ku jo'u lo selpevysmacu tezu'e lo 
+nu cpacu toi
 #, fuzzy
 Powered Rail=lo se dikca teryre'e
 Rail=lo teryre'e
@@ -464,25 +463,18 @@ Yellow Wool=lo pelxu sunla
 Iron Bar=lo tirse garna
 Glass Pane=lo blaci plita
 Nyan Cat Rainbow=lo me la'o gy.Nyan Cat.gy. tanbargu
-Nyan Cat=lo me la'o gy.Nyan Cat.gy."
-
+Nyan Cat=lo me la'o gy.Nyan Cat.gy.
 #~ Leaves"
 #~ msgstr "lo pezli"
-
 #~ Sapling"
 #~ msgstr "lo ciftricu"
-
 #~ Tree"
 #~ msgstr "lo ricystani"
-
 #~ Wooden Planks"
 #~ msgstr "lo mudri tanbo"
-
 #~ Trapdoor"
 #~ msgstr "lo lolvrogai"
-
 #~ String"
 #~ msgstr "lo cilta"
-
 #~ Rose"
 #~ msgstr "lo rozgu"
