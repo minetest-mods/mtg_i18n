@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Italian locale file for the MTG_i18n module\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-07 22:13+0100\n"
-"PO-Revision-Date: 2017-10-09 16:47+0000\n"
-"Last-Translator: Hamlet <h4mlet@riseup.net>\n"
+"PO-Revision-Date: 2019-08-27 12:23+0000\n"
+"Last-Translator: Jacques Lagrange <Jacques.Reads@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/minetest/"
 "mtg_i18n/it/>\n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: init.lua
 msgid "Air (you hacker you!)"
@@ -56,9 +56,8 @@ msgid "Water Bucket"
 msgstr "Secchio d'acqua"
 
 #: init.lua
-#, fuzzy
 msgid "Brake Rail"
-msgstr "Binario freno"
+msgstr "Freno rotaia"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
@@ -86,9 +85,8 @@ msgid "Acacia Bush Stem"
 msgstr "Fusto di cespuglio d'acacia"
 
 #: init.lua
-#, fuzzy
 msgid "Acacia Tree Leaves"
-msgstr "Foglie d'acacia"
+msgstr "Foglie di albero di acacia"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
@@ -107,9 +105,8 @@ msgid "Apple"
 msgstr "Mela"
 
 #: init.lua
-#, fuzzy
 msgid "Aspen Tree Leaves"
-msgstr "Foglie di pioppo"
+msgstr "Foglie di albero di pioppo"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
