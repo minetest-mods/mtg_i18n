@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Italian locale file for the MTG_i18n module\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-07 22:13+0100\n"
-"PO-Revision-Date: 2019-08-27 12:23+0000\n"
-"Last-Translator: Jacques Lagrange <Jacques.Reads@gmail.com>\n"
+"PO-Revision-Date: 2019-09-20 11:32+0000\n"
+"Last-Translator: Hamlet <hamlatmesehub@riseup.net>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/minetest/"
 "mtg_i18n/it/>\n"
 "Language: it\n"
@@ -64,7 +64,6 @@ msgid "Cart (Sneak+Click to pick up)"
 msgstr "Vagone (Maiusc+Click per prenderlo)"
 
 #: init.lua
-#, fuzzy
 msgid "Powered Rail"
 msgstr "Binario alimentato"
 
