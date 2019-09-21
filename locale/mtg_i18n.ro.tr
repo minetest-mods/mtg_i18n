@@ -1,0 +1,453 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#"Project-Id-Version: PACKAGE VERSION\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2018-01-24 12:27+0000\n"
+#"Last-Translator: Maris Radu <marisradu@gmail.com>\n"
+#"Language-Team: Romanian <https://hosted.weblate.org/projects/minetest/"
+#"mtg_i18n/ro/>\n"
+#"Language: ro\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+#"20)) ? 1 : 2;\n"
+#"X-Generator: Weblate 2.19-dev\n"
+Air (you hacker you!)=Aer (hacker-ule!)
+Simple Bed=Pat Simplu
+Fancy Bed=Pat Luxos
+Boat=Barcă
+Bones=Oase
+Empty Bucket=Găleată Goală
+Lava Bucket=Găleată de Lavă
+River Water Bucket=Găleată cu apă de râu
+Water Bucket=Găleată cu apă
+Brake Rail=
+Cart (Sneak+Click to pick up)=
+Powered Rail=
+Rail=Şină
+Acacia Bush Leaves=Frunze de tufiş Acacia
+Acacia Bush Sapling=Puiet de tufiş Acacia
+Acacia Bush Stem=Tulpină de tufiş Acacia
+#, fuzzy
+Acacia Tree Leaves=Frunze de Acacia
+Acacia Tree Sapling=Puiet arbore de Acacia
+Acacia Tree=Arbore de Acacia
+Acacia Wood Planks=Scăndură de Acacia
+Apple=Măr
+#, fuzzy
+Aspen Tree Leaves=Frunze de Plop
+Aspen Tree Sapling=Puiet de Plop
+Aspen Tree=Plop
+Aspen Wood Planks=Scândură de Plop
+Bronze Axe=Topor de bronz
+Diamond Axe=Topor de diamant
+#, fuzzy
+Mese Axe=Topor Mese
+Steel Axe=Topor de Oţel
+Stone Axe=Topor de Piatră
+Wooden Axe=Topor de Lemn
+Book=Carte
+Bookshelf=Bibliotecă
+Book With Text=Carte cu text
+Brick Block=Bloc de Cărămidă
+Bronze Block=Bloc de Bronz
+Bronze Ingot=Lingou de Bronz
+Bush Leaves=Frunze de Tufiş
+Bush Sapling=Puiet de tufiş
+Bush Stem=Tulpină de tufiş
+Cactus=Cactus
+Locked Chest=Cufăr închuiat
+Chest=Cufăr
+Clay Brick=Cărămidă de Lut
+Clay Lump=Lampă de Lut
+Clay=Lut
+Cloud=Nor
+Coal Block=Bloc de cărbune
+Coal Lump=Lampă de cărbune
+Cobblestone=Pavaj de piatră
+Copper Block=Bloc de cupru
+Copper Ingot=Lingou de cupru
+Copper Lump=Lampă de cupru
+Brown Coral=Coral Maro
+Orange Coral=Coral Portocaliu
+Coral Skeleton=Schelet de Coral
+Desert Cobblestone=Pavaj de piatra de deşert
+Desert Sand=Nisip de deşert
+Desert Sandstone Block=Bloc de gresie din deşert
+Desert Sandstone Brick=Cărămidă de gresie din deşert
+Desert Sandstone=Gresie din deşert
+Desert Stone Block=Bloc de piatră din deşert
+Desert Stone Brick=Cărămidă de piatră din deşert
+Desert Stone=Piatră din deşert
+Diamond Block=Bloc de Diamant
+Diamond=Diamant
+Dirt=Pământ
+Dirt with Dry Grass=Pământ cu iarbă uscată
+Dirt with Grass and Footsteps=Pământ cu iarbă şi urme de paşi
+Dirt with Grass=Pământ cu iarbă
+Dirt with Rainforest Litter=Pământ cu gunoi de junglă
+Dirt with Snow=Pământ cu Zăpadă
+Dry Grass=Iarbă Uscată
+Dry Shrub=Arbust Uscat
+#, fuzzy
+Acacia Wood Fence=Gard de Salcâm
+#, fuzzy
+Aspen Wood Fence=Gard de plop
+#, fuzzy
+Jungle Wood Fence=Gard din lemn de junglă
+#, fuzzy
+Pine Wood Fence=Gard din Pin
+#, fuzzy
+Apple Wood Fence=Gard de lemn
+Flint=Cremene
+Furnace=Furnal
+Glass=Sticlă
+Gold Block=Bloc de Aur
+Gold Ingot=Lingou de Aur
+Gold Lump=Lapmă de Aur
+Grass=Iarbă
+Gravel=Pietriş
+Ice=Gheaţă
+Iron Lump=Lampă de oţel
+Jungle Grass=Iarbă de junglă
+#, fuzzy
+Jungle Tree Leaves=Frunze de junglă
+#, fuzzy
+Jungle Tree Sapling=Puiet de jungla
+Jungle Tree=Arbore de junglă
+#, fuzzy
+Jungle Wood Planks=Scândură de arbore din junglă
+Key=Cheie
+Steel Ladder=Scară de oţel
+Wooden Ladder=Scară de lemn
+Flowing Lava=Lavă curgătoare
+Lava Source=Sursă de lavă
+#, fuzzy
+Apple Tree Leaves=Frunze de Plop
+Mese Crystal Fragment=Fragment de Cristal de Mese
+Mese Crystal=Cristal de Mese
+Mese Lamp=Lampa de Mese
+Mese Post Light=Stâlp de lumină de Mese
+Mese Block=Bloc de Mese
+Mossy Cobblestone=Pavaj cu Muşchi
+Obsidian Block=Bloc de Obsidian
+Obsidian Brick=Cărămidă de Obsidian
+Obsidian Glass=Sticlă de Obsidian
+Obsidian Shard=Ciob de Obsidian
+Obsidian=Obsidian
+Paper=Hârtie
+Papyrus=Papirus
+Bronze Pickaxe=Târnăcop de Bronz
+Diamond Pickaxe=Târnăcop de Diamant
+Mese Pickaxe=Târnăcop de Mese
+Steel Pickaxe=Târnăcop de Oţel
+Stone Pickaxe=Târnăcop de Piatră
+Wooden Pickaxe=Târnăcop de Lemn
+Pine Needles=Ace de Pin
+#, fuzzy
+Pine Tree Sapling=Puiet de Pin
+Pine Tree=Pin
+Pine Wood Planks=Scândura de Pin
+Flowing River Water=Apă de râu
+River Water Source=Sursă de apă curgătoare
+Sand=Nisip
+Sandstone Block=Bloc de Gresie
+Sandstone Brick=Cărămidă de Gresie
+Sandstone=Gresie
+#, fuzzy
+Apple Tree Sapling=Puiet de Plop
+Bronze Shovel=Lopată de Bronz
+Diamond Shovel=Lopată de Diamant
+Mese Shovel=Lopată de Mese
+Steel Shovel=Lopată de Oţel
+Stone Shovel=Lopată de Piatră
+Wooden Shovel=Lopată de Lemn
+Steel Sign=Semn de Oţel
+Wooden Sign=Semn de Lemn
+Silver Sand=Nisip de Argint
+Silver Sandstone Block=Bloc de Gresie Argintiu
+Silver Sandstone Brick=Cărămidă de Gresie Argintie
+Silver Sandstone=Gresie Argintie
+Skeleton Key=Cheie falsă
+Snow Block=Bloc de Zăpadă
+Snow=Zăpadă
+Steel Block=Bloc de Oţel
+Steel Ingot=Lingou de Oţel
+Stick=Băţ
+Stone Block=Bloc de Piatră
+Stone Brick=Cărămidă de Piatră
+Stone=Piatră
+Coal Ore=Minereu de Cărbune
+Copper Ore=Minereu de Cupru
+Diamond Ore=Minereu de Diamant
+Gold Ore=Minereu de Aur
+Iron Ore=Minereu de Oţel
+Mese Ore=Minereu de Mese
+Tin Ore=Minereu de Cositor
+Bronze Sword=Sabie de Bronz
+Diamond Sword=Sabie de Diamant
+Mese Sword=Sabie de Mese
+Steel Sword=Sabie de Oţel
+Stone Sword=Sabie de Piatră
+Wooden Sword=Sabie de Lemn
+Tin Block=Bloc de Cositor
+Tin Ingot=Lingou de Cositor
+Tin Lump=Lampă de Cositor
+Torch=Torţă
+#, fuzzy
+Apple Tree=Plop
+Flowing Water=Apă curgătoare
+Water Source=Sursă de Apă
+#, fuzzy
+Apple Wood Planks=Scândură de Plop
+Glass Door=Uşă de Sticlă
+Obsidian Glass Door=Uşă de Sticlă de Obsidian
+Steel Door=Uşă de Oţel
+Wooden Door=Uşă de Lemn
+#, fuzzy
+Acacia Wood Fence Gate=Poartă de Salcâm
+#, fuzzy
+Aspen Wood Fence Gate=Poartă de Plop
+#, fuzzy
+Jungle Wood Fence Gate=Gard din lemn de junglă
+#, fuzzy
+Pine Wood Fence Gate=Poartă de Plop
+#, fuzzy
+Apple Wood Fence Gate=Poartă de Plop
+Hidden Door Segment=
+#, fuzzy
+Wooden Trapdoor=Uşă de Lemn
+Steel Trapdoor=
+Black Dye=
+Blue Dye=
+#, fuzzy
+Brown Dye=Coral Maro
+Cyan Dye=
+Dark Green Dye=
+Dark Grey Dye=
+Green Dye=
+Grey Dye=
+Magenta Dye=
+#, fuzzy
+Orange Dye=Coral Portocaliu
+Pink Dye=
+Red Dye=
+Violet Dye=
+White Dye=
+Yellow Dye=
+Bread=
+Cotton=
+Desert Sand Soil=
+Wet Desert Sand Soil=
+Flour=
+Bronze Hoe=
+Diamond Hoe=
+Mese Hoe=
+Steel Hoe=
+Stone Hoe=
+Wooden Hoe=
+Cotton Seed=
+Wheat Seed=
+Soil=
+Wet Soil=
+Straw=
+Wheat=
+Flint and Steel=
+Permanent Flame=
+White Dandelion=
+Yellow Dandelion=
+Blue Geranium=
+Brown Mushroom=
+Red Mushroom=
+Red Rose=
+Orange Tulip=
+Viola=
+Waterlily=
+Ignore (you hacker you!)=
+Screwdriver (left-click rotates face, right-click rotates axis)=
+Acacia Wood Slab=
+Aspen Wood Slab=
+Brick Slab=
+Bronze Block Slab=
+Cobblestone Slab=
+Copper Block Slab=
+Desert Cobblestone Slab=
+Desert Sandstone Block Slab=
+Desert Sandstone Brick Slab=
+Desert Sandstone Slab=
+Desert Stone Block Slab=
+Desert Stone Brick Slab=
+Desert Stone Slab=
+Gold Block Slab=
+Ice Slab=
+Jungle Wood Slab=
+Mossy Cobblestone Slab=
+Obsidian Block Slab=
+Obsidian Brick Slab=
+Obsidian Slab=
+Pine Wood Slab=
+Sandstone Block Slab=
+Sandstone Brick Slab=
+Sandstone Slab=
+Silver Sandstone Block Slab=
+Silver Sandstone Brick Slab=
+Silver Sandstone Slab=
+Snow Block Slab=
+Steel Block Slab=
+Stone Block Slab=
+Stone Brick Slab=
+Stone Slab=
+Straw Slab=
+Tin Block Slab=
+Wooden Slab=
+Acacia Wood Stair=
+Aspen Wood Stair=
+Brick Stair=
+Bronze Block Stair=
+Cobblestone Stair=
+Copper Block Stair=
+Desert Cobblestone Stair=
+Desert Sandstone Block Stair=
+Desert Sandstone Brick Stair=
+Desert Sandstone Stair=
+Desert Stone Block Stair=
+Desert Stone Brick Stair=
+Desert Stone Stair=
+Gold Block Stair=
+Ice Stair=
+Acacia Wood Stair Inner=
+Aspen Wood Stair Inner=
+Brick Stair Inner=
+Bronze Block Stair Inner=
+Cobblestone Stair Inner=
+Copper Block Stair Inner=
+Desert Cobblestone Stair Inner=
+Desert Sandstone Block Stair Inner=
+Desert Sandstone Brick Stair Inner=
+Desert Sandstone Stair Inner=
+Desert Stone Block Stair Inner=
+Desert Stone Brick Stair Inner=
+Desert Stone Stair Inner=
+Gold Block Stair Inner=
+Ice Stair Inner=
+Jungle Wood Stair Inner=
+Mossy Cobblestone Stair Inner=
+Obsidian Block Stair Inner=
+Obsidian Brick Stair Inner=
+Obsidian Stair Inner=
+Pine Wood Stair Inner=
+Sandstone Block Stair Inner=
+Sandstone Brick Stair Inner=
+Sandstone Stair Inner=
+Silver Sandstone Block Stair Inner=
+Silver Sandstone Brick Stair Inner=
+Silver Sandstone Stair Inner=
+Snow Block Stair Inner=
+Steel Block Stair Inner=
+Stone Block Stair Inner=
+Stone Brick Stair Inner=
+Stone Stair Inner=
+Straw Stair Inner=
+Tin Block Stair Inner=
+Wooden Stair Inner=
+Jungle Wood Stair=
+Mossy Cobblestone Stair=
+Obsidian Block Stair=
+Obsidian Brick Stair=
+Obsidian Stair=
+Acacia Wood Stair Outer=
+Aspen Wood Stair Outer=
+Brick Stair Outer=
+Bronze Block Stair Outer=
+Cobblestone Stair Outer=
+Copper Block Stair Outer=
+Desert Cobblestone Stair Outer=
+Desert Sandstone Block Stair Outer=
+Desert Sandstone Brick Stair Outer=
+Desert Sandstone Stair Outer=
+Desert Stone Block Stair Outer=
+Desert Stone Brick Stair Outer=
+Desert Stone Stair Outer=
+Gold Block Stair Outer=
+Ice Stair Outer=
+Jungle Wood Stair Outer=
+Mossy Cobblestone Stair Outer=
+Obsidian Block Stair Outer=
+Obsidian Brick Stair Outer=
+Obsidian Stair Outer=
+Pine Wood Stair Outer=
+Sandstone Block Stair Outer=
+Sandstone Brick Stair Outer=
+Sandstone Stair Outer=
+Silver Sandstone Block Stair Outer=
+Silver Sandstone Brick Stair Outer=
+Silver Sandstone Stair Outer=
+Snow Block Stair Outer=
+Steel Block Stair Outer=
+Stone Block Stair Outer=
+Stone Brick Stair Outer=
+Stone Stair Outer=
+Straw Stair Outer=
+Tin Block Stair Outer=
+Wooden Stair Outer=
+Pine Wood Stair=
+Sandstone Block Stair=
+Sandstone Brick Stair=
+Sandstone Stair=
+Silver Sandstone Block Stair=
+Silver Sandstone Brick Stair=
+Silver Sandstone Stair=
+Snow Block Stair=
+Steel Block Stair=
+Stone Block Stair=
+Stone Brick Stair=
+Stone Stair=
+Straw Stair=
+Tin Block Stair=
+Wooden Stair=
+Gun Powder=
+TNT=
+Unknown Item=
+Empty Drinking Glass=
+Empty Glass Bottle=
+#, fuzzy
+Glass Fragments=Fragment de Cristal de Mese
+Vessels Shelf=
+Empty Heavy Steel Bottle=
+Cobblestone Wall=
+Desert Cobblestone Wall=
+Mossy Cobblestone Wall=
+Black Wool=
+Blue Wool=
+Brown Wool=
+Cyan Wool=
+Dark Green Wool=
+Dark Grey Wool=
+Green Wool=
+Grey Wool=
+Magenta Wool=
+Orange Wool=
+Pink Wool=
+Red Wool=
+Violet Wool=
+White Wool=
+Yellow Wool=
+#, fuzzy
+Iron Bar=Minereu de Oţel
+Glass Pane=
+Nyan Cat Rainbow=
+Nyan Cat=
+#~ Leaves"
+#~ msgstr "Frunze"
+#~ Sapling"
+#~ msgstr "Puiet"
+#~ Tree"
+#~ msgstr "Arbore"
+#~ Wooden Planks"
+#~ msgstr "Scândură de Lemn"

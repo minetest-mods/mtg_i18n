@@ -1,0 +1,487 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#"Project-Id-Version: PACKAGE VERSION\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2018-11-12 17:17+0000\n"
+#"Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
+#"Language-Team: Serbian <https://hosted.weblate.org/projects/minetest/"
+#"mtg_i18n/sr/>\n"
+#"Language: sr\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+#"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+#"X-Generator: Weblate 3.3-dev\n"
+Air (you hacker you!)=Ваздух
+Simple Bed=Једноставан кревет
+Fancy Bed=Китњаст кревет
+Boat=Брод
+Bones=Кости
+Empty Bucket=Празна канта
+Lava Bucket=Канта лаве
+River Water Bucket=Канта речне воде
+Water Bucket=Канта воде
+#, fuzzy
+Brake Rail=Кочиона шина
+Cart (Sneak+Click to pick up)=Воз (чучањ+клик за преузимање)
+#, fuzzy
+Powered Rail=Електрична шина
+Rail=Шина
+Acacia Bush Leaves=Лишће жбуна акације
+Acacia Bush Sapling=Садница жбуна акације
+Acacia Bush Stem=Корен жбуна акације
+#, fuzzy
+Acacia Tree Leaves=Лишће акације
+Acacia Tree Sapling=Садница жбуна акације
+Acacia Tree=Дрво акација
+Acacia Wood Planks=Даске дрвета акације
+Apple=Јабука
+#, fuzzy
+Aspen Tree Leaves=Лишће јасике
+Aspen Tree Sapling=Садница дрвета јасике
+Aspen Tree=Дрво јасика
+Aspen Wood Planks=Даске дрвета јасике
+Bronze Axe=Медна секира
+Diamond Axe=Дијамантска секира
+Mese Axe=Керамичка секира
+Steel Axe=Гвоздена секира
+Stone Axe=Камена секира
+Wooden Axe=Дрвена секира
+Book=Књига
+Bookshelf=Полица за књиге
+Book With Text=Писана књига
+Brick Block=Коцка цигли
+Bronze Block=Коцка меди
+Bronze Ingot=Одливак меди
+Bush Leaves=Лишће жбуна
+Bush Sapling=Садница жбуна
+Bush Stem=Корен жбуна
+Cactus=Кактус
+Locked Chest=Закључани сандук
+Chest=Ковчег
+Clay Brick=Цигла
+Clay Lump=Грумен глине
+Clay=Глина
+Cloud=Облак
+Coal Block=Коцка угља
+Coal Lump=Руда угља
+Cobblestone=Калдрма
+Copper Block=Коцка бакра
+Copper Ingot=Одливак бакра
+Copper Lump=Руда бакра
+Brown Coral=Смеђи корал
+Orange Coral=Наранџасти корал
+Coral Skeleton=Корални костур
+Desert Cobblestone=Пустињска калдрма
+Desert Sand=Пустињски песак
+Desert Sandstone Block=Коцка пустињског песка
+Desert Sandstone Brick=Цигла од пустињског песка
+Desert Sandstone=Камен од пустињског песка
+Desert Stone Block=Коцка пустињског камена
+Desert Stone Brick=Цигла од пустињског камена
+Desert Stone=Пустињски камен
+Diamond Block=Дијамантска коцка
+Diamond=Дијамант
+Dirt=Земља
+Dirt with Dry Grass=Земља са сувом травом
+Dirt with Grass and Footsteps=Земља са травом и траговима
+Dirt with Grass=Земља са травом
+Dirt with Rainforest Litter=Земља са стељом кишне шуме
+Dirt with Snow=Земља са снегом
+Dry Grass=Сува трава
+Dry Shrub=Суво шибље
+#, fuzzy
+Acacia Wood Fence=Плот од трња
+#, fuzzy
+Aspen Wood Fence=Плот од  јасике
+#, fuzzy
+Jungle Wood Fence=Плот од прашумског дрвета
+#, fuzzy
+Pine Wood Fence=Боров плот
+#, fuzzy
+Apple Wood Fence=Дрвени плот
+Flint=Кремен
+Furnace=Пећ
+Glass=Стакло
+Gold Block=Златна коцка
+Gold Ingot=Одливак злата
+Gold Lump=Златни грумен
+Grass=Трава
+Gravel=Шљунак
+Ice=Лед
+Iron Lump=Гвоздени грумен
+Jungle Grass=Трава прашуме
+#, fuzzy
+Jungle Tree Leaves=Лишће прашуме
+#, fuzzy
+Jungle Tree Sapling=Прашумска садница
+Jungle Tree=Дрво прашуме
+#, fuzzy
+Jungle Wood Planks=Даске дрвета јасике
+Key=Кључ
+Steel Ladder=Гвоздене лестве
+Wooden Ladder=Дрвене лестве
+Flowing Lava=Текућа лава
+Lava Source=Извор лаве
+#, fuzzy
+Apple Tree Leaves=Лишће јасике
+Mese Crystal Fragment=Парче кристала керамике
+Mese Crystal=Кристал керамике
+Mese Lamp=
+Mese Post Light=
+Mese Block=Керамичка коцка
+Mossy Cobblestone=
+Obsidian Block=Коцка од вулканског стакла
+Obsidian Brick=Цигла од вулканског стакла
+Obsidian Glass=Вулканско стакло
+Obsidian Shard=
+Obsidian=Вулканско стакло
+Paper=Папир
+Papyrus=Трска
+Bronze Pickaxe=
+Diamond Pickaxe=
+Mese Pickaxe=
+Steel Pickaxe=
+Stone Pickaxe=
+Wooden Pickaxe=
+Pine Needles=Борове иглице
+#, fuzzy
+Pine Tree Sapling=Борова садница
+Pine Tree=Борово дрво
+Pine Wood Planks=
+Flowing River Water=Речна вода
+River Water Source=Речни извор
+Sand=Песак
+Sandstone Block=
+Sandstone Brick=
+Sandstone=
+#, fuzzy
+Apple Tree Sapling=Садница дрвета јасике
+Bronze Shovel=
+Diamond Shovel=
+Mese Shovel=
+Steel Shovel=
+Stone Shovel=
+Wooden Shovel=
+Steel Sign=
+Wooden Sign=
+Silver Sand=
+Silver Sandstone Block=
+Silver Sandstone Brick=
+Silver Sandstone=
+Skeleton Key=
+Snow Block=
+Snow=
+Steel Block=
+Steel Ingot=
+Stick=
+Stone Block=
+Stone Brick=
+Stone=
+Coal Ore=
+Copper Ore=
+Diamond Ore=
+Gold Ore=
+Iron Ore=
+Mese Ore=
+Tin Ore=
+Bronze Sword=
+Diamond Sword=
+Mese Sword=
+Steel Sword=
+Stone Sword=
+Wooden Sword=
+Tin Block=
+Tin Ingot=
+Tin Lump=
+Torch=
+#, fuzzy
+Apple Tree=Дрво јасика
+Flowing Water=
+Water Source=
+#, fuzzy
+Apple Wood Planks=Даске дрвета јасике
+Glass Door=
+Obsidian Glass Door=
+Steel Door=
+Wooden Door=
+#, fuzzy
+Acacia Wood Fence Gate=Плот од трња
+#, fuzzy
+Aspen Wood Fence Gate=Плот од  јасике
+#, fuzzy
+Jungle Wood Fence Gate=Плот од прашумског дрвета
+#, fuzzy
+Pine Wood Fence Gate=Боров плот
+#, fuzzy
+Apple Wood Fence Gate=Дрвени плот
+Hidden Door Segment=
+#, fuzzy
+Wooden Trapdoor=Дрвене лестве
+Steel Trapdoor=
+Black Dye=
+Blue Dye=
+#, fuzzy
+Brown Dye=Смеђи корал
+Cyan Dye=
+Dark Green Dye=
+Dark Grey Dye=
+Green Dye=
+Grey Dye=
+Magenta Dye=
+#, fuzzy
+Orange Dye=Наранџасти корал
+Pink Dye=
+Red Dye=
+Violet Dye=
+White Dye=
+Yellow Dye=
+Bread=
+Cotton=
+Desert Sand Soil=
+Wet Desert Sand Soil=
+Flour=
+Bronze Hoe=
+Diamond Hoe=
+Mese Hoe=
+Steel Hoe=
+Stone Hoe=
+Wooden Hoe=
+Cotton Seed=
+Wheat Seed=
+Soil=
+Wet Soil=
+Straw=
+Wheat=
+Flint and Steel=
+Permanent Flame=
+White Dandelion=
+Yellow Dandelion=
+Blue Geranium=
+Brown Mushroom=
+Red Mushroom=
+Red Rose=
+Orange Tulip=
+Viola=
+Waterlily=
+Ignore (you hacker you!)=
+Screwdriver (left-click rotates face, right-click rotates axis)=
+Acacia Wood Slab=
+Aspen Wood Slab=
+Brick Slab=
+Bronze Block Slab=
+Cobblestone Slab=
+Copper Block Slab=
+Desert Cobblestone Slab=
+Desert Sandstone Block Slab=
+Desert Sandstone Brick Slab=
+Desert Sandstone Slab=
+Desert Stone Block Slab=
+Desert Stone Brick Slab=
+Desert Stone Slab=
+Gold Block Slab=
+Ice Slab=
+Jungle Wood Slab=
+Mossy Cobblestone Slab=
+Obsidian Block Slab=
+Obsidian Brick Slab=
+Obsidian Slab=
+Pine Wood Slab=
+Sandstone Block Slab=
+Sandstone Brick Slab=
+Sandstone Slab=
+Silver Sandstone Block Slab=
+Silver Sandstone Brick Slab=
+Silver Sandstone Slab=
+Snow Block Slab=
+Steel Block Slab=
+Stone Block Slab=
+Stone Brick Slab=
+Stone Slab=
+Straw Slab=
+Tin Block Slab=
+Wooden Slab=
+Acacia Wood Stair=
+Aspen Wood Stair=
+Brick Stair=
+Bronze Block Stair=
+Cobblestone Stair=
+Copper Block Stair=
+Desert Cobblestone Stair=
+Desert Sandstone Block Stair=
+Desert Sandstone Brick Stair=
+Desert Sandstone Stair=
+Desert Stone Block Stair=
+Desert Stone Brick Stair=
+Desert Stone Stair=
+Gold Block Stair=
+Ice Stair=
+#, fuzzy
+Acacia Wood Stair Inner=Daske drveta akacije
+#, fuzzy
+Aspen Wood Stair Inner=Daske drveta jasike
+Brick Stair Inner=
+#, fuzzy
+Bronze Block Stair Inner=Blok bronze
+#, fuzzy
+Cobblestone Stair Inner=Kaldrma
+#, fuzzy
+Copper Block Stair Inner=Blok bakra
+#, fuzzy
+Desert Cobblestone Stair Inner=Pustinjska kaldrma
+#, fuzzy
+Desert Sandstone Block Stair Inner=Blok kamena pustinjskog peska
+#, fuzzy
+Desert Sandstone Brick Stair Inner=Cigla pustinjskog peska
+#, fuzzy
+Desert Sandstone Stair Inner=Kamen pustinjskog peska
+#, fuzzy
+Desert Stone Block Stair Inner=Blok pustinjskog kamena
+#, fuzzy
+Desert Stone Brick Stair Inner=Cigla pustinjskog kamena
+#, fuzzy
+Desert Stone Stair Inner=Cigla pustinjskog kamena
+#, fuzzy
+Gold Block Stair Inner=Zlatan Blok
+Ice Stair Inner=
+Jungle Wood Stair Inner=
+Mossy Cobblestone Stair Inner=
+#, fuzzy
+Obsidian Block Stair Inner=Opsidian Blok
+#, fuzzy
+Obsidian Brick Stair Inner=Opsidian cigla
+Obsidian Stair Inner=
+Pine Wood Stair Inner=
+#, fuzzy
+Sandstone Block Stair Inner=Blok kamena pustinjskog peska
+#, fuzzy
+Sandstone Brick Stair Inner=Cigla pustinjskog peska
+Sandstone Stair Inner=
+#, fuzzy
+Silver Sandstone Block Stair Inner=Blok kamena pustinjskog peska
+#, fuzzy
+Silver Sandstone Brick Stair Inner=Cigla pustinjskog peska
+Silver Sandstone Stair Inner=
+Snow Block Stair Inner=
+Steel Block Stair Inner=
+Stone Block Stair Inner=
+Stone Brick Stair Inner=
+Stone Stair Inner=
+Straw Stair Inner=
+Tin Block Stair Inner=
+#, fuzzy
+Wooden Stair Inner=Drvena merdevina
+Jungle Wood Stair=
+Mossy Cobblestone Stair=
+Obsidian Block Stair=
+Obsidian Brick Stair=
+Obsidian Stair=
+#, fuzzy
+Acacia Wood Stair Outer=Daske drveta akacije
+#, fuzzy
+Aspen Wood Stair Outer=Daske drveta jasike
+Brick Stair Outer=
+#, fuzzy
+Bronze Block Stair Outer=Blok bronze
+#, fuzzy
+Cobblestone Stair Outer=Kaldrma
+#, fuzzy
+Copper Block Stair Outer=Blok bakra
+#, fuzzy
+Desert Cobblestone Stair Outer=Pustinjska kaldrma
+#, fuzzy
+Desert Sandstone Block Stair Outer=Blok kamena pustinjskog peska
+#, fuzzy
+Desert Sandstone Brick Stair Outer=Cigla pustinjskog peska
+#, fuzzy
+Desert Sandstone Stair Outer=Kamen pustinjskog peska
+#, fuzzy
+Desert Stone Block Stair Outer=Blok pustinjskog kamena
+#, fuzzy
+Desert Stone Brick Stair Outer=Cigla pustinjskog kamena
+#, fuzzy
+Desert Stone Stair Outer=Cigla pustinjskog kamena
+#, fuzzy
+Gold Block Stair Outer=Zlatan Blok
+Ice Stair Outer=
+Jungle Wood Stair Outer=
+Mossy Cobblestone Stair Outer=
+#, fuzzy
+Obsidian Block Stair Outer=Opsidian Blok
+#, fuzzy
+Obsidian Brick Stair Outer=Opsidian cigla
+Obsidian Stair Outer=
+Pine Wood Stair Outer=
+#, fuzzy
+Sandstone Block Stair Outer=Blok kamena pustinjskog peska
+#, fuzzy
+Sandstone Brick Stair Outer=Cigla pustinjskog peska
+Sandstone Stair Outer=
+#, fuzzy
+Silver Sandstone Block Stair Outer=Blok kamena pustinjskog peska
+#, fuzzy
+Silver Sandstone Brick Stair Outer=Cigla pustinjskog peska
+Silver Sandstone Stair Outer=
+Snow Block Stair Outer=
+Steel Block Stair Outer=
+Stone Block Stair Outer=
+Stone Brick Stair Outer=
+Stone Stair Outer=
+Straw Stair Outer=
+Tin Block Stair Outer=
+#, fuzzy
+Wooden Stair Outer=Drvena merdevina
+Pine Wood Stair=
+Sandstone Block Stair=
+Sandstone Brick Stair=
+Sandstone Stair=
+Silver Sandstone Block Stair=
+Silver Sandstone Brick Stair=
+Silver Sandstone Stair=
+Snow Block Stair=
+Steel Block Stair=
+Stone Block Stair=
+Stone Brick Stair=
+Stone Stair=
+Straw Stair=
+Tin Block Stair=
+Wooden Stair=
+Gun Powder=
+TNT=
+Unknown Item=
+Empty Drinking Glass=
+Empty Glass Bottle=
+#, fuzzy
+Glass Fragments=Парче кристала керамике
+Vessels Shelf=
+Empty Heavy Steel Bottle=
+Cobblestone Wall=
+Desert Cobblestone Wall=
+Mossy Cobblestone Wall=
+Black Wool=
+Blue Wool=
+Brown Wool=
+Cyan Wool=
+Dark Green Wool=
+Dark Grey Wool=
+Green Wool=
+Grey Wool=
+Magenta Wool=
+Orange Wool=
+Pink Wool=
+Red Wool=
+Violet Wool=
+White Wool=
+Yellow Wool=
+Iron Bar=
+Glass Pane=
+Nyan Cat Rainbow=
+Nyan Cat=
+#~ Leaves"
+#~ msgstr "Лишће"

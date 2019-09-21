@@ -1,0 +1,480 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2018-05-10 21:02+0000\n"
+#"Last-Translator: Wuzzy <almikes@aol.com>\n"
+#"Language-Team: Lojban <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+#"jbo/>\n"
+#"Language: jbo\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=1; plural=0;\n"
+#"X-Generator: Weblate 3.0-dev\n"
+Air (you hacker you!)=lo vacri to do zerjonse zo'o toi
+Simple Bed=lo sampu ckana
+Fancy Bed=lo melbi ckana
+Boat=lo bloti
+Bones=lo bongu
+Empty Bucket=lo baktu be noda
+Lava Bucket=lo baktu be lo likro'i
+River Water Bucket=lo baktu be lo rirxe djacu
+Water Bucket=lo baktu be lo djacu
+#, fuzzy
+Brake Rail=lo terjabre teryre'e
+Cart (Sneak+Click to pick up)=
+lo carce to da'i iklki fe la masno cadzu ku jo'u lo selpevysmacu tezu'e lo 
+nu cpacu toi
+#, fuzzy
+Powered Rail=lo se dikca teryre'e
+Rail=lo teryre'e
+Acacia Bush Leaves=lo atkaci,ia dzitricu pezli
+Acacia Bush Sapling=lo atkaci,ia dzitricu ciftricu
+Acacia Bush Stem=lo atkaci,ia dzitricu stani
+#, fuzzy
+Acacia Tree Leaves=lo atkaci,ia pezli
+Acacia Tree Sapling=lo atkaci,ia ciftricu
+Acacia Tree=lo atkaci,ia ricystani
+Acacia Wood Planks=lo atkaci,ia mudri tanbo
+Apple=lo plise
+#, fuzzy
+Aspen Tree Leaves=lo ricrpopulu pezli
+Aspen Tree Sapling=lo ricrpopulu ciftricu
+Aspen Tree=lo ricrpopulu ricystani
+Aspen Wood Planks=lo ricrpopulu mudri tanbo
+Bronze Axe=lo ransu ka'amru
+Diamond Axe=lo tabjme ka'amru
+Mese Axe=lo za'e kunrmese ka'amru
+Steel Axe=lo gasta ka'amru
+Stone Axe=lo rokci ka'amru
+Wooden Axe=lo mudri ka'amru
+Book=lo cukta
+Bookshelf=lo ckukajna
+Book With Text=lo cukta be lo se ciska
+Brick Block=lo kitybli bliku
+Bronze Block=lo ransu bliku
+Bronze Ingot=lo ransu manfybli
+Bush Leaves=lo dzitricu pezli
+Bush Sapling=lo dzitricu ciftricu
+Bush Stem=lo dzitricu stani
+Cactus=lo jesyspa
+Locked Chest=lo selstela gairvau
+Chest=lo gairvau
+Clay Brick=lo kitybli
+Clay Lump=lo kliti bakfu
+Clay=lo kliti
+Cloud=lo dilnu
+Coal Block=lo kolme bliku
+Coal Lump=lo kolme bakfu
+Cobblestone=lo lolro'iboi
+Copper Block=lo tunka bliku
+Copper Ingot=lo tunka manfybli
+Copper Lump=lo tunka bakfu
+Brown Coral=lo bunre pevypanje
+Orange Coral=lo narju pevypanje
+Coral Skeleton=lo pevypanje greku
+Desert Cobblestone=lo cantu'a lolro'iboi
+Desert Sand=lo cantu'a canre
+Desert Sandstone Block=lo cantu'a canro'i bliku
+Desert Sandstone Brick=lo morna ke cantu'a canro'i
+Desert Sandstone=lo cantu'a canro'i
+Desert Stone Block=lo cantu'a rokci bliku
+Desert Stone Brick=lo morna ke cantu'a rokci
+Desert Stone=lo cantu'a rokci
+Diamond Block=lo tabjme bliku
+Diamond=lo tabjme
+Dirt=lo dertu
+Dirt with Dry Grass=lo dertu joi sudga bo srasu
+Dirt with Grass and Footsteps=lo dertu joi srasu jebo stapa bo prina
+Dirt with Grass=lo dertu joi srasu
+Dirt with Rainforest Litter=lo dertu joi glatimdemricfoi bo festi
+Dirt with Snow=lo dertu joi snime
+Dry Grass=lo sudga srasu
+Dry Shrub=lo sudga dzitricu
+#, fuzzy
+Acacia Wood Fence=lo atkaci,ia garbi'u
+#, fuzzy
+Aspen Wood Fence=lo ricrpopulu garbi'u
+#, fuzzy
+Jungle Wood Fence=lo glatimdemricfoi mudri garbi'u
+#, fuzzy
+Pine Wood Fence=lo ckunu garbi'u
+#, fuzzy
+Apple Wood Fence=lo mudri garbi'u
+Flint=lo fagri rokci
+Furnace=lo toknu
+Glass=lo blaci
+Gold Block=lo solji bliku
+Gold Ingot=lo solji manfybli
+Gold Lump=lo solji bakfu
+Grass=lo srasu
+Gravel=lo cmaro'i
+Ice=lo bisli
+Iron Lump=lo tirse bakfu
+Jungle Grass=lo glatimdemricfoi srasu
+#, fuzzy
+Jungle Tree Leaves=lo glatimdemricfoi pezli
+#, fuzzy
+Jungle Tree Sapling=lo glatimdemricfoi ciftricu
+Jungle Tree=lo glatimdemricfoi ricystani
+#, fuzzy
+Jungle Wood Planks=lo glatimdemricfoi mudri tanbo
+Key=lo ckiku
+Steel Ladder=lo gasta rajyserti
+Wooden Ladder=lo mudri rajyserti
+Flowing Lava=lo flecu likro'i
+Lava Source=lo likro'i velflecu
+#, fuzzy
+Apple Tree Leaves=lo ricrpopulu pezli
+Mese Crystal Fragment=lo za'e krilrmese spisa
+Mese Crystal=lo za'e krilrmese
+Mese Lamp=lo za'e kunrmese tergu'i
+Mese Post Light=lo za'e kunrmese ke kamju tergu'i
+Mese Block=lo za'e blikrmese
+Mossy Cobblestone=lo clika lolro'iboi
+Obsidian Block=lo je'erma'ablaci bliku
+Obsidian Brick=lo morna je'erma'ablaci
+Obsidian Glass=lo je'erma'ablaci blaci
+Obsidian Shard=lo je'erma'ablaci spica
+Obsidian=lo je'erma'ablaci
+Paper=lo pelji
+Papyrus=lo misryplespa
+Bronze Pickaxe=lo ransu velkakpymru
+Diamond Pickaxe=lo tabjme velkakpymru
+Mese Pickaxe=lo za'e kunrmese velkakpymru
+Steel Pickaxe=lo gasta velkakpymru
+Stone Pickaxe=lo rokci velkakpymru
+Wooden Pickaxe=lo mudri velkakpymru
+Pine Needles=lo ckunu jezpezli
+#, fuzzy
+Pine Tree Sapling=lo ckunu ciftricu
+Pine Tree=lo ckunu ricystani
+Pine Wood Planks=lo ckunu mudri tanbo
+Flowing River Water=lo flecu ke rirxe djacu
+River Water Source=lo rirxe djacu velflecu
+Sand=lo canre
+Sandstone Block=lo canro'i bliku
+Sandstone Brick=lo morna canro'i
+Sandstone=lo canro'i
+#, fuzzy
+Apple Tree Sapling=lo ricrpopulu ciftricu
+Bronze Shovel=lo ransu canpa
+Diamond Shovel=lo tabjme canpa
+Mese Shovel=lo za'e kunrmese canpa
+Steel Shovel=lo gasta canpa
+Stone Shovel=lo rokci canpa
+Wooden Shovel=lo mudri canpa
+Steel Sign=lo gasta sinxa
+Wooden Sign=lo mudri sinxa
+Silver Sand=lo rijyska canre
+Silver Sandstone Block=lo rijyska canro'i bliku
+Silver Sandstone Brick=lo morna ke rijyska canro'i
+Silver Sandstone=lo rijyska sanro'i
+Skeleton Key=lo greku ckiku
+Snow Block=lo snime bliku
+Snow=lo snime
+Steel Block=lo gasta bliku
+Steel Ingot=lo gasta manfybli
+Stick=lo grana
+Stone Block=lo rokci bliku
+Stone Brick=lo morna rokci
+Stone=lo rokci
+Coal Ore=lo kolme kunro'i
+Copper Ore=lo tunka kunro'i
+Diamond Ore=lo tabjme kunro'i
+Gold Ore=lo solji kunro'i
+Iron Ore=lo tirse kunro'i
+Mese Ore=lo za'e kunrmese kunro'i
+Tin Ore=lo tinci kunro'i
+Bronze Sword=lo ransu cladakyxa'i
+Diamond Sword=lo tabjme cladakyxa'i
+Mese Sword=lo za'e kunrmese cladakyxa'i
+Steel Sword=lo gasta cladakyxa'i
+Stone Sword=lo rokci cladakyxa'i
+Wooden Sword=lo mudri cladakyxa'i
+Tin Block=lo tinci bliku
+Tin Ingot=lo tinci manfybli
+Tin Lump=lo tinci bakfu
+Torch=lo fagytergu'i
+#, fuzzy
+Apple Tree=lo ricrpopulu ricystani
+Flowing Water=lo flecu djacu
+Water Source=lo djacu velflecu
+#, fuzzy
+Apple Wood Planks=lo ricrpopulu mudri tanbo
+Glass Door=lo blaci vrogai
+Obsidian Glass Door=lo je'erma'ablaci blaci vrogai
+Steel Door=lo gasta vrogai
+Wooden Door=lo mudri vrogai
+#, fuzzy
+Acacia Wood Fence Gate=lo atkaci,ia garbimvrogai
+#, fuzzy
+Aspen Wood Fence Gate=lo ricrpopulu garbimvrogai
+#, fuzzy
+Jungle Wood Fence Gate=lo glatimdemricfoi mudri garbimvrogai
+#, fuzzy
+Pine Wood Fence Gate=lo ckunu garbimvrogai
+#, fuzzy
+Apple Wood Fence Gate=lo mudri garbimvrogai
+Hidden Door Segment=lo se mipri ke vrogai pagbu
+#, fuzzy
+Wooden Trapdoor=lo mudri vrogai
+Steel Trapdoor=lo gasta lolvrogai
+#, fuzzy
+Black Dye=lo xekri xinmo
+#, fuzzy
+Blue Dye=lo blanu xinmo
+#, fuzzy
+Brown Dye=lo bunre xinmo
+#, fuzzy
+Cyan Dye=lo cicna xinmo
+#, fuzzy
+Dark Green Dye=lo xekri crino xinmo
+#, fuzzy
+Dark Grey Dye=lo xekri grusi xinmo
+#, fuzzy
+Green Dye=lo crino xinmo
+#, fuzzy
+Grey Dye=lo grusi xinmo
+#, fuzzy
+Magenta Dye=lo nukni xinmo
+#, fuzzy
+Orange Dye=lo narju xinmo
+#, fuzzy
+Pink Dye=lo xunblabi xinmo
+#, fuzzy
+Red Dye=lo xunre xinmo
+#, fuzzy
+Violet Dye=lo zirpu xinmo
+#, fuzzy
+White Dye=lo blabi xinmo
+#, fuzzy
+Yellow Dye=lo pelxu xinmo
+Bread=lo nanba
+Cotton=lo mapni
+Desert Sand Soil=lo ferti ke cantu'a canre
+Wet Desert Sand Soil=lo cilmo ke ferti ke cantu'a canre
+Flour=lo grupu'o
+Bronze Hoe=le ransu te plixa
+Diamond Hoe=le tabjme te plixa
+Mese Hoe=le za'e kunrmese te plixa
+Steel Hoe=le gasta te plixa
+Stone Hoe=le rokci te plixa
+Wooden Hoe=le mudri te plixa
+#, fuzzy
+Cotton Seed=lo mapni tsiju
+#, fuzzy
+Wheat Seed=lo maxri tsiju
+Soil=lo ferti dertu
+Wet Soil=lo cilmo ke ferti dertu
+Straw=lo sudysrasu
+Wheat=lo maxri
+Flint and Steel=lo fagri rokci
+Permanent Flame=lo vitno fagri
+#, fuzzy
+White Dandelion=lo blabi spartaraksaku
+Yellow Dandelion=lo pelxu spartaraksaku
+Blue Geranium=lo blanu plargoni
+Brown Mushroom=lo bunre ledgrute
+Red Mushroom=lo xunre ledgrute
+#, fuzzy
+Red Rose=lo xunre xinmo
+Orange Tulip=lo narju tujli
+Viola=lo spatrvi'ola
+Waterlily=lo spatrnimfe'a
+Ignore (you hacker you!)=le se tolju'i to do zerjonse zo'o toi
+Screwdriver (left-click rotates face, right-click rotates axis)=lo lupcartci to da'i iklki lo se pevysmacu tezu'e lo nu cargau toi
+Acacia Wood Slab=lo atkaci,ia mudri ke xadba bliku
+Aspen Wood Slab=lo ricrpopulu mudri ke xadba bliku
+Brick Slab=lo kitybli ke xadba bliku
+Bronze Block Slab=lo ransu ke xadba bliku
+Cobblestone Slab=lo lolro'iboi ke xadba bliku
+Copper Block Slab=lo tunka bliku ke xadba bliku
+Desert Cobblestone Slab=lo cantu'a lolro'iboi ke xadba bliku
+Desert Sandstone Block Slab=lo cantu'a canro'i bliku ke xadba bliku
+Desert Sandstone Brick Slab=lo morna ke cantu'a canro'i ke xadba bliku
+Desert Sandstone Slab=lo cantu'a canro'i ke xadba bliku
+Desert Stone Block Slab=lo cantu'a rokci bliku ke xadba bliku
+Desert Stone Brick Slab=lo morna ke cantu'a rokci ke xadba bliku
+Desert Stone Slab=lo cantu'a rokci ke xadba bliku
+Gold Block Slab=lo solji bliku ke xadba bliku
+Ice Slab=lo bisli ke xadba bliku
+Jungle Wood Slab=lo glatimdemricfoi mudri ke xadba bliku
+Mossy Cobblestone Slab=lo clika lolro'iboi ke xadba bliku
+Obsidian Block Slab=lo je'erma'ablaci bliku ke xadba bliku
+Obsidian Brick Slab=lo morna je'erma'ablaci ke xadba bliku
+Obsidian Slab=lo je'erma'ablaci ke xadba bliku
+Pine Wood Slab=lo ckunu mudri ke xadba bliku
+Sandstone Block Slab=lo canro'i bliku ke xadba bliku
+Sandstone Brick Slab=lo morna canro'i ke xadba bliku
+Sandstone Slab=lo canro'i ke xadba bliku
+Silver Sandstone Block Slab=lo rijyska canro'i bliku ke xadba bliku
+Silver Sandstone Brick Slab=lo morna ke rijyska canro'i ke xadba bliku
+Silver Sandstone Slab=lo rijyska canro'i ke xadba bliku
+Snow Block Slab=lo snime bliku ke xadba bliku
+Steel Block Slab=lo gasta bliku ke xadba bliku
+Stone Block Slab=lo rokci bliku ke xadba bliku
+Stone Brick Slab=lo morna rokci ke xadba bliku
+Stone Slab=lo rokci ke xadba bliku
+Straw Slab=lo sudysrasu ke xadba bliku
+Tin Block Slab=lo tinci bliku ke xadba bliku
+Wooden Slab=lo mudri ke xadba bliku
+Acacia Wood Stair=lo atkaci,ia mudri serti
+Aspen Wood Stair=lo ricrpopulu mudri serti
+Brick Stair=lo kitybli serti
+Bronze Block Stair=lo ransu bliku serti
+Cobblestone Stair=lo lolro'iboi serti
+Copper Block Stair=lo tunka bliku serti
+Desert Cobblestone Stair=lo cantu'a lolro'iboi serti
+Desert Sandstone Block Stair=lo cantu'a canro'i bliku serti
+Desert Sandstone Brick Stair=lo morna ke cantu'a canro'i serti
+Desert Sandstone Stair=lo cantu'a canro'i serti
+Desert Stone Block Stair=lo cantu'a rokci bliku serti
+Desert Stone Brick Stair=lo morna ke cantu'a rokci serti
+Desert Stone Stair=lo cantu'a rokci serti
+Gold Block Stair=lo solci bliku serti
+Ice Stair=lo bisli serti
+Acacia Wood Stair Inner=lo zo'i atkaci,ia mudri serti
+Aspen Wood Stair Inner=lo zo'i ricrpopulu mudri serti
+Brick Stair Inner=lo zo'i kitybli serti
+Bronze Block Stair Inner=lo zo'i ransu bliku serti
+Cobblestone Stair Inner=lo zo'i lolro'iboi serti
+Copper Block Stair Inner=lo zo'i tunka bliku serti
+Desert Cobblestone Stair Inner=lo zo'i cantu'a lolro'iboi serti
+Desert Sandstone Block Stair Inner=lo zo'i cantu'a canro'i bliku serti
+Desert Sandstone Brick Stair Inner=lo zo'i morna cantu'a canro'i serti
+Desert Sandstone Stair Inner=lo zo'i cantu'a canro'i serti
+Desert Stone Block Stair Inner=lo zo'i cantu'a rokci bliku serti
+Desert Stone Brick Stair Inner=lo zo'i morna ke cantu'a rokci serti
+Desert Stone Stair Inner=lo zo'i cantu'a rokci serti
+Gold Block Stair Inner=lo zo'i solci bliku serti
+Ice Stair Inner=lo zo'i bisli serti
+Jungle Wood Stair Inner=lo zo'i glatimdemricfoi mudri serti
+Mossy Cobblestone Stair Inner=lo zo'i clika lolro'iboi serti
+Obsidian Block Stair Inner=lo zo'i je'erma'ablaci bliku serti
+Obsidian Brick Stair Inner=lo zo'i morna je'erma'ablaci serti
+Obsidian Stair Inner=lo zo'i je'erma'ablaci serti
+Pine Wood Stair Inner=lo zo'i ckunu mudri serti
+Sandstone Block Stair Inner=lo zo'i canro'i bliku serti
+Sandstone Brick Stair Inner=lo zo'i morna canro'i serti
+Sandstone Stair Inner=lo zo'i canro'i serti
+Silver Sandstone Block Stair Inner=lo zo'i rijyska canro'i bliku serti
+Silver Sandstone Brick Stair Inner=lo zo'i morna ke rijyska canro'i serti
+Silver Sandstone Stair Inner=lo zo'i rijyska canro'i serti
+Snow Block Stair Inner=lo zo'i snime bliku serti
+Steel Block Stair Inner=lo zo'i gasta bliku serti
+Stone Block Stair Inner=lo zo'i rokci serti
+Stone Brick Stair Inner=lo zo'i morna rokci
+Stone Stair Inner=lo zo'i rokci serti
+Straw Stair Inner=lo zo'i sudysrasu serti
+Tin Block Stair Inner=lo zo'i tinci bliku serti
+Wooden Stair Inner=lo zo'i mudri serti
+Jungle Wood Stair=lo glatimdemricfoi mudri serti
+Mossy Cobblestone Stair=lo clika lolro'iboi serti
+Obsidian Block Stair=lo je'erma'ablaci bliku serti
+Obsidian Brick Stair=lo morna ke je'erma'ablaci serti
+Obsidian Stair=lo je'erma'ablaci serti
+Acacia Wood Stair Outer=lo ze'o atkaci,ia mudri serti
+Aspen Wood Stair Outer=lo ze'o ricrpopulu mudri serti
+Brick Stair Outer=lo ze'o kitybli serti
+Bronze Block Stair Outer=lo ze'o ransu bliku serti
+Cobblestone Stair Outer=lo ze'o lolro'iboi serti
+Copper Block Stair Outer=lo ze'o tunka bliku serti
+Desert Cobblestone Stair Outer=lo ze'o cantu'a lolro'iboi serti
+Desert Sandstone Block Stair Outer=lo ze'o cantu'a canro'i bliku serti
+Desert Sandstone Brick Stair Outer=lo ze'o morna ke cantu'a canro'i serti
+Desert Sandstone Stair Outer=lo ze'o cantu'a canro'i serti
+Desert Stone Block Stair Outer=lo ze'o cantu'a rokci bliku
+Desert Stone Brick Stair Outer=lo ze'o morna ke cantu'a rokci serti
+Desert Stone Stair Outer=lo ze'o cantu'a rokci serti
+Gold Block Stair Outer=lo ze'o solji bliku serti
+Ice Stair Outer=lo ze'o bisli serti
+Jungle Wood Stair Outer=lo ze'o glatimdemricfoi mudri serti
+Mossy Cobblestone Stair Outer=lo ze'o clika lolro'iboi serti
+Obsidian Block Stair Outer=lo ze'o je'erma'ablaci bliku
+Obsidian Brick Stair Outer=lo ze'o morna ke je'erma'ablaci serti
+Obsidian Stair Outer=lo ze'o je'erma'ablaci serti
+Pine Wood Stair Outer=lo ze'o ckunu mudri serti
+Sandstone Block Stair Outer=lo ze'o canro'i bliku serti
+Sandstone Brick Stair Outer=lo ze'o morna ke canro'i serti
+Sandstone Stair Outer=lo ze'o canro'i serti
+Silver Sandstone Block Stair Outer=lo ze'o rijyska canro'i bliku serti
+Silver Sandstone Brick Stair Outer=lo ze'o morna rijyska canro'i serti
+Silver Sandstone Stair Outer=lo ze'o rijyska canro'i serti
+Snow Block Stair Outer=lo ze'o snime bliku serti
+Steel Block Stair Outer=lo ze'o gasta bliku serti
+Stone Block Stair Outer=lo ze'o rokci bliku serti
+Stone Brick Stair Outer=lo ze'o morna rokci serti
+Stone Stair Outer=lo ze'o rokci serti
+Straw Stair Outer=lo ze'o sudysrasu serti
+Tin Block Stair Outer=lo ze'o tinci bliku serti
+Wooden Stair Outer=lo ze'o mudri serti
+Pine Wood Stair=lo ckunu mudri serti
+Sandstone Block Stair=lo canro'i bliku serti
+Sandstone Brick Stair=lo morna ke canro'i serti
+Sandstone Stair=lo canro'i serti
+Silver Sandstone Block Stair=lo rijyska canro'i bliku serti
+Silver Sandstone Brick Stair=lo morna ke rijyska canro'i serti
+Silver Sandstone Stair=lo rijyska canro'i serti
+Snow Block Stair=lo snime bliku serti
+Steel Block Stair=lo gasta bliku serti
+Stone Block Stair=lo rokci bliku serti
+Stone Brick Stair=lo morna rokci serti
+Stone Stair=lo rokci serti
+Straw Stair=lo sudysrasu serti
+Tin Block Stair=lo tinci bliku serti
+Wooden Stair=lo mudri serti
+Gun Powder=lo tercelpu'o
+TNT=lo bamrti'enti
+Unknown Item=le na se djuno dacti
+#, fuzzy
+Empty Drinking Glass=lo blacykabri to kunti toi
+#, fuzzy
+Empty Glass Bottle=lo blacybo'i to kunti toi
+#, fuzzy
+Glass Fragments=lo derxi be lo blaci spisa
+Vessels Shelf=lo vasru kajna
+#, fuzzy
+Empty Heavy Steel Bottle=lo tilju ke gasta botpi to kunti toi
+Cobblestone Wall=lo lolro'iboi bitmu
+Desert Cobblestone Wall=lo cantu'a lolro'iboi bitmu
+Mossy Cobblestone Wall=lo clika lolro'iboi bitmu
+Black Wool=lo xekri sunla
+Blue Wool=lo blanu sunla
+Brown Wool=lo bunre sunla
+Cyan Wool=lo cicna sunla
+Dark Green Wool=lo xekri crino sunla
+Dark Grey Wool=lo xekri grusi sunla
+Green Wool=lo crino sunla
+Grey Wool=lo grusi sunla
+Magenta Wool=lo nukni sunla
+Orange Wool=lo narju sunla
+Pink Wool=lo xunblabi sunla
+Red Wool=lo xunre sunla
+Violet Wool=lo narju sunla
+White Wool=lo blabi sunla
+Yellow Wool=lo pelxu sunla
+#, fuzzy
+Iron Bar=lo tirse garna
+Glass Pane=lo blaci plita
+Nyan Cat Rainbow=lo me la'o gy.Nyan Cat.gy. tanbargu
+Nyan Cat=lo me la'o gy.Nyan Cat.gy.
+#~ Leaves"
+#~ msgstr "lo pezli"
+#~ Sapling"
+#~ msgstr "lo ciftricu"
+#~ Tree"
+#~ msgstr "lo ricystani"
+#~ Wooden Planks"
+#~ msgstr "lo mudri tanbo"
+#~ Trapdoor"
+#~ msgstr "lo lolvrogai"
+#~ String"
+#~ msgstr "lo cilta"
+#~ Rose"
+#~ msgstr "lo rozgu"

@@ -1,0 +1,513 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#"Project-Id-Version: PACKAGE VERSION\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2019-02-10 09:54+0000\n"
+#"Last-Translator: Mateusz Mendel <mendelm9@gmail.com>\n"
+#"Language-Team: Polish <https://hosted.weblate.org/projects/minetest/mtg_i18n/"
+#"pl/>\n"
+#"Language: pl\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+#"|| n%100>=20) ? 1 : 2;\n"
+#"X-Generator: Weblate 3.5-dev\n"
+Air (you hacker you!)=Powietrze (ty hakerze ty!)
+Simple Bed=Proste łóżko
+Fancy Bed=Łóżko ozdobne
+Boat=Łódka
+Bones=Kości
+Empty Bucket=Puste wiadro
+Lava Bucket=Wiadro lawy
+River Water Bucket=Wiadro wody z rzeki
+Water Bucket=Wiadro wody
+Brake Rail=Hamujący tor
+Cart (Sneak+Click to pick up)=Wózek (Skradanie+Klik aby podnieś)
+Powered Rail=Zasilany tor
+Rail=Tor
+Acacia Bush Leaves=Liście krzaku akacji
+Acacia Bush Sapling=Sadzonka krzaku akacji
+Acacia Bush Stem=Łodyga krzaku akacji
+Acacia Tree Leaves=Liście akacji
+Acacia Tree Sapling=Sadzonka drzewa akacji
+Acacia Tree=Drzewo akacji
+Acacia Wood Planks=Deski akacjowe
+Apple=Jabłko
+Aspen Tree Leaves=Liście osiki
+Aspen Tree Sapling=Sadzonka drzewa osikowego
+Aspen Tree=Drzewo osiki
+Aspen Wood Planks=Deski osikowe
+Bronze Axe=Brązowa siekiera
+Diamond Axe=Diamentowa siekiera
+Mese Axe=Mese siekiera
+Steel Axe=Stalowa siekiera
+Stone Axe=Kamienna siekiera
+Wooden Axe=Drewniana siekiera
+Book=Książka
+Bookshelf=Półka na książki
+Book With Text=Książka z tekstem
+Brick Block=Blok ceglany
+Bronze Block=Blok brązu
+Bronze Ingot=Sztabka brązu
+Bush Leaves=Liście krzaku
+Bush Sapling=Sadzonka krzaku
+Bush Stem=Łodyga krzaku
+Cactus=Kaktus
+Locked Chest=Zablokowana skrzynia
+Chest=Skrzynia
+Clay Brick=Gliniana cegła
+Clay Lump=Bryłka gliny
+Clay=Glina
+Cloud=Chmura
+Coal Block=Blok węgla
+Coal Lump=Bryłka węgla
+Cobblestone=Bruk
+Copper Block=Blok miedzi
+Copper Ingot=Sztabka miedzi
+Copper Lump=Bryłka miedzi
+Brown Coral=Brązowy koral
+Orange Coral=Pomarańczowy koral
+Coral Skeleton=Szkielet koralu
+Desert Cobblestone=Pustynny bruk
+Desert Sand=Pustynny piasek
+Desert Sandstone Block=Pustynny blok piaskowca
+Desert Sandstone Brick=Pustynna cegła piaskowca
+Desert Sandstone=Pustynny piaskowiec
+Desert Stone Block=Pustynny blok kamienia
+Desert Stone Brick=Pustynna kamienna cegła
+Desert Stone=Pustynny kamień
+Diamond Block=Blok diamentu
+Diamond=Diament
+Dirt=Ziemia
+Dirt with Dry Grass=Ziemia z wysuszoną trawą
+Dirt with Grass and Footsteps=Ziemia z trawą i śladami stóp
+Dirt with Grass=Ziemia z trawą
+Dirt with Rainforest Litter=Ziemia ze ściółką lasu deszczowego
+Dirt with Snow=Ziemia ze śniegiem
+Dry Grass=Wysuszona trawa
+Dry Shrub=Wysuszony krzak
+Acacia Wood Fence=Płot akacjowy
+Aspen Wood Fence=Płot osikowy
+Jungle Wood Fence=Płot z drewna dżunglowego
+Pine Wood Fence=Płot sosnowy
+#, fuzzy
+Apple Wood Fence=Płot drewniany
+Flint=Krzemień
+Furnace=Piec
+Glass=Szkło
+Gold Block=Blok złota
+Gold Ingot=Sztabka złota
+Gold Lump=Bryłka złota
+Grass=Trawa
+Gravel=Żwir
+Ice=Lód
+Iron Lump=Bryłka żelaza
+Jungle Grass=Trawa jungli
+#, fuzzy
+Jungle Tree Leaves=Liście dżungli
+#, fuzzy
+Jungle Tree Sapling=Sadzonka dżungli
+Jungle Tree=Drzewo jungli
+#, fuzzy
+Jungle Wood Planks=Deski drzewa dżunglowego
+Key=Klucz
+Steel Ladder=Stalowa drabina
+Wooden Ladder=Drewniana drabina
+Flowing Lava=Płynąca lawa
+Lava Source=Źródło lawy
+Apple Tree Leaves=Liście jabłoni
+Mese Crystal Fragment=Fragment kryształu Mese
+Mese Crystal=Kryształ Mese
+Mese Lamp=Lampa Mese
+Mese Post Light=Lampa uliczna Mese
+Mese Block=Blok Mese
+Mossy Cobblestone=Omszały bruk
+Obsidian Block=Blok obsydianu
+Obsidian Brick=Cegła obsydianowa
+Obsidian Glass=Szkło obsydianowe
+Obsidian Shard=Odłamek obsydianowy
+Obsidian=Obsydian
+Paper=Papier
+Papyrus=Papirus
+Bronze Pickaxe=Brązowy kilof
+Diamond Pickaxe=Diamentowy kilof
+Mese Pickaxe=Mese kilof
+Steel Pickaxe=Stalowy kilof
+Stone Pickaxe=Kamienny kilof
+Wooden Pickaxe=Drewniany kilof
+Pine Needles=Igła sosnowa
+Pine Tree Sapling=Sadzonka sosny
+Pine Tree=Drzewo sosnowe
+Pine Wood Planks=Deski sosnowe
+Flowing River Water=Płynąca woda rzeczna
+River Water Source=Źródło wody rzeczna
+Sand=Piasek
+Sandstone Block=Blok piaskowca
+Sandstone Brick=Cegła z piaskowca
+Sandstone=Piaskowiec
+Apple Tree Sapling=Sadzonka jabłoni
+Bronze Shovel=Brązowa łopata
+Diamond Shovel=Diamentowa łopata
+Mese Shovel=Mese łopata
+Steel Shovel=Stalowa łopata
+Stone Shovel=Kamienna łopata
+Wooden Shovel=Drewniana łopata
+Steel Sign=Stalowy znak
+Wooden Sign=Drewniany znak
+Silver Sand=Srebrny piasek
+Silver Sandstone Block=Blok srebrnego piaskowca
+Silver Sandstone Brick=Cegła srebrnego piaskowca
+Silver Sandstone=Srebrny piaskowiec
+Skeleton Key=Wytrych
+Snow Block=Blok śniegu
+Snow=Śnieg
+Steel Block=Blok stali
+Steel Ingot=Sztabka stali
+Stick=Patyk
+Stone Block=Kamienny blok
+Stone Brick=Kamienna cegła
+Stone=Kamień
+Coal Ore=Ruda węgla
+Copper Ore=Ruda miedzi
+Diamond Ore=Ruda diamentu
+Gold Ore=Ruda złota
+Iron Ore=Ruda żelaza
+Mese Ore=Ruda mese
+Tin Ore=Ruda cyny
+Bronze Sword=Miecz z brązu
+Diamond Sword=Diamentowy miecz
+Mese Sword=Miecz z mese
+Steel Sword=Stalowy miecz
+Stone Sword=Kamienny miecz
+Wooden Sword=Drewniany miecz
+Tin Block=Blok cyny
+Tin Ingot=Sztabka cyny
+Tin Lump=Bryłka cyny
+Torch=Pochodnia
+Apple Tree=Jabłoń
+Flowing Water=Płynąca woda
+Water Source=Źródełko wody
+#, fuzzy
+Apple Wood Planks=Deski drewna jabłoni
+Glass Door=Szklane drzwi
+Obsidian Glass Door=Drzwi ze szkła obsydianowego
+Steel Door=Stalowe drzwi
+Wooden Door=Drewniane drzwi
+Acacia Wood Fence Gate=Akacjowa furtka ogrodzenia
+Aspen Wood Fence Gate=Osikowa furtka ogrodzenia
+Jungle Wood Fence Gate=Dżunglowa furtka ogrodzenia
+Pine Wood Fence Gate=Sosnowa furtka ogrodzenia
+#, fuzzy
+Apple Wood Fence Gate=Drewniana furtka ogrodzenia
+Hidden Door Segment=Ukryta część drzwi
+Wooden Trapdoor=Drewniana zapadnia
+Steel Trapdoor=Stalowa zapadnia
+Black Dye=Czarny barwnik
+Blue Dye=Niebieski barwnik
+Brown Dye=Brązowy barwnik
+Cyan Dye=Turkusowy barwnik
+Dark Green Dye=Ciemnozielony barwnik
+Dark Grey Dye=Ciemnoszary barwnik
+Green Dye=Zielony barwnik
+Grey Dye=Szary barwnik
+Magenta Dye=Purpurowy barwnik
+Orange Dye=Pomarańczowy barwnik
+Pink Dye=Różowy barwnik
+Red Dye=Czerwony barwnik
+Violet Dye=Fioletowy barwnik
+White Dye=Biały barwnik
+Yellow Dye=Żółty barwnik
+Bread=Chleb
+Cotton=Bawełna
+Desert Sand Soil=Gleba pustynnego piasku
+Wet Desert Sand Soil=Mokra gleba pustynnego piasku
+Flour=Mąka
+Bronze Hoe=Motyka z brązu
+Diamond Hoe=Diamentowa motyka
+Mese Hoe=Motyka z mese
+Steel Hoe=Stalowa motyka
+Stone Hoe=Kamienna motyka
+Wooden Hoe=Drewniana motyka
+Cotton Seed=Nasiono bawełny
+Wheat Seed=Ziarno pszenicy
+Soil=Gleba
+Wet Soil=Mokra gleba
+Straw=Źdźbło
+Wheat=Pszenica
+Flint and Steel=Krzemień i stal
+Permanent Flame=Stały płomień
+White Dandelion=Biały mlecz
+Yellow Dandelion=Żółty mlecz
+Blue Geranium=Niebieska pelargonia
+Brown Mushroom=Brązowy grzyb
+Red Mushroom=Muchomor
+Red Rose=Czerwona róża
+Orange Tulip=Pomarańczowy tulipan
+Viola=Fiołek
+Waterlily=Lilia wodna
+Ignore (you hacker you!)=Zignoruj (ty hackerze ty!)
+Screwdriver (left-click rotates face, right-click rotates axis)=Śrubokręt (lewy przycisk obraca ściankę, a prawy przycisk obraca oś)
+Acacia Wood Slab=Akacjowa płyta
+Aspen Wood Slab=Osikowa płyta
+Brick Slab=Ceglana płyta
+Bronze Block Slab=Płyta bloku brązu
+Cobblestone Slab=Brukowa płyta
+Copper Block Slab=Płyta miedzianego bloku
+Desert Cobblestone Slab=Płyta pustynnego bruku
+Desert Sandstone Block Slab=Płyta bloku pustynnego piaskowca
+Desert Sandstone Brick Slab=Ceglana płyta pustynnego piaskowca
+Desert Sandstone Slab=Płyta pustynnego piaskowca
+Desert Stone Block Slab=Płyta bloku pustynnego kamienia
+Desert Stone Brick Slab=Ceglana płyta pustynnego kamienia
+Desert Stone Slab=Płyta pustynnego kamienia
+Gold Block Slab=Płyta złotego bloku
+Ice Slab=Lodowa płyta
+Jungle Wood Slab=Płyta drewna dżunglowego
+Mossy Cobblestone Slab=Płyta omszałego bruku
+Obsidian Block Slab=Płyta bloku obsydianu
+Obsidian Brick Slab=Ceglana obsydianowa płyta
+Obsidian Slab=Obsydianowa płyta
+Pine Wood Slab=Płyta drewna sosnowego
+Sandstone Block Slab=Płyta bloku piaskowca
+Sandstone Brick Slab=Ceglana płyta piaskowca
+Sandstone Slab=Płyta piaskowca
+Silver Sandstone Block Slab=Płyta bloku srebrnego piaskowca
+Silver Sandstone Brick Slab=Ceglana płyta srebrnego piaskowca
+Silver Sandstone Slab=Płyta srebrnego piaskowca
+Snow Block Slab=Płyta śnieżnego bloku
+Steel Block Slab=Płyta stalowego bloku
+Stone Block Slab=Płyta kamiennego bloku
+Stone Brick Slab=Płyta kamiennej cegły
+Stone Slab=Kamienna płyta
+Straw Slab=Płyta źdźbła
+Tin Block Slab=Płyta cynowego bloku
+Wooden Slab=Drewniana płyta
+Acacia Wood Stair=Akacjowe schody
+Aspen Wood Stair=Osikowe schody
+Brick Stair=Ceglane schody
+Bronze Block Stair=Schody bloku z brązu
+Cobblestone Stair=Brukowe schody
+Copper Block Stair=Schody z miedzianego bloku
+Desert Cobblestone Stair=Schody z pustynnego bruku
+Desert Sandstone Block Stair=Schody z bloku pustynnego piaskowca
+Desert Sandstone Brick Stair=Ceglane schody z pustynnego piaskowca
+Desert Sandstone Stair=Schody z pustynnego piaskowca
+Desert Stone Block Stair=Schody z bloku pustynnego kamienia
+Desert Stone Brick Stair=Ceglane schody z pustynnego kamienia
+Desert Stone Stair=Schody z pustynnego kamienia
+Gold Block Stair=Schody z bloku złota
+Ice Stair=Lodowe schody
+#, fuzzy
+Acacia Wood Stair Inner=Akacjowe schody wewnętrzne
+#, fuzzy
+Aspen Wood Stair Inner=Osikowe schody wewnętrzne
+#, fuzzy
+Brick Stair Inner=Ceglane schody wewnętrzne
+#, fuzzy
+Bronze Block Stair Inner=Schody bloku z brązu wewnętrzne
+#, fuzzy
+Cobblestone Stair Inner=Brukowe schody wewnętrzne
+#, fuzzy
+Copper Block Stair Inner=Schody z miedzianego bloku wewnętrzne
+#, fuzzy
+Desert Cobblestone Stair Inner=Schody z pustynnego bruku wewnętrzne
+#, fuzzy
+Desert Sandstone Block Stair Inner=Wewnętrzne schody z bloku pustynnego piaskowca
+#, fuzzy
+Desert Sandstone Brick Stair Inner=Wewnętrzne ceglane schody z pustynnego piaskowca
+#, fuzzy
+Desert Sandstone Stair Inner=Wewnętrzne schody z pustynnego piaskowca
+#, fuzzy
+Desert Stone Block Stair Inner=Wewnętrzne schody z bloku pustynnego kamienia
+#, fuzzy
+Desert Stone Brick Stair Inner=Wewnętrzne ceglane schody z pustynnego kamienia
+#, fuzzy
+Desert Stone Stair Inner=Wewnętrzne schody z pustynnego kamienia
+#, fuzzy
+Gold Block Stair Inner=Wewnętrzne schody z bloku złota
+#, fuzzy
+Ice Stair Inner=Wewnętrzne lodowe schody
+#, fuzzy
+Jungle Wood Stair Inner=Wewnętrzne schody z drewna dżunglowego
+#, fuzzy
+Mossy Cobblestone Stair Inner=Wewnętrzne schody z omszałego bruku
+#, fuzzy
+Obsidian Block Stair Inner=Wewnętrzne schody z obsydianowego bloku
+#, fuzzy
+Obsidian Brick Stair Inner=Wewnętrzne schody z obsydianowej cegły
+#, fuzzy
+Obsidian Stair Inner=Wewnętrzne obsydianowe schody
+#, fuzzy
+Pine Wood Stair Inner=Wewnętrzne sosnowe schody
+#, fuzzy
+Sandstone Block Stair Inner=Wewnętrzne schody z bloku piaskowca
+#, fuzzy
+Sandstone Brick Stair Inner=Wewnętrzne schody z cegły piaskowca
+#, fuzzy
+Sandstone Stair Inner=Wewnętrzne schody z piaskowca
+#, fuzzy
+Silver Sandstone Block Stair Inner=Wewnętrzne schody z bloku srebrnego piaskowca
+#, fuzzy
+Silver Sandstone Brick Stair Inner=Wewnętrzne ceglane schody ze srebrnego piaskowca
+#, fuzzy
+Silver Sandstone Stair Inner=Wewnętrzne schody ze srebrnego piaskowca
+#, fuzzy
+Snow Block Stair Inner=Wewnętrzne schody ze śnieżnego bloku
+#, fuzzy
+Steel Block Stair Inner=Wewnętrzne schody z bloku stali
+#, fuzzy
+Stone Block Stair Inner=Wewnętrzne schody z kamiennego bloku
+#, fuzzy
+Stone Brick Stair Inner=Wewnętrzne ceglane kamienne schody
+#, fuzzy
+Stone Stair Inner=Wewnętrzne kamienne schody
+#, fuzzy
+Straw Stair Inner=Wewnętrzne schody ze źdźbła
+#, fuzzy
+Tin Block Stair Inner=Wewnętrzne schody z cynowego bloku
+#, fuzzy
+Wooden Stair Inner=Wewnętrzne drewniane schody
+Jungle Wood Stair=Schody z drewna dżunglowego
+Mossy Cobblestone Stair=Schody z omszałego bruku
+Obsidian Block Stair=Schody z obsydianowego bloku
+Obsidian Brick Stair=Schody z obsydianowej cegły
+Obsidian Stair=Obsydianowe schody
+#, fuzzy
+Acacia Wood Stair Outer=Zewnętrzne akacjowe schody
+#, fuzzy
+Aspen Wood Stair Outer=Zewnętrzne osikowe schody
+#, fuzzy
+Brick Stair Outer=Zewnętrzne ceglane schody
+#, fuzzy
+Bronze Block Stair Outer=Schody bloku z brązu
+#, fuzzy
+Cobblestone Stair Outer=Brukowe schody
+#, fuzzy
+Copper Block Stair Outer=Schody z miedzianego bloku
+#, fuzzy
+Desert Cobblestone Stair Outer=Schody z pustynnego bruku
+#, fuzzy
+Desert Sandstone Block Stair Outer=Schody z bloku pustynnego piaskowca
+#, fuzzy
+Desert Sandstone Brick Stair Outer=Ceglane schody z pustynnego piaskowca
+#, fuzzy
+Desert Sandstone Stair Outer=Schody z pustynnego piaskowca
+#, fuzzy
+Desert Stone Block Stair Outer=Schody z bloku pustynnego kamienia
+#, fuzzy
+Desert Stone Brick Stair Outer=Ceglane schody z pustynnego kamienia
+#, fuzzy
+Desert Stone Stair Outer=Schody z pustynnego kamienia
+#, fuzzy
+Gold Block Stair Outer=Schody z bloku złota
+#, fuzzy
+Ice Stair Outer=Lodowe schody
+#, fuzzy
+Jungle Wood Stair Outer=Schody z drewna dżunglowego
+#, fuzzy
+Mossy Cobblestone Stair Outer=Schody z omszałego bruku
+#, fuzzy
+Obsidian Block Stair Outer=Schody z obsydianowego bloku
+#, fuzzy
+Obsidian Brick Stair Outer=Schody z obsydianowej cegły
+#, fuzzy
+Obsidian Stair Outer=Obsydianowe schody
+#, fuzzy
+Pine Wood Stair Outer=Sosnowe schody
+#, fuzzy
+Sandstone Block Stair Outer=Schody z bloku piaskowca
+#, fuzzy
+Sandstone Brick Stair Outer=Schody z cegły piaskowca
+#, fuzzy
+Sandstone Stair Outer=Schody z piaskowca
+#, fuzzy
+Silver Sandstone Block Stair Outer=Schody z bloku srebrnego piaskowca
+#, fuzzy
+Silver Sandstone Brick Stair Outer=Schody z cegieł srebrnego piaskowca
+#, fuzzy
+Silver Sandstone Stair Outer=Schody ze srebrnego piaskowca
+#, fuzzy
+Snow Block Stair Outer=Schody ze śnieżnego bloku
+#, fuzzy
+Steel Block Stair Outer=Schody z bloku stali
+#, fuzzy
+Stone Block Stair Outer=Schody z kamiennego bloku
+#, fuzzy
+Stone Brick Stair Outer=Ceglane kamienne schody
+#, fuzzy
+Stone Stair Outer=Kamienne schody
+#, fuzzy
+Straw Stair Outer=Schody ze źdźbła
+#, fuzzy
+Tin Block Stair Outer=Schody z cynowego bloku
+#, fuzzy
+Wooden Stair Outer=Drewniane schody
+Pine Wood Stair=Sosnowe schody
+#, fuzzy
+Sandstone Block Stair=Schody z bloku piaskowca
+#, fuzzy
+Sandstone Brick Stair=Schody z cegły piaskowca
+#, fuzzy
+Sandstone Stair=Schody z piaskowca
+Silver Sandstone Block Stair=Schody z bloku srebrnego piaskowca
+#, fuzzy
+Silver Sandstone Brick Stair=Schody z cegieł srebrnego piaskowca
+Silver Sandstone Stair=Schody ze srebrnego piaskowca
+Snow Block Stair=Schody ze śnieżnego bloku
+Steel Block Stair=Schody z bloku stali
+Stone Block Stair=Schody z kamiennego bloku
+Stone Brick Stair=Ceglane kamienne schody
+Stone Stair=Kamienne schody
+Straw Stair=Schody ze źdźbła
+Tin Block Stair=Schody z cynowego bloku
+Wooden Stair=Drewniane schody
+Gun Powder=Proch
+TNT=Laska dynamitu
+Unknown Item=Nieznany obiekt
+Empty Drinking Glass=Pusta szklanka
+Empty Glass Bottle=Pusta szklana butla
+Glass Fragments=Okruchy szkła
+Vessels Shelf=Półka na naczynia
+Empty Heavy Steel Bottle=Ciężka stalowa butla(pusta)
+Cobblestone Wall=Brukowa ściana
+Desert Cobblestone Wall=Ściana pustynnego bruku
+Mossy Cobblestone Wall=Ściana omszałego bruku
+Black Wool=Czarna wełna
+Blue Wool=Niebieska wełna
+Brown Wool=Brązowa wełna
+Cyan Wool=Turkusowa wełna
+Dark Green Wool=Ciemnozielona wełna
+Dark Grey Wool=Ciemnoszara wełna
+Green Wool=Zielona wełna
+Grey Wool=Szara wełna
+Magenta Wool=Purpurowa wełna
+Orange Wool=Pomarańczowa wełna
+Pink Wool=Różowa wełna
+Red Wool=Czerwona wełna
+Violet Wool=Fioletowa wełna
+White Wool=Biała wełna
+Yellow Wool=Żółta wełna
+Iron Bar=Sztabka żelaza
+Glass Pane=Szklana szyba
+Nyan Cat Rainbow=Tęczowy kot Nyan
+Nyan Cat=Kot Nyan
+#~ Leaves"
+#~ msgstr "Liście"
+#~ Sapling"
+#~ msgstr "Sadzonka"
+#~ Tree"
+#~ msgstr "Drzewo"
+#~ Wooden Planks"
+#~ msgstr "Drewniane deski"
+#~ Trapdoor"
+#~ msgstr "Zapadnia"
+#~ String"
+#~ msgstr "Nić"
+#~ Rose"
+#~ msgstr "Róża"

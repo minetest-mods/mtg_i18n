@@ -1,0 +1,481 @@
+# textdomain: mtg_i18n
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#"Project-Id-Version: PACKAGE VERSION\n"
+#"Report-Msgid-Bugs-To: \n"
+#"POT-Creation-Date: 2018-12-07 22:13+0100\n"
+#"PO-Revision-Date: 2018-05-13 09:37+0000\n"
+#"Last-Translator: huzhanrong <480298199@qq.com>\n"
+#"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+#"minetest/mtg_i18n/zh_Hans/>\n"
+#"Language: zh_Hans\n"
+#"MIME-Version: 1.0\n"
+#"Content-Type: text/plain; charset=UTF-8\n"
+#"Content-Transfer-Encoding: 8bit\n"
+#"Plural-Forms: nplurals=1; plural=0;\n"
+#"X-Generator: Weblate 3.0-dev\n"
+Air (you hacker you!)=空气（黑客啊你！）
+Simple Bed=简单的床
+Fancy Bed=豪华大床
+Boat=船
+Bones=骨头
+Empty Bucket=空桶
+Lava Bucket=熔岩桶
+River Water Bucket=河水桶
+Water Bucket=水桶
+#, fuzzy
+Brake Rail=停止的充能铁轨
+Cart (Sneak+Click to pick up)=矿车（潜行＋点击＝捡起来）
+#, fuzzy
+Powered Rail=加速的充能铁轨
+Rail=铁轨
+Acacia Bush Leaves=相思树叶
+Acacia Bush Sapling=相思树树苗
+Acacia Bush Stem=相思灌木茎
+#, fuzzy
+Acacia Tree Leaves=相思树树叶
+Acacia Tree Sapling=相思树树苗
+Acacia Tree=相思树
+Acacia Wood Planks=金合欢木板
+Apple=苹果
+#, fuzzy
+Aspen Tree Leaves=白杨叶
+Aspen Tree Sapling=白杨树树苗
+Aspen Tree=白杨树
+Aspen Wood Planks=白杨木板
+Bronze Axe=青铜斧
+Diamond Axe=钻石斧
+Mese Axe=美些斧
+Steel Axe=钢斧
+Stone Axe=石斧
+Wooden Axe=木斧
+Book=书
+Bookshelf=书架
+Book With Text=带文本的书籍
+Brick Block=砖块
+Bronze Block=青铜块
+Bronze Ingot=青铜锭
+Bush Leaves=布什树叶
+Bush Sapling=灌木树苗
+Bush Stem=灌木茎
+Cactus=仙人掌
+Locked Chest=锁上的箱子
+Chest=胸
+Clay Brick=粘土砖
+Clay Lump=粘土块
+Clay=粘土
+Cloud=云
+Coal Block=煤炭块
+Coal Lump=煤炭
+Cobblestone=鹅卵石
+Copper Block=铜块
+Copper Ingot=铜锭
+Copper Lump=铜块
+Brown Coral=棕色珊瑚
+Orange Coral=橙色珊瑚
+Coral Skeleton=珊瑚骨架
+Desert Cobblestone=沙漠鹅卵石
+Desert Sand=沙尘
+Desert Sandstone Block=沙漠砂岩块
+Desert Sandstone Brick=沙漠砂岩砖
+Desert Sandstone=沙漠砂岩
+Desert Stone Block=沙漠石块
+Desert Stone Brick=沙漠石砖
+Desert Stone=沙漠石
+Diamond Block=钻石块
+Diamond=钻石
+Dirt=土
+Dirt with Dry Grass=干草土
+Dirt with Grass and Footsteps=草和足迹的泥土
+Dirt with Grass=草坪
+Dirt with Rainforest Litter=雨林垃圾的污垢
+Dirt with Snow=被雪覆盖的土
+Dry Grass=干草
+Dry Shrub=干灌木
+#, fuzzy
+Acacia Wood Fence=相思篱笆
+#, fuzzy
+Aspen Wood Fence=白杨围栏
+#, fuzzy
+Jungle Wood Fence=丛林木栅栏
+#, fuzzy
+Pine Wood Fence=松木围栏
+#, fuzzy
+Apple Wood Fence=原木栅栏
+Flint=燧 石
+Furnace=熔炉
+Glass=草
+Gold Block=金块
+Gold Ingot=金锭
+Gold Lump=金粒
+Grass=草
+Gravel=碎石
+Ice=冰
+Iron Lump=铁粒
+Jungle Grass=丛林草
+#, fuzzy
+Jungle Tree Leaves=丛林树叶
+#, fuzzy
+Jungle Tree Sapling=丛林树苗
+Jungle Tree=丛林树
+#, fuzzy
+Jungle Wood Planks=丛林木板
+Key=钥匙
+Steel Ladder=钢梯子
+Wooden Ladder=梯子
+Flowing Lava=流动的熔岩
+Lava Source=熔岩源
+#, fuzzy
+Apple Tree Leaves=白杨叶
+Mese Crystal Fragment=美些晶片
+Mese Crystal=美些水晶
+Mese Lamp=美些灯
+Mese Post Light=美些灯柱
+Mese Block=美些块
+Mossy Cobblestone=被苔藓覆盖的鹅卵石
+Obsidian Block=黑曜石块
+Obsidian Brick=黑曜砖
+Obsidian Glass=黑曜玻璃
+Obsidian Shard=黑曜石碎片
+Obsidian=曜
+Paper=纸
+Papyrus=莎草纸
+Bronze Pickaxe=青铜镐
+Diamond Pickaxe=钻石镐
+Mese Pickaxe=美些镐
+Steel Pickaxe=钢镐
+Stone Pickaxe=石镐
+Wooden Pickaxe=木镐
+Pine Needles=松针
+#, fuzzy
+Pine Tree Sapling=松树树苗
+Pine Tree=松树
+Pine Wood Planks=松木板
+Flowing River Water=流动的河水
+River Water Source=河水源
+Sand=沙子
+Sandstone Block=砂石镐
+Sandstone Brick=砂石砖
+Sandstone=砂石
+#, fuzzy
+Apple Tree Sapling=白杨树树苗
+Bronze Shovel=青铜锹
+Diamond Shovel=钻石锹
+Mese Shovel=美些锹
+Steel Shovel=钢锹
+Stone Shovel=石铲
+Wooden Shovel=木锹
+Steel Sign=钢告示牌
+Wooden Sign=告示牌
+Silver Sand=银色的沙子
+Silver Sandstone Block=银色砂岩块
+Silver Sandstone Brick=银砂岩砖
+Silver Sandstone=银砂岩
+Skeleton Key=骨架键
+Snow Block=雪块
+Snow=雪
+Steel Block=钢块
+Steel Ingot=钢锭
+Stick=粘
+Stone Block=石块
+Stone Brick=石砖
+Stone=石头
+Coal Ore=煤矿石
+Copper Ore=铜矿
+Diamond Ore=钻石矿石
+Gold Ore=金矿石
+Iron Ore=铁矿石
+Mese Ore=美些矿石
+Tin Ore=锡矿石
+Bronze Sword=青铜剑
+Diamond Sword=钻石剑
+Mese Sword=美些剑
+Steel Sword=钢剑
+Stone Sword=石剑
+Wooden Sword=木剑
+Tin Block=锡块
+Tin Ingot=锡锭
+Tin Lump=锡块
+Torch=火把
+#, fuzzy
+Apple Tree=白杨树
+Flowing Water=流动的水
+Water Source=水源
+#, fuzzy
+Apple Wood Planks=白杨木板
+Glass Door=玻璃门
+Obsidian Glass Door=黑曜玻璃门
+Steel Door=钢门
+Wooden Door=木门
+#, fuzzy
+Acacia Wood Fence Gate=洋槐围栏门
+#, fuzzy
+Aspen Wood Fence Gate=白杨围栏门
+#, fuzzy
+Jungle Wood Fence Gate=丛林木栅栏门
+#, fuzzy
+Pine Wood Fence Gate=松木围栏门
+#, fuzzy
+Apple Wood Fence Gate=栅栏门
+Hidden Door Segment=隐藏的门块
+#, fuzzy
+Wooden Trapdoor=木门
+Steel Trapdoor=钢活板门
+#, fuzzy
+Black Dye=黑色染料
+#, fuzzy
+Blue Dye=蓝色染料
+#, fuzzy
+Brown Dye=棕色染料
+#, fuzzy
+Cyan Dye=青色染料
+#, fuzzy
+Dark Green Dye=深绿色染料
+#, fuzzy
+Dark Grey Dye=深灰色染料
+#, fuzzy
+Green Dye=绿色染料
+#, fuzzy
+Grey Dye=灰色染料
+#, fuzzy
+Magenta Dye=洋红染料
+#, fuzzy
+Orange Dye=橙色染料
+#, fuzzy
+Pink Dye=粉红色染料
+#, fuzzy
+Red Dye=红色染料
+#, fuzzy
+Violet Dye=蓝紫色染料
+#, fuzzy
+White Dye=白色染料
+#, fuzzy
+Yellow Dye=黄色染料
+Bread=面包
+Cotton=棉花
+Desert Sand Soil=沙漠砂土
+Wet Desert Sand Soil=湿沙漠砂土
+Flour=面粉
+Bronze Hoe=青铜锄
+Diamond Hoe=钻石锄
+Mese Hoe=美些锄
+Steel Hoe=钢锄
+Stone Hoe=石锄
+Wooden Hoe=木锄
+#, fuzzy
+Cotton Seed=棉花籽
+#, fuzzy
+Wheat Seed=小麦种子
+Soil=土壤
+Wet Soil=湿土
+Straw=秸秆
+Wheat=小麦
+Flint and Steel=打火石
+Permanent Flame=不灭之火
+#, fuzzy
+White Dandelion=白蒲公英
+Yellow Dandelion=黄色蒲公英
+Blue Geranium=蓝天竺葵
+Brown Mushroom=棕菇
+Red Mushroom=红蘑菇
+#, fuzzy
+Red Rose=红色染料
+Orange Tulip=橙色郁金香
+Viola=三色紫罗兰
+Waterlily=睡莲
+Ignore (you hacker you!)=忽略 (你黑客!)
+Screwdriver (left-click rotates face, right-click rotates axis)=螺丝刀 (左击旋转面, 右键单击旋转轴)
+Acacia Wood Slab=金合欢木台阶
+Aspen Wood Slab=白杨木台阶
+Brick Slab=砖板
+Bronze Block Slab=青铜块台阶
+Cobblestone Slab=鹅卵石板
+Copper Block Slab=铜块板
+Desert Cobblestone Slab=沙漠鹅卵石板
+Desert Sandstone Block Slab=沙漠砂岩块板
+Desert Sandstone Brick Slab=沙漠砂岩块板
+Desert Sandstone Slab=沙漠砂岩板
+Desert Stone Block Slab=沙漠石块板
+Desert Stone Brick Slab=沙漠石砖板
+Desert Stone Slab=沙漠石板
+Gold Block Slab=金块台阶
+Ice Slab=冰板
+Jungle Wood Slab=丛林木台阶
+Mossy Cobblestone Slab=苔藓鹅卵石板
+Obsidian Block Slab=黑曜石块板
+Obsidian Brick Slab=黑曜石砖板
+Obsidian Slab=黑曜石板
+Pine Wood Slab=松木台阶
+Sandstone Block Slab=砂岩板
+Sandstone Brick Slab=砂岩砖板
+Sandstone Slab=砂岩板
+Silver Sandstone Block Slab=银砂岩块板
+Silver Sandstone Brick Slab=银砂岩块板
+Silver Sandstone Slab=银砂岩板
+Snow Block Slab=雪块板
+Steel Block Slab=钢块台阶
+Stone Block Slab=石块板
+Stone Brick Slab=石砖板
+Stone Slab=石板
+Straw Slab=稻草板
+Tin Block Slab=用锡块制成的板
+Wooden Slab=原木台阶
+Acacia Wood Stair=金合欢木楼梯
+Aspen Wood Stair=白杨木楼梯
+Brick Stair=砖制台阶
+Bronze Block Stair=青铜块楼梯
+Cobblestone Stair=鹅卵石台阶
+Copper Block Stair=铜块台阶
+Desert Cobblestone Stair=沙漠鹅卵石台阶
+Desert Sandstone Block Stair=沙漠砂岩块台阶
+Desert Sandstone Brick Stair=沙漠砂岩块台阶
+Desert Sandstone Stair=沙漠砂岩台阶
+Desert Stone Block Stair=沙漠砂岩块台阶
+Desert Stone Brick Stair=沙漠砂岩块台阶
+Desert Stone Stair=沙漠石台阶
+Gold Block Stair=金块楼梯
+Ice Stair=冰制台阶
+Acacia Wood Stair Inner=隐藏的金合欢木台阶
+Aspen Wood Stair Inner=隐藏的白杨木台阶
+Brick Stair Inner=隐藏的砖制台阶
+Bronze Block Stair Inner=青铜块楼梯内
+Cobblestone Stair Inner=鹅卵石台阶内
+Copper Block Stair Inner=隐藏的青铜块楼梯
+Desert Cobblestone Stair Inner=隐藏的沙漠鹅卵石台阶
+Desert Sandstone Block Stair Inner=隐藏的沙漠砂岩块台阶
+Desert Sandstone Brick Stair Inner=隐藏的沙漠砂岩砖台阶
+Desert Sandstone Stair Inner=隐藏的沙漠砂岩台阶
+Desert Stone Block Stair Inner=隐藏的沙漠石块台阶
+Desert Stone Brick Stair Inner=隐藏的石砖台阶
+Desert Stone Stair Inner=隐藏的沙漠石制台阶
+Gold Block Stair Inner=隐藏的金块台阶
+Ice Stair Inner=隐藏的冰台阶
+Jungle Wood Stair Inner=隐藏的丛林木台阶
+Mossy Cobblestone Stair Inner=隐藏的被苔藓覆盖的鹅卵石台阶
+Obsidian Block Stair Inner=隐藏的黑曜石块台阶
+Obsidian Brick Stair Inner=隐藏的黑曜砖台阶
+Obsidian Stair Inner=隐藏的黑曜石制台阶
+Pine Wood Stair Inner=隐藏的松树木台阶
+Sandstone Block Stair Inner=隐藏的钢块台阶
+Sandstone Brick Stair Inner=隐藏的砂岩砖制台阶
+Sandstone Stair Inner=隐藏的砂岩制台阶
+Silver Sandstone Block Stair Inner=隐藏的银砂岩块台阶
+Silver Sandstone Brick Stair Inner=隐藏的银砂岩砖台阶
+Silver Sandstone Stair Inner=隐藏的银砂岩制台阶
+Snow Block Stair Inner=隐藏的金块台阶
+Steel Block Stair Inner=隐藏的钢块台阶
+Stone Block Stair Inner=隐藏的石块台阶
+Stone Brick Stair Inner=隐藏的石砖制台阶
+Stone Stair Inner=隐藏的石制台阶
+Straw Stair Inner=隐藏的稻草台阶
+Tin Block Stair Inner=隐藏的青铜块台阶
+Wooden Stair Inner=隐藏的原木台阶
+Jungle Wood Stair=丛林木楼梯
+Mossy Cobblestone Stair=被苔藓覆盖的鹅卵石楼梯
+Obsidian Block Stair=黑曜石块台阶
+Obsidian Brick Stair=黑曜砖台阶
+Obsidian Stair=黑曜石台阶
+Acacia Wood Stair Outer=金合欢木台阶的表面
+Aspen Wood Stair Outer=白杨木台阶表面
+Brick Stair Outer=砖制台阶表面
+Bronze Block Stair Outer=青铜块楼梯表面
+Cobblestone Stair Outer=鹅卵石楼梯表面
+Copper Block Stair Outer=青铜块楼梯表面
+Desert Cobblestone Stair Outer=沙漠鹅卵石楼梯表面
+Desert Sandstone Block Stair Outer=沙漠砂岩块楼梯表面
+Desert Sandstone Brick Stair Outer=沙漠砂岩砖台阶表面
+Desert Sandstone Stair Outer=沙漠砂岩台阶表面
+Desert Stone Block Stair Outer=沙漠石块台阶表面
+Desert Stone Brick Stair Outer=沙漠石砖制楼梯表面
+Desert Stone Stair Outer=沙漠石制楼梯表面
+Gold Block Stair Outer=金块楼梯表面
+Ice Stair Outer=冰楼梯表面
+Jungle Wood Stair Outer=丛林木表面
+Mossy Cobblestone Stair Outer=被苔藓覆盖的鹅卵石楼梯表面
+Obsidian Block Stair Outer=黑曜石砌块楼梯表面
+Obsidian Brick Stair Outer=黑曜石砖楼梯表面
+Obsidian Stair Outer=黑曜石楼梯表面
+Pine Wood Stair Outer=松树木楼梯的外部
+Sandstone Block Stair Outer=砂石块楼梯外
+Sandstone Brick Stair Outer=砂石砖楼梯外
+Sandstone Stair Outer=砂石楼梯外
+Silver Sandstone Block Stair Outer=银砂岩块楼梯外
+Silver Sandstone Brick Stair Outer=银砂石砖楼梯外
+Silver Sandstone Stair Outer=银色砂岩台阶外部
+Snow Block Stair Outer=雪块台阶外部
+Steel Block Stair Outer=钢块楼梯外部
+Stone Block Stair Outer=石块楼梯外部
+Stone Brick Stair Outer=石砖楼梯外部
+Stone Stair Outer=石制楼梯外部
+Straw Stair Outer=稻草楼梯外部
+Tin Block Stair Outer=锡块楼梯外部
+Wooden Stair Outer=木楼梯外部
+Pine Wood Stair=松木楼梯
+Sandstone Block Stair=砂岩块台阶
+Sandstone Brick Stair=砂岩砖台阶
+Sandstone Stair=砂岩制台阶
+Silver Sandstone Block Stair=银色砂岩块台阶
+Silver Sandstone Brick Stair=银色砂岩砖台阶
+Silver Sandstone Stair=银色砂岩台阶
+Snow Block Stair=雪块楼梯
+Steel Block Stair=钢块楼梯
+Stone Block Stair=石块楼梯
+Stone Brick Stair=石砖台阶
+Stone Stair=石台阶
+Straw Stair=稻草台阶
+Tin Block Stair=用锡块制成的台阶
+Wooden Stair=原木楼梯
+Gun Powder=火药
+TNT=黄色炸药
+Unknown Item=未知物品
+#, fuzzy
+Empty Drinking Glass=玻璃杯（空）
+#, fuzzy
+Empty Glass Bottle=玻璃瓶 (空)
+#, fuzzy
+Glass Fragments=玻璃碎片堆
+Vessels Shelf=容器架
+#, fuzzy
+Empty Heavy Steel Bottle=重钢瓶（空）
+Cobblestone Wall=鹅卵石墙
+Desert Cobblestone Wall=沙漠鹅卵石墙
+Mossy Cobblestone Wall=被苔藓覆盖的鹅卵石墙
+Black Wool=黑羊毛
+Blue Wool=蓝色羊毛
+Brown Wool=棕羊毛
+Cyan Wool=青色羊毛
+Dark Green Wool=深绿色羊毛
+Dark Grey Wool=深灰色羊毛
+Green Wool=绿色羊毛
+Grey Wool=灰色羊毛
+Magenta Wool=洋红色羊毛
+Orange Wool=橙色羊毛
+Pink Wool=粉红色羊毛
+Red Wool=红羊毛
+Violet Wool=蓝紫色羊毛
+White Wool=白色羊毛
+Yellow Wool=黄色羊毛
+#, fuzzy
+Iron Bar=铁栏杆
+Glass Pane=玻璃窗格
+Nyan Cat Rainbow=
+五彩缤纷的\n
+彩虹猫
+Nyan Cat=彩虹猫
+#~ Leaves"
+#~ msgstr "树叶"
+#~ Sapling"
+#~ msgstr "树苗"
+#~ Tree"
+#~ msgstr "树"
+#~ Wooden Planks"
+#~ msgstr "原木板"
+#~ Trapdoor"
+#~ msgstr "活板门"
+#~ String"
+#~ msgstr "字符串"
+#~ Rose"
+#~ msgstr "玫瑰"
