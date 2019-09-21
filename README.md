@@ -1,9 +1,9 @@
 # Minetest Game Internationalization Mod
-MTG 5.0.1 (2017-08-28), License: MIT (code), CC 0 (translations)
+MTG 5.0.1-stable , License: MIT (code), CC 0 (translations)
 
 ## Description
-A Minetest mod adding translations to the default game of Minetest. You just have enable both in your world and all item
-descriptions will be translated into your system's language (or language set in your Minetest
+A Minetest mod adding translations to the default game of Minetest. You just have enable both in your world and all item.
+Descriptions will be translated into your system's language (or language set in your Minetest
 settings), but of course only as long your language is supported.
 
 ## Help Translating
