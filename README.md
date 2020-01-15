@@ -1,3 +1,5 @@
+# __*This mod is obsolete. Please use the official Minetest Game translations added in Minetest 5.0*__
+
 # Minetest Game Internationalization Mod
 MTG 0.5.0-dev (2017-08-28), License: MIT (code), CC 0 (translations)
 
