@@ -1,7 +1,8 @@
-# __*This mod is obsolete. Please use the official Minetest Game translations added in Minetest 5.0*__
-
 # Minetest Game Internationalization Mod
-MTG 0.5.0-dev (2017-08-28), License: MIT (code), CC 0 (translations)
+MTG 5.2.2 (2020-05-17), License: MIT (code), CC 0 (translations)
+
+### The official Minetest Game translations added in Minetest 5.2.2 are buggy!
+
 
 ## Description
 A Minetest mod adding translations to the default game of Minetest. You just have to install the
@@ -33,6 +34,8 @@ a pull request on this repo on [GitHub](https://github.com/minetest-mods/mtg_i18
  * Japanese (~45%)
  * Malay (~80%)
  * Polish (~80%)
+ * Portuguese (99.9%)
+ * Portuguese - Brasilian (99.9%)
  * Russian (~50%)
  * Serbian (~25%)
  * Spanish (~80%)
