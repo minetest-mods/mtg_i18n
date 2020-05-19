@@ -1,8 +1,7 @@
 # Minetest Game Internationalization Mod
 MTG 5.2.2 (2020-05-17), License: MIT (code), CC 0 (translations)
 
-### The official Minetest Game translations added in Minetest 5.2.2 are buggy!
-
+### There are official Minetest Game translations since MT 5.0.0, you should consider using them. However, sometimes the official translations seem to be buggy, so if you want to you can of course still use this mod.
 
 ## Description
 A Minetest mod adding translations to the default game of Minetest. You just have to install the
